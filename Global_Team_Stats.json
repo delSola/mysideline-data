@@ -1551,7 +1551,7 @@
           "home": false,
           "date": "2026-01-12T20:00Z",
           "time": "2026-01-12T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2413,7 +2413,7 @@
           "home": true,
           "date": "2026-01-12T20:00Z",
           "time": "2026-01-12T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2801,12 +2801,12 @@
       "TeamName": "Cagliari",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 4,
         "draws": 7,
-        "losses": 8,
+        "losses": 9,
         "points": 19,
         "last5": [
           {
@@ -2845,7 +2845,7 @@
           "home": false,
           "date": "2026-01-12T17:30Z",
           "time": "2026-01-12T17:30Z",
-          "status": "live"
+          "status": "done"
         }
       },
       "PlayerStats": {
@@ -3088,13 +3088,13 @@
       "TeamName": "Genoa",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 17,
+        "position": 15,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 3,
+        "played": 20,
+        "wins": 4,
         "draws": 7,
         "losses": 9,
-        "points": 16,
+        "points": 19,
         "last5": [
           {
             "result": "D",
@@ -3132,7 +3132,7 @@
           "home": true,
           "date": "2026-01-12T17:30Z",
           "time": "2026-01-12T17:30Z",
-          "status": "live"
+          "status": "done"
         }
       },
       "PlayerStats": {
@@ -3347,7 +3347,7 @@
           "home": true,
           "date": "2026-01-12T19:45Z",
           "time": "2026-01-12T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3447,7 +3447,7 @@
       "TeamName": "Lecce",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 17,
         "positionSuffix": "th",
         "played": 19,
         "wins": 4,
@@ -5075,7 +5075,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Vitinha"
+            "player": "Vitinha "
           },
           "yellowCards": {
             "value": 3,
@@ -9852,7 +9852,7 @@
           "home": false,
           "date": "2026-01-12T19:45Z",
           "time": "2026-01-12T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10376,7 +10376,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Otavio"
+            "player": "Otavio "
           }
         }
       }
