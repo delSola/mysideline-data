@@ -1063,7 +1063,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Neco Williams"
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -12521,7 +12521,7 @@
         "leaders": {
           "passingYards": {
             "value": 3011.0,
-            "player": ""
+            "player": "Bryce Young"
           },
           "rushingYards": {
             "value": 1076.0,
