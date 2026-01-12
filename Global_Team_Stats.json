@@ -1689,13 +1689,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Girona",
-          "home": true,
-          "date": "2026-01-16T20:00Z",
-          "time": "2026-01-16T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4652,7 +4646,7 @@
           },
           "assists": {
             "value": 6,
-            "player": ""
+            "player": "Andrej Ilic"
           },
           "yellowCards": {
             "value": 6,
@@ -12804,13 +12798,13 @@
           {
             "result": "L",
             "opponent": "Cairns Taipans",
-            "score": "16-32",
+            "score": "66-74",
             "home": false
           },
           {
             "result": "L",
             "opponent": "Cairns Taipans",
-            "score": "16-32",
+            "score": "66-74",
             "home": false
           }
         ],
@@ -12879,13 +12873,13 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "32-16",
+            "score": "74-66",
             "home": true
           },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "32-16",
+            "score": "74-66",
             "home": true
           }
         ],
