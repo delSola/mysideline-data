@@ -1,0 +1,1784 @@
+{
+  "teams": [
+    {
+      "Sport": "Basketball",
+      "TeamName": "Atlanta Hawks",
+      "City": "Atlanta",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#E03A3E",
+      "id": "1",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/1.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Boston Celtics",
+      "City": "Boston",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#007A33",
+      "id": "2",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/2.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "New Orleans Pelicans",
+      "City": "New Orleans",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#0C2340",
+      "id": "3",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/3.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Chicago Bulls",
+      "City": "Chicago",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#CE1141",
+      "id": "4",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/4.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Cleveland Cavaliers",
+      "City": "Cleveland",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#860038",
+      "id": "5",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/5.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Dallas Mavericks",
+      "City": "Dallas",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#00538C",
+      "id": "6",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/6.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Denver Nuggets",
+      "City": "Denver",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#0E2240",
+      "id": "7",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/7.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Detroit Pistons",
+      "City": "Detroit",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#C8102E",
+      "id": "8",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/8.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Golden State Warriors",
+      "City": "Golden State",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#1D428A",
+      "id": "9",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/9.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Houston Rockets",
+      "City": "Houston",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#CE1141",
+      "id": "10",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/10.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Indiana Pacers",
+      "City": "Indiana",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#002D62",
+      "id": "11",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/11.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "LA Clippers",
+      "City": "LA",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "",
+      "id": "12",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/12.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Los Angeles Lakers",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#552583",
+      "id": "13",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/13.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Miami Heat",
+      "City": "Miami",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#98002E",
+      "id": "14",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/14.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Milwaukee Bucks",
+      "City": "Milwaukee",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#00471B",
+      "id": "15",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/15.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Minnesota Timberwolves",
+      "City": "Minnesota",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#0C2340",
+      "id": "16",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/16.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Brooklyn Nets",
+      "City": "Brooklyn",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#000000",
+      "id": "17",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/17.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "New York Knicks",
+      "City": "New York",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#006BB6",
+      "id": "18",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/18.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Orlando Magic",
+      "City": "Orlando",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#0077C0",
+      "id": "19",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/19.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Philadelphia 76ers",
+      "City": "Philadelphia",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#006BB6",
+      "id": "20",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/20.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Phoenix Suns",
+      "City": "Phoenix",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#1D1160",
+      "id": "21",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/21.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Portland Trail Blazers",
+      "City": "Portland",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#E03A3E",
+      "id": "22",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/22.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Sacramento Kings",
+      "City": "Sacramento",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#5A2D81",
+      "id": "23",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/23.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "San Antonio Spurs",
+      "City": "San Antonio",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#C4CED4",
+      "id": "24",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/24.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Oklahoma City Thunder",
+      "City": "Oklahoma City",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#007AC1",
+      "id": "25",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/25.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Utah Jazz",
+      "City": "Utah",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#002B5C",
+      "id": "26",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/26.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Washington Wizards",
+      "City": "Washington",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#002B5C",
+      "id": "27",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/27.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Toronto Raptors",
+      "City": "Toronto",
+      "Country": "Canada",
+      "League": "NBA",
+      "Colour": "#CE1141",
+      "id": "28",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/28.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Memphis Grizzlies",
+      "City": "Memphis",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#5D76A9",
+      "id": "29",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/29.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Charlotte Hornets",
+      "City": "Charlotte",
+      "Country": "USA",
+      "League": "NBA",
+      "Colour": "#1D1160",
+      "id": "30",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/30.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Atlanta Falcons",
+      "City": "Atlanta",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#A71930",
+      "id": "1",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/1.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Buffalo Bills",
+      "City": "Buffalo",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#00338D",
+      "id": "2",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/2.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Chicago Bears",
+      "City": "Chicago",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0B162A",
+      "id": "3",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/3.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Cincinnati Bengals",
+      "City": "Cincinnati",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#FB4F14",
+      "id": "4",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/4.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Cleveland Browns",
+      "City": "Cleveland",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#311D00",
+      "id": "5",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/5.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Dallas Cowboys",
+      "City": "Dallas",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#003594",
+      "id": "6",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/6.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Denver Broncos",
+      "City": "Denver",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#FB4F14",
+      "id": "7",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/7.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Detroit Lions",
+      "City": "Detroit",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0076B6",
+      "id": "8",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/8.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Green Bay Packers",
+      "City": "Green Bay",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#203731",
+      "id": "9",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/9.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Tennessee Titans",
+      "City": "Tennessee",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0C2340",
+      "id": "10",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/10.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Indianapolis Colts",
+      "City": "Indianapolis",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#002C5F",
+      "id": "11",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/11.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Kansas City Chiefs",
+      "City": "Kansas City",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#E31837",
+      "id": "12",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/12.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Las Vegas Raiders",
+      "City": "Las Vegas",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#000000",
+      "id": "13",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/13.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Los Angeles Rams",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#003594",
+      "id": "14",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/14.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Miami Dolphins",
+      "City": "Miami",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#008E97",
+      "id": "15",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/15.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Minnesota Vikings",
+      "City": "Minnesota",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#4F2683",
+      "id": "16",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/16.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "New England Patriots",
+      "City": "New England",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#002244",
+      "id": "17",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/17.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "New Orleans Saints",
+      "City": "New Orleans",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#D3BC8D",
+      "id": "18",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/18.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "New York Giants",
+      "City": "New York",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0B2265",
+      "id": "19",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/19.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "New York Jets",
+      "City": "New York",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#125740",
+      "id": "20",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/20.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Philadelphia Eagles",
+      "City": "Philadelphia",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#004C54",
+      "id": "21",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/21.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Arizona Cardinals",
+      "City": "Arizona",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#97233F",
+      "id": "22",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/22.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Pittsburgh Steelers",
+      "City": "Pittsburgh",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#FFB612",
+      "id": "23",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/23.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Los Angeles Chargers",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0080C6",
+      "id": "24",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/24.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "San Francisco 49ers",
+      "City": "San Francisco",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#AA0000",
+      "id": "25",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/25.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Seattle Seahawks",
+      "City": "Seattle",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#002244",
+      "id": "26",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/26.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Tampa Bay Buccaneers",
+      "City": "Tampa Bay",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#D50A0A",
+      "id": "27",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/27.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Washington Commanders",
+      "City": "Washington",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#5A1414",
+      "id": "28",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/28.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Carolina Panthers",
+      "City": "Carolina",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#0085CA",
+      "id": "29",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/29.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Jacksonville Jaguars",
+      "City": "Jacksonville",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#006778",
+      "id": "30",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/30.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Baltimore Ravens",
+      "City": "Baltimore",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#241773",
+      "id": "33",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/33.png&h=200&w=200"
+    },
+    {
+      "Sport": "Football",
+      "TeamName": "Houston Texans",
+      "City": "Houston",
+      "Country": "USA",
+      "League": "NFL",
+      "Colour": "#03202F",
+      "id": "34",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/34.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "FC Cologne",
+      "City": "FC Cologne",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "122",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/122.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Borussia Dortmund",
+      "City": "Borussia Dortmund",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#FDE100",
+      "id": "124",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/124.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Eintracht Frankfurt",
+      "City": "Eintracht Frankfurt",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#E1000F",
+      "id": "125",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/125.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "SC Freiburg",
+      "City": "SC Freiburg",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#E2001A",
+      "id": "126",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/126.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Hamburg SV",
+      "City": "Hamburg SV",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "127",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/127.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Bayer Leverkusen",
+      "City": "Bayer Leverkusen",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#E32221",
+      "id": "131",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/131.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Bayern Munich",
+      "City": "Bayern Munich",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#DC052D",
+      "id": "132",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "VfB Stuttgart",
+      "City": "VfB Stuttgart",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#E32219",
+      "id": "134",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/134.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Werder Bremen",
+      "City": "Werder Bremen",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#1D9053",
+      "id": "137",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/137.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "VfL Wolfsburg",
+      "City": "VfL Wolfsburg",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "138",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/138.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Borussia M\u00f6nchengladbach",
+      "City": "Borussia M\u00f6nchengladbach",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#000000",
+      "id": "268",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/268.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "St. Pauli",
+      "City": "St. Pauli",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "270",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/270.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "1. FC Union Berlin",
+      "City": "1. FC Union Berlin",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#EB1923",
+      "id": "598",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/598.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Mainz",
+      "City": "Mainz",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "2950",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2950.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "FC Augsburg",
+      "City": "FC Augsburg",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#BA3733",
+      "id": "3841",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3841.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "1. FC Heidenheim 1846",
+      "City": "1. FC Heidenheim 1846",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "",
+      "id": "6418",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6418.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "TSG Hoffenheim",
+      "City": "TSG Hoffenheim",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#1961B5",
+      "id": "7911",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7911.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "RB Leipzig",
+      "City": "RB Leipzig",
+      "Country": "Germany",
+      "League": "Bundesliga",
+      "Colour": "#DD0741",
+      "id": "11420",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11420.png&h=200&w=200"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Chennai Super Kings",
+      "City": "Chennai",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#FFFF3C",
+      "id": "csk",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Delhi Capitals",
+      "City": "Delhi",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#00008B",
+      "id": "dc",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Gujarat Titans",
+      "City": "Gujarat",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#1B2133",
+      "id": "gt",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Gujarat_Titans_Logo.svg/1200px-Gujarat_Titans_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Kolkata Knight Riders",
+      "City": "Kolkata",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#3A225D",
+      "id": "kkr",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Lucknow Super Giants",
+      "City": "Lucknow",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#005DA0",
+      "id": "lsg",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Lucknow_Super_Giants_IPL_Logo.svg/1200px-Lucknow_Super_Giants_IPL_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Mumbai Indians",
+      "City": "Mumbai",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#004BA0",
+      "id": "mi",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Punjab Kings",
+      "City": "Mohali",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#DD1F2D",
+      "id": "pbks",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Rajasthan Royals",
+      "City": "Jaipur",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#EA1A85",
+      "id": "rr",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Royal Challengers Bengaluru",
+      "City": "Bengaluru",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#2B2A29",
+      "id": "rcb",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png"
+    },
+    {
+      "Sport": "Cricket",
+      "TeamName": "Sunrisers Hyderabad",
+      "City": "Hyderabad",
+      "Country": "India",
+      "League": "IPL",
+      "Colour": "#F7A721",
+      "id": "srh",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Barcelona",
+      "City": "Barcelona",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#A50044",
+      "id": "83",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Mallorca",
+      "City": "Mallorca",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#E20613",
+      "id": "84",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/84.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Celta Vigo",
+      "City": "Celta Vigo",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#8AC3EE",
+      "id": "85",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/85.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Real Madrid",
+      "City": "Real Madrid",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#FEBE10",
+      "id": "86",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Espanyol",
+      "City": "Espanyol",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#007FC8",
+      "id": "88",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/88.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Real Sociedad",
+      "City": "Real Sociedad",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#143C8B",
+      "id": "89",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/89.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Real Oviedo",
+      "City": "Real Oviedo",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "",
+      "id": "92",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/92.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Athletic Club",
+      "City": "Athletic Club",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "",
+      "id": "93",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/93.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Valencia",
+      "City": "Valencia",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#EE3524",
+      "id": "94",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/94.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Alav\u00e9s",
+      "City": "Alav\u00e9s",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "",
+      "id": "96",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/96.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Osasuna",
+      "City": "Osasuna",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#D91A21",
+      "id": "97",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/97.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Rayo Vallecano",
+      "City": "Rayo Vallecano",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#E53027",
+      "id": "101",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/101.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Villarreal",
+      "City": "Villarreal",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#FFE114",
+      "id": "102",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/102.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Sevilla",
+      "City": "Sevilla",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#D4011D",
+      "id": "243",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/243.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Real Betis",
+      "City": "Real Betis",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#00954C",
+      "id": "244",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/244.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Atl\u00e9tico Madrid",
+      "City": "Atl\u00e9tico Madrid",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#CB3524",
+      "id": "1068",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Levante",
+      "City": "Levante",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "",
+      "id": "1538",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1538.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Getafe",
+      "City": "Getafe",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#005999",
+      "id": "2922",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2922.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Elche",
+      "City": "Elche",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "",
+      "id": "3751",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3751.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Girona",
+      "City": "Girona",
+      "Country": "Spain",
+      "League": "La Liga",
+      "Colour": "#CD2534",
+      "id": "9812",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9812.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Paris Saint-Germain",
+      "City": "Paris Saint-Germain",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#004170",
+      "id": "160",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Nantes",
+      "City": "Nantes",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#FFEF00",
+      "id": "165",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/165.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lille",
+      "City": "Lille",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#E20613",
+      "id": "166",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/166.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lyon",
+      "City": "Lyon",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#0045A8",
+      "id": "167",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Stade Rennais",
+      "City": "Stade Rennais",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "169",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/169.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "AJ Auxerre",
+      "City": "AJ Auxerre",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "172",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/172.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "AS Monaco",
+      "City": "AS Monaco",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "174",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/174.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lens",
+      "City": "Lens",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#FFD700",
+      "id": "175",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/175.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Marseille",
+      "City": "Marseille",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#2FAEE0",
+      "id": "176",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/176.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Metz",
+      "City": "Metz",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "177",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/177.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Toulouse",
+      "City": "Toulouse",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#4B0082",
+      "id": "179",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/179.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Strasbourg",
+      "City": "Strasbourg",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#005CA9",
+      "id": "180",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/180.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lorient",
+      "City": "Lorient",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "273",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/273.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Nice",
+      "City": "Nice",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#C8102E",
+      "id": "2502",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2502.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Le Havre AC",
+      "City": "Le Havre AC",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "3236",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3236.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Paris FC",
+      "City": "Paris FC",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "",
+      "id": "6851",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6851.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Brest",
+      "City": "Brest",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#E30613",
+      "id": "6997",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6997.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Angers",
+      "City": "Angers",
+      "Country": "France",
+      "League": "Ligue 1",
+      "Colour": "#000000",
+      "id": "7868",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7868.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Brighton & Hove Albion",
+      "City": "Brighton & Hove Albion",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#0057B8",
+      "id": "331",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/331.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Brentford",
+      "City": "Brentford",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#E30613",
+      "id": "337",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "AFC Bournemouth",
+      "City": "AFC Bournemouth",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "",
+      "id": "349",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Leeds United",
+      "City": "Leeds United",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "",
+      "id": "357",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Arsenal",
+      "City": "Arsenal",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#EF0107",
+      "id": "359",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Manchester United",
+      "City": "Manchester United",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#DA291C",
+      "id": "360",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Newcastle United",
+      "City": "Newcastle United",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#241F20",
+      "id": "361",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Aston Villa",
+      "City": "Aston Villa",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#670E36",
+      "id": "362",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/362.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Chelsea",
+      "City": "Chelsea",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#034694",
+      "id": "363",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Liverpool",
+      "City": "Liverpool",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#C8102E",
+      "id": "364",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Sunderland",
+      "City": "Sunderland",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "",
+      "id": "366",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/366.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Tottenham Hotspur",
+      "City": "Tottenham Hotspur",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#132257",
+      "id": "367",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Everton",
+      "City": "Everton",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#003399",
+      "id": "368",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Fulham",
+      "City": "Fulham",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#000000",
+      "id": "370",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/370.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "West Ham United",
+      "City": "West Ham United",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#7A263A",
+      "id": "371",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/371.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Burnley",
+      "City": "Burnley",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "",
+      "id": "379",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/379.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Wolverhampton Wanderers",
+      "City": "Wolverhampton Wanderers",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#FDB913",
+      "id": "380",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/380.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Manchester City",
+      "City": "Manchester City",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#6CABDD",
+      "id": "382",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Crystal Palace",
+      "City": "Crystal Palace",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#1B458F",
+      "id": "384",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Nottingham Forest",
+      "City": "Nottingham Forest",
+      "Country": "England",
+      "League": "Premier League",
+      "Colour": "#DD0000",
+      "id": "393",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/393.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "AC Milan",
+      "City": "AC Milan",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#FB090B",
+      "id": "103",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "AS Roma",
+      "City": "AS Roma",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "",
+      "id": "104",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Atalanta",
+      "City": "Atalanta",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#1E71B8",
+      "id": "105",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Bologna",
+      "City": "Bologna",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#1A2F48",
+      "id": "107",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/107.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Fiorentina",
+      "City": "Fiorentina",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#482E92",
+      "id": "109",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Internazionale",
+      "City": "Internazionale",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "",
+      "id": "110",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Juventus",
+      "City": "Juventus",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#000000",
+      "id": "111",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lazio",
+      "City": "Lazio",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#87D8F7",
+      "id": "112",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/112.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Lecce",
+      "City": "Lecce",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#FFED00",
+      "id": "113",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/113.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Napoli",
+      "City": "Napoli",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#12A0D7",
+      "id": "114",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Parma",
+      "City": "Parma",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#FEDD00",
+      "id": "115",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Udinese",
+      "City": "Udinese",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#000000",
+      "id": "118",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Hellas Verona",
+      "City": "Hellas Verona",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#FEDE00",
+      "id": "119",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/119.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Torino",
+      "City": "Torino",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#8B0000",
+      "id": "239",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Como",
+      "City": "Como",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#0066B3",
+      "id": "2572",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2572.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Cagliari",
+      "City": "Cagliari",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#A50021",
+      "id": "2925",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2925.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Genoa",
+      "City": "Genoa",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "#A1000A",
+      "id": "3263",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3263.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Pisa",
+      "City": "Pisa",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "",
+      "id": "3956",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3956.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Sassuolo",
+      "City": "Sassuolo",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "",
+      "id": "3997",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3997.png&h=200&w=200"
+    },
+    {
+      "Sport": "Soccer",
+      "TeamName": "Cremonese",
+      "City": "Cremonese",
+      "Country": "Italy",
+      "League": "Serie A",
+      "Colour": "",
+      "id": "4050",
+      "Logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4050.png&h=200&w=200"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Adelaide 36ers",
+      "City": "Adelaide",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "adelaide-36ers",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/adl/adl-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Brisbane Bullets",
+      "City": "Brisbane",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "brisbane-bullets",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/bne/bne-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Cairns Taipans",
+      "City": "Cairns",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "cairns-taipans",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/cns/cns-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Illawarra Hawks",
+      "City": "Illawarra",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "illawarra-hawks",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/ill/ill-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Melbourne United",
+      "City": "Melbourne",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "melbourne-united",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/mel/mel-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "New Zealand Breakers",
+      "City": "New Zealand",
+      "Country": "New Zealand",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "new-zealand-breakers",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/nzb/nzb-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Perth Wildcats",
+      "City": "Perth",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "perth-wildcats",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/per/per-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "SE Melbourne Phoenix",
+      "City": "Melbourne",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "se-melbourne-phoenix",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/sem/sem-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Sydney Kings",
+      "City": "Sydney",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "sydney-kings",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/syd/syd-dark.svg"
+    },
+    {
+      "Sport": "Basketball",
+      "TeamName": "Tasmania JackJumpers",
+      "City": "Tasmania",
+      "Country": "Australia",
+      "League": "NBL",
+      "Colour": "#000000",
+      "id": "tasmania-jackjumpers",
+      "Logo": "https://cdn.nbl.com.au/webflow-assets/tas/tas-dark.svg"
+    }
+  ]
+}
