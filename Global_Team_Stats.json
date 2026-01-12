@@ -44,11 +44,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Liverpool",
-          "home": true,
-          "date": "2026-01-08T20:00Z",
-          "time": "2026-01-08T20:00Z",
-          "status": "done"
+          "opponent": "Nottm Forest",
+          "home": false,
+          "date": "2026-01-17T17:30Z",
+          "time": "2026-01-17T17:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -761,13 +761,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Arsenal",
-          "home": false,
-          "date": "2026-01-08T20:00Z",
-          "time": "2026-01-08T20:00Z",
-          "status": "done"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -781,7 +775,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Dominik Szoboszlai"
+            "player": "Ibrahima Konaté"
           },
           "redCards": {
             "value": 0,
@@ -1408,7 +1402,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Alavés",
+          "home": true,
+          "date": "2026-01-18T15:15Z",
+          "time": "2026-01-18T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1652,12 +1652,18 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 5,
-        "points": 33,
+        "points": 34,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Levante",
+            "score": "1-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Barcelona",
@@ -1681,19 +1687,13 @@
             "opponent": "Rayo",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Celta Vigo",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Levante",
-          "home": false,
-          "date": "2026-01-11T15:15Z",
-          "time": "2026-01-11T15:15Z",
+          "opponent": "Girona",
+          "home": true,
+          "date": "2026-01-16T20:00Z",
+          "time": "2026-01-16T20:00Z",
           "status": "scheduled"
         }
       },
@@ -1722,14 +1722,20 @@
       "TeamName": "Getafe",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 12,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 6,
         "draws": 3,
-        "losses": 9,
+        "losses": 10,
         "points": 21,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Real Sociedad",
+            "score": "1-2",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Rayo",
@@ -1753,19 +1759,13 @@
             "opponent": "Villarreal",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Elche",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Real Sociedad",
+          "opponent": "Valencia",
           "home": true,
-          "date": "2026-01-09T20:00Z",
-          "time": "2026-01-09T20:00Z",
+          "date": "2026-01-18T13:00Z",
+          "time": "2026-01-18T13:00Z",
           "status": "scheduled"
         }
       },
@@ -1794,14 +1794,20 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 17,
+        "position": 13,
         "positionSuffix": "th",
-        "played": 18,
-        "wins": 4,
+        "played": 19,
+        "wins": 5,
         "draws": 6,
         "losses": 8,
-        "points": 18,
+        "points": 21,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Osasuna",
+            "score": "1-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Mallorca",
@@ -1825,26 +1831,20 @@
             "opponent": "Elche",
             "score": "0-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Real Madrid",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Osasuna",
-          "home": true,
-          "date": "2026-01-10T17:30Z",
-          "time": "2026-01-10T17:30Z",
+          "opponent": "Espanyol",
+          "home": false,
+          "date": "2026-01-16T20:00Z",
+          "time": "2026-01-16T20:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Vladyslav Vanat"
           },
           "assists": {
@@ -1866,14 +1866,20 @@
       "TeamName": "Mallorca",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 17,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 4,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "points": 18,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Rayo",
+            "score": "1-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Girona",
@@ -1897,26 +1903,20 @@
             "opponent": "Real Oviedo",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Osasuna",
-            "score": "2-2",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Rayo",
-          "home": false,
-          "date": "2026-01-11T13:00Z",
-          "time": "2026-01-11T13:00Z",
+          "opponent": "Athletic",
+          "home": true,
+          "date": "2026-01-17T15:15Z",
+          "time": "2026-01-17T15:15Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
+            "value": 11,
             "player": "Vedat Muriqi"
           },
           "assists": {
@@ -1938,14 +1938,20 @@
       "TeamName": "Osasuna",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 15,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 4,
-        "losses": 9,
+        "losses": 10,
         "points": 19,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Girona",
+            "score": "0-1",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Athletic",
@@ -1969,19 +1975,13 @@
             "opponent": "Levante",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Mallorca",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Girona",
-          "home": false,
-          "date": "2026-01-10T17:30Z",
-          "time": "2026-01-10T17:30Z",
+          "opponent": "Real Oviedo",
+          "home": true,
+          "date": "2026-01-17T17:30Z",
+          "time": "2026-01-17T17:30Z",
           "status": "scheduled"
         }
       },
@@ -2010,14 +2010,20 @@
       "TeamName": "Rayo Vallecano",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 10,
         "positionSuffix": "th",
-        "played": 18,
-        "wins": 4,
+        "played": 19,
+        "wins": 5,
         "draws": 7,
         "losses": 7,
-        "points": 19,
+        "points": 22,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Mallorca",
+            "score": "2-1",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Getafe",
@@ -2041,26 +2047,20 @@
             "opponent": "Espanyol",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Valencia",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Mallorca",
-          "home": true,
-          "date": "2026-01-11T13:00Z",
-          "time": "2026-01-11T13:00Z",
+          "opponent": "Celta Vigo",
+          "home": false,
+          "date": "2026-01-18T17:30Z",
+          "time": "2026-01-18T17:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Jorge de Frutos"
           },
           "assists": {
@@ -2073,7 +2073,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Unai López"
+            "player": "Óscar Valentín"
           }
         }
       }
@@ -2084,12 +2084,18 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 7,
-        "draws": 7,
+        "draws": 8,
         "losses": 4,
-        "points": 28,
+        "points": 29,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Real Oviedo",
+            "score": "1-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Real Madrid",
@@ -2113,19 +2119,13 @@
             "opponent": "Barcelona",
             "score": "3-5",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Sevilla",
-            "score": "2-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Real Oviedo",
-          "home": false,
-          "date": "2026-01-10T13:00Z",
-          "time": "2026-01-10T13:00Z",
+          "opponent": "Villarreal",
+          "home": true,
+          "date": "2026-01-17T20:00Z",
+          "time": "2026-01-17T20:00Z",
           "status": "scheduled"
         }
       },
@@ -2193,7 +2193,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Levante",
+          "home": true,
+          "date": "2026-01-17T13:00Z",
+          "time": "2026-01-17T13:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2220,14 +2226,20 @@
       "TeamName": "Real Sociedad",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 11,
         "positionSuffix": "th",
-        "played": 18,
-        "wins": 4,
+        "played": 19,
+        "wins": 5,
         "draws": 6,
         "losses": 8,
-        "points": 18,
+        "points": 21,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Getafe",
+            "score": "2-1",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Atlético",
@@ -2251,19 +2263,13 @@
             "opponent": "Alavés",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Villarreal",
-            "score": "2-3",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Getafe",
-          "home": false,
-          "date": "2026-01-09T20:00Z",
-          "time": "2026-01-09T20:00Z",
+          "opponent": "Barcelona",
+          "home": true,
+          "date": "2026-01-18T20:00Z",
+          "time": "2026-01-18T20:00Z",
           "status": "scheduled"
         }
       },
@@ -2275,10 +2281,10 @@
           },
           "assists": {
             "value": 3,
-            "player": "Ander Barrenetxea"
+            "player": "Takefusa Kubo"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Jon Aramburu"
           },
           "redCards": {
@@ -2363,7 +2369,7 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 11,
+        "position": 14,
         "positionSuffix": "th",
         "played": 18,
         "wins": 6,
@@ -2437,12 +2443,18 @@
       "TeamStats": {
         "position": 18,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 3,
-        "draws": 7,
+        "draws": 8,
         "losses": 8,
-        "points": 16,
+        "points": 17,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Elche",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Celta Vigo",
@@ -2466,19 +2478,13 @@
             "opponent": "Sevilla",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Rayo",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Elche",
-          "home": true,
-          "date": "2026-01-10T20:00Z",
-          "time": "2026-01-10T20:00Z",
+          "opponent": "Getafe",
+          "home": false,
+          "date": "2026-01-18T13:00Z",
+          "time": "2026-01-18T13:00Z",
           "status": "scheduled"
         }
       },
@@ -2494,7 +2500,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Hugo Duro"
+            "player": "César Tárrega"
           },
           "redCards": {
             "value": 1,
@@ -2509,12 +2515,18 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 17,
-        "wins": 12,
+        "played": 18,
+        "wins": 13,
         "draws": 2,
         "losses": 3,
-        "points": 38,
+        "points": 41,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Alavés",
+            "score": "3-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Elche",
@@ -2538,31 +2550,25 @@
             "opponent": "Real Sociedad",
             "score": "3-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Mallorca",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Alavés",
-          "home": true,
-          "date": "2026-01-10T15:15Z",
-          "time": "2026-01-10T15:15Z",
+          "opponent": "Betis",
+          "home": false,
+          "date": "2026-01-17T20:00Z",
+          "time": "2026-01-17T20:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Alberto Moleiro"
           },
           "assists": {
             "value": 3,
-            "player": "Sergi Cardona"
+            "player": "Alberto Moleiro"
           },
           "yellowCards": {
             "value": 5,
@@ -2581,12 +2587,18 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 18,
+        "played": 19,
         "wins": 11,
-        "draws": 6,
+        "draws": 7,
         "losses": 1,
-        "points": 39,
+        "points": 40,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Fiorentina",
+            "score": "1-1",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Genoa",
@@ -2610,20 +2622,14 @@
             "opponent": "Sassuolo",
             "score": "2-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Torino",
-            "score": "3-2",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Genoa",
-          "home": true,
-          "date": "2026-01-08T19:45Z",
-          "time": "2026-01-08T19:45Z",
-          "status": "done"
+          "opponent": "Como",
+          "home": false,
+          "date": "2026-01-15T19:45Z",
+          "time": "2026-01-15T19:45Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -2637,8 +2643,8 @@
             "player": "Adrien Rabiot"
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Fikayo Tomori"
+            "value": 4,
+            "player": "Youssouf Fofana"
           },
           "redCards": {
             "value": 1,
@@ -2653,12 +2659,18 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 7,
+        "played": 20,
+        "wins": 8,
         "draws": 7,
         "losses": 5,
-        "points": 28,
+        "points": 31,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Torino",
+            "score": "2-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Bologna",
@@ -2682,19 +2694,13 @@
             "opponent": "Genoa",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Cagliari",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Torino",
-          "home": true,
-          "date": "2026-01-10T19:45Z",
-          "time": "2026-01-10T19:45Z",
+          "opponent": "Pisa",
+          "home": false,
+          "date": "2026-01-16T19:45Z",
+          "time": "2026-01-16T19:45Z",
           "status": "scheduled"
         }
       },
@@ -2723,14 +2729,20 @@
       "TeamName": "Bologna",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 6,
-        "points": 26,
+        "points": 27,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Como",
+            "score": "1-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Atalanta",
@@ -2754,19 +2766,13 @@
             "opponent": "Juventus",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Lazio",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Como",
+          "opponent": "Verona",
           "home": false,
-          "date": "2026-01-10T14:00Z",
-          "time": "2026-01-10T14:00Z",
+          "date": "2026-01-15T17:30Z",
+          "time": "2026-01-15T17:30Z",
           "status": "scheduled"
         }
       },
@@ -2786,7 +2792,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Torbjorn Heggem"
+            "player": "Nicolò Cambiaghi"
           }
         }
       }
@@ -2795,7 +2801,7 @@
       "TeamName": "Cagliari",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
         "played": 19,
         "wins": 4,
@@ -2835,11 +2841,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Cremonese",
+          "opponent": "Genoa",
           "home": false,
-          "date": "2026-01-08T17:30Z",
-          "time": "2026-01-08T17:30Z",
-          "status": "done"
+          "date": "2026-01-12T17:30Z",
+          "time": "2026-01-12T17:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -2869,12 +2875,18 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 9,
-        "draws": 6,
+        "draws": 7,
         "losses": 3,
-        "points": 33,
+        "points": 34,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Bologna",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Pisa",
@@ -2898,19 +2910,13 @@
             "opponent": "AS Roma",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Inter Milan",
-            "score": "0-4",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Bologna",
+          "opponent": "Milan",
           "home": true,
-          "date": "2026-01-10T14:00Z",
-          "time": "2026-01-10T14:00Z",
+          "date": "2026-01-15T19:45Z",
+          "time": "2026-01-15T19:45Z",
           "status": "scheduled"
         }
       },
@@ -3010,14 +3016,20 @@
       "TeamName": "Fiorentina",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 19,
+        "position": 18,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 2,
-        "draws": 7,
+        "draws": 8,
         "losses": 10,
-        "points": 13,
+        "points": 14,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Milan",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Lazio",
@@ -3041,19 +3053,13 @@
             "opponent": "Udinese",
             "score": "5-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Verona",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Milan",
-          "home": true,
-          "date": "2026-01-11T14:00Z",
-          "time": "2026-01-11T14:00Z",
+          "opponent": "Bologna",
+          "home": false,
+          "date": "2026-01-18T14:00Z",
+          "time": "2026-01-18T14:00Z",
           "status": "scheduled"
         }
       },
@@ -3122,17 +3128,17 @@
           }
         ],
         "nextGame": {
-          "opponent": "Milan",
-          "home": false,
-          "date": "2026-01-08T19:45Z",
-          "time": "2026-01-08T19:45Z",
-          "status": "done"
+          "opponent": "Cagliari",
+          "home": true,
+          "date": "2026-01-12T17:30Z",
+          "time": "2026-01-12T17:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 4,
             "player": "Lorenzo Colombo"
           },
           "assists": {
@@ -3154,14 +3160,20 @@
       "TeamName": "Hellas Verona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 18,
+        "position": 19,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 2,
         "draws": 7,
-        "losses": 9,
+        "losses": 10,
         "points": 13,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Lazio",
+            "score": "0-1",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Napoli",
@@ -3185,19 +3197,13 @@
             "opponent": "Fiorentina",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Atalanta",
-            "score": "3-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Lazio",
+          "opponent": "Bologna",
           "home": true,
-          "date": "2026-01-11T17:00Z",
-          "time": "2026-01-11T17:00Z",
+          "date": "2026-01-15T17:30Z",
+          "time": "2026-01-15T17:30Z",
           "status": "scheduled"
         }
       },
@@ -3209,7 +3215,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane"
+            "player": "Giovane "
           },
           "yellowCards": {
             "value": 5,
@@ -3297,7 +3303,7 @@
       "TeamName": "Juventus",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 19,
         "wins": 10,
@@ -3369,14 +3375,20 @@
       "TeamName": "Lazio",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 9,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 6,
+        "played": 20,
+        "wins": 7,
         "draws": 7,
         "losses": 6,
-        "points": 25,
+        "points": 28,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Verona",
+            "score": "1-0",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Fiorentina",
@@ -3400,19 +3412,13 @@
             "opponent": "Cremonese",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Parma",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Verona",
-          "home": false,
-          "date": "2026-01-11T17:00Z",
-          "time": "2026-01-11T17:00Z",
+          "opponent": "Como",
+          "home": true,
+          "date": "2026-01-19T19:45Z",
+          "time": "2026-01-19T19:45Z",
           "status": "scheduled"
         }
       },
@@ -3443,12 +3449,18 @@
       "TeamStats": {
         "position": 16,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 4,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "points": 17,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Parma",
+            "score": "1-2",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "AS Roma",
@@ -3472,19 +3484,13 @@
             "opponent": "Pisa",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Cremonese",
-            "score": "0-2",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Parma",
-          "home": true,
-          "date": "2026-01-11T11:30Z",
-          "time": "2026-01-11T11:30Z",
+          "opponent": "Inter Milan",
+          "home": false,
+          "date": "2026-01-14T19:45Z",
+          "time": "2026-01-14T19:45Z",
           "status": "scheduled"
         }
       },
@@ -3492,7 +3498,7 @@
         "leaders": {
           "goals": {
             "value": 2,
-            "player": "Lassana Coulibaly"
+            "player": "Nikola Stulic"
           },
           "assists": {
             "value": 3,
@@ -3503,8 +3509,8 @@
             "player": "Kialonda Gaspar"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Kialonda Gaspar"
           }
         }
       }
@@ -3515,12 +3521,18 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 18,
+        "played": 19,
         "wins": 12,
-        "draws": 2,
+        "draws": 3,
         "losses": 4,
-        "points": 38,
+        "points": 39,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Inter Milan",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Verona",
@@ -3544,19 +3556,13 @@
             "opponent": "Udinese",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Juventus",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Inter Milan",
-          "home": false,
-          "date": "2026-01-11T19:45Z",
-          "time": "2026-01-11T19:45Z",
+          "opponent": "Parma",
+          "home": true,
+          "date": "2026-01-14T17:30Z",
+          "time": "2026-01-14T17:30Z",
           "status": "scheduled"
         }
       },
@@ -3571,7 +3577,7 @@
             "player": "Matteo Politano"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Juan Jesus"
           },
           "redCards": {
@@ -3585,14 +3591,20 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 14,
         "positionSuffix": "th",
-        "played": 18,
-        "wins": 4,
+        "played": 19,
+        "wins": 5,
         "draws": 6,
         "losses": 8,
-        "points": 18,
+        "points": 21,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Lecce",
+            "score": "2-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Inter Milan",
@@ -3616,26 +3628,20 @@
             "opponent": "Lazio",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Pisa",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Lecce",
+          "opponent": "Napoli",
           "home": false,
-          "date": "2026-01-11T11:30Z",
-          "time": "2026-01-11T11:30Z",
+          "date": "2026-01-14T17:30Z",
+          "time": "2026-01-14T17:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Mateo Pellegrino"
           },
           "assists": {
@@ -3643,8 +3649,8 @@
             "player": "Sascha Britschgi"
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Mateo Pellegrino"
+            "value": 4,
+            "player": "Enrico Del Prato"
           },
           "redCards": {
             "value": 1,
@@ -3730,12 +3736,18 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 6,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "points": 23,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Atalanta",
+            "score": "0-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Udinese",
@@ -3759,19 +3771,13 @@
             "opponent": "Sassuolo",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Cremonese",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Atalanta",
-          "home": false,
-          "date": "2026-01-10T19:45Z",
-          "time": "2026-01-10T19:45Z",
+          "opponent": "AS Roma",
+          "home": true,
+          "date": "2026-01-18T17:00Z",
+          "time": "2026-01-18T17:00Z",
           "status": "scheduled"
         }
       },
@@ -3802,12 +3808,18 @@
       "TeamStats": {
         "position": 10,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 7,
-        "draws": 4,
+        "draws": 5,
         "losses": 8,
-        "points": 25,
+        "points": 26,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Pisa",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Torino",
@@ -3831,26 +3843,20 @@
             "opponent": "Fiorentina",
             "score": "1-5",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Napoli",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pisa",
+          "opponent": "Inter Milan",
           "home": true,
-          "date": "2026-01-10T14:00Z",
-          "time": "2026-01-10T14:00Z",
+          "date": "2026-01-17T14:00Z",
+          "time": "2026-01-17T14:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Keinan Davis"
           },
           "assists": {
@@ -3858,8 +3864,8 @@
             "player": "Keinan Davis"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Jesper Karlström"
+            "value": 5,
+            "player": "Nicolò Zaniolo"
           },
           "redCards": {
             "value": 1,
@@ -3874,12 +3880,18 @@
       "TeamStats": {
         "position": 1,
         "positionSuffix": "st",
-        "played": 15,
-        "wins": 13,
+        "played": 16,
+        "wins": 14,
         "draws": 2,
         "losses": 0,
-        "points": 41,
+        "points": 44,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Wolfsburg",
+            "score": "8-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Heidenheim",
@@ -3903,30 +3915,24 @@
             "opponent": "St. Pauli",
             "score": "3-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Freiburg",
-            "score": "6-2",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Wolfsburg",
-          "home": true,
-          "date": "2026-01-11T16:30Z",
-          "time": "2026-01-11T16:30Z",
+          "opponent": "Cologne",
+          "home": false,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 19,
+            "value": 20,
             "player": "Harry Kane"
           },
           "assists": {
-            "value": 8,
+            "value": 9,
             "player": "Michael Olise"
           },
           "yellowCards": {
@@ -3946,12 +3952,18 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 15,
+        "played": 16,
         "wins": 9,
-        "draws": 5,
+        "draws": 6,
         "losses": 1,
-        "points": 32,
+        "points": 33,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Frankfurt",
+            "score": "3-3",
+            "home": false
+          },
           {
             "result": "W",
             "opponent": "Gladbach",
@@ -3975,19 +3987,13 @@
             "opponent": "Leverkusen",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Stuttgart",
-            "score": "3-3",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Frankfurt",
-          "home": false,
-          "date": "2026-01-09T19:30Z",
-          "time": "2026-01-09T19:30Z",
+          "opponent": "Bremen",
+          "home": true,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
@@ -3998,7 +4004,7 @@
             "player": "Serhou Guirassy"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Julian Ryerson"
           },
           "yellowCards": {
@@ -4016,8 +4022,8 @@
       "TeamName": "RB Leipzig",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "played": 15,
         "wins": 9,
         "draws": 2,
@@ -4056,10 +4062,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "St. Pauli",
-          "home": false,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Freiburg",
+          "home": true,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
@@ -4088,14 +4094,20 @@
       "TeamName": "Bayer Leverkusen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
-        "played": 15,
+        "position": 4,
+        "positionSuffix": "th",
+        "played": 16,
         "wins": 9,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "points": 29,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Stuttgart",
+            "score": "1-4",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "RB Leipzig",
@@ -4119,19 +4131,13 @@
             "opponent": "Dortmund",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Wolfsburg",
-            "score": "3-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Stuttgart",
-          "home": true,
-          "date": "2026-01-10T17:30Z",
-          "time": "2026-01-10T17:30Z",
+          "opponent": "Hamburg",
+          "home": false,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
@@ -4162,12 +4168,18 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 7,
-        "draws": 4,
+        "draws": 5,
         "losses": 4,
-        "points": 25,
+        "points": 26,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Dortmund",
+            "score": "3-3",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Hamburg",
@@ -4191,19 +4203,13 @@
             "opponent": "Wolfsburg",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Cologne",
-            "score": "4-3",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Dortmund",
-          "home": true,
-          "date": "2026-01-09T19:30Z",
-          "time": "2026-01-09T19:30Z",
+          "opponent": "Stuttgart",
+          "home": false,
+          "date": "2026-01-13T17:30Z",
+          "time": "2026-01-13T17:30Z",
           "status": "scheduled"
         }
       },
@@ -4218,7 +4224,7 @@
             "player": "Farès Chaïbi"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Arthur Theate"
           },
           "redCards": {
@@ -4232,14 +4238,20 @@
       "TeamName": "VfB Stuttgart",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
-        "played": 15,
-        "wins": 8,
+        "played": 16,
+        "wins": 9,
         "draws": 2,
         "losses": 5,
-        "points": 26,
+        "points": 29,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Leverkusen",
+            "score": "4-1",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Hoffenheim",
@@ -4263,26 +4275,20 @@
             "opponent": "Hamburg",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Dortmund",
-            "score": "3-3",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Leverkusen",
-          "home": false,
-          "date": "2026-01-10T17:30Z",
-          "time": "2026-01-10T17:30Z",
+          "opponent": "Frankfurt",
+          "home": true,
+          "date": "2026-01-13T17:30Z",
+          "time": "2026-01-13T17:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Deniz Undav"
           },
           "assists": {
@@ -4290,7 +4296,7 @@
             "player": "Jamie Leweling"
           },
           "yellowCards": {
-            "value": 3,
+            "value": 4,
             "player": "Jamie Leweling"
           },
           "redCards": {
@@ -4375,14 +4381,20 @@
       "TeamName": "Borussia Mönchengladbach",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 10,
         "positionSuffix": "th",
-        "played": 15,
-        "wins": 4,
+        "played": 16,
+        "wins": 5,
         "draws": 4,
         "losses": 7,
-        "points": 16,
+        "points": 19,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Augsburg",
+            "score": "4-0",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Dortmund",
@@ -4406,30 +4418,24 @@
             "opponent": "RB Leipzig",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Heidenheim",
-            "score": "3-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Augsburg",
-          "home": true,
-          "date": "2026-01-11T14:30Z",
-          "time": "2026-01-11T14:30Z",
+          "opponent": "Hoffenheim",
+          "home": false,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 9,
             "player": "Haris Tabakovic"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Franck Honorat"
           },
           "yellowCards": {
@@ -4447,14 +4453,20 @@
       "TeamName": "SC Freiburg",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 9,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 15,
-        "wins": 5,
+        "played": 16,
+        "wins": 6,
         "draws": 5,
         "losses": 5,
-        "points": 20,
+        "points": 23,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Hamburg",
+            "score": "2-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Wolfsburg",
@@ -4478,26 +4490,20 @@
             "opponent": "Mainz",
             "score": "4-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Bayern",
-            "score": "2-6",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hamburg",
-          "home": true,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "RB Leipzig",
+          "home": false,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Vincenzo Grifo"
           },
           "assists": {
@@ -4519,7 +4525,7 @@
       "TeamName": "Werder Bremen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 12,
         "positionSuffix": "th",
         "played": 15,
         "wins": 4,
@@ -4559,10 +4565,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Hoffenheim",
-          "home": true,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Dortmund",
+          "home": false,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
@@ -4591,14 +4597,20 @@
       "TeamName": "1. FC Union Berlin",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 6,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "points": 21,
+        "points": 22,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Mainz",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Cologne",
@@ -4622,19 +4634,13 @@
             "opponent": "Heidenheim",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "St. Pauli",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Mainz",
-          "home": true,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Augsburg",
+          "home": false,
+          "date": "2026-01-15T19:30Z",
+          "time": "2026-01-15T19:30Z",
           "status": "scheduled"
         }
       },
@@ -4646,7 +4652,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Andrej Ilic"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -4665,12 +4671,18 @@
       "TeamStats": {
         "position": 15,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 2,
-        "losses": 9,
+        "losses": 10,
         "points": 14,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Gladbach",
+            "score": "0-4",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Bremen",
@@ -4694,19 +4706,13 @@
             "opponent": "Hoffenheim",
             "score": "0-3",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Hamburg",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Gladbach",
-          "home": false,
-          "date": "2026-01-11T14:30Z",
-          "time": "2026-01-11T14:30Z",
+          "opponent": "Union Berlin",
+          "home": true,
+          "date": "2026-01-15T19:30Z",
+          "time": "2026-01-15T19:30Z",
           "status": "scheduled"
         }
       },
@@ -4735,7 +4741,7 @@
       "TeamName": "TSG Hoffenheim",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 15,
         "wins": 8,
@@ -4775,10 +4781,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Bremen",
-          "home": false,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Gladbach",
+          "home": true,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
@@ -5196,7 +5202,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Angers",
+          "home": false,
+          "date": "2026-01-17T20:05Z",
+          "time": "2026-01-17T20:05Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6087,22 +6099,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 39,
-        "wins": 18,
+        "played": 41,
+        "wins": 20,
         "losses": 21,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Timberwolves",
-            "score": "126-102",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Knicks",
-            "score": "111-99",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Raptors",
@@ -6120,28 +6120,40 @@
             "opponent": "Pelicans",
             "score": "117-100",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Nuggets",
+            "score": "110-87",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Warriors",
+            "score": "124-111",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Nuggets",
+          "opponent": "Lakers",
           "home": false,
-          "date": "2026-01-10T02:00Z",
-          "time": "2026-01-10T02:00Z",
+          "date": "2026-01-14T03:30Z",
+          "time": "2026-01-14T03:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.7,
             "player": "Jalen Johnson"
           },
           "assists": {
-            "value": 8.3,
+            "value": 8.2,
             "player": "Jalen Johnson"
           },
           "rebounds": {
-            "value": 10.3,
+            "value": 10.2,
             "player": "Jalen Johnson"
           },
           "blocks": {
@@ -6149,7 +6161,7 @@
             "player": "Onyeka Okongwu"
           },
           "steals": {
-            "value": 1.9,
+            "value": 2.0,
             "player": "Dyson Daniels"
           }
         }
@@ -6162,22 +6174,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "East",
-        "played": 36,
-        "wins": 23,
-        "losses": 13,
+        "played": 38,
+        "wins": 24,
+        "losses": 14,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Jazz",
-            "score": "129-119",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "120-106",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Clippers",
@@ -6195,32 +6195,44 @@
             "opponent": "Nuggets",
             "score": "110-114",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Raptors",
+            "score": "125-117",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Spurs",
+            "score": "95-100",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Raptors",
-          "home": true,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "opponent": "Pacers",
+          "home": false,
+          "date": "2026-01-13T00:30Z",
+          "time": "2026-01-13T00:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.7,
+            "value": 29.5,
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.3,
-            "player": "Derrick White"
+            "value": 5.2,
+            "player": "Payton Pritchard"
           },
           "rebounds": {
             "value": 8.2,
             "player": "Neemias Queta"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Derrick White"
           },
           "steals": {
@@ -6237,22 +6249,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 34,
+        "played": 36,
         "wins": 11,
-        "losses": 23,
+        "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Warriors",
-            "score": "107-120",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Rockets",
-            "score": "96-120",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Wizards",
@@ -6270,20 +6270,32 @@
             "opponent": "Magic",
             "score": "103-104",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Clippers",
+            "score": "105-121",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Grizzlies",
+            "score": "98-103",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
-          "home": true,
-          "date": "2026-01-10T00:30Z",
-          "time": "2026-01-10T00:30Z",
+          "opponent": "Mavericks",
+          "home": false,
+          "date": "2026-01-13T01:30Z",
+          "time": "2026-01-13T01:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.1,
+            "value": 25.9,
             "player": "Michael Porter Jr."
           },
           "assists": {
@@ -6291,7 +6303,7 @@
             "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 7.8,
+            "value": 7.7,
             "player": "Nic Claxton"
           },
           "blocks": {
@@ -6312,16 +6324,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
-        "wins": 13,
+        "played": 39,
+        "wins": 14,
         "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Bucks",
-            "score": "121-122",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Bulls",
@@ -6345,24 +6351,30 @@
             "opponent": "Pacers",
             "score": "112-114",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "150-95",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
+          "opponent": "Clippers",
           "home": false,
-          "date": "2026-01-11T02:30Z",
-          "time": "2026-01-11T02:30Z",
+          "date": "2026-01-13T03:30Z",
+          "time": "2026-01-13T03:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.1,
-            "player": "Miles Bridges"
+            "value": 19.9,
+            "player": "LaMelo Ball"
           },
           "assists": {
-            "value": 7.9,
+            "value": 7.8,
             "player": "LaMelo Ball"
           },
           "rebounds": {
@@ -6387,16 +6399,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 37,
-        "wins": 17,
+        "played": 38,
+        "wins": 18,
         "losses": 20,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "134-118",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Magic",
@@ -6420,6 +6426,12 @@
             "opponent": "Pistons",
             "score": "93-108",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "125-107",
+            "home": true
           }
         ],
         "nextGame": {
@@ -6441,15 +6453,15 @@
             "player": "Josh Giddey"
           },
           "rebounds": {
-            "value": 8.9,
-            "player": "Josh Giddey"
+            "value": 9.3,
+            "player": "Nikola Vucevic"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.4,
             "player": "Matas Buzelis"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.2,
             "player": "Tre Jones"
           }
         }
@@ -6462,22 +6474,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
-        "wins": 21,
-        "losses": 17,
+        "played": 40,
+        "wins": 22,
+        "losses": 18,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Spurs",
-            "score": "113-101",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Suns",
-            "score": "129-113",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Nuggets",
@@ -6495,14 +6495,26 @@
             "opponent": "Pacers",
             "score": "120-116",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Timberwolves",
+            "score": "122-131",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Timberwolves",
+            "score": "146-134",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Timberwolves",
-          "home": false,
-          "date": "2026-01-09T01:00Z",
-          "time": "2026-01-09T01:00Z",
-          "status": "live"
+          "opponent": "Jazz",
+          "home": true,
+          "date": "2026-01-13T00:00Z",
+          "time": "2026-01-13T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6512,11 +6524,11 @@
             "player": "Donovan Mitchell"
           },
           "assists": {
-            "value": 5.4,
-            "player": "Donovan Mitchell"
+            "value": 6.9,
+            "player": "Darius Garland"
           },
           "rebounds": {
-            "value": 8.8,
+            "value": 8.6,
             "player": "Evan Mobley"
           },
           "blocks": {
@@ -6534,25 +6546,13 @@
       "TeamName": "Dallas Mavericks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
+        "played": 39,
         "wins": 14,
-        "losses": 23,
+        "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Kings",
-            "score": "107-113",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "122-125",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "76ers",
@@ -6570,14 +6570,26 @@
             "opponent": "Kings",
             "score": "100-98",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Jazz",
+            "score": "114-116",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Bulls",
+            "score": "107-125",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
-          "home": false,
-          "date": "2026-01-09T02:00Z",
-          "time": "2026-01-09T02:00Z",
-          "status": "live"
+          "opponent": "Nets",
+          "home": true,
+          "date": "2026-01-13T01:30Z",
+          "time": "2026-01-13T01:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6587,7 +6599,7 @@
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 5.1,
+            "value": 5.0,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -6596,10 +6608,10 @@
           },
           "blocks": {
             "value": 1.4,
-            "player": "Daniel Gafford"
+            "player": "P.J. Washington"
           },
           "steals": {
-            "value": 1.2,
+            "value": 1.3,
             "player": "Cooper Flagg"
           }
         }
@@ -6612,22 +6624,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "West",
-        "played": 37,
-        "wins": 25,
-        "losses": 12,
+        "played": 39,
+        "wins": 26,
+        "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Raptors",
-            "score": "106-103",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "108-113",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Nets",
@@ -6645,13 +6645,25 @@
             "opponent": "Celtics",
             "score": "114-110",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Hawks",
+            "score": "87-110",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Bucks",
+            "score": "108-104",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Hawks",
-          "home": true,
-          "date": "2026-01-10T02:00Z",
-          "time": "2026-01-10T02:00Z",
+          "opponent": "Pelicans",
+          "home": false,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
@@ -6687,16 +6699,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "East",
-        "played": 37,
+        "played": 38,
         "wins": 28,
-        "losses": 9,
+        "losses": 10,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Lakers",
-            "score": "128-106",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Heat",
@@ -6720,13 +6726,19 @@
             "opponent": "Bulls",
             "score": "108-93",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Clippers",
+            "score": "92-98",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
+          "opponent": "Suns",
           "home": true,
-          "date": "2026-01-11T00:30Z",
-          "time": "2026-01-11T00:30Z",
+          "date": "2026-01-16T00:00Z",
+          "time": "2026-01-16T00:00Z",
           "status": "scheduled"
         }
       },
@@ -6737,7 +6749,7 @@
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.6,
+            "value": 9.7,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -6750,7 +6762,7 @@
           },
           "steals": {
             "value": 1.6,
-            "player": "Cade Cunningham"
+            "player": "Ausar Thompson"
           }
         }
       }
@@ -6762,22 +6774,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 38,
-        "wins": 20,
-        "losses": 18,
+        "played": 40,
+        "wins": 21,
+        "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hornets",
-            "score": "132-125",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Thunder",
-            "score": "94-131",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -6795,13 +6795,25 @@
             "opponent": "Bucks",
             "score": "120-113",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Kings",
+            "score": "137-103",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Hawks",
+            "score": "111-124",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Kings",
+          "opponent": "Trail Blazers",
           "home": true,
-          "date": "2026-01-10T03:00Z",
-          "time": "2026-01-10T03:00Z",
+          "date": "2026-01-14T04:00Z",
+          "time": "2026-01-14T04:00Z",
           "status": "scheduled"
         }
       },
@@ -6812,19 +6824,19 @@
             "player": "Stephen Curry"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Draymond Green"
           },
           "rebounds": {
-            "value": 5.9,
+            "value": 5.8,
             "player": "Draymond Green"
           },
           "blocks": {
-            "value": 0.8,
+            "value": 0.7,
             "player": "Draymond Green"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Jimmy Butler III"
           }
         }
@@ -6834,25 +6846,13 @@
       "TeamName": "Houston Rockets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 34,
+        "played": 36,
         "wins": 22,
-        "losses": 12,
+        "losses": 14,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "126-119",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "120-96",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Mavericks",
@@ -6870,20 +6870,32 @@
             "opponent": "Trail Blazers",
             "score": "102-103",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Trail Blazers",
+            "score": "105-111",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Kings",
+            "score": "98-111",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
-          "home": false,
-          "date": "2026-01-10T03:00Z",
-          "time": "2026-01-10T03:00Z",
+          "opponent": "Bulls",
+          "home": true,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.7,
+            "value": 26.2,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -6912,16 +6924,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
-        "wins": 7,
+        "played": 39,
+        "wins": 8,
         "losses": 31,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Magic",
-            "score": "110-112",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Spurs",
@@ -6945,20 +6951,26 @@
             "opponent": "Hornets",
             "score": "114-112",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Heat",
+            "score": "123-99",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Heat",
+          "opponent": "Celtics",
           "home": true,
-          "date": "2026-01-11T00:00Z",
-          "time": "2026-01-11T00:00Z",
+          "date": "2026-01-13T00:30Z",
+          "time": "2026-01-13T00:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.7,
+            "value": 23.6,
             "player": "Pascal Siakam"
           },
           "assists": {
@@ -6966,7 +6978,7 @@
             "player": "Andrew Nembhard"
           },
           "rebounds": {
-            "value": 6.6,
+            "value": 6.8,
             "player": "Pascal Siakam"
           },
           "blocks": {
@@ -7058,19 +7070,13 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 35,
+        "played": 36,
         "wins": 23,
-        "losses": 12,
+        "losses": 13,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pistons",
-            "score": "106-128",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Grizzlies",
@@ -7094,20 +7100,26 @@
             "opponent": "Spurs",
             "score": "91-107",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Bucks",
+            "score": "101-105",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bucks",
-          "home": true,
-          "date": "2026-01-10T03:30Z",
-          "time": "2026-01-10T03:30Z",
+          "opponent": "Kings",
+          "home": false,
+          "date": "2026-01-13T03:00Z",
+          "time": "2026-01-13T03:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.7,
+            "value": 33.3,
             "player": "Luka Doncic"
           },
           "assists": {
@@ -7115,7 +7127,7 @@
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.5,
+            "value": 8.3,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7136,22 +7148,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
-        "wins": 16,
-        "losses": 21,
+        "played": 39,
+        "wins": 17,
+        "losses": 22,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "76ers",
-            "score": "136-139",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Lakers",
-            "score": "121-128",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Lakers",
@@ -7169,37 +7169,49 @@
             "opponent": "Suns",
             "score": "98-117",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Thunder",
+            "score": "116-117",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Nets",
+            "score": "103-98",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": true,
-          "date": "2026-01-10T01:00Z",
-          "time": "2026-01-10T01:00Z",
+          "opponent": "Magic",
+          "home": false,
+          "date": "2026-01-15T19:00Z",
+          "time": "2026-01-15T19:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.5,
+            "value": 18.6,
             "player": "Jaren Jackson Jr."
           },
           "assists": {
-            "value": 5.0,
+            "value": 5.1,
             "player": "Cam Spencer"
           },
           "rebounds": {
-            "value": 6.8,
+            "value": 6.7,
             "player": "Santi Aldama"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Jaren Jackson Jr."
           },
           "steals": {
             "value": 0.9,
-            "player": "Santi Aldama"
+            "player": "Jaren Jackson Jr."
           }
         }
       }
@@ -7211,22 +7223,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 37,
+        "played": 39,
         "wins": 20,
-        "losses": 17,
+        "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nuggets",
-            "score": "147-123",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Pistons",
-            "score": "118-112",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Timberwolves",
@@ -7244,6 +7244,18 @@
             "opponent": "Timberwolves",
             "score": "94-122",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Pacers",
+            "score": "99-123",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Thunder",
+            "score": "112-124",
+            "home": false
           }
         ],
         "nextGame": {
@@ -7257,23 +7269,23 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.3,
+            "value": 23.8,
             "player": "Norman Powell"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.3,
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 10.6,
+            "value": 10.4,
             "player": "Kel'el Ware"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.2,
             "player": "Kel'el Ware"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Dru Smith"
           }
         }
@@ -7286,22 +7298,10 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 37,
-        "wins": 16,
-        "losses": 21,
+        "played": 39,
+        "wins": 17,
+        "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hornets",
-            "score": "123-113",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Wizards",
-            "score": "113-114",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Hornets",
@@ -7319,28 +7319,40 @@
             "opponent": "Warriors",
             "score": "113-120",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Lakers",
+            "score": "105-101",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Nuggets",
+            "score": "104-108",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
-          "home": false,
-          "date": "2026-01-10T03:30Z",
-          "time": "2026-01-10T03:30Z",
+          "opponent": "Timberwolves",
+          "home": true,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.5,
+            "value": 29.2,
             "player": "Giannis Antetokounmpo"
           },
           "assists": {
-            "value": 5.7,
+            "value": 5.6,
             "player": "Ryan Rollins"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 9.8,
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
@@ -7348,7 +7360,7 @@
             "player": "Myles Turner"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Ryan Rollins"
           }
         }
@@ -7358,31 +7370,13 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
-        "wins": 24,
-        "losses": 13,
+        "played": 40,
+        "wins": 26,
+        "losses": 14,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bulls",
-            "score": "136-101",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Hawks",
-            "score": "102-126",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Heat",
-            "score": "125-115",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Wizards",
@@ -7394,20 +7388,38 @@
             "opponent": "Heat",
             "score": "122-94",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Cavaliers",
+            "score": "131-122",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "134-146",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Spurs",
+            "score": "104-103",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Cavaliers",
-          "home": true,
-          "date": "2026-01-09T01:00Z",
-          "time": "2026-01-09T01:00Z",
-          "status": "live"
+          "opponent": "Bucks",
+          "home": false,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.3,
+            "value": 29.1,
             "player": "Anthony Edwards"
           },
           "assists": {
@@ -7415,7 +7427,7 @@
             "player": "Julius Randle"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.3,
             "player": "Rudy Gobert"
           },
           "blocks": {
@@ -7436,22 +7448,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 39,
-        "wins": 8,
-        "losses": 31,
+        "played": 41,
+        "wins": 9,
+        "losses": 32,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Bulls",
-            "score": "118-134",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "109-122",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Heat",
@@ -7469,28 +7469,40 @@
             "opponent": "Hawks",
             "score": "100-117",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "128-107",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Magic",
+            "score": "118-128",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
-          "home": false,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "opponent": "Nuggets",
+          "home": true,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.3,
-            "player": "Trey Murphy III"
+            "value": 22.8,
+            "player": "Zion Williamson"
           },
           "assists": {
-            "value": 4.1,
+            "value": 4.3,
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.2,
+            "value": 7.5,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -7498,7 +7510,7 @@
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Trey Murphy III"
           }
         }
@@ -7511,22 +7523,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "East",
-        "played": 37,
-        "wins": 24,
-        "losses": 13,
+        "played": 39,
+        "wins": 25,
+        "losses": 14,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Spurs",
-            "score": "132-134",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Hawks",
-            "score": "99-111",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "76ers",
@@ -7544,20 +7544,32 @@
             "opponent": "Clippers",
             "score": "123-111",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Suns",
+            "score": "107-112",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Trail Blazers",
+            "score": "123-114",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
+          "opponent": "Kings",
           "home": false,
-          "date": "2026-01-10T02:00Z",
-          "time": "2026-01-10T02:00Z",
+          "date": "2026-01-15T03:00Z",
+          "time": "2026-01-15T03:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.1,
+            "value": 29.0,
             "player": "Jalen Brunson"
           },
           "assists": {
@@ -7565,7 +7577,7 @@
             "player": "Jalen Brunson"
           },
           "rebounds": {
-            "value": 11.4,
+            "value": 11.5,
             "player": "Karl-Anthony Towns"
           },
           "blocks": {
@@ -7586,22 +7598,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 38,
-        "wins": 31,
+        "played": 40,
+        "wins": 33,
         "losses": 7,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Trail Blazers",
-            "score": "124-95",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Warriors",
-            "score": "131-94",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Suns",
@@ -7619,13 +7619,25 @@
             "opponent": "Jazz",
             "score": "129-125",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Grizzlies",
+            "score": "117-116",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Heat",
+            "score": "124-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Grizzlies",
-          "home": false,
-          "date": "2026-01-10T01:00Z",
-          "time": "2026-01-10T01:00Z",
+          "opponent": "Spurs",
+          "home": true,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
@@ -7661,22 +7673,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
-        "wins": 21,
-        "losses": 17,
+        "played": 40,
+        "wins": 22,
+        "losses": 18,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "112-110",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Bulls",
-            "score": "114-121",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Pacers",
@@ -7694,13 +7694,25 @@
             "opponent": "Nets",
             "score": "104-103",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "91-103",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pelicans",
+            "score": "128-118",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Grizzlies",
           "home": true,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "date": "2026-01-15T19:00Z",
+          "time": "2026-01-15T19:00Z",
           "status": "scheduled"
         }
       },
@@ -7711,11 +7723,11 @@
             "player": "Franz Wagner"
           },
           "assists": {
-            "value": 4.7,
+            "value": 4.8,
             "player": "Paolo Banchero"
           },
           "rebounds": {
-            "value": 8.6,
+            "value": 8.7,
             "player": "Paolo Banchero"
           },
           "blocks": {
@@ -7723,8 +7735,8 @@
             "player": "Goga Bitadze"
           },
           "steals": {
-            "value": 1.9,
-            "player": "Jalen Suggs"
+            "value": 1.3,
+            "player": "Anthony Black"
           }
         }
       }
@@ -7736,22 +7748,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 35,
-        "wins": 20,
-        "losses": 15,
+        "played": 37,
+        "wins": 21,
+        "losses": 16,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Grizzlies",
-            "score": "139-136",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Mavericks",
-            "score": "123-108",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Knicks",
@@ -7769,13 +7769,25 @@
             "opponent": "Wizards",
             "score": "131-110",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Magic",
+            "score": "103-91",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Raptors",
+            "score": "115-116",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
+          "opponent": "Raptors",
           "home": false,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "date": "2026-01-13T00:30Z",
+          "time": "2026-01-13T00:30Z",
           "status": "scheduled"
         }
       },
@@ -7786,11 +7798,11 @@
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 7.1,
+            "value": 6.9,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 9.0,
+            "value": 8.9,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -7798,7 +7810,7 @@
             "player": "Adem Bona"
           },
           "steals": {
-            "value": 1.8,
+            "value": 1.9,
             "player": "Tyrese Maxey"
           }
         }
@@ -7808,25 +7820,13 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
-        "wins": 22,
+        "played": 39,
+        "wins": 24,
         "losses": 15,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "113-129",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "129-102",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Thunder",
@@ -7844,24 +7844,36 @@
             "opponent": "Grizzlies",
             "score": "117-98",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Knicks",
+            "score": "112-107",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "112-93",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Knicks",
-          "home": true,
-          "date": "2026-01-10T02:00Z",
-          "time": "2026-01-10T02:00Z",
+          "opponent": "Heat",
+          "home": false,
+          "date": "2026-01-14T00:30Z",
+          "time": "2026-01-14T00:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.7,
+            "value": 25.5,
             "player": "Devin Booker"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.4,
             "player": "Devin Booker"
           },
           "rebounds": {
@@ -7869,7 +7881,7 @@
             "player": "Mark Williams"
           },
           "blocks": {
-            "value": 0.8,
+            "value": 0.9,
             "player": "Mark Williams"
           },
           "steals": {
@@ -7886,22 +7898,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 38,
-        "wins": 18,
-        "losses": 20,
+        "played": 40,
+        "wins": 19,
+        "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Thunder",
-            "score": "95-124",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "122-109",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Spurs",
@@ -7919,20 +7919,32 @@
             "opponent": "Rockets",
             "score": "103-102",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Rockets",
+            "score": "111-105",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Knicks",
+            "score": "114-123",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
-          "home": true,
-          "date": "2026-01-10T03:00Z",
-          "time": "2026-01-10T03:00Z",
+          "opponent": "Warriors",
+          "home": false,
+          "date": "2026-01-14T04:00Z",
+          "time": "2026-01-14T04:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.3,
+            "value": 26.1,
             "player": "Deni Avdija"
           },
           "assists": {
@@ -7940,7 +7952,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 10.7,
+            "value": 10.8,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -7961,22 +7973,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
-        "wins": 8,
-        "losses": 29,
+        "played": 39,
+        "wins": 9,
+        "losses": 30,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Clippers",
-            "score": "90-131",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Celtics",
-            "score": "106-120",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Suns",
@@ -7994,20 +7994,32 @@
             "opponent": "Mavericks",
             "score": "98-100",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Warriors",
+            "score": "103-137",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Rockets",
+            "score": "111-98",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
-          "home": false,
-          "date": "2026-01-10T03:00Z",
-          "time": "2026-01-10T03:00Z",
+          "opponent": "Lakers",
+          "home": true,
+          "date": "2026-01-13T03:00Z",
+          "time": "2026-01-13T03:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.2,
+            "value": 20.0,
             "player": "Zach LaVine"
           },
           "assists": {
@@ -8015,7 +8027,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.6,
+            "value": 6.5,
             "player": "Russell Westbrook"
           },
           "blocks": {
@@ -8024,7 +8036,7 @@
           },
           "steals": {
             "value": 1.4,
-            "player": "Russell Westbrook"
+            "player": "DeMar DeRozan"
           }
         }
       }
@@ -8036,22 +8048,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 37,
-        "wins": 26,
-        "losses": 11,
+        "played": 39,
+        "wins": 27,
+        "losses": 12,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Knicks",
-            "score": "134-132",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "123-113",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Trail Blazers",
@@ -8069,28 +8069,40 @@
             "opponent": "Lakers",
             "score": "107-91",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Celtics",
+            "score": "100-95",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Timberwolves",
+            "score": "103-104",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
+          "opponent": "Thunder",
           "home": false,
-          "date": "2026-01-11T01:00Z",
-          "time": "2026-01-11T01:00Z",
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.2,
+            "value": 24.1,
             "player": "Victor Wembanyama"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 11.5,
+            "value": 11.3,
             "player": "Victor Wembanyama"
           },
           "blocks": {
@@ -8098,7 +8110,7 @@
             "player": "Victor Wembanyama"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "De'Aaron Fox"
           }
         }
@@ -8111,22 +8123,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
-        "wins": 23,
-        "losses": 15,
+        "played": 40,
+        "wins": 24,
+        "losses": 16,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Magic",
-            "score": "107-106",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Nuggets",
-            "score": "103-106",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Hawks",
@@ -8144,20 +8144,32 @@
             "opponent": "Hornets",
             "score": "97-96",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Celtics",
+            "score": "117-125",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "116-115",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
-          "home": false,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "opponent": "76ers",
+          "home": true,
+          "date": "2026-01-13T00:30Z",
+          "time": "2026-01-13T00:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.2,
+            "value": 21.8,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8165,7 +8177,7 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.6,
+            "value": 8.4,
             "player": "Scottie Barnes"
           },
           "blocks": {
@@ -8173,7 +8185,7 @@
             "player": "Scottie Barnes"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Scottie Barnes"
           }
         }
@@ -8186,22 +8198,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 36,
-        "wins": 12,
-        "losses": 24,
+        "played": 38,
+        "wins": 13,
+        "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Celtics",
-            "score": "119-129",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Clippers",
-            "score": "101-118",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Warriors",
@@ -8219,20 +8219,32 @@
             "opponent": "Thunder",
             "score": "125-129",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "116-114",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Hornets",
+            "score": "95-150",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Mavericks",
-          "home": true,
-          "date": "2026-01-09T02:00Z",
-          "time": "2026-01-09T02:00Z",
-          "status": "live"
+          "opponent": "Cavaliers",
+          "home": false,
+          "date": "2026-01-13T00:00Z",
+          "time": "2026-01-13T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.8,
+            "value": 27.9,
             "player": "Lauri Markkanen"
           },
           "assists": {
@@ -8261,22 +8273,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 36,
+        "played": 38,
         "wins": 10,
-        "losses": 26,
+        "losses": 28,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bucks",
-            "score": "114-113",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "119-99",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Timberwolves",
@@ -8294,13 +8294,25 @@
             "opponent": "76ers",
             "score": "110-131",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Pelicans",
+            "score": "107-128",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Suns",
+            "score": "93-112",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
-          "home": true,
-          "date": "2026-01-10T00:00Z",
-          "time": "2026-01-10T00:00Z",
+          "opponent": "Clippers",
+          "home": false,
+          "date": "2026-01-15T03:30Z",
+          "time": "2026-01-15T03:30Z",
           "status": "scheduled"
         }
       },
@@ -8311,11 +8323,11 @@
             "player": "CJ McCollum"
           },
           "assists": {
-            "value": 5.1,
+            "value": 5.0,
             "player": "Kyshawn George"
           },
           "rebounds": {
-            "value": 7.8,
+            "value": 7.5,
             "player": "Alex Sarr"
           },
           "blocks": {
@@ -8333,25 +8345,13 @@
       "TeamName": "LA Clippers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 36,
-        "wins": 13,
+        "played": 38,
+        "wins": 15,
         "losses": 23,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "131-90",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Jazz",
-            "score": "118-101",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Celtics",
@@ -8369,28 +8369,40 @@
             "opponent": "Knicks",
             "score": "111-123",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Nets",
+            "score": "121-105",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Pistons",
+            "score": "98-92",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Nets",
-          "home": false,
-          "date": "2026-01-10T00:30Z",
-          "time": "2026-01-10T00:30Z",
+          "opponent": "Hornets",
+          "home": true,
+          "date": "2026-01-13T03:30Z",
+          "time": "2026-01-13T03:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.0,
+            "value": 27.8,
             "player": "Kawhi Leonard"
           },
           "assists": {
-            "value": 8.0,
+            "value": 7.9,
             "player": "James Harden"
           },
           "rebounds": {
-            "value": 11.0,
+            "value": 10.7,
             "player": "Ivica Zubac"
           },
           "blocks": {
@@ -8703,12 +8715,18 @@
       "TeamStats": {
         "position": 20,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 2,
-        "draws": 6,
+        "draws": 7,
         "losses": 10,
-        "points": 12,
+        "points": 13,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Betis",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Alavés",
@@ -8732,19 +8750,13 @@
             "opponent": "Mallorca",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Atlético",
-            "score": "0-2",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Betis",
-          "home": true,
-          "date": "2026-01-10T13:00Z",
-          "time": "2026-01-10T13:00Z",
+          "opponent": "Osasuna",
+          "home": false,
+          "date": "2026-01-17T17:30Z",
+          "time": "2026-01-17T17:30Z",
           "status": "scheduled"
         }
       },
@@ -8759,8 +8771,8 @@
             "player": "Haissem Hassan"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Santiago Colombatto"
+            "value": 5,
+            "player": "David Carmo"
           },
           "redCards": {
             "value": 3,
@@ -8847,14 +8859,20 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 13,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 4,
-        "losses": 9,
+        "losses": 10,
         "points": 19,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Villarreal",
+            "score": "1-3",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Real Oviedo",
@@ -8878,19 +8896,13 @@
             "opponent": "Real Sociedad",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Barcelona",
-            "score": "1-3",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Villarreal",
+          "opponent": "Atlético",
           "home": false,
-          "date": "2026-01-10T15:15Z",
-          "time": "2026-01-10T15:15Z",
+          "date": "2026-01-18T15:15Z",
+          "time": "2026-01-18T15:15Z",
           "status": "scheduled"
         }
       },
@@ -8922,12 +8934,18 @@
       "TeamStats": {
         "position": 19,
         "positionSuffix": "th",
-        "played": 17,
+        "played": 18,
         "wins": 3,
-        "draws": 4,
+        "draws": 5,
         "losses": 10,
-        "points": 13,
+        "points": 14,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Espanyol",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Sevilla",
@@ -8951,19 +8969,13 @@
             "opponent": "Athletic",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Valencia",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Espanyol",
-          "home": true,
-          "date": "2026-01-11T15:15Z",
-          "time": "2026-01-11T15:15Z",
+          "opponent": "Real Madrid",
+          "home": false,
+          "date": "2026-01-17T13:00Z",
+          "time": "2026-01-17T13:00Z",
           "status": "scheduled"
         }
       },
@@ -8995,12 +9007,18 @@
       "TeamStats": {
         "position": 9,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 6,
-        "points": 22,
+        "points": 23,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Valencia",
+            "score": "1-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Villarreal",
@@ -9024,19 +9042,13 @@
             "opponent": "Girona",
             "score": "3-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Getafe",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Valencia",
-          "home": false,
-          "date": "2026-01-10T20:00Z",
-          "time": "2026-01-10T20:00Z",
+          "opponent": "Sevilla",
+          "home": true,
+          "date": "2026-01-19T20:00Z",
+          "time": "2026-01-19T20:00Z",
           "status": "scheduled"
         }
       },
@@ -9068,12 +9080,18 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "losses": 7,
-        "points": 16,
+        "points": 17,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Heidenheim",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Union Berlin",
@@ -9097,26 +9115,20 @@
             "opponent": "Bremen",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Frankfurt",
-            "score": "3-4",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Heidenheim",
-          "home": false,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Bayern",
+          "home": true,
+          "date": "2026-01-14T19:30Z",
+          "time": "2026-01-14T19:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Said El Mala"
           },
           "assists": {
@@ -9124,7 +9136,7 @@
             "player": "Ragnar Ache"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Eric Martel"
           },
           "redCards": {
@@ -9141,12 +9153,18 @@
       "TeamStats": {
         "position": 13,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "points": 16,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Freiburg",
+            "score": "1-2",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Frankfurt",
@@ -9170,19 +9188,13 @@
             "opponent": "Stuttgart",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Augsburg",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Freiburg",
-          "home": false,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Leverkusen",
+          "home": true,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
@@ -9193,7 +9205,7 @@
             "player": "Rayan Philippe"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Miro Muheim"
           },
           "yellowCards": {
@@ -9214,12 +9226,18 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 3,
-        "losses": 8,
+        "losses": 9,
         "points": 15,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Bayern",
+            "score": "1-8",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Freiburg",
@@ -9243,19 +9261,13 @@
             "opponent": "Frankfurt",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Leverkusen",
-            "score": "1-3",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bayern",
-          "home": false,
-          "date": "2026-01-11T16:30Z",
-          "time": "2026-01-11T16:30Z",
+          "opponent": "St. Pauli",
+          "home": true,
+          "date": "2026-01-14T17:30Z",
+          "time": "2026-01-14T17:30Z",
           "status": "scheduled"
         }
       },
@@ -9325,10 +9337,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "RB Leipzig",
-          "home": true,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Wolfsburg",
+          "home": false,
+          "date": "2026-01-14T17:30Z",
+          "time": "2026-01-14T17:30Z",
           "status": "scheduled"
         }
       },
@@ -9360,12 +9372,18 @@
       "TeamStats": {
         "position": 18,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 1,
-        "draws": 5,
+        "draws": 6,
         "losses": 9,
-        "points": 8,
+        "points": 9,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Union Berlin",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "St. Pauli",
@@ -9389,26 +9407,20 @@
             "opponent": "Freiburg",
             "score": "0-4",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Hoffenheim",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Union Berlin",
-          "home": false,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Heidenheim",
+          "home": true,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 4,
             "player": "Nadiem Amiri"
           },
           "assists": {
@@ -9433,12 +9445,18 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 3,
-        "draws": 2,
+        "draws": 3,
         "losses": 10,
-        "points": 11,
+        "points": 12,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Cologne",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Bayern",
@@ -9462,19 +9480,13 @@
             "opponent": "Union Berlin",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Gladbach",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Cologne",
-          "home": true,
-          "date": "2026-01-10T14:30Z",
-          "time": "2026-01-10T14:30Z",
+          "opponent": "Mainz",
+          "home": false,
+          "date": "2026-01-13T19:30Z",
+          "time": "2026-01-13T19:30Z",
           "status": "scheduled"
         }
       },
@@ -9504,14 +9516,20 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 12,
+        "played": 20,
+        "wins": 13,
         "draws": 0,
         "losses": 7,
-        "points": 36,
+        "points": 39,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Sassuolo",
+            "score": "2-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Lecce",
@@ -9535,35 +9553,29 @@
             "opponent": "Juventus",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Como",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Sassuolo",
-          "home": true,
-          "date": "2026-01-10T17:00Z",
-          "time": "2026-01-10T17:00Z",
+          "opponent": "Torino",
+          "home": false,
+          "date": "2026-01-18T17:00Z",
+          "time": "2026-01-18T17:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Matìas Soulè"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Matìas Soulè"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Bryan Cristante"
+            "value": 6,
+            "player": "Mario Hermoso"
           },
           "redCards": {
             "value": 1,
@@ -9579,12 +9591,18 @@
       "TeamStats": {
         "position": 1,
         "positionSuffix": "st",
-        "played": 18,
+        "played": 19,
         "wins": 14,
-        "draws": 0,
+        "draws": 1,
         "losses": 4,
-        "points": 42,
+        "points": 43,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Napoli",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Parma",
@@ -9608,19 +9626,13 @@
             "opponent": "Genoa",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Como",
-            "score": "4-0",
-            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Napoli",
+          "opponent": "Lecce",
           "home": true,
-          "date": "2026-01-11T19:45Z",
-          "time": "2026-01-11T19:45Z",
+          "date": "2026-01-14T19:45Z",
+          "time": "2026-01-14T19:45Z",
           "status": "scheduled"
         }
       },
@@ -9652,12 +9664,18 @@
       "TeamStats": {
         "position": 20,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 1,
-        "draws": 9,
+        "draws": 10,
         "losses": 9,
-        "points": 12,
+        "points": 13,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Udinese",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Como",
@@ -9681,19 +9699,13 @@
             "opponent": "Cagliari",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Lecce",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Udinese",
-          "home": false,
-          "date": "2026-01-10T14:00Z",
-          "time": "2026-01-10T14:00Z",
+          "opponent": "Atalanta",
+          "home": true,
+          "date": "2026-01-16T19:45Z",
+          "time": "2026-01-16T19:45Z",
           "status": "scheduled"
         }
       },
@@ -9708,7 +9720,7 @@
             "player": "Mehdi Léris"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Antonio Caracciolo"
           },
           "redCards": {
@@ -9725,12 +9737,18 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 6,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "points": 23,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "AS Roma",
+            "score": "0-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Juventus",
@@ -9754,19 +9772,13 @@
             "opponent": "Torino",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Milan",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "AS Roma",
+          "opponent": "Napoli",
           "home": false,
-          "date": "2026-01-10T17:00Z",
-          "time": "2026-01-10T17:00Z",
+          "date": "2026-01-17T17:00Z",
+          "time": "2026-01-17T17:00Z",
           "status": "scheduled"
         }
       },
@@ -9836,11 +9848,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Cagliari",
-          "home": true,
-          "date": "2026-01-08T17:30Z",
-          "time": "2026-01-08T17:30Z",
-          "status": "done"
+          "opponent": "Juventus",
+          "home": false,
+          "date": "2026-01-12T19:45Z",
+          "time": "2026-01-12T19:45Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10346,13 +10358,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nantes",
-          "home": false,
-          "date": "2026-01-18T16:15Z",
-          "time": "2026-01-18T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10491,10 +10497,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Jaguars",
+          "opponent": "Broncos",
           "home": false,
-          "date": "2026-01-11T18:00Z",
-          "time": "2026-01-11T18:00Z",
+          "date": "2026-01-17T05:00Z",
+          "time": "2026-01-17T05:00Z",
           "status": "scheduled"
         }
       },
@@ -10570,10 +10576,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Packers",
+          "opponent": "Rams",
           "home": true,
-          "date": "2026-01-11T01:00Z",
-          "time": "2026-01-11T01:00Z",
+          "date": "2026-01-18T05:00Z",
+          "time": "2026-01-18T05:00Z",
           "status": "scheduled"
         }
       },
@@ -10867,7 +10873,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bills",
+          "home": true,
+          "date": "2026-01-17T05:00Z",
+          "time": "2026-01-17T05:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11013,13 +11025,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bears",
-          "home": false,
-          "date": "2026-01-11T01:00Z",
-          "time": "2026-01-11T01:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11385,10 +11391,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Panthers",
+          "opponent": "Bears",
           "home": false,
-          "date": "2026-01-10T21:30Z",
-          "time": "2026-01-10T21:30Z",
+          "date": "2026-01-18T05:00Z",
+          "time": "2026-01-18T05:00Z",
           "status": "scheduled"
         }
       },
@@ -11610,10 +11616,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Chargers",
+          "opponent": "TBD",
           "home": true,
-          "date": "2026-01-12T01:00Z",
-          "time": "2026-01-12T01:00Z",
+          "date": "2026-01-18T05:00Z",
+          "time": "2026-01-18T05:00Z",
           "status": "scheduled"
         }
       },
@@ -11907,13 +11913,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "49ers",
-          "home": true,
-          "date": "2026-01-11T21:30Z",
-          "time": "2026-01-11T21:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12138,13 +12138,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Patriots",
-          "home": false,
-          "date": "2026-01-12T01:00Z",
-          "time": "2026-01-12T01:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12218,10 +12212,10 @@
           }
         ],
         "nextGame": {
-          "opponent": "Eagles",
+          "opponent": "Seahawks",
           "home": false,
-          "date": "2026-01-11T21:30Z",
-          "time": "2026-01-11T21:30Z",
+          "date": "2026-01-17T05:00Z",
+          "time": "2026-01-17T05:00Z",
           "status": "scheduled"
         }
       },
@@ -12296,7 +12290,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "49ers",
+          "home": true,
+          "date": "2026-01-17T05:00Z",
+          "time": "2026-01-17T05:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12515,13 +12515,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rams",
-          "home": true,
-          "date": "2026-01-10T21:30Z",
-          "time": "2026-01-10T21:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12594,13 +12588,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Bills",
-          "home": true,
-          "date": "2026-01-11T18:00Z",
-          "time": "2026-01-11T18:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12791,45 +12779,45 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
+        "played": 25,
         "wins": 6,
-        "losses": 18,
+        "losses": 19,
         "last5": [
           {
             "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "70-95",
+            "opponent": "Perth Wildcats",
+            "score": "75-95",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "86-97",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "86-97",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cairns Taipans",
+            "score": "16-32",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "75-95",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "75-95",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "86-97",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "86-97",
-            "home": true
+            "opponent": "Cairns Taipans",
+            "score": "16-32",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Cairns Taipans",
+          "opponent": "Sydney Kings",
           "home": false,
-          "date": "2026-01-10T17:30:00Z",
+          "date": "2026-01-15T21:30:00Z",
           "status": "scheduled"
         }
       },
@@ -12866,45 +12854,45 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 23,
-        "wins": 6,
+        "played": 24,
+        "wins": 7,
         "losses": 17,
         "last5": [
           {
             "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "96-111",
+            "opponent": "Illawarra Hawks",
+            "score": "78-96",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "93-92",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "93-92",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "32-16",
             "home": true
           },
           {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "78-96",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "78-96",
-            "home": false
-          },
-          {
             "result": "W",
-            "opponent": "Melbourne United",
-            "score": "93-92",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Melbourne United",
-            "score": "93-92",
-            "home": false
+            "opponent": "Brisbane Bullets",
+            "score": "32-16",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Brisbane Bullets",
+          "opponent": "New Zealand Breakers",
           "home": true,
-          "date": "2026-01-10T17:30:00Z",
+          "date": "2026-01-17T19:00:00Z",
           "status": "scheduled"
         }
       },
@@ -12941,24 +12929,12 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 22,
+        "played": 23,
         "wins": 8,
-        "losses": 14,
+        "losses": 15,
         "last5": [
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "92-90",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "96-78",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Cairns Taipans",
             "score": "96-78",
             "home": true
@@ -12974,19 +12950,31 @@
             "opponent": "SE Melbourne Phoenix",
             "score": "113-124",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "96-101",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "96-101",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "New Zealand Breakers",
-          "home": true,
-          "date": "2026-01-11T14:30:00Z",
+          "opponent": "Perth Wildcats",
+          "home": false,
+          "date": "2026-01-16T21:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.1,
+            "value": 20.6,
             "player": "JaVale McGee"
           },
           "assists": {
@@ -12994,7 +12982,7 @@
             "player": "William Hickey"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 9.7,
             "player": "JaVale McGee"
           },
           "blocks": {
@@ -13013,26 +13001,14 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
+        "played": 25,
         "wins": 15,
-        "losses": 9,
+        "losses": 10,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "92-87",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Tasmania JackJumpers",
-            "score": "75-84",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
             "score": "75-84",
@@ -13049,19 +13025,31 @@
             "opponent": "Cairns Taipans",
             "score": "92-93",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "94-97",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "94-97",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Sydney Kings",
-          "home": false,
-          "date": "2026-01-11T16:30:00Z",
+          "opponent": "Tasmania JackJumpers",
+          "home": true,
+          "date": "2026-01-17T21:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 15.6,
+            "value": 15.4,
             "player": "Milton Doyle"
           },
           "assists": {
@@ -13073,7 +13061,7 @@
             "player": "Jesse Edwards"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Fabijan Krslovic"
           },
           "steals": {
@@ -13091,60 +13079,60 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 22,
-        "wins": 8,
-        "losses": 14,
+        "played": 24,
+        "wins": 9,
+        "losses": 15,
         "last5": [
           {
             "result": "L",
-            "opponent": "Brisbane Bullets",
-            "score": "85-99",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "81-80",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "81-80",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Perth Wildcats",
             "score": "91-99",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "91-99",
+            "opponent": "Sydney Kings",
+            "score": "62-103",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "62-103",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "101-96",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "101-96",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Sydney Kings",
-          "home": true,
-          "date": "2026-01-09T17:30:00Z",
+          "opponent": "Cairns Taipans",
+          "home": false,
+          "date": "2026-01-17T19:00:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 17.0,
+            "value": 16.7,
             "player": "Parker Jackson-Cartwright"
           },
           "assists": {
-            "value": 7.7,
+            "value": 7.5,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
-            "value": 7.0,
+            "value": 6.7,
             "player": "Sam Mennenga"
           },
           "blocks": {
@@ -13166,23 +13154,11 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
-        "wins": 11,
+        "played": 25,
+        "wins": 12,
         "losses": 13,
         "last5": [
           {
-            "result": "W",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "87-84",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "90-92",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Illawarra Hawks",
             "score": "90-92",
@@ -13199,23 +13175,35 @@
             "opponent": "Melbourne United",
             "score": "84-75",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Adelaide 36ers",
+            "score": "80-72",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Adelaide 36ers",
+            "score": "80-72",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Adelaide 36ers",
+          "opponent": "Melbourne United",
           "home": false,
-          "date": "2026-01-09T19:30:00Z",
+          "date": "2026-01-17T21:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.5,
+            "value": 18.4,
             "player": "Bryce Hamilton"
           },
           "assists": {
-            "value": 3.6,
+            "value": 3.5,
             "player": "Tyger Campbell"
           },
           "rebounds": {
@@ -13223,7 +13211,7 @@
             "player": "Josh Bannan"
           },
           "blocks": {
-            "value": 1.7,
+            "value": 1.8,
             "player": "Will Magnay"
           },
           "steals": {
@@ -13241,24 +13229,12 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "NBL",
-        "played": 23,
+        "played": 24,
         "wins": 19,
-        "losses": 4,
+        "losses": 5,
         "last5": [
           {
             "result": "W",
-            "opponent": "Perth Wildcats",
-            "score": "95-84",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Sydney Kings",
-            "score": "85-79",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Sydney Kings",
             "score": "85-79",
             "home": true
@@ -13274,31 +13250,43 @@
             "opponent": "Brisbane Bullets",
             "score": "97-86",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Tasmania JackJumpers",
+            "score": "72-80",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Tasmania JackJumpers",
+            "score": "72-80",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Tasmania JackJumpers",
+          "opponent": "SE Melbourne Phoenix",
           "home": true,
-          "date": "2026-01-09T19:30:00Z",
+          "date": "2026-01-18T14:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.7,
+            "value": 25.3,
             "player": "Bryce Cotton"
           },
           "assists": {
-            "value": 7.8,
+            "value": 7.7,
             "player": "Bryce Cotton"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 10.1,
             "player": "Zylan Cheatham"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Isaac Humphries"
           },
           "steals": {
@@ -13316,23 +13304,11 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 23,
-        "wins": 13,
+        "played": 24,
+        "wins": 14,
         "losses": 10,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "84-95",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "95-75",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Brisbane Bullets",
             "score": "95-75",
@@ -13348,20 +13324,32 @@
             "result": "W",
             "opponent": "New Zealand Breakers",
             "score": "99-91",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "107-97",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "107-97",
             "home": false
           }
         ],
         "nextGame": {
-          "opponent": "SE Melbourne Phoenix",
-          "home": false,
-          "date": "2026-01-10T20:00:00Z",
+          "opponent": "Illawarra Hawks",
+          "home": true,
+          "date": "2026-01-16T21:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 17.0,
+            "value": 16.8,
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
@@ -13369,11 +13357,11 @@
             "player": "Kristian Doolittle"
           },
           "rebounds": {
-            "value": 7.4,
+            "value": 7.6,
             "player": "Kristian Doolittle"
           },
           "blocks": {
-            "value": 1.7,
+            "value": 1.6,
             "player": "Jo Lual-Acuil Jr"
           },
           "steals": {
@@ -13391,22 +13379,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "NBL",
-        "played": 23,
+        "played": 24,
         "wins": 16,
-        "losses": 7,
+        "losses": 8,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "111-96",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Sydney Kings",
-            "score": "124-117",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Sydney Kings",
@@ -13423,28 +13399,40 @@
             "result": "W",
             "opponent": "Illawarra Hawks",
             "score": "124-113",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "97-107",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "97-107",
             "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Perth Wildcats",
-          "home": true,
-          "date": "2026-01-10T20:00:00Z",
+          "opponent": "Adelaide 36ers",
+          "home": false,
+          "date": "2026-01-18T14:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.7,
+            "value": 22.8,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 4.6,
+            "value": 4.7,
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 6.1,
+            "value": 6.0,
             "player": "Jordan Hunter"
           },
           "blocks": {
@@ -13463,59 +13451,59 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "NBL",
-        "played": 22,
-        "wins": 13,
+        "played": 24,
+        "wins": 15,
         "losses": 9,
         "last5": [
           {
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "117-124",
+            "home": true
+          },
+          {
             "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "95-70",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "79-85",
+            "opponent": "New Zealand Breakers",
+            "score": "103-62",
             "home": false
           },
           {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "79-85",
+            "result": "W",
+            "opponent": "New Zealand Breakers",
+            "score": "103-62",
             "home": false
           },
           {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "117-124",
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "97-94",
             "home": true
           },
           {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "117-124",
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "97-94",
             "home": true
           }
         ],
         "nextGame": {
-          "opponent": "New Zealand Breakers",
-          "home": false,
-          "date": "2026-01-09T17:30:00Z",
+          "opponent": "Brisbane Bullets",
+          "home": true,
+          "date": "2026-01-15T21:30:00Z",
           "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.0,
             "player": "Kendric Davis"
           },
           "assists": {
-            "value": 5.7,
+            "value": 5.8,
             "player": "Kendric Davis"
           },
           "rebounds": {
