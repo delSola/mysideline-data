@@ -2141,7 +2141,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Natan"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -6153,7 +6153,7 @@
             "player": "Jalen Johnson"
           },
           "rebounds": {
-            "value": 10.2,
+            "value": 10.3,
             "player": "Jalen Johnson"
           },
           "blocks": {
@@ -7723,7 +7723,7 @@
             "player": "Franz Wagner"
           },
           "assists": {
-            "value": 4.8,
+            "value": 4.9,
             "player": "Paolo Banchero"
           },
           "rebounds": {
@@ -7794,15 +7794,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 30.7,
+            "value": 30.9,
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 8.9,
+            "value": 8.8,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -7948,7 +7948,7 @@
             "player": "Deni Avdija"
           },
           "assists": {
-            "value": 7.0,
+            "value": 6.9,
             "player": "Deni Avdija"
           },
           "rebounds": {
@@ -8323,7 +8323,7 @@
             "player": "CJ McCollum"
           },
           "assists": {
-            "value": 5.0,
+            "value": 4.9,
             "player": "Kyshawn George"
           },
           "rebounds": {
