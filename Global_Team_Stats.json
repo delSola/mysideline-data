@@ -1517,6 +1517,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Sevilla",
+            "score": "1-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Valencia",
             "score": "4-1",
             "home": true
@@ -1538,12 +1544,6 @@
             "opponent": "Real Madrid",
             "score": "2-0",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Espanyol",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {
@@ -2204,20 +2204,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 18,
+            "player": "Kylian Mbappé"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Arda Güler"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Vinícius Júnior"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Álvaro Carreras"
           }
         }
       }
@@ -2379,6 +2379,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Celta Vigo",
+            "score": "0-1",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Levante",
             "score": "0-3",
             "home": true
@@ -2400,12 +2406,6 @@
             "opponent": "Valencia",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Betis",
-            "score": "0-2",
-            "home": true
           }
         ],
         "nextGame": {
@@ -2784,7 +2784,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Nicolò Cambiaghi"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -3313,6 +3313,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Cremonese",
+            "score": "5-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Sassuolo",
             "score": "3-0",
             "home": false
@@ -3334,12 +3340,6 @@
             "opponent": "AS Roma",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Bologna",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {
@@ -3558,13 +3558,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": true,
-          "date": "2026-01-14T17:30Z",
-          "time": "2026-01-14T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9817,6 +9811,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Juventus",
+            "score": "0-5",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Cagliari",
             "score": "2-2",
@@ -9838,12 +9838,6 @@
             "result": "D",
             "opponent": "Lazio",
             "score": "0-0",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Torino",
-            "score": "0-1",
             "home": false
           }
         ],
