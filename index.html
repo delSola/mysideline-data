@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MySideline</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="app-container">
+    <div class="settings-panel collapsed" id="settingsPanel">
+      <div class="settings-toggle" onclick="toggleSettingsPanel()">
+        <div class="brand-small">MySideline</div>
+        <div class="toggle-icon">
+          <!-- Gear Icon SVG -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path
+              d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.1a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z">
+            </path>
+            <circle cx="12" cy="12" r="3"></circle>
+          </svg>
+        </div>
+      </div>
+
+      <div class="settings-content">
+        <div class="brand-large">
+          <h1>MySideline<span>.live</span></h1>
+          <p class="subtitle">One Stop to see how your fellas are doing</p>
+        </div>
+
+        <div class="controls-grid">
+          <!-- Action Buttons -->
+          <div class="control-group actions">
+            <button class="action-btn primary" onclick="openAddTeamModal()">+ Add Team</button>
+            <button class="action-btn danger" onclick="confirmClearAll()">Clear All Teams</button>
+          </div>
+
+          <!-- Settings Row -->
+          <div class="settings-row">
+            <div class="control-group">
+              <label>Theme</label>
+              <div class="toggle-switch" onclick="toggleSetting('theme')" id="themeToggle">
+                <span class="switch-knob"></span>
+                <span class="switch-label">Light</span>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <label>Sort By</label>
+              <div class="pill-selector" id="sortSelector">
+                <button class="pill" onclick="setSort('next-match')" data-value="next-match">Next Match</button>
+                <button class="pill" onclick="setSort('a-z')" data-value="a-z">A-Z</button>
+                <button class="pill" onclick="setSort('z-a')" data-value="z-a">Z-A</button>
+                <button class="pill" onclick="setSort('position')" data-value="position">Position</button>
+                <button class="pill" onclick="setSort('league')" data-value="league">League</button>
+                <button class="pill" onclick="setSort('color')" data-value="color">Color</button>
+                <button class="pill" onclick="setSort('random')" data-value="random">Random</button>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <label>Timer</label>
+              <div class="toggle-switch" onclick="toggleSetting('timer')" id="timerToggle">
+                <span class="switch-knob"></span>
+                <span class="switch-label">Yes</span>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <label>Timezone</label>
+              <select id="timezoneSelect" onchange="updateTimezone()" class="pill-selector"
+                style="height: 44px; padding: 0 16px; border-radius: 22px; font-weight: 700; color: var(--text-secondary);">
+                <!-- Populated via JS -->
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid" id="grid"></div>
+
+    <!-- Add Team Modal -->
+    <div class="modal" id="addTeamModal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Add Team</h2>
+          <button class="close-btn" onclick="closeAddTeamModal()">&times;</button>
+        </div>
+
+        <div class="modal-body">
+          <div class="form-group">
+            <label for="teamSearch">Search Team</label>
+            <input type="text" id="teamSearch" placeholder="Type to search teams..." oninput="filterTeams()">
+          </div>
+
+          <div class="form-group">
+            <label for="sportSelect">Sport</label>
+            <select id="sportSelect" onchange="updateLeagueOptions()">
+              <option value="">All Sports</option>
+              <!-- Sports will be populated dynamically from Teams.json -->
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="leagueSelect">League</label>
+            <select id="leagueSelect" onchange="filterTeams()">
+              <option value="">All Leagues</option>
+            </select>
+          </div>
+
+          <div class="team-list" id="teamList"></div>
+        </div>
+
+        <div class="modal-footer">
+          <button class="btn-secondary" onclick="closeAddTeamModal()">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Confirm Delete Modal -->
+    <div class="modal" id="confirmDeleteModal">
+      <div class="modal-content modal-small">
+        <div class="modal-header">
+          <h2>Remove Team</h2>
+          <button class="close-btn" onclick="closeConfirmDeleteModal()">&times;</button>
+        </div>
+
+        <div class="modal-body">
+          <p>Are you sure you want to remove <strong id="deleteTeamName"></strong>?</p>
+        </div>
+
+        <div class="modal-footer">
+          <button class="btn-secondary" onclick="closeConfirmDeleteModal()">Cancel</button>
+          <button class="btn-danger" onclick="confirmDelete()">Remove</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Confirm Clear All Modal -->
+    <div class="modal" id="confirmClearAllModal">
+      <div class="modal-content modal-small">
+        <div class="modal-header">
+          <h2>Clear All Teams</h2>
+          <button class="close-btn" onclick="closeConfirmClearAllModal()">&times;</button>
+        </div>
+
+        <div class="modal-body">
+          <p>This will remove <strong>ALL</strong> your tracked teams. This action cannot be undone.</p>
+        </div>
+
+        <div class="modal-footer">
+          <button class="btn-secondary" onclick="closeConfirmClearAllModal()">Cancel</button>
+          <button class="btn-danger" onclick="clearAllTeams()">Clear All</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Available sports and their leagues
+      const sportConfigs = {
+        soccer: {
+          name: "Soccer",
+          leagues: [
+            { name: "Premier League", path: "soccer/eng.1" },
+            { name: "La Liga", path: "soccer/esp.1" },
+            { name: "La Liga 2", path: "soccer/spain.2" },
+            { name: "Bundesliga", path: "soccer/ger.1" },
+            { name: "Serie A", path: "soccer/ita.1" },
+            { name: "Ligue 1", path: "soccer/fra.1" },
+            { name: "MLS", path: "soccer/usa.1" }
+          ]
+        },
+        basketball: {
+          name: "Basketball",
+          leagues: [
+            { name: "NBA", path: "basketball/nba" }
+          ]
+        },
+        football: {
+          name: "Football",
+          leagues: [
+            { name: "NFL", path: "football/nfl" }
+          ]
+        },
+        hockey: {
+          name: "Hockey",
+          leagues: [
+            { name: "NHL", path: "hockey/nhl" }
+          ]
+        },
+        cricket: {
+          name: "Cricket",
+          leagues: [
+            { name: "IPL", path: "cricket/ipl" }
+          ]
+        }
+      };
+
+      // Data Stores
+      // 1. Static Catalog (Teams.json)
+      let allTeamsIds = [];
+      // 2. Global "API" Cache (backend/db/Global_Team_Stats.json)
+      let globalScoresCache = [];
+      // 3. User's Saved Team Identities (LocalStorage: 'sportsboy_my_teams')
+      //    Format: [{ name: "Arsenal", sport: "Soccer", league: "Premier League", color: "..." }]
+      let myTeamsList = [];
+      // 4. Local Score Cache (LocalStorage: 'sportsboy_scores_local') - The "ScoresLocal.json"
+      //    Format: [{ TeamName: "Arsenal", Sport: "Soccer", TeamStats: {...}, PlayerStats: {...} }]
+      let localScoresCache = [];
+      // 5. User Settings (LocalStorage: 'sportsboy_settings')
+      let settings = {
+        theme: 'light',
+        sort: 'next-match',
+        timer: true,
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone
+      };
+
+      // View Model
+      // The data actually being rendered (Merge of myTeamsList + localScoresCache)
+      let teamsData = [];
+
+      let activeMatch = {};
+      let openStats = {};
+      let availableTeams = [];
+      let filteredTeams = [];
+      let teamToDelete = null;
+      let selectedTeamIndex = null;
+      let dragSrcIndex = null;
+
+      // Load initial data
+      async function loadData() {
+        // 1. Load Static Catalog
+        await loadAllTeams();
+
+        // 2. Load Local Persistence (Immediate UI Render)
+        loadLocalData();
+        loadSettings(); // Load settings
+        populateTimezones(); // New: Populate timezone select
+        cleanUpLocalCache(); // Remove orphans
+        renderCards(teamsData);
+
+        // 3. Fetch "Global API" Updates in Background
+        await fetchGlobalScores();
+
+        // 4. Start Live Ticker
+        startCountdownTicker();
+      }
+
+      function loadSettings() {
+        const storedSettings = localStorage.getItem('sportsboy_settings');
+        if (storedSettings) {
+          try {
+            const parsed = JSON.parse(storedSettings);
+            // Merge with defaults to ensure all keys exist
+            settings = { ...settings, ...parsed };
+          } catch (e) {
+            console.error("Failed to parse settings", e);
+          }
+        }
+        updateSettingsUI();
+      }
+
+      function saveSettings() {
+        localStorage.setItem('sportsboy_settings', JSON.stringify(settings));
+      }
+
+      function toggleSettingsPanel() {
+        const panel = document.getElementById('settingsPanel');
+        panel.classList.toggle('collapsed');
+        const icon = panel.querySelector('.toggle-icon');
+        icon.style.transform = panel.classList.contains('collapsed') ? 'rotate(0deg)' : 'rotate(180deg)';
+      }
+
+      function updateSettingsUI() {
+        // Apply Theme Attribute to Body
+        document.body.setAttribute('data-theme', settings.theme);
+
+        // Theme Toggle UI
+        const themeToggle = document.getElementById('themeToggle');
+        const themeLabel = themeToggle.querySelector('.switch-label');
+        themeToggle.classList.toggle('active', settings.theme === 'dark');
+        themeLabel.textContent = settings.theme === 'dark' ? 'Dark' : 'Light';
+
+        // Timer
+        const timerToggle = document.getElementById('timerToggle');
+        const timerLabel = timerToggle.querySelector('.switch-label');
+        timerToggle.classList.toggle('active', settings.timer);
+        timerLabel.textContent = settings.timer ? 'Yes' : 'No';
+
+        // Sort
+        document.querySelectorAll('.pill').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.value === settings.sort);
+        });
+
+        // Timezone
+        const tzSelect = document.getElementById('timezoneSelect');
+        if (tzSelect.options.length > 0) {
+          tzSelect.value = settings.timezone;
+        }
+      }
+
+      function toggleSetting(key) {
+        if (key === 'theme') {
+          settings.theme = settings.theme === 'light' ? 'dark' : 'light';
+        } else if (key === 'timer') {
+          settings.timer = !settings.timer;
+        }
+        saveSettings();
+        updateSettingsUI();
+        // Force re-render if timer changed to show/hide countdowns
+        if (key === 'timer') {
+          renderCards(teamsData);
+        }
+      }
+
+      function setSort(value) {
+        settings.sort = value;
+        saveSettings();
+        updateSettingsUI();
+        applySort();
+        renderCards(teamsData);
+      }
+
+      function applySort() {
+        if (settings.sort === 'a-z') {
+          teamsData.sort((a, b) => a.name.localeCompare(b.name));
+        } else if (settings.sort === 'z-a') {
+          teamsData.sort((a, b) => b.name.localeCompare(a.name));
+        } else if (settings.sort === 'league') {
+          // Sort by League Name -> Tie-breaker: Position
+          teamsData.sort((a, b) => {
+            const leagueDiff = a.league.localeCompare(b.league);
+            if (leagueDiff !== 0) return leagueDiff;
+
+            const posA = a.position === '-' ? 999 : parseInt(a.position);
+            const posB = b.position === '-' ? 999 : parseInt(b.position);
+            return posA - posB;
+          });
+        } else if (settings.sort === 'position') {
+          // Sort by numeric position (asc)
+          teamsData.sort((a, b) => {
+            const posA = a.position === '-' ? 999 : parseInt(a.position);
+            const posB = b.position === '-' ? 999 : parseInt(b.position);
+            return posA - posB;
+          });
+        } else if (settings.sort === 'color') {
+          // Sort by Hue (Rainbow)
+          teamsData.sort((a, b) => getHue(a.color) - getHue(b.color));
+        } else if (settings.sort === 'next-match') {
+          // Sort by Next Game Date (Soonest first)
+          teamsData.sort((a, b) => {
+            const dateA = a.nextGame && a.nextGame.date ? new Date(a.nextGame.date).getTime() : Infinity;
+            const dateB = b.nextGame && b.nextGame.date ? new Date(b.nextGame.date).getTime() : Infinity;
+            return dateA - dateB;
+          });
+        } else if (settings.sort === 'random') {
+          teamsData.sort(() => Math.random() - 0.5);
+        }
+        // 'manual' uses current order
+      }
+
+      function getHue(hex) {
+        // Simple hex to hsl conversion for Hue
+        let r = 0, g = 0, b = 0;
+        if (hex.length === 4) {
+          r = parseInt("0x" + hex[1] + hex[1]);
+          g = parseInt("0x" + hex[2] + hex[2]);
+          b = parseInt("0x" + hex[3] + hex[3]);
+        } else if (hex.length === 7) {
+          r = parseInt("0x" + hex[1] + hex[2]);
+          g = parseInt("0x" + hex[3] + hex[4]);
+          b = parseInt("0x" + hex[5] + hex[6]);
+        }
+        r /= 255; g /= 255; b /= 255;
+        let cmin = Math.min(r, g, b), cmax = Math.max(r, g, b), delta = cmax - cmin;
+        let h = 0;
+        if (delta === 0) h = 0;
+        else if (cmax === r) h = ((g - b) / delta) % 6;
+        else if (cmax === g) h = (b - r) / delta + 2;
+        else h = (r - g) / delta + 4;
+        h = Math.round(h * 60);
+        if (h < 0) h += 360;
+        return h;
+      }
+
+      function confirmClearAll() {
+        document.getElementById('confirmClearAllModal').classList.add('show');
+      }
+
+      function closeConfirmClearAllModal() {
+        document.getElementById('confirmClearAllModal').classList.remove('show');
+      }
+
+      function clearAllTeams() {
+        myTeamsList = [];
+        localScoresCache = [];
+        saveMyTeams();
+        saveLocalCache();
+        updateViewModel();
+        renderCards(teamsData);
+        closeConfirmClearAllModal();
+      }
+
+      function loadLocalData() {
+        // Load Identity List
+        const storedIdentity = localStorage.getItem('sportsboy_my_teams');
+        if (storedIdentity) {
+          myTeamsList = JSON.parse(storedIdentity);
+          // Migration: Ensure ordernumber exists
+          myTeamsList.forEach((t, i) => {
+            if (t.ordernumber === undefined) t.ordernumber = i;
+          });
+        } else {
+          // Migration from old version if needed, otherwise empty
+          myTeamsList = [];
+        }
+
+        // Load Data Cache
+        const storedScores = localStorage.getItem('sportsboy_scores_local');
+        if (storedScores) {
+          localScoresCache = JSON.parse(storedScores);
+        }
+
+        // Merge for Render
+        updateViewModel();
+      }
+
+      async function fetchGlobalScores() {
+        try {
+          // Simulating API Call
+          const res = await fetch('backend/db/Global_Team_Stats.json');
+          const data = await res.json();
+          globalScoresCache = data.scores || [];
+
+          // Sync Logic: Update Local Cache with fresher data from Global
+          syncLocalWithGlobal();
+        } catch (error) {
+          console.error('Failed to load backend/db/Global_Team_Stats.json:', error);
+        }
+      }
+
+      function syncLocalWithGlobal() {
+        let dataChanged = false;
+
+        // For every team I follow...
+        myTeamsList.forEach(myTeam => {
+          // Find fresh data in Global
+          const freshGlobal = globalScoresCache.find(s =>
+            s.TeamName.toLowerCase() === myTeam.name.toLowerCase()
+          );
+
+          if (freshGlobal) {
+            // Check if we already have it in local cache
+            const localIndex = localScoresCache.findIndex(s =>
+              s.TeamName.toLowerCase() === myTeam.name.toLowerCase()
+            );
+
+            if (localIndex === -1) {
+              // New data! Add to cache
+              localScoresCache.push(freshGlobal);
+              dataChanged = true;
+            } else {
+              // Update existing cache (In a real app, we'd check timestamps)
+              // For now, always replace with global as global is "Live"
+              localScoresCache[localIndex] = freshGlobal;
+              dataChanged = true;
+            }
+          }
+        });
+
+        if (dataChanged) {
+          saveLocalCache();
+          updateViewModel();
+          renderCards(teamsData);
+        }
+      }
+
+      function cleanUpLocalCache() {
+        // Create a Set of valid team names from myTeamsList
+        const validNames = new Set(myTeamsList.map(t => t.name));
+        const initialSize = localScoresCache.length;
+
+        // Filter out any cache entries that are not in validNames
+        localScoresCache = localScoresCache.filter(s => validNames.has(s.TeamName));
+
+        if (localScoresCache.length !== initialSize) {
+          console.log(`Cleaned up ${initialSize - localScoresCache.length} orphaned cache entries`);
+          saveLocalCache();
+        }
+      }
+
+      // Merge Identity (myTeamsList) + Data (localScoresCache) -> UI (teamsData)
+      function updateViewModel() {
+        teamsData = myTeamsList.map(team => {
+          // Find matching data in local cache
+          const scoreData = localScoresCache.find(s =>
+            s.TeamName.toLowerCase() === team.name.toLowerCase()
+          );
+
+          if (!scoreData) {
+            // Fallback: No data downloaded yet
+            const catalogTeam = availableTeams.find(t => t.name.toLowerCase() === team.name.toLowerCase());
+
+            return {
+              ...team,
+              logo: catalogTeam?.logo || team.logo || '',
+              position: '-',
+              positionSuffix: '',
+              played: 0,
+              wins: 0,
+              draws: 0,
+              losses: 0,
+              points: 0,
+              last5: [],
+              nextGame: { opponent: 'TBD', home: true, date: new Date().toISOString(), status: 'scheduled' },
+              leaders: {}
+            };
+          }
+
+          // Hydrate with Cached Data
+          const ts = scoreData.TeamStats || {};
+          const ps = scoreData.PlayerStats || {};
+
+          const catalogTeam = availableTeams.find(t => t.name.toLowerCase() === team.name.toLowerCase());
+
+          return {
+            ...team,
+            logo: catalogTeam?.logo || team.logo || '',
+            position: ts.position !== undefined ? ts.position : '-',
+            positionSuffix: ts.positionSuffix !== undefined ? ts.positionSuffix : '',
+            conference: ts.conference || '',
+            played: ts.played !== undefined ? ts.played : 0,
+            wins: ts.wins !== undefined ? ts.wins : 0,
+            draws: ts.draws !== undefined ? ts.draws : 0,
+            losses: ts.losses !== undefined ? ts.losses : 0,
+            points: ts.points !== undefined ? ts.points : 0,
+            last5: ts.last5 || [],
+            nextGame: ts.nextGame || {},
+            leaders: ps.leaders || {}
+          };
+        });
+      }
+
+      function saveMyTeams() {
+        localStorage.setItem('sportsboy_my_teams', JSON.stringify(myTeamsList));
+      }
+
+      function saveLocalCache() {
+        localStorage.setItem('sportsboy_scores_local', JSON.stringify(localScoresCache));
+      }
+
+      function addTeam(name, league, sport, color, logo) {
+        // 1. Add to Identity List
+        const newIdentity = { name, league, sport, color, logo: logo || '', ordernumber: myTeamsList.length };
+
+        // Prevent Duplicates
+        if (myTeamsList.some(t => t.name === name)) {
+          closeAddTeamModal();
+          return;
+        }
+
+        myTeamsList.push(newIdentity);
+        saveMyTeams();
+
+        // 2. Optimistic Fetch from Global (if already loaded) or Wait for Sync
+        const freshGlobal = globalScoresCache.find(s =>
+          s.TeamName.toLowerCase() === name.toLowerCase()
+        );
+
+        if (freshGlobal) {
+          // Create/Update Local Cache Entry
+          const localIndex = localScoresCache.findIndex(s => s.TeamName.toLowerCase() === name.toLowerCase());
+          if (localIndex > -1) {
+            localScoresCache[localIndex] = freshGlobal;
+          } else {
+            localScoresCache.push(freshGlobal);
+          }
+          saveLocalCache();
+        }
+
+        // 3. Update UI
+        updateViewModel();
+        renderCards(teamsData);
+        closeAddTeamModal();
+      }
+
+
+      // Rendering Functions
+      function getSportType(team) {
+        const sport = (team.sport || '').toLowerCase();
+        if (sport.includes('basketball')) return 'basketball';
+        if (sport.includes('football') || sport.includes('american')) return 'american football';
+        if (sport.includes('soccer')) return 'soccer';
+        if (team.league === 'NBA') return 'basketball';
+        if (team.league === 'NFL') return 'american football';
+        if (team.league === 'NFL') return 'american football';
+        if (sport.includes('cricket') || team.league === 'IPL') return 'cricket';
+        return 'soccer';
+      }
+
+      function getWinPct(wins, losses, draws = 0) {
+        const total = wins + losses + draws;
+        if (total === 0) return '.000';
+        // NFL Win % = (Wins + 0.5 * Ties) / Total
+        const pct = (wins + 0.5 * draws) / total;
+        return pct.toFixed(3).replace('0.', '.');
+      }
+
+      function renderRecordRow(team) {
+        const sportType = getSportType(team);
+
+        if (sportType === 'basketball' || sportType === 'american football') {
+          // User asked for "7-9-1".
+          const draws = team.draws || 0;
+          // Always show draws for American Football, or if > 0 for others (unlikely for basketball)
+          const showDraws = draws > 0 || sportType === 'american football';
+          const drawHtml = showDraws
+            ? `<span class="record-separator">•</span><span class="record-item draws">D${draws}</span>`
+            : '';
+
+          return `
+          <div class="record-row">
+            <span class="record-item">P${team.played}</span>
+            <span class="record-separator">•</span>
+            <span class="record-item wins">W${team.wins}</span>
+            <span class="record-separator">•</span>
+            <span class="record-item losses">L${team.losses}</span>
+            ${drawHtml}
+            <span class="record-separator">•</span>
+            <span class="record-item pct">${getWinPct(team.wins, team.losses, draws)}</span>
+          </div>
+        `;
+        } else if (sportType === 'cricket') {
+          return `
+          <div class="record-row">
+            <span class="record-item">P${team.played}</span>
+            <span class="record-separator">•</span>
+            <span class="record-item">${team.points}pts</span>
+            <span class="record-separator">•</span>
+            <span class="record-item wins">W${team.wins}</span>
+            <span class="record-item losses">L${team.losses}</span>
+             <span class="record-separator">•</span>
+            <span class="record-item">NRR ${team.nrr !== undefined ? team.nrr : '0.00'}</span>
+          </div>
+        `;
+        } else {
+          return `
+          <div class="record-row">
+            <span class="record-item">P${team.played}</span>
+            <span class="record-separator">•</span>
+            <span class="record-item">${team.points}pts</span>
+            <span class="record-separator">•</span>
+            <span class="record-item wins">W${team.wins}</span>
+            <span class="record-item draws">D${team.draws}</span>
+            <span class="record-item losses">L${team.losses}</span>
+          </div>
+        `;
+        }
+      }
+
+      function renderLeaders(team, teamIndex) {
+        const leaders = team.leaders;
+        if (!leaders) return '';
+
+        const sportType = getSportType(team);
+
+        if (sportType === 'basketball') {
+          return `
+          <div class="leaders" id="leaders-${teamIndex}">
+            <div class="leaders-grid">
+              <div class="leader-item">
+                <div class="leader-category">Points</div>
+                <div class="leader-player">${leaders.points?.player || '-'}</div>
+                <div class="leader-value">${leaders.points?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Assists</div>
+                <div class="leader-player">${leaders.assists?.player || '-'}</div>
+                <div class="leader-value">${leaders.assists?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Rebounds</div>
+                <div class="leader-player">${leaders.rebounds?.player || '-'}</div>
+                <div class="leader-value">${leaders.rebounds?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Blocks</div>
+                <div class="leader-player">${leaders.blocks?.player || '-'}</div>
+                <div class="leader-value">${leaders.blocks?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Steals</div>
+                <div class="leader-player">${leaders.steals?.player || '-'}</div>
+                <div class="leader-value">${leaders.steals?.value || '-'}</div>
+              </div>
+            </div>
+          </div>
+        `;
+        } else if (sportType === 'american football') {
+          return `
+          <div class="leaders" id="leaders-${teamIndex}">
+            <div class="leaders-grid">
+              <div class="leader-item">
+                <div class="leader-category">Pass Yds</div>
+                <div class="leader-player">${leaders.passingYards?.player || '-'}</div>
+                <div class="leader-value">${leaders.passingYards?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Rush Yds</div>
+                <div class="leader-player">${leaders.rushingYards?.player || '-'}</div>
+                <div class="leader-value">${leaders.rushingYards?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Rec Yds</div>
+                <div class="leader-player">${leaders.receivingYards?.player || '-'}</div>
+                <div class="leader-value">${leaders.receivingYards?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">TDs</div>
+                <div class="leader-player">${leaders.touchdowns?.player || '-'}</div>
+                <div class="leader-value">${leaders.touchdowns?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Tackles</div>
+                <div class="leader-player">${leaders.tackles?.player || '-'}</div>
+                <div class="leader-value">${leaders.tackles?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">INTs</div>
+                <div class="leader-player">${leaders.interceptions?.player || '-'}</div>
+                <div class="leader-value">${leaders.interceptions?.value || '-'}</div>
+              </div>
+            </div>
+          </div>
+        `;
+        } else if (sportType === 'cricket') {
+          return `
+          <div class="leaders" id="leaders-${teamIndex}">
+            <div class="leaders-grid">
+              <div class="leader-item">
+                <div class="leader-category">Runs</div>
+                <div class="leader-player">${leaders.runs?.player || '-'}</div>
+                <div class="leader-value">${leaders.runs?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Wickets</div>
+                <div class="leader-player">${leaders.wickets?.player || '-'}</div>
+                <div class="leader-value">${leaders.wickets?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">High Score</div>
+                <div class="leader-player">${leaders.highScore?.player || '-'}</div>
+                <div class="leader-value">${leaders.highScore?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Best Bowl</div>
+                <div class="leader-player">${leaders.bestBowling?.player || '-'}</div>
+                <div class="leader-value">${leaders.bestBowling?.value || '-'}</div>
+              </div>
+            </div>
+          </div>
+        `;
+        } else {
+          return `
+          <div class="leaders" id="leaders-${teamIndex}">
+            <div class="leaders-grid">
+              <div class="leader-item">
+                <div class="leader-category">Goals</div>
+                <div class="leader-player">${leaders.goals?.player || '-'}</div>
+                <div class="leader-value">${leaders.goals?.value || '-'}</div>
+              </div>
+              <div class="leader-item">
+                <div class="leader-category">Assists</div>
+                <div class="leader-player">${leaders.assists?.player || '-'}</div>
+                <div class="leader-value">${leaders.assists?.value || '-'}</div>
+              </div>
+              <div class="leader-item yellow">
+                <div class="leader-category">Yellow Cards</div>
+                <div class="leader-player">${leaders.yellowCards?.player || '-'}</div>
+                <div class="leader-value">${leaders.yellowCards?.value || '-'}</div>
+              </div>
+              <div class="leader-item red">
+                <div class="leader-category">Red Cards</div>
+                <div class="leader-player">${leaders.redCards?.player || '-'}</div>
+                <div class="leader-value">${leaders.redCards?.value || '-'}</div>
+              </div>
+            </div>
+          </div>
+        `;
+        }
+      }
+
+      function renderCards(teams) {
+        const grid = document.getElementById('grid');
+
+        if (teams.length === 0) {
+          grid.innerHTML = '';
+          return;
+        }
+
+        grid.innerHTML = teams.map((team, teamIndex) => `
+        <div class="card ${selectedTeamIndex === teamIndex ? 'selected' : ''}" 
+             style="--team-color: ${team.color}"
+             style="--team-color: ${team.color}"
+             onclick="selectCard(event, ${teamIndex})">
+          <div class="card-accent"></div>
+          
+          <div class="reorder-controls ${selectedTeamIndex === teamIndex ? 'show' : ''}" onclick="event.stopPropagation()">
+            <button class="reorder-btn" onclick="moveTeam(event, ${teamIndex}, -1)" title="Move Up">▲</button>
+            <button class="reorder-btn" onclick="moveTeam(event, ${teamIndex}, 1)" title="Move Down">▼</button>
+          </div>
+
+          <button class="delete-btn ${selectedTeamIndex === teamIndex ? 'show' : ''}" onclick="openConfirmDeleteModal(${teamIndex}); event.stopPropagation();" title="Remove team">×</button>
+          <div class="card-body">
+            <div class="card-header">
+              <div class="team-logo">
+                ${team.logo ? `<img src="${team.logo}" alt="${team.name} logo" onerror="this.style.display='none'; this.parentElement.innerText='Logo'">` : 'Logo'}
+              </div>
+              <div class="team-info">
+                <div class="team-name">${team.name}</div>
+                <div class="league">${team.league}</div>
+              </div>
+              <div class="position-badge">
+                ${team.conference
+            ? `<div class="position-visual"><div class="position-number">${team.position}</div><div class="position-suffix">${team.positionSuffix}</div></div><div class="position-division">${team.conference}</div>`
+            : `<div class="position-visual"><div class="position-number">${team.position}</div><div class="position-suffix">${team.positionSuffix}</div></div><div class="position-suffix"></div>`
+          }
+              </div>
+            </div>
+            
+            ${renderRecordRow(team)}
+            
+            <div class="section-label">Last 5</div>
+            <div class="last5">
+              ${(team.last5 || []).map((match, matchIndex) => `
+                <div class="result ${match.result}" 
+                     onclick="toggleMatch(${teamIndex}, ${matchIndex})"
+                     id="result-${teamIndex}-${matchIndex}">
+                  ${match.result}
+                </div>
+              `).join('')}
+            </div>
+            <div class="match-details" id="details-${teamIndex}"></div>
+            
+            <div class="stats-toggle ${openStats[teamIndex] ? 'open' : ''}" onclick="toggleStats(${teamIndex})" id="toggle-${teamIndex}">
+              <span class="stats-toggle-label">Player Stats</span>
+              <span class="stats-toggle-icon">▼</span>
+            </div>
+            ${renderLeaders(team, teamIndex)}
+            
+            <div class="next-game">
+              <div class="next-label">Next Game</div>
+              <div class="opponent">vs ${team.nextGame?.opponent || 'TBD'}</div>
+              <div class="venue">
+                ${team.nextGame?.home ? 'Home' : 'Away'}
+                •
+                <span class="game-time">${formatGameTime(team.nextGame?.date)}</span>
+              </div>
+              
+              ${settings.timer ? `<div class="countdown ${team.nextGame?.status}" id="countdown-${teamIndex}">${getCountdown(team.nextGame?.date, team.nextGame?.status)}</div>` : ''}
+            </div>
+          </div>
+        </div>
+      `).join('');
+
+        Object.keys(openStats).forEach(idx => {
+          if (openStats[idx]) {
+            const leadersEl = document.getElementById(`leaders-${idx}`);
+            const toggleEl = document.getElementById(`toggle-${idx}`);
+            if (leadersEl) leadersEl.classList.add('show');
+            if (toggleEl) toggleEl.classList.add('open');
+          }
+        });
+      }
+
+      function toggleStats(teamIndex) {
+        const leadersEl = document.getElementById(`leaders-${teamIndex}`);
+        const toggleEl = document.getElementById(`toggle-${teamIndex}`);
+
+        if (openStats[teamIndex]) {
+          leadersEl.classList.remove('show');
+          toggleEl.classList.remove('open');
+          delete openStats[teamIndex];
+        } else {
+          leadersEl.classList.add('show');
+          toggleEl.classList.add('open');
+          openStats[teamIndex] = true;
+        }
+      }
+
+      function toggleMatch(teamIndex, matchIndex) {
+        const detailsEl = document.getElementById(`details-${teamIndex}`);
+        const match = teamsData[teamIndex].last5[matchIndex];
+
+        for (let i = 0; i < 5; i++) {
+          const el = document.getElementById(`result-${teamIndex}-${i}`);
+          if (el) el.classList.remove('active');
+        }
+
+        if (activeMatch[teamIndex] === matchIndex) {
+          detailsEl.classList.remove('show');
+          delete activeMatch[teamIndex];
+          return;
+        }
+
+        activeMatch[teamIndex] = matchIndex;
+        document.getElementById(`result-${teamIndex}-${matchIndex}`).classList.add('active');
+
+        detailsEl.innerHTML = `
+        <div class="detail-row">
+          <span class="label">Opponent</span>
+          <span class="value">${match.opponent}</span>
+        </div>
+        <div class="detail-row">
+          <span class="label">Score</span>
+          <span class="value">${match.score}</span>
+        </div>
+        <div class="detail-row">
+          <span class="label">Venue</span>
+          <span class="value">${match.home ? '🏠 Home' : '✈️ Away'}</span>
+        </div>
+      `;
+        detailsEl.classList.add('show');
+      }
+
+      function getCountdown(dateStr, status) {
+        if (!dateStr) return '';
+        if (status === 'live') return '🔴 LIVE';
+        if (status === 'done') return '✓ DONE';
+
+        const diff = new Date(dateStr) - new Date();
+        if (diff < 0) return '🔴 LIVE';
+
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+
+        if (days > 0) return `${days}d ${hours}h`;
+        return `${hours}h ${mins}m`;
+      }
+
+
+
+      // RESTORED Modal & Search Functions
+      function openAddTeamModal() {
+        document.getElementById('addTeamModal').classList.add('show');
+        resetAddTeamForm();
+      }
+
+      function closeAddTeamModal() {
+        document.getElementById('addTeamModal').classList.remove('show');
+      }
+
+      function resetAddTeamForm() {
+        document.getElementById('sportSelect').value = '';
+        document.getElementById('leagueSelect').value = '';
+        document.getElementById('leagueSelect').innerHTML = '<option value="">All Leagues</option>';
+        document.getElementById('teamSearch').value = '';
+        // Trigger load if empty
+        loadAllTeams();
+      }
+
+      async function loadAllTeams() {
+        if (availableTeams.length > 0) return;
+
+        try {
+          const res = await fetch('Teams.json');
+          const data = await res.json();
+          const teams = data.teams || [];
+
+          availableTeams = teams.map(team => ({
+            name: team.TeamName,
+            league: team.League,
+            sport: team.Sport.toLowerCase(),
+            city: team.City,
+            country: team.Country,
+            name: team.TeamName,
+            league: team.League,
+            sport: team.Sport.toLowerCase(),
+            city: team.City,
+            country: team.Country,
+            color: team.Colour || '#1e293b',
+            logo: team.Logo || ''
+          }));
+
+          const sportSelect = document.getElementById('sportSelect');
+          // Only populate if empty
+          if (sportSelect.options.length <= 1) {
+            const uniqueSports = [...new Set(availableTeams.map(t => t.sport))].sort();
+            uniqueSports.forEach(sport => {
+              const option = document.createElement('option');
+              option.value = sport;
+              option.textContent = sport.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+              sportSelect.appendChild(option);
+            });
+          }
+
+          filteredTeams = [...availableTeams];
+          renderTeamList();
+
+        } catch (error) {
+          console.error('Failed to load Teams.json:', error);
+        }
+      }
+
+      function updateLeagueOptions() {
+        const sport = document.getElementById('sportSelect').value;
+        const leagueSelect = document.getElementById('leagueSelect');
+        leagueSelect.innerHTML = '<option value="">All Leagues</option>';
+
+        if (sport && availableTeams.length > 0) {
+          const leagues = [...new Set(
+            availableTeams
+              .filter(team => team.sport === sport)
+              .map(team => team.league)
+          )];
+          leagues.sort().forEach(league => {
+            const option = document.createElement('option');
+            option.value = league;
+            option.textContent = league;
+            leagueSelect.appendChild(option);
+          });
+        }
+        filterTeams();
+      }
+
+      function filterTeams() {
+        const search = document.getElementById('teamSearch').value.toLowerCase();
+        const selectedSport = document.getElementById('sportSelect').value;
+        const selectedLeague = document.getElementById('leagueSelect').value;
+
+        filteredTeams = availableTeams.filter(team => {
+          const matchesSearch = team.name.toLowerCase().includes(search);
+          const matchesSport = !selectedSport || team.sport === selectedSport;
+          const matchesLeague = !selectedLeague || team.league === selectedLeague;
+          return matchesSearch && matchesSport && matchesLeague;
+        });
+
+        renderTeamList();
+      }
+
+      function renderTeamList() {
+        const teamList = document.getElementById('teamList');
+        if (filteredTeams.length === 0) {
+          teamList.innerHTML = '<div class="no-results">No teams found</div>';
+          return;
+        }
+        teamList.innerHTML = filteredTeams.map(team => {
+          // Check duplication against myTeamsList (Identity)
+          const alreadyAdded = myTeamsList.some(t => t.name === team.name);
+          // Escape quotes safely
+          const safeName = team.name.replace(/'/g, "\\'");
+          const safeLeague = team.league.replace(/'/g, "\\'");
+
+          return `
+          <div class="team-list-item ${alreadyAdded ? 'disabled' : ''}" 
+               onclick="${alreadyAdded ? '' : `addTeam('${safeName}', '${safeLeague}', '${team.sport}', '${team.color}', '${team.logo}')`}">
+            <div class="team-list-name">${team.name}</div>
+            <div class="team-list-league">${team.league}</div>
+            ${alreadyAdded ? '<span class="already-added">Already added</span>' : '<span class="add-icon">+</span>'}
+          </div>
+        `;
+        }).join('');
+      }
+
+      function getOrdinal(n) {
+        if (n === 0) return "th";
+        if (11 <= n % 100 && n % 100 <= 13) return "th";
+        const suffixes = { 1: "st", 2: "nd", 3: "rd" };
+        return suffixes[n % 10] || "th";
+      }
+
+      function openConfirmDeleteModal(teamIndex) {
+        teamToDelete = teamIndex;
+        document.getElementById('deleteTeamName').textContent = teamsData[teamIndex].name;
+        document.getElementById('confirmDeleteModal').classList.add('show');
+      }
+
+      function closeConfirmDeleteModal() {
+        document.getElementById('confirmDeleteModal').classList.remove('show');
+        teamToDelete = null;
+      }
+
+      function confirmDelete() {
+        if (teamToDelete !== null) {
+          // Remove from Identity List
+          const teamName = myTeamsList[teamToDelete].name;
+          myTeamsList.splice(teamToDelete, 1);
+          saveMyTeams();
+
+          // Remove from Data Cache
+          const cacheIndex = localScoresCache.findIndex(s => s.TeamName === teamName);
+          if (cacheIndex > -1) {
+            localScoresCache.splice(cacheIndex, 1);
+            saveLocalCache();
+          }
+
+          // Update UI
+          updateViewModel();
+          renderCards(teamsData);
+          closeConfirmDeleteModal();
+
+          // Reset active states
+          activeMatch = {};
+          openStats = {};
+        }
+      }
+
+      // Close modals on background click
+      // Close modals on background click
+      window.onclick = function (event) {
+        const addModal = document.getElementById('addTeamModal');
+        const deleteModal = document.getElementById('confirmDeleteModal');
+        const debugModal = document.getElementById('debugModal');
+
+        if (event.target === addModal) closeAddTeamModal();
+        if (event.target === deleteModal) closeConfirmDeleteModal();
+        if (event.target === debugModal) closeDebugModal();
+      }
+
+      function openDebugModal() {
+        document.getElementById('debugMyTeams').textContent = JSON.stringify(myTeamsList, null, 2);
+        document.getElementById('debugLocalScores').textContent = JSON.stringify(localScoresCache, null, 2);
+        document.getElementById('debugSettings').textContent = JSON.stringify(settings, null, 2);
+        document.getElementById('debugModal').classList.add('show');
+      }
+
+      function closeDebugModal() {
+        document.getElementById('debugModal').classList.remove('show');
+      }
+
+      function copyDebugInfo() {
+        const debugData = {
+          myTeamsList: myTeamsList,
+          localScoresCache: localScoresCache,
+          settings: settings,
+          timestamp: new Date().toISOString()
+        };
+        const debugText = JSON.stringify(debugData, null, 2);
+        navigator.clipboard.writeText(debugText).then(() => {
+          const btn = document.querySelector('.copy-debug-btn');
+          const originalText = btn.textContent;
+          btn.textContent = 'Copied!';
+          btn.style.background = '#22c55e';
+          setTimeout(() => {
+            btn.textContent = originalText;
+            btn.style.background = '#1e293b';
+          }, 1500);
+        }).catch(err => {
+          console.error('Failed to copy debug info:', err);
+          alert('Failed to copy to clipboard');
+        });
+      }
+
+      // --- Reordering Logic (Button Based) ---
+
+      function selectCard(event, index) {
+        // Prevent selection if clicking interactive children
+        if (event.target.closest('.result') || event.target.closest('.stats-toggle') || event.target.closest('.reorder-btn') || event.target.closest('.delete-btn')) return;
+
+        if (selectedTeamIndex === index) {
+          selectedTeamIndex = null;
+        } else {
+          selectedTeamIndex = index;
+        }
+        renderCards(teamsData);
+      }
+
+      function moveTeam(event, index, direction) {
+        event.stopPropagation();
+
+        // Target index in the CURRENT VIEW
+        const targetIndex = index + direction;
+
+        // Bounds check
+        if (targetIndex < 0 || targetIndex >= teamsData.length) return;
+
+        // We need to find the REAL items in myTeamsList to swap.
+        // Even if sorted by color, if the user manually reorders, they likely want to "break" that sort 
+        // and freeze the current order as the new manual order, then swap.
+        // OR, simply only allow reordering when in 'Manual' mode?
+        // User said "The tiles will need to be re-sortable".
+
+        // Simplest "Freeze and Swap":
+        // 1. If currently sorted primarily by something other than manual, 
+        //    we take the current visible list as the new "truth", apply the swap, and save as manual order.
+
+        let newOrder = [...teamsData];
+
+        // Swap
+        const temp = newOrder[index];
+        newOrder[index] = newOrder[targetIndex];
+        newOrder[targetIndex] = temp;
+
+        // Now map this new order back to plain identity objects for myTeamsList
+        myTeamsList = newOrder.map(t => ({
+          name: t.name,
+          league: t.league,
+          sport: t.sport,
+          color: t.color,
+          ordernumber: 0 // Will re-index below
+        }));
+
+        updateOrderNumbers();
+        saveMyTeams();
+
+        // Switch to manual mode so it sticks
+        settings.sort = 'manual';
+        saveSettings();
+        updateSettingsUI();
+
+        // Update View
+        updateViewModel(); // Re-syncs stats
+
+        // Keep selection on the moved item
+        // The item that WAS at `index` is now at `targetIndex`
+        selectedTeamIndex = targetIndex;
+
+        renderCards(teamsData);
+      }
+
+      function updateOrderNumbers() {
+        myTeamsList.forEach((t, i) => {
+          t.ordernumber = i;
+        });
+      }
+
+      function updateTimezone() {
+        const select = document.getElementById('timezoneSelect');
+        settings.timezone = select.value;
+        saveSettings();
+        renderCards(teamsData);
+      }
+
+      function populateTimezones() {
+        const select = document.getElementById('timezoneSelect');
+        const commonTimezones = [
+          "UTC",
+          "America/New_York",
+          "America/Chicago",
+          "America/Denver",
+          "America/Los_Angeles",
+          "Europe/London",
+          "Europe/Paris",
+          "Asia/Tokyo",
+          "Australia/Sydney",
+          Intl.DateTimeFormat().resolvedOptions().timeZone // Ensure local is always there
+        ];
+
+        // Deduplicate and Sort
+        const uniqueTz = [...new Set(commonTimezones)].sort();
+
+        select.innerHTML = uniqueTz.map(tz =>
+          `<option value="${tz}">${tz.replace('_', ' ')}</option>`
+        ).join('');
+
+        select.value = settings.timezone;
+      }
+
+      function formatGameTime(dateStr) {
+        if (!dateStr) return 'TBD';
+        try {
+          const date = new Date(dateStr);
+          return new Intl.DateTimeFormat('en-US', {
+            weekday: 'short',
+            month: 'short',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: '2-digit',
+            timeZone: settings.timezone
+          }).format(date);
+        } catch (e) {
+          return 'Invalid Date';
+        }
+      }
+
+      let countdownInterval;
+
+      function startCountdownTicker() {
+        if (countdownInterval) clearInterval(countdownInterval);
+
+        // Update every 1 second
+        countdownInterval = setInterval(() => {
+          updateCountdowns();
+        }, 1000);
+      }
+
+      function updateCountdowns() {
+        if (!settings.timer) return; // Don't run if timer disabled
+
+        teamsData.forEach((team, index) => {
+          const el = document.getElementById(`countdown-${index}`);
+          if (el) {
+            const nextGame = team.nextGame || {};
+            const newText = getCountdown(nextGame.date, nextGame.status);
+
+            // Only update if changed to avoid painting
+            if (el.textContent !== newText) {
+              el.textContent = newText;
+              // Also update status class if needed (rare, but good for 'live')
+              el.className = `countdown ${nextGame.status}`;
+            }
+          }
+        });
+      }
+
+      loadData();
+    </script>
+
+    <!-- Debug UI -->
+    <style>
+      .debug-btn-container {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: flex;
+        gap: 8px;
+        z-index: 9999;
+      }
+
+      .debug-btn,
+      .copy-debug-btn {
+        background: #1e293b;
+        color: #fff;
+        border: 1px solid #475569;
+        padding: 8px 16px;
+        border-radius: 6px;
+        cursor: pointer;
+        opacity: 0.7;
+        font-weight: 500;
+        transition: opacity 0.2s, background 0.2s;
+      }
+
+      .debug-btn:hover,
+      .copy-debug-btn:hover {
+        opacity: 1;
+      }
+
+      .debug-content {
+        width: 90%;
+        max-width: 1000px;
+        max-height: 85vh;
+        overflow-y: auto;
+        background: #fff;
+        color: #333;
+      }
+
+      .debug-section {
+        margin-bottom: 24px;
+      }
+
+      .debug-section h3 {
+        font-size: 16px;
+        margin-bottom: 8px;
+        color: #64748b;
+        border-bottom: 1px solid #e2e8f0;
+        padding-bottom: 4px;
+      }
+
+      .debug-section pre {
+        background: #f8fafc;
+        padding: 12px;
+        border-radius: 6px;
+        overflow-x: auto;
+        font-family: 'Monaco', 'Consolas', monospace;
+        font-size: 11px;
+        border: 1px solid #e2e8f0;
+      }
+    </style>
+
+    <div class="debug-btn-container">
+      <button class="copy-debug-btn" onclick="copyDebugInfo()">Copy Debug Info</button>
+      <button class="debug-btn" onclick="openDebugModal()">Debug Data</button>
+    </div>
+
+    <div id="debugModal" class="modal">
+      <div class="modal-content debug-content">
+        <span class="close" onclick="closeDebugModal()">&times;</span>
+        <h2 style="margin-top:0;">Local Storage Inspector</h2>
+        <div class="debug-section">
+          <h3>Your Saved Teams (localStorage: 'sportsboy_my_teams')</h3>
+          <pre id="debugMyTeams"></pre>
+        </div>
+        <div class="debug-section">
+          <h3>Cached Score Data (localStorage: 'sportsboy_scores_local')</h3>
+          <pre id="debugLocalScores"></pre>
+        </div>
+        <div class="debug-section">
+          <h3>User Settings (localStorage: 'sportsboy_settings')</h3>
+          <pre id="debugSettings"></pre>
+        </div>
+      </div>
+    </div>
+
+</body>
+
+</html>
