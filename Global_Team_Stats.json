@@ -2810,6 +2810,12 @@
         "points": 19,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Genoa",
+            "score": "0-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Cremonese",
             "score": "2-2",
@@ -2832,12 +2838,6 @@
             "opponent": "Pisa",
             "score": "2-2",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Atalanta",
-            "score": "1-2",
-            "home": false
           }
         ],
         "nextGame": {
@@ -3097,6 +3097,12 @@
         "points": 19,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Cagliari",
+            "score": "3-0",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Milan",
             "score": "1-1",
@@ -3118,12 +3124,6 @@
             "result": "L",
             "opponent": "Atalanta",
             "score": "0-1",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Inter Milan",
-            "score": "1-2",
             "home": true
           }
         ],
