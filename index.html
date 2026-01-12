@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42SPNNB4E2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-42SPNNB4E2');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MySideline</title>
@@ -31,7 +40,7 @@
       <div class="settings-content">
         <div class="brand-large">
           <h1>MySideline<span>.live</span></h1>
-          <p class="subtitle">One Stop to see how your fellas are doing</p>
+          <p class="subtitle">Your personal hub for scores, stats, and upcoming games</p>
         </div>
 
         <div class="controls-grid">
@@ -588,7 +597,9 @@
         // 3. Update UI
         updateViewModel();
         renderCards(teamsData);
-        closeAddTeamModal();
+        // Keep modal open for multiple adds
+        // closeAddTeamModal();
+        renderTeamList(); // Re-render list to show "Added" status
       }
 
 
@@ -1118,45 +1129,9 @@
       window.onclick = function (event) {
         const addModal = document.getElementById('addTeamModal');
         const deleteModal = document.getElementById('confirmDeleteModal');
-        const debugModal = document.getElementById('debugModal');
 
         if (event.target === addModal) closeAddTeamModal();
         if (event.target === deleteModal) closeConfirmDeleteModal();
-        if (event.target === debugModal) closeDebugModal();
-      }
-
-      function openDebugModal() {
-        document.getElementById('debugMyTeams').textContent = JSON.stringify(myTeamsList, null, 2);
-        document.getElementById('debugLocalScores').textContent = JSON.stringify(localScoresCache, null, 2);
-        document.getElementById('debugSettings').textContent = JSON.stringify(settings, null, 2);
-        document.getElementById('debugModal').classList.add('show');
-      }
-
-      function closeDebugModal() {
-        document.getElementById('debugModal').classList.remove('show');
-      }
-
-      function copyDebugInfo() {
-        const debugData = {
-          myTeamsList: myTeamsList,
-          localScoresCache: localScoresCache,
-          settings: settings,
-          timestamp: new Date().toISOString()
-        };
-        const debugText = JSON.stringify(debugData, null, 2);
-        navigator.clipboard.writeText(debugText).then(() => {
-          const btn = document.querySelector('.copy-debug-btn');
-          const originalText = btn.textContent;
-          btn.textContent = 'Copied!';
-          btn.style.background = '#22c55e';
-          setTimeout(() => {
-            btn.textContent = originalText;
-            btn.style.background = '#1e293b';
-          }, 1500);
-        }).catch(err => {
-          console.error('Failed to copy debug info:', err);
-          alert('Failed to copy to clipboard');
-        });
       }
 
       // --- Reordering Logic (Button Based) ---
@@ -1314,90 +1289,7 @@
       loadData();
     </script>
 
-    <!-- Debug UI -->
-    <style>
-      .debug-btn-container {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        display: flex;
-        gap: 8px;
-        z-index: 9999;
-      }
 
-      .debug-btn,
-      .copy-debug-btn {
-        background: #1e293b;
-        color: #fff;
-        border: 1px solid #475569;
-        padding: 8px 16px;
-        border-radius: 6px;
-        cursor: pointer;
-        opacity: 0.7;
-        font-weight: 500;
-        transition: opacity 0.2s, background 0.2s;
-      }
-
-      .debug-btn:hover,
-      .copy-debug-btn:hover {
-        opacity: 1;
-      }
-
-      .debug-content {
-        width: 90%;
-        max-width: 1000px;
-        max-height: 85vh;
-        overflow-y: auto;
-        background: #fff;
-        color: #333;
-      }
-
-      .debug-section {
-        margin-bottom: 24px;
-      }
-
-      .debug-section h3 {
-        font-size: 16px;
-        margin-bottom: 8px;
-        color: #64748b;
-        border-bottom: 1px solid #e2e8f0;
-        padding-bottom: 4px;
-      }
-
-      .debug-section pre {
-        background: #f8fafc;
-        padding: 12px;
-        border-radius: 6px;
-        overflow-x: auto;
-        font-family: 'Monaco', 'Consolas', monospace;
-        font-size: 11px;
-        border: 1px solid #e2e8f0;
-      }
-    </style>
-
-    <div class="debug-btn-container">
-      <button class="copy-debug-btn" onclick="copyDebugInfo()">Copy Debug Info</button>
-      <button class="debug-btn" onclick="openDebugModal()">Debug Data</button>
-    </div>
-
-    <div id="debugModal" class="modal">
-      <div class="modal-content debug-content">
-        <span class="close" onclick="closeDebugModal()">&times;</span>
-        <h2 style="margin-top:0;">Local Storage Inspector</h2>
-        <div class="debug-section">
-          <h3>Your Saved Teams (localStorage: 'sportsboy_my_teams')</h3>
-          <pre id="debugMyTeams"></pre>
-        </div>
-        <div class="debug-section">
-          <h3>Cached Score Data (localStorage: 'sportsboy_scores_local')</h3>
-          <pre id="debugLocalScores"></pre>
-        </div>
-        <div class="debug-section">
-          <h3>User Settings (localStorage: 'sportsboy_settings')</h3>
-          <pre id="debugSettings"></pre>
-        </div>
-      </div>
-    </div>
 
 </body>
 
