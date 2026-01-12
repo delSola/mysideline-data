@@ -1426,7 +1426,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Alexander Sørloth"
+            "player": ""
           }
         }
       }
@@ -2141,7 +2141,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": ""
+            "player": "Natan"
           },
           "redCards": {
             "value": 1,
@@ -5797,7 +5797,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Aron Donnum"
+            "player": ""
           },
           "redCards": {
             "value": 1,
