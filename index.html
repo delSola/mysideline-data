@@ -435,7 +435,7 @@
       async function fetchGlobalScores() {
         try {
           // Simulating API Call
-          const res = await fetch('backend/db/Global_Team_Stats.json');
+          const res = await fetch('Global_Team_Stats.json');
           const data = await res.json();
           globalScoresCache = data.scores || [];
 
