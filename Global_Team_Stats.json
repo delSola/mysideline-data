@@ -1426,7 +1426,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Alexander Sørloth"
           }
         }
       }
@@ -5797,7 +5797,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Aron Donnum"
           },
           "redCards": {
             "value": 1,
@@ -6895,11 +6895,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.2,
+            "value": 26.1,
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.5,
+            "value": 6.4,
             "player": "Alperen Sengun"
           },
           "rebounds": {
@@ -6912,7 +6912,7 @@
           },
           "steals": {
             "value": 1.5,
-            "player": "Reed Sheppard"
+            "player": "Alperen Sengun"
           }
         }
       }
@@ -7348,15 +7348,15 @@
             "player": "Giannis Antetokounmpo"
           },
           "assists": {
-            "value": 5.6,
-            "player": "Ryan Rollins"
+            "value": 5.7,
+            "player": "Giannis Antetokounmpo"
           },
           "rebounds": {
             "value": 9.8,
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Myles Turner"
           },
           "steals": {
@@ -7502,7 +7502,7 @@
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.5,
+            "value": 7.3,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -8019,19 +8019,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.0,
+            "value": 19.9,
             "player": "Zach LaVine"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.9,
             "player": "Russell Westbrook"
           },
           "rebounds": {
             "value": 6.5,
-            "player": "Russell Westbrook"
+            "player": "Maxime Raynaud"
           },
           "blocks": {
-            "value": 0.7,
+            "value": 0.6,
             "player": "Drew Eubanks"
           },
           "steals": {
@@ -12452,7 +12452,7 @@
           },
           "rushingYards": {
             "value": 805.0,
-            "player": "Jacory Croskey-Merritt"
+            "player": ""
           },
           "receivingYards": {
             "value": 727.0,
