@@ -5973,20 +5973,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Sidiki Cherif"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Yassin Belkhdim"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Haris Belkebla"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Louis Mouton"
           }
         }
       }
@@ -6194,7 +6194,7 @@
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.2,
+            "value": 5.3,
             "player": "Payton Pritchard"
           },
           "rebounds": {
@@ -6273,7 +6273,7 @@
             "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 7.6,
+            "value": 7.5,
             "player": "Nic Claxton"
           },
           "blocks": {
@@ -6940,11 +6940,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.6,
+            "value": 23.5,
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.0,
+            "value": 7.1,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
@@ -6952,7 +6952,7 @@
             "player": "Pascal Siakam"
           },
           "blocks": {
-            "value": 2.2,
+            "value": 2.1,
             "player": "Jay Huff"
           },
           "steals": {
@@ -7089,15 +7089,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.3,
+            "value": 33.6,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.8,
+            "value": 8.7,
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.5,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7105,7 +7105,7 @@
             "player": "Deandre Ayton"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.7,
             "player": "Luka Doncic"
           }
         }
@@ -7998,14 +7998,14 @@
           },
           "rebounds": {
             "value": 6.5,
-            "player": "Maxime Raynaud"
+            "player": "Russell Westbrook"
           },
           "blocks": {
             "value": 0.6,
             "player": "Drew Eubanks"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "DeMar DeRozan"
           }
         }
@@ -8139,15 +8139,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.8,
+            "value": 21.7,
             "player": "Brandon Ingram"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.1,
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.4,
+            "value": 8.3,
             "player": "Scottie Barnes"
           },
           "blocks": {
