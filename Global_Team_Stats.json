@@ -1396,13 +1396,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Alavés",
-          "home": true,
-          "date": "2026-01-18T15:15Z",
-          "time": "2026-01-18T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2253,13 +2247,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Barcelona",
-          "home": true,
-          "date": "2026-01-18T20:00Z",
-          "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3761,13 +3749,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "AS Roma",
-          "home": true,
-          "date": "2026-01-18T17:00Z",
-          "time": "2026-01-18T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5789,7 +5771,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Emersonn"
+            "player": ""
           }
         }
       }
@@ -6423,11 +6405,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Heat",
-          "home": true,
-          "date": "2026-01-09T01:00Z",
-          "time": "2026-01-09T01:00Z",
-          "status": "done"
+          "opponent": "Rockets",
+          "home": false,
+          "date": "2026-01-14T01:00Z",
+          "time": "2026-01-14T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7247,11 +7229,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Bulls",
-          "home": false,
-          "date": "2026-01-09T01:00Z",
-          "time": "2026-01-09T01:00Z",
-          "status": "done"
+          "opponent": "Suns",
+          "home": true,
+          "date": "2026-01-14T00:30Z",
+          "time": "2026-01-14T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8813,13 +8795,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Mallorca",
-          "home": false,
-          "date": "2026-01-17T15:15Z",
-          "time": "2026-01-17T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
