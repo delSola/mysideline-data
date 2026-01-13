@@ -6202,11 +6202,11 @@
             "player": "Neemias Queta"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Derrick White"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Derrick White"
           }
         }
@@ -6565,11 +6565,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.9,
+            "value": 19.1,
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 5.0,
+            "value": 5.1,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -7768,7 +7768,7 @@
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.7,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
@@ -8222,7 +8222,7 @@
             "player": "Keyonte George"
           },
           "rebounds": {
-            "value": 9.8,
+            "value": 10.0,
             "player": "Jusuf Nurkic"
           },
           "blocks": {
