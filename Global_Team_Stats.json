@@ -63,7 +63,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Riccardo Calafiori"
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -2865,7 +2865,7 @@
             "player": "Marco Palestra"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Adam Obert"
           },
           "redCards": {
@@ -3144,11 +3144,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Lorenzo Colombo"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Aarón Martín"
           },
           "yellowCards": {
@@ -3359,7 +3359,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Kenan Yildiz"
           },
           "assists": {
@@ -10386,7 +10386,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Ilan Kebbal"
           },
           "yellowCards": {
             "value": 6,
