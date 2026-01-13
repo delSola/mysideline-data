@@ -1418,7 +1418,7 @@
           },
           "assists": {
             "value": 5,
-            "player": "Giuliano Simeone"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -2784,7 +2784,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Nicolò Cambiaghi"
           },
           "yellowCards": {
             "value": 4,
@@ -3558,7 +3558,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Parma",
+          "home": true,
+          "date": "2026-01-14T17:30Z",
+          "time": "2026-01-14T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
