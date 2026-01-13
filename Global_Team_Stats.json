@@ -761,7 +761,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Burnley",
+          "home": true,
+          "date": "2026-01-17T15:00Z",
+          "time": "2026-01-17T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2841,11 +2847,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Genoa",
-          "home": false,
-          "date": "2026-01-12T17:30Z",
-          "time": "2026-01-12T17:30Z",
-          "status": "done"
+          "opponent": "Juventus",
+          "home": true,
+          "date": "2026-01-17T19:45Z",
+          "time": "2026-01-17T19:45Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -3128,18 +3134,18 @@
           }
         ],
         "nextGame": {
-          "opponent": "Cagliari",
-          "home": true,
-          "date": "2026-01-12T17:30Z",
-          "time": "2026-01-12T17:30Z",
-          "status": "done"
+          "opponent": "Parma",
+          "home": false,
+          "date": "2026-01-18T11:30Z",
+          "time": "2026-01-18T11:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Lorenzo Colombo"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -3343,11 +3349,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Cremonese",
-          "home": true,
-          "date": "2026-01-12T19:45Z",
-          "time": "2026-01-12T19:45Z",
-          "status": "done"
+          "opponent": "Cagliari",
+          "home": false,
+          "date": "2026-01-17T19:45Z",
+          "time": "2026-01-17T19:45Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -3646,7 +3652,7 @@
           },
           "assists": {
             "value": 2,
-            "player": ""
+            "player": "Sascha Britschgi"
           },
           "yellowCards": {
             "value": 4,
@@ -5065,7 +5071,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lille",
+          "home": true,
+          "date": "2026-01-16T20:00Z",
+          "time": "2026-01-16T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6324,16 +6336,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 39,
+        "played": 40,
         "wins": 14,
-        "losses": 25,
+        "losses": 26,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bulls",
-            "score": "112-99",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Thunder",
@@ -6357,14 +6363,20 @@
             "opponent": "Jazz",
             "score": "150-95",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Clippers",
+            "score": "109-117",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
+          "opponent": "Lakers",
           "home": false,
-          "date": "2026-01-13T03:30Z",
-          "time": "2026-01-13T03:30Z",
-          "status": "live"
+          "date": "2026-01-16T03:30Z",
+          "time": "2026-01-16T03:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7073,16 +7085,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 36,
+        "played": 37,
         "wins": 23,
-        "losses": 13,
+        "losses": 14,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Grizzlies",
-            "score": "128-121",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Grizzlies",
@@ -7106,14 +7112,20 @@
             "opponent": "Bucks",
             "score": "101-105",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Kings",
+            "score": "112-124",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Kings",
-          "home": false,
-          "date": "2026-01-13T03:00Z",
-          "time": "2026-01-13T03:00Z",
-          "status": "live"
+          "opponent": "Hawks",
+          "home": true,
+          "date": "2026-01-14T03:30Z",
+          "time": "2026-01-14T03:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7973,16 +7985,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 39,
-        "wins": 9,
+        "played": 40,
+        "wins": 10,
         "losses": 30,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Suns",
-            "score": "102-129",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Bucks",
@@ -8006,14 +8012,20 @@
             "opponent": "Rockets",
             "score": "111-98",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Lakers",
+            "score": "124-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
+          "opponent": "Knicks",
           "home": true,
-          "date": "2026-01-13T03:00Z",
-          "time": "2026-01-13T03:00Z",
-          "status": "live"
+          "date": "2026-01-15T03:00Z",
+          "time": "2026-01-15T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8348,16 +8360,10 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 38,
-        "wins": 15,
+        "played": 39,
+        "wins": 16,
         "losses": 23,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Celtics",
-            "score": "115-146",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Warriors",
@@ -8381,14 +8387,20 @@
             "opponent": "Pistons",
             "score": "98-92",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Hornets",
+            "score": "117-109",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
+          "opponent": "Wizards",
           "home": true,
-          "date": "2026-01-13T03:30Z",
-          "time": "2026-01-13T03:30Z",
-          "status": "live"
+          "date": "2026-01-15T03:30Z",
+          "time": "2026-01-15T03:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9848,11 +9860,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Juventus",
-          "home": false,
-          "date": "2026-01-12T19:45Z",
-          "time": "2026-01-12T19:45Z",
-          "status": "done"
+          "opponent": "Verona",
+          "home": true,
+          "date": "2026-01-19T17:30Z",
+          "time": "2026-01-19T17:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10358,13 +10370,19 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nantes",
+          "home": false,
+          "date": "2026-01-18T16:15Z",
+          "time": "2026-01-18T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Ilan Kebbal"
           },
           "assists": {
             "value": 4,
@@ -10741,7 +10759,7 @@
           },
           "receivingYards": {
             "value": 731.0,
-            "player": "Harold Fannin Jr."
+            "player": ""
           },
           "touchdowns": {
             "value": 7.0,
@@ -10978,7 +10996,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Kerby Joseph"
+            "player": ""
           }
         }
       }
@@ -11548,7 +11566,7 @@
         "leaders": {
           "passingYards": {
             "value": 1632.0,
-            "player": "J.J. McCarthy"
+            "player": ""
           },
           "rushingYards": {
             "value": 758.0,
