@@ -3964,7 +3964,7 @@
           "home": true,
           "date": "2026-01-13T19:30Z",
           "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3992,8 +3992,8 @@
       "TeamName": "RB Leipzig",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "played": 15,
         "wins": 9,
         "draws": 2,
@@ -4064,7 +4064,7 @@
       "TeamName": "Bayer Leverkusen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 16,
         "wins": 9,
@@ -4132,10 +4132,10 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 16,
+        "played": 17,
         "wins": 7,
         "draws": 5,
-        "losses": 4,
+        "losses": 5,
         "points": 26,
         "last5": [
           {
@@ -4169,13 +4169,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Stuttgart",
-          "home": false,
-          "date": "2026-01-13T17:30Z",
-          "time": "2026-01-13T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4202,13 +4196,13 @@
       "TeamName": "VfB Stuttgart",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
-        "positionSuffix": "th",
-        "played": 16,
-        "wins": 9,
+        "position": 3,
+        "positionSuffix": "rd",
+        "played": 17,
+        "wins": 10,
         "draws": 2,
         "losses": 5,
-        "points": 29,
+        "points": 32,
         "last5": [
           {
             "result": "W",
@@ -4241,13 +4235,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Frankfurt",
-          "home": true,
-          "date": "2026-01-13T17:30Z",
-          "time": "2026-01-13T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4533,7 +4521,7 @@
           "home": false,
           "date": "2026-01-13T19:30Z",
           "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9308,7 +9296,7 @@
           },
           "yellowCards": {
             "value": 3,
-            "player": ""
+            "player": "Joel Chima Fujita"
           },
           "redCards": {
             "value": 1,
@@ -9366,7 +9354,7 @@
           "home": true,
           "date": "2026-01-13T19:30Z",
           "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9439,7 +9427,7 @@
           "home": false,
           "date": "2026-01-13T19:30Z",
           "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11003,7 +10991,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Evan Williams"
+            "player": ""
           }
         }
       }
