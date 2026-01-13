@@ -3145,7 +3145,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": ""
+            "player": "Lorenzo Colombo"
           },
           "assists": {
             "value": 3,
@@ -10386,7 +10386,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Ilan Kebbal"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -10759,7 +10759,7 @@
           },
           "receivingYards": {
             "value": 731.0,
-            "player": ""
+            "player": "Harold Fannin Jr."
           },
           "touchdowns": {
             "value": 7.0,
@@ -10996,7 +10996,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Kerby Joseph"
           }
         }
       }
@@ -11566,7 +11566,7 @@
         "leaders": {
           "passingYards": {
             "value": 1632.0,
-            "player": ""
+            "player": "J.J. McCarthy"
           },
           "rushingYards": {
             "value": 758.0,
