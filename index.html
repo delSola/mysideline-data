@@ -91,7 +91,7 @@
           </div>
 
           <div class="settings-footer" style="padding-top: 24px; text-align: center; opacity: 0.6;">
-            <a href="mailto:contact@mysideline.live"
+            <a href="mailto:contact@mysideline.live" onclick="gtag('event', 'contact_click')"
               style="color: inherit; text-decoration: none; font-size: 0.8rem;">contact@mysideline.com</a>
           </div>
         </div>
@@ -328,8 +328,10 @@
       function toggleSetting(key) {
         if (key === 'theme') {
           settings.theme = settings.theme === 'light' ? 'dark' : 'light';
+          gtag('event', 'change_theme', { theme: settings.theme });
         } else if (key === 'timer') {
           settings.timer = !settings.timer;
+          gtag('event', 'toggle_timer', { enabled: settings.timer });
         }
         saveSettings();
         updateSettingsUI();
@@ -341,6 +343,7 @@
 
       function setSort(value) {
         settings.sort = value;
+        gtag('event', 'change_sort_order', { sort_by: value });
         saveSettings();
         updateSettingsUI();
         applySort();
@@ -418,6 +421,7 @@
       }
 
       function clearAllTeams() {
+        gtag('event', 'clear_all_teams');
         myTeamsList = [];
         localScoresCache = [];
         saveMyTeams();
@@ -430,15 +434,45 @@
       function loadLocalData() {
         // Load Identity List
         const storedIdentity = localStorage.getItem('sportsboy_my_teams');
+        let loadedFromStorage = false;
         if (storedIdentity) {
-          myTeamsList = JSON.parse(storedIdentity);
-          // Migration: Ensure ordernumber exists
-          myTeamsList.forEach((t, i) => {
-            if (t.ordernumber === undefined) t.ordernumber = i;
-          });
-        } else {
-          // Migration from old version if needed, otherwise empty
-          myTeamsList = [];
+          try {
+            const parsed = JSON.parse(storedIdentity);
+            if (Array.isArray(parsed)) {
+              myTeamsList = parsed;
+              // Migration: Ensure ordernumber exists
+              myTeamsList.forEach((t, i) => {
+                if (t.ordernumber === undefined) t.ordernumber = i;
+              });
+              loadedFromStorage = true;
+            }
+          } catch (e) {
+            console.error("Failed to parse teams", e);
+          }
+        }
+
+        if (!loadedFromStorage) {
+          // Default Preload for NEW USERS only (No prior history)
+          const defaultTeams = [
+            { name: "Los Angeles Lakers", league: "NBA", sport: "basketball", color: "#552583" },
+            { name: "Boston Celtics", league: "NBA", sport: "basketball", color: "#007A33" },
+            { name: "Oklahoma City Thunder", league: "NBA", sport: "basketball", color: "#007AC1" },
+            { name: "Real Madrid", league: "La Liga", sport: "soccer", color: "#FEBE10" },
+            { name: "Arsenal", league: "Premier League", sport: "soccer", color: "#EF0107" },
+            { name: "Liverpool", league: "Premier League", sport: "soccer", color: "#C8102E" },
+            { name: "Borussia Dortmund", league: "Bundesliga", sport: "soccer", color: "#FDE100" },
+            { name: "Paris Saint-Germain", league: "Ligue 1", sport: "soccer", color: "#004170" },
+            { name: "New England Patriots", league: "NFL", sport: "football", color: "#002244" },
+            { name: "Buffalo Bills", league: "NFL", sport: "football", color: "#00338D" },
+            { name: "Illawarra Hawks", league: "NBL", sport: "basketball", color: "#000000" }
+          ];
+
+          myTeamsList = defaultTeams.map((t, i) => ({
+            ...t,
+            logo: '', // Will be hydrated from valid availableTeams or loaded later
+            ordernumber: i
+          }));
+          saveMyTeams();
         }
 
         // Load Data Cache
@@ -577,6 +611,7 @@
 
       function addTeam(name, league, sport, color, logo) {
         // 1. Add to Identity List
+        gtag('event', 'add_team', { team_name: name, league: league, sport: sport });
         const newIdentity = { name, league, sport, color, logo: logo || '', ordernumber: myTeamsList.length };
 
         // Prevent Duplicates
@@ -904,21 +939,25 @@
       function toggleStats(teamIndex) {
         const leadersEl = document.getElementById(`leaders-${teamIndex}`);
         const toggleEl = document.getElementById(`toggle-${teamIndex}`);
+        const teamName = teamsData[teamIndex].name;
 
         if (openStats[teamIndex]) {
           leadersEl.classList.remove('show');
           toggleEl.classList.remove('open');
           delete openStats[teamIndex];
+          gtag('event', 'toggle_player_stats', { team_name: teamName, action: 'close' });
         } else {
           leadersEl.classList.add('show');
           toggleEl.classList.add('open');
           openStats[teamIndex] = true;
+          gtag('event', 'toggle_player_stats', { team_name: teamName, action: 'open' });
         }
       }
 
       function toggleMatch(teamIndex, matchIndex) {
         const detailsEl = document.getElementById(`details-${teamIndex}`);
         const match = teamsData[teamIndex].last5[matchIndex];
+        const teamName = teamsData[teamIndex].name;
 
         for (let i = 0; i < 5; i++) {
           const el = document.getElementById(`result-${teamIndex}-${i}`);
@@ -933,6 +972,7 @@
 
         activeMatch[teamIndex] = matchIndex;
         document.getElementById(`result-${teamIndex}-${matchIndex}`).classList.add('active');
+        gtag('event', 'view_match_detail', { team_name: teamName, opponent: match.opponent });
 
         detailsEl.innerHTML = `
         <div class="detail-row">
@@ -1113,6 +1153,7 @@
         if (teamToDelete !== null) {
           // Remove from Identity List
           const teamName = myTeamsList[teamToDelete].name;
+          gtag('event', 'remove_team', { team_name: teamName });
           myTeamsList.splice(teamToDelete, 1);
           saveMyTeams();
 
@@ -1154,12 +1195,19 @@
           selectedTeamIndex = null;
         } else {
           selectedTeamIndex = index;
+          if (teamsData[index]) {
+            gtag('event', 'select_team_card', { team_name: teamsData[index].name });
+          }
         }
         renderCards(teamsData);
       }
 
       function moveTeam(event, index, direction) {
         event.stopPropagation();
+
+        if (teamsData[index]) {
+          gtag('event', 'reorder_team', { team_name: teamsData[index].name, direction: direction === 1 ? 'down' : 'up' });
+        }
 
         // Target index in the CURRENT VIEW
         const targetIndex = index + direction;
