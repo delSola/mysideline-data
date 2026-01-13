@@ -4103,13 +4103,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Hamburg",
-          "home": false,
-          "date": "2026-01-13T19:30Z",
-          "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4180,7 +4174,7 @@
           "home": false,
           "date": "2026-01-13T17:30Z",
           "time": "2026-01-13T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4252,7 +4246,7 @@
           "home": true,
           "date": "2026-01-13T17:30Z",
           "time": "2026-01-13T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9154,13 +9148,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Leverkusen",
-          "home": true,
-          "date": "2026-01-13T19:30Z",
-          "time": "2026-01-13T19:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11459,7 +11447,7 @@
           },
           "interceptions": {
             "value": 2.0,
-            "player": ""
+            "player": "Rasul Douglas"
           }
         }
       }
