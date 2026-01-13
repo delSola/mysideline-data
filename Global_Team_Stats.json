@@ -985,7 +985,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Joelinton "
+            "player": "Joelinton"
           },
           "redCards": {
             "value": 1,
@@ -4139,6 +4139,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Stuttgart",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Dortmund",
             "score": "3-3",
@@ -4161,12 +4167,6 @@
             "opponent": "RB Leipzig",
             "score": "0-6",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Wolfsburg",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4206,6 +4206,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Frankfurt",
+            "score": "3-2",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Leverkusen",
             "score": "4-1",
             "home": false
@@ -4227,12 +4233,6 @@
             "opponent": "Bayern",
             "score": "0-5",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Hamburg",
-            "score": "1-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10991,7 +10991,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Evan Williams"
           }
         }
       }
