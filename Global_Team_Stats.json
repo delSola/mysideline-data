@@ -2428,7 +2428,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": "José Ángel Carmona"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -6289,7 +6289,7 @@
           "home": false,
           "date": "2026-01-13T01:30Z",
           "time": "2026-01-13T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6589,7 +6589,7 @@
           "home": true,
           "date": "2026-01-13T01:30Z",
           "time": "2026-01-13T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11639,7 +11639,7 @@
           },
           "touchdowns": {
             "value": 9.0,
-            "player": ""
+            "player": "TreVeyon Henderson"
           },
           "tackles": {
             "value": 97.0,
@@ -12064,7 +12064,7 @@
           "home": true,
           "date": "2026-01-13T01:15Z",
           "time": "2026-01-13T01:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12739,7 +12739,7 @@
           "home": false,
           "date": "2026-01-13T01:15Z",
           "time": "2026-01-13T01:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
