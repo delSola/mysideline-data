@@ -3617,20 +3617,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Mateo Pellegrino"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Sascha Britschgi"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Enrico Del Prato"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Christian Ordoñez"
           }
         }
       }
@@ -4761,16 +4761,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Fisnik Asllani"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Vladimír Coufal"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Bernardo"
           },
           "redCards": {
             "value": 0,
@@ -5973,20 +5973,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Sidiki Cherif"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 2,
-            "player": "Yassin Belkhdim"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Haris Belkebla"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Louis Mouton"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -9019,20 +9019,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Rafa Mir"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Álvaro Rodríguez"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Aleix Febas"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "David Affengruber"
           }
         }
       }
@@ -9967,7 +9967,7 @@
           },
           "assists": {
             "value": 2,
-            "player": ""
+            "player": "Lassine Sinayoko"
           },
           "yellowCards": {
             "value": 5,
@@ -10550,28 +10550,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3942.0,
+            "player": "Caleb Williams"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1087.0,
+            "player": "D'Andre Swift"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 713.0,
+            "player": "Colston Loveland"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 9.0,
+            "player": "D'Andre Swift"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 112.0,
+            "player": "Tremaine Edmunds"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 7.0,
+            "player": "Kevin Byard III"
           }
         }
       }
