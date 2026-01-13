@@ -11439,7 +11439,7 @@
         "leaders": {
           "passingYards": {
             "value": 2660.0,
-            "player": ""
+            "player": "Tua Tagovailoa"
           },
           "rushingYards": {
             "value": 1350.0,
@@ -11459,7 +11459,7 @@
           },
           "interceptions": {
             "value": 2.0,
-            "player": "Rasul Douglas"
+            "player": ""
           }
         }
       }
