@@ -1418,7 +1418,7 @@
           },
           "assists": {
             "value": 5,
-            "player": ""
+            "player": "Giuliano Simeone"
           },
           "yellowCards": {
             "value": 4,
@@ -3215,7 +3215,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane "
+            "player": "Giovane"
           },
           "yellowCards": {
             "value": 5,
@@ -6214,7 +6214,7 @@
           "home": false,
           "date": "2026-01-13T00:30Z",
           "time": "2026-01-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6514,7 +6514,7 @@
           "home": true,
           "date": "2026-01-13T00:00Z",
           "time": "2026-01-13T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6964,7 +6964,7 @@
           "home": true,
           "date": "2026-01-13T00:30Z",
           "time": "2026-01-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7788,7 +7788,7 @@
           "home": false,
           "date": "2026-01-13T00:30Z",
           "time": "2026-01-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8163,7 +8163,7 @@
           "home": true,
           "date": "2026-01-13T00:30Z",
           "time": "2026-01-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8238,7 +8238,7 @@
           "home": false,
           "date": "2026-01-13T00:00Z",
           "time": "2026-01-13T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11639,7 +11639,7 @@
           },
           "touchdowns": {
             "value": 9.0,
-            "player": "TreVeyon Henderson"
+            "player": ""
           },
           "tackles": {
             "value": 97.0,
