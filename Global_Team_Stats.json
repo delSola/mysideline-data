@@ -2384,7 +2384,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Elche",
+          "home": false,
+          "date": "2026-01-19T20:00Z",
+          "time": "2026-01-19T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
