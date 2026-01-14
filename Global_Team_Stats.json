@@ -1982,20 +1982,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Ante Budimir"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Rubén García"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 7,
-            "player": "Alejandro Catena"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Abel Bretones"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -6502,7 +6502,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.8,
+            "value": 29.5,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6802,11 +6802,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.8,
+            "value": 28.1,
             "player": "Stephen Curry"
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.3,
             "player": "Draymond Green"
           },
           "rebounds": {
@@ -6814,11 +6814,11 @@
             "player": "Draymond Green"
           },
           "blocks": {
-            "value": 0.7,
+            "value": 0.8,
             "player": "Draymond Green"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Jimmy Butler III"
           }
         }
@@ -6881,11 +6881,11 @@
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.4,
+            "value": 6.6,
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.0,
+            "value": 8.9,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6893,7 +6893,7 @@
             "player": "Kevin Durant"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Alperen Sengun"
           }
         }
@@ -7101,15 +7101,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.6,
+            "value": 33.4,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.7,
+            "value": 8.8,
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.5,
+            "value": 8.8,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7117,7 +7117,7 @@
             "player": "Deandre Ayton"
           },
           "steals": {
-            "value": 1.7,
+            "value": 1.6,
             "player": "Luka Doncic"
           }
         }
@@ -7255,11 +7255,11 @@
             "player": "Norman Powell"
           },
           "assists": {
-            "value": 7.4,
+            "value": 7.3,
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 10.2,
+            "value": 10.1,
             "player": "Kel'el Ware"
           },
           "blocks": {
@@ -7326,7 +7326,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.2,
+            "value": 29.1,
             "player": "Giannis Antetokounmpo"
           },
           "assists": {
@@ -7334,7 +7334,7 @@
             "player": "Giannis Antetokounmpo"
           },
           "rebounds": {
-            "value": 9.8,
+            "value": 9.7,
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
@@ -7476,7 +7476,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.8,
+            "value": 22.3,
             "player": "Zion Williamson"
           },
           "assists": {
@@ -7638,7 +7638,7 @@
             "player": "Isaiah Hartenstein"
           },
           "blocks": {
-            "value": 1.8,
+            "value": 1.9,
             "player": "Chet Holmgren"
           },
           "steals": {
@@ -7851,15 +7851,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.2,
             "player": "Devin Booker"
           },
           "assists": {
-            "value": 6.4,
+            "value": 6.5,
             "player": "Devin Booker"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.3,
             "player": "Mark Williams"
           },
           "blocks": {
@@ -7867,7 +7867,7 @@
             "player": "Mark Williams"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Collin Gillespie"
           }
         }
@@ -8076,7 +8076,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.3,
+            "value": 24.0,
             "player": "Victor Wembanyama"
           },
           "assists": {
@@ -8084,11 +8084,11 @@
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 11.1,
+            "value": 11.0,
             "player": "Victor Wembanyama"
           },
           "blocks": {
-            "value": 2.8,
+            "value": 2.7,
             "player": "Victor Wembanyama"
           },
           "steals": {
@@ -8376,11 +8376,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.8,
+            "value": 28.1,
             "player": "Kawhi Leonard"
           },
           "assists": {
-            "value": 7.9,
+            "value": 8.0,
             "player": "James Harden"
           },
           "rebounds": {
@@ -8389,7 +8389,7 @@
           },
           "blocks": {
             "value": 1.0,
-            "player": "Brook Lopez"
+            "player": "Ivica Zubac"
           },
           "steals": {
             "value": 2.2,
@@ -11826,7 +11826,7 @@
           },
           "rushingYards": {
             "value": 1065.0,
-            "player": "Breece Hall"
+            "player": ""
           },
           "receivingYards": {
             "value": 395.0,
