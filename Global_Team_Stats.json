@@ -402,7 +402,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "João Pedro"
+            "player": "João Pedro "
           },
           "assists": {
             "value": 4,
@@ -2061,7 +2061,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Óscar Valentín"
+            "player": "Óscar Valentín "
           }
         }
       }
@@ -2123,11 +2123,11 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Natan"
+            "player": "Natan "
           },
           "redCards": {
             "value": 1,
-            "player": "Antony"
+            "player": "Antony "
           }
         }
       }
@@ -3467,7 +3467,7 @@
           "home": false,
           "date": "2026-01-14T19:45Z",
           "time": "2026-01-14T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3497,11 +3497,11 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 19,
+        "played": 20,
         "wins": 12,
-        "draws": 3,
+        "draws": 4,
         "losses": 4,
-        "points": 39,
+        "points": 40,
         "last5": [
           {
             "result": "D",
@@ -3534,13 +3534,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": true,
-          "date": "2026-01-14T17:30Z",
-          "time": "2026-01-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3569,11 +3563,11 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 6,
+        "draws": 7,
         "losses": 8,
-        "points": 21,
+        "points": 22,
         "last5": [
           {
             "result": "W",
@@ -3606,13 +3600,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Napoli",
-          "home": false,
-          "date": "2026-01-14T17:30Z",
-          "time": "2026-01-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3898,7 +3886,7 @@
           "home": false,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4042,7 +4030,7 @@
           "home": true,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4401,7 +4389,7 @@
           "home": false,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4473,7 +4461,7 @@
           "home": false,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4501,7 +4489,7 @@
       "TeamName": "Werder Bremen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 16,
         "wins": 4,
@@ -4761,7 +4749,7 @@
           "home": true,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9048,7 +9036,7 @@
       "Sport": "Soccer",
       "League": "bundesliga",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 16,
         "wins": 4,
@@ -9092,7 +9080,7 @@
           "home": true,
           "date": "2026-01-14T19:30Z",
           "time": "2026-01-14T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9121,7 +9109,7 @@
       "Sport": "Soccer",
       "League": "bundesliga",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "played": 16,
         "wins": 4,
@@ -9194,13 +9182,13 @@
       "Sport": "Soccer",
       "League": "bundesliga",
       "TeamStats": {
-        "position": 14,
+        "position": 11,
         "positionSuffix": "th",
-        "played": 16,
-        "wins": 4,
+        "played": 17,
+        "wins": 5,
         "draws": 3,
         "losses": 9,
-        "points": 15,
+        "points": 18,
         "last5": [
           {
             "result": "L",
@@ -9233,13 +9221,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "St. Pauli",
-          "home": true,
-          "date": "2026-01-14T17:30Z",
-          "time": "2026-01-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9269,10 +9251,10 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 3,
-        "losses": 9,
+        "losses": 10,
         "points": 12,
         "last5": [
           {
@@ -9306,13 +9288,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Wolfsburg",
-          "home": false,
-          "date": "2026-01-14T17:30Z",
-          "time": "2026-01-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9603,7 +9579,7 @@
           "home": true,
           "date": "2026-01-14T19:45Z",
           "time": "2026-01-14T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
