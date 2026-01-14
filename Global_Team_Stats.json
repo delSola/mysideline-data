@@ -3546,7 +3546,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Rasmus Højlund"
           },
           "assists": {
             "value": 3,
@@ -4229,7 +4229,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Union Berlin",
+          "home": true,
+          "date": "2026-01-18T14:30Z",
+          "time": "2026-01-18T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5148,7 +5154,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Angers",
+          "home": false,
+          "date": "2026-01-17T20:05Z",
+          "time": "2026-01-17T20:05Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6754,7 +6766,7 @@
           "home": true,
           "date": "2026-01-14T04:00Z",
           "time": "2026-01-14T04:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7218,7 +7230,7 @@
           },
           "rebounds": {
             "value": 10.2,
-            "player": "Kel'el Ware"
+            "player": ""
           },
           "blocks": {
             "value": 1.2,
@@ -7538,8 +7550,8 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 40,
-        "wins": 33,
+        "played": 41,
+        "wins": 34,
         "losses": 7,
         "last5": [
           {
@@ -7878,7 +7890,7 @@
           "home": false,
           "date": "2026-01-14T04:00Z",
           "time": "2026-01-14T04:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7988,9 +8000,9 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 39,
+        "played": 40,
         "wins": 27,
-        "losses": 12,
+        "losses": 13,
         "last5": [
           {
             "result": "L",
