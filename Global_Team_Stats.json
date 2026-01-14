@@ -3402,7 +3402,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": ""
+            "player": "Mattia Zaccagni"
           },
           "assists": {
             "value": 3,
@@ -3462,7 +3462,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Inter Milan",
+          "home": false,
+          "date": "2026-01-14T19:45Z",
+          "time": "2026-01-14T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
