@@ -849,7 +849,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Rayan Cherki"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -2199,13 +2199,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Levante",
-          "home": true,
-          "date": "2026-01-17T13:00Z",
-          "time": "2026-01-17T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4006,11 +4000,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Serhou Guirassy"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Julian Ryerson"
           },
           "yellowCards": {
@@ -4224,7 +4218,7 @@
             "player": "Farès Chaïbi"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Arthur Theate"
           },
           "redCards": {
@@ -4288,7 +4282,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "Deniz Undav"
           },
           "assists": {
@@ -9420,12 +9414,12 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Nadiem Amiri"
           },
           "assists": {
-            "value": 1,
-            "player": "Kaishu Sano"
+            "value": 2,
+            "player": "Lee Jae-Sung"
           },
           "yellowCards": {
             "value": 5,
@@ -9493,7 +9487,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Stefan Schimmer"
           },
           "assists": {
