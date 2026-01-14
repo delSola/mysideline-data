@@ -3103,7 +3103,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Parma",
+          "home": false,
+          "date": "2026-01-18T11:30Z",
+          "time": "2026-01-18T11:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3121,7 +3127,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Brooke Norton-Cuffy"
           }
         }
       }
@@ -3396,7 +3402,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": "Mattia Zaccagni"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -3456,13 +3462,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Inter Milan",
-          "home": false,
-          "date": "2026-01-14T19:45Z",
-          "time": "2026-01-14T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9101,7 +9101,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Eric Martel"
           },
           "redCards": {
             "value": 1,
