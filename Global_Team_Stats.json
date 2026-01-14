@@ -6379,7 +6379,7 @@
           "home": false,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6604,7 +6604,7 @@
           "home": false,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6829,7 +6829,7 @@
           "home": true,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7278,7 +7278,7 @@
           "home": true,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7353,7 +7353,7 @@
           "home": false,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7428,7 +7428,7 @@
           "home": true,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7578,7 +7578,7 @@
           "home": true,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8028,7 +8028,7 @@
           "home": false,
           "date": "2026-01-14T01:00Z",
           "time": "2026-01-14T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10894,7 +10894,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Kerby Joseph"
+            "player": ""
           }
         }
       }
@@ -10951,7 +10951,7 @@
           },
           "rushingYards": {
             "value": 929.0,
-            "player": "Josh Jacobs"
+            "player": ""
           },
           "receivingYards": {
             "value": 724.0,
