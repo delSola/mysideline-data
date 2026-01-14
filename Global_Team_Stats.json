@@ -1982,20 +1982,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Ante Budimir"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Rubén García"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Alejandro Catena"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Abel Bretones"
           }
         }
       }
@@ -3103,13 +3103,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": false,
-          "date": "2026-01-18T11:30Z",
-          "time": "2026-01-18T11:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3127,7 +3121,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Brooke Norton-Cuffy"
+            "player": ""
           }
         }
       }
@@ -6127,15 +6121,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.7,
+            "value": 23.4,
             "player": "Jalen Johnson"
           },
           "assists": {
-            "value": 8.2,
+            "value": 8.1,
             "player": "Jalen Johnson"
           },
           "rebounds": {
-            "value": 10.3,
+            "value": 10.1,
             "player": "Jalen Johnson"
           },
           "blocks": {
@@ -6352,15 +6346,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.9,
+            "value": 20.1,
             "player": "LaMelo Ball"
           },
           "assists": {
-            "value": 7.8,
+            "value": 7.7,
             "player": "LaMelo Ball"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.4,
             "player": "Moussa Diabate"
           },
           "blocks": {
@@ -7251,7 +7245,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.8,
+            "value": 23.9,
             "player": "Norman Powell"
           },
           "assists": {
@@ -7484,7 +7478,7 @@
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.3,
+            "value": 7.5,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -7634,8 +7628,8 @@
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
-            "value": 10.4,
-            "player": "Isaiah Hartenstein"
+            "value": 8.4,
+            "player": "Chet Holmgren"
           },
           "blocks": {
             "value": 1.9,
@@ -9107,7 +9101,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Eric Martel"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -11826,7 +11820,7 @@
           },
           "rushingYards": {
             "value": 1065.0,
-            "player": ""
+            "player": "Breece Hall"
           },
           "receivingYards": {
             "value": 395.0,
