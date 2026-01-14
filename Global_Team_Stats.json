@@ -3539,7 +3539,7 @@
           "home": true,
           "date": "2026-01-14T17:30Z",
           "time": "2026-01-14T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3611,7 +3611,7 @@
           "home": false,
           "date": "2026-01-14T17:30Z",
           "time": "2026-01-14T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9238,7 +9238,7 @@
           "home": true,
           "date": "2026-01-14T17:30Z",
           "time": "2026-01-14T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9311,7 +9311,7 @@
           "home": false,
           "date": "2026-01-14T17:30Z",
           "time": "2026-01-14T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12280,7 +12280,7 @@
           },
           "receivingYards": {
             "value": 1793.0,
-            "player": "Jaxon Smith-Njigba"
+            "player": ""
           },
           "touchdowns": {
             "value": 12.0,
