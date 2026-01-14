@@ -43,13 +43,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nottm Forest",
-          "home": false,
-          "date": "2026-01-17T17:30Z",
-          "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -402,13 +396,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Brentford",
-          "home": true,
-          "date": "2026-01-17T15:00Z",
-          "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -849,7 +837,7 @@
           },
           "assists": {
             "value": 7,
-            "player": ""
+            "player": "Rayan Cherki"
           },
           "yellowCards": {
             "value": 5,
@@ -2055,13 +2043,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Celta Vigo",
-          "home": false,
-          "date": "2026-01-18T17:30Z",
-          "time": "2026-01-18T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2127,13 +2109,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Villarreal",
-          "home": true,
-          "date": "2026-01-17T20:00Z",
-          "time": "2026-01-17T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2408,13 +2384,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Elche",
-          "home": false,
-          "date": "2026-01-19T20:00Z",
-          "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4133,7 +4103,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hoffenheim",
+          "home": false,
+          "date": "2026-01-17T14:30Z",
+          "time": "2026-01-17T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -8898,13 +8874,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Atlético",
-          "home": false,
-          "date": "2026-01-18T15:15Z",
-          "time": "2026-01-18T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9044,13 +9014,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Sevilla",
-          "home": true,
-          "date": "2026-01-19T20:00Z",
-          "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9190,7 +9154,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Gladbach",
+          "home": true,
+          "date": "2026-01-17T14:30Z",
+          "time": "2026-01-17T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
