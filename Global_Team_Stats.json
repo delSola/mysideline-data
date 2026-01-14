@@ -3348,7 +3348,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cagliari",
+          "home": false,
+          "date": "2026-01-17T19:45Z",
+          "time": "2026-01-17T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3793,7 +3799,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Cesare Casadei"
           },
           "redCards": {
             "value": 0,
@@ -5729,7 +5735,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Junior Mwanga"
           }
         }
       }
@@ -6099,9 +6105,9 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
+        "played": 42,
         "wins": 20,
-        "losses": 21,
+        "losses": 22,
         "last5": [
           {
             "result": "L",
@@ -6774,16 +6780,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 40,
-        "wins": 21,
+        "played": 41,
+        "wins": 22,
         "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Jazz",
-            "score": "123-114",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Clippers",
@@ -6807,14 +6807,20 @@
             "opponent": "Hawks",
             "score": "111-124",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Trail Blazers",
+            "score": "119-97",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
+          "opponent": "Knicks",
           "home": true,
-          "date": "2026-01-14T04:00Z",
-          "time": "2026-01-14T04:00Z",
-          "status": "live"
+          "date": "2026-01-16T03:00Z",
+          "time": "2026-01-16T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6846,7 +6852,7 @@
       "TeamName": "Houston Rockets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 37,
@@ -7070,11 +7076,11 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 37,
-        "wins": 23,
+        "played": 38,
+        "wins": 24,
         "losses": 14,
         "last5": [
           {
@@ -7898,16 +7904,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 40,
+        "played": 41,
         "wins": 19,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Spurs",
-            "score": "115-110",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -7931,14 +7931,20 @@
             "opponent": "Knicks",
             "score": "114-123",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Warriors",
+            "score": "97-119",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
-          "home": false,
-          "date": "2026-01-14T04:00Z",
-          "time": "2026-01-14T04:00Z",
-          "status": "live"
+          "opponent": "Hawks",
+          "home": true,
+          "date": "2026-01-16T03:00Z",
+          "time": "2026-01-16T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
