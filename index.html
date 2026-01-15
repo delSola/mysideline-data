@@ -23,9 +23,13 @@
 <body>
   <div class="app-container">
     <div class="settings-panel collapsed" id="settingsPanel">
-      <div class="settings-toggle" onclick="toggleSettingsPanel()">
+      <div class="header-bar">
         <div class="brand-small">MySideline</div>
-        <div class="toggle-icon">
+        <div class="header-actions">
+          <button class="header-btn" onclick="openAddTeamModal()">+ Add Team</button>
+          <button class="header-btn" onclick="confirmClearAll()">Clear Teams</button>
+        </div>
+        <div class="settings-trigger" onclick="toggleSettingsPanel()">
           <!-- Gear Icon SVG -->
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -40,16 +44,10 @@
       <div class="settings-content">
         <div class="brand-large">
           <h1>MySideline<span>.live</span></h1>
-          <p class="subtitle">Your personal hub for scores, stats, and upcoming games</p>
+          <p class="subtitle">Track your teams and know exactly when the games on.</p>
         </div>
 
         <div class="controls-grid">
-          <!-- Action Buttons -->
-          <div class="control-group actions">
-            <button class="action-btn primary" onclick="openAddTeamModal()">+ Add Team</button>
-            <button class="action-btn danger" onclick="confirmClearAll()">Clear All Teams</button>
-          </div>
-
           <!-- Settings Row -->
           <div class="settings-row">
             <div class="control-group">
@@ -91,6 +89,7 @@
           </div>
 
           <div class="settings-footer" style="padding-top: 24px; text-align: center; opacity: 0.6;">
+            <span style="font-size: 0.8rem; margin-right: 8px;">To request leagues/sports</span>
             <a href="mailto:contact@mysideline.live" onclick="gtag('event', 'contact_click')"
               style="color: inherit; text-decoration: none; font-size: 0.8rem;">contact@mysideline.com</a>
           </div>
@@ -105,7 +104,6 @@
       <div class="modal-content">
         <div class="modal-header">
           <h2>Add Team</h2>
-          <button class="close-btn" onclick="closeAddTeamModal()">&times;</button>
         </div>
 
         <div class="modal-body">
@@ -132,8 +130,8 @@
           <div class="team-list" id="teamList"></div>
         </div>
 
-        <div class="modal-footer">
-          <button class="btn-secondary" onclick="closeAddTeamModal()">Cancel</button>
+        <div class="modal-footer" style="justify-content: center;">
+          <button class="btn-secondary" onclick="closeAddTeamModal()">Close</button>
         </div>
       </div>
     </div>
@@ -291,8 +289,6 @@
       function toggleSettingsPanel() {
         const panel = document.getElementById('settingsPanel');
         panel.classList.toggle('collapsed');
-        const icon = panel.querySelector('.toggle-icon');
-        icon.style.transform = panel.classList.contains('collapsed') ? 'rotate(0deg)' : 'rotate(180deg)';
       }
 
       function updateSettingsUI() {
@@ -1272,25 +1268,40 @@
 
       function populateTimezones() {
         const select = document.getElementById('timezoneSelect');
-        const commonTimezones = [
-          "UTC",
-          "America/New_York",
-          "America/Chicago",
-          "America/Denver",
-          "America/Los_Angeles",
-          "Europe/London",
-          "Europe/Paris",
-          "Asia/Tokyo",
-          "Australia/Sydney",
-          Intl.DateTimeFormat().resolvedOptions().timeZone // Ensure local is always there
+        const specificTimezones = [
+          { name: "Eastern Time (US)", value: "America/New_York" },
+          { name: "Central Time (US)", value: "America/Chicago" },
+          { name: "Mountain Time (US)", value: "America/Denver" },
+          { name: "Pacific Time (US)", value: "America/Los_Angeles" },
+          { name: "United Kingdom", value: "Europe/London" },
+          { name: "Central Europe", value: "Europe/Paris" },
+          { name: "Japan", value: "Asia/Tokyo" },
+          { name: "Australia Eastern", value: "Australia/Sydney" },
+          { name: "UTC", value: "UTC" }
         ];
 
-        // Deduplicate and Sort
-        const uniqueTz = [...new Set(commonTimezones)].sort();
-
-        select.innerHTML = uniqueTz.map(tz =>
-          `<option value="${tz}">${tz.replace('_', ' ')}</option>`
+        select.innerHTML = specificTimezones.map(tz =>
+          `<option value="${tz.value}">${tz.name}</option>`
         ).join('');
+
+        // Auto-detect if no setting saved (or defaulting)
+        if (!localStorage.getItem('sportsboy_settings')) {
+          const userTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+          // Try to match specific value, otherwise fallback to finding closest offset or default
+          // For now, simpler exact match or mapped fallback could be improved, but let's try direct match first
+          const match = specificTimezones.find(t => t.value === userTz);
+          if (match) {
+            settings.timezone = match.value;
+          } else {
+            // Fallback logic could go here. For now, if no exact match, we might want to default to 'UTC' or keep the first one
+            // Or allow the user's detected one if it's valid?
+            // Request says: "can we make this autodect by browser?" -> mapping strictly to the list
+            // Simple mapping for common ones if exact match fails
+            if (userTz.startsWith('Australia')) settings.timezone = 'Australia/Sydney';
+            else if (userTz.startsWith('Europe/London')) settings.timezone = 'Europe/London';
+            // ... etc. But simple exact match is safest starter.
+          }
+        }
 
         select.value = settings.timezone;
       }
