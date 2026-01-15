@@ -11726,7 +11726,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Kool-Aid McKinstry"
+            "player": ""
           }
         }
       }
@@ -12810,7 +12810,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "69-81",
+            "score": "80-95",
             "home": false
           }
         ],
@@ -13485,7 +13485,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "81-69",
+            "score": "95-80",
             "home": true
           }
         ],
