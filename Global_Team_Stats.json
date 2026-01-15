@@ -4570,7 +4570,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Jens Stage"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -11726,7 +11726,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Kool-Aid McKinstry"
           }
         }
       }
