@@ -1480,13 +1480,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Sociedad",
-          "home": false,
-          "date": "2026-01-18T20:00Z",
-          "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2486,13 +2480,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Getafe",
-          "home": false,
-          "date": "2026-01-18T13:00Z",
-          "time": "2026-01-18T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9583,7 +9571,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Matìas Soulè"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
