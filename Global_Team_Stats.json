@@ -4366,7 +4366,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hamburg",
+          "home": false,
+          "date": "2026-01-17T14:30Z",
+          "time": "2026-01-17T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5436,7 +5442,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Wesley Saïd"
           },
           "assists": {
             "value": 5,
@@ -5448,7 +5454,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Morgan Guilavogui"
           }
         }
       }
@@ -8837,20 +8843,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Carlos Vicente"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Carles Aleñá"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Antonio Blanco"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Lucas Boyé"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -9179,7 +9185,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Heidenheim",
+          "home": true,
+          "date": "2026-01-17T14:30Z",
+          "time": "2026-01-17T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
