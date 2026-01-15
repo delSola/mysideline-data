@@ -402,7 +402,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
@@ -1049,7 +1049,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Morgan Gibbs-White"
+            "player": ""
           },
           "assists": {
             "value": 2,
@@ -1838,20 +1838,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Vladyslav Vanat"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Bryan Gil"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Azzedine Ounahi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Paulo Gazzaniga"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -2123,11 +2123,11 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Natan "
+            "player": "Natan"
           },
           "redCards": {
             "value": 1,
-            "player": "Antony "
+            "player": "Antony"
           }
         }
       }
@@ -4728,7 +4728,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Bernardo "
+            "player": "Bernardo"
           },
           "redCards": {
             "value": 0,
@@ -6223,7 +6223,7 @@
           "home": false,
           "date": "2026-01-15T01:00Z",
           "time": "2026-01-15T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6373,7 +6373,7 @@
           "home": true,
           "date": "2026-01-15T01:00Z",
           "time": "2026-01-15T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7422,7 +7422,7 @@
           "home": true,
           "date": "2026-01-15T01:00Z",
           "time": "2026-01-15T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8172,7 +8172,7 @@
           "home": false,
           "date": "2026-01-15T01:00Z",
           "time": "2026-01-15T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10709,28 +10709,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 4552.0,
-            "player": "Dak Prescott"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 1201.0,
-            "player": "Javonte Williams"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1429.0,
-            "player": "George Pickens"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 11.0,
-            "player": "Javonte Williams"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 91.0,
-            "player": "Shemar James"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 2.0,
-            "player": "Donovan Wilson"
+            "value": 0,
+            "player": ""
           }
         }
       }
