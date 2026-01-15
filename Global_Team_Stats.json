@@ -2588,6 +2588,12 @@
         "points": 43,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Como",
+            "score": "3-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Fiorentina",
             "score": "1-1",
@@ -2609,12 +2615,6 @@
             "result": "W",
             "opponent": "Verona",
             "score": "3-0",
-            "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Sassuolo",
-            "score": "2-2",
             "home": true
           }
         ],
@@ -2864,6 +2864,12 @@
         "points": 34,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Milan",
+            "score": "1-3",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Bologna",
             "score": "1-1",
@@ -2885,12 +2891,6 @@
             "result": "W",
             "opponent": "Lecce",
             "score": "3-0",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "AS Roma",
-            "score": "0-1",
             "home": false
           }
         ],
@@ -3612,7 +3612,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Mateo Pellegrino"
           },
           "assists": {
             "value": 2,
@@ -4123,7 +4123,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Jarell Quansah"
           },
           "redCards": {
             "value": 1,
@@ -4577,6 +4577,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Augsburg",
+            "score": "1-1",
+            "home": false
+          },
+          {
+            "result": "D",
             "opponent": "Mainz",
             "score": "2-2",
             "home": true
@@ -4598,12 +4604,6 @@
             "opponent": "Wolfsburg",
             "score": "1-3",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Heidenheim",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4642,6 +4642,12 @@
         "points": 15,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Union Berlin",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Gladbach",
             "score": "0-4",
@@ -4664,12 +4670,6 @@
             "opponent": "Leverkusen",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Hoffenheim",
-            "score": "0-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -7112,9 +7112,9 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 39,
+        "played": 40,
         "wins": 17,
-        "losses": 22,
+        "losses": 23,
         "last5": [
           {
             "result": "W",
@@ -7637,8 +7637,8 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 40,
-        "wins": 22,
+        "played": 41,
+        "wins": 23,
         "losses": 18,
         "last5": [
           {
