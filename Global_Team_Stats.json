@@ -490,7 +490,7 @@
           },
           "assists": {
             "value": 2,
-            "player": "Maxence Lacroix"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -2073,7 +2073,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Óscar Valentín "
+            "player": "Óscar Valentín"
           }
         }
       }
@@ -2213,7 +2213,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Vinícius Júnior "
+            "player": "Vinícius Júnior"
           },
           "redCards": {
             "value": 1,
@@ -9202,7 +9202,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Rayan Philippe"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -9571,7 +9571,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Matìas Soulè"
           },
           "yellowCards": {
             "value": 6,
@@ -12828,8 +12828,8 @@
             "player": "Casey Prather"
           },
           "assists": {
-            "value": 3.5,
-            "player": "Mitch Norton"
+            "value": 4.3,
+            "player": "Hunter Maldonado"
           },
           "rebounds": {
             "value": 9.3,
