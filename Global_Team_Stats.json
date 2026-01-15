@@ -2618,13 +2618,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Como",
-          "home": false,
-          "date": "2026-01-15T19:45Z",
-          "time": "2026-01-15T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
