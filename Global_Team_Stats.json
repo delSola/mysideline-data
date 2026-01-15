@@ -2767,7 +2767,7 @@
           "home": false,
           "date": "2026-01-15T17:30Z",
           "time": "2026-01-15T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3198,7 +3198,7 @@
           "home": true,
           "date": "2026-01-15T17:30Z",
           "time": "2026-01-15T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3209,7 +3209,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane "
+            "player": "Giovane"
           },
           "yellowCards": {
             "value": 5,
@@ -11420,7 +11420,7 @@
           },
           "touchdowns": {
             "value": 10.0,
-            "player": ""
+            "player": "Kyren Williams"
           },
           "tackles": {
             "value": 132.0,
