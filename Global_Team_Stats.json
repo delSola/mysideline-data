@@ -1049,7 +1049,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": ""
+            "player": "Morgan Gibbs-White"
           },
           "assists": {
             "value": 2,
@@ -1838,20 +1838,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Vladyslav Vanat"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Bryan Gil"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Azzedine Ounahi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Paulo Gazzaniga"
           }
         }
       }
@@ -6408,16 +6408,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
-        "wins": 22,
+        "played": 42,
+        "wins": 23,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pistons",
-            "score": "110-114",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Pacers",
@@ -6441,14 +6435,20 @@
             "opponent": "Jazz",
             "score": "112-123",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "133-107",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "76ers",
           "home": false,
-          "date": "2026-01-15T00:00Z",
-          "time": "2026-01-15T00:00Z",
-          "status": "live"
+          "date": "2026-01-17T00:00Z",
+          "time": "2026-01-17T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6858,16 +6858,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 40,
+        "played": 41,
         "wins": 9,
-        "losses": 31,
+        "losses": 32,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Magic",
-            "score": "127-135",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Cavaliers",
@@ -6891,14 +6885,20 @@
             "opponent": "Celtics",
             "score": "98-96",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Raptors",
+            "score": "101-115",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Raptors",
+          "opponent": "Pelicans",
           "home": true,
-          "date": "2026-01-15T00:00Z",
-          "time": "2026-01-15T00:00Z",
-          "status": "live"
+          "date": "2026-01-17T00:00Z",
+          "time": "2026-01-17T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7682,16 +7682,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 38,
+        "played": 39,
         "wins": 22,
-        "losses": 16,
+        "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Nuggets",
-            "score": "124-125",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Wizards",
@@ -7715,14 +7709,20 @@
             "opponent": "Raptors",
             "score": "115-102",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "107-133",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Cavaliers",
           "home": true,
-          "date": "2026-01-15T00:00Z",
-          "time": "2026-01-15T00:00Z",
-          "status": "live"
+          "date": "2026-01-17T00:00Z",
+          "time": "2026-01-17T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8057,16 +8057,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
-        "wins": 24,
+        "played": 42,
+        "wins": 25,
         "losses": 17,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hawks",
-            "score": "118-100",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Hornets",
@@ -8090,14 +8084,20 @@
             "opponent": "76ers",
             "score": "102-115",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pacers",
+            "score": "115-101",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pacers",
-          "home": false,
-          "date": "2026-01-15T00:00Z",
-          "time": "2026-01-15T00:00Z",
-          "status": "live"
+          "opponent": "Clippers",
+          "home": true,
+          "date": "2026-01-17T00:30Z",
+          "time": "2026-01-17T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10709,28 +10709,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4552.0,
+            "player": "Dak Prescott"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1201.0,
+            "player": "Javonte Williams"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1429.0,
+            "player": "George Pickens"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 11.0,
+            "player": "Javonte Williams"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 91.0,
+            "player": "Shemar James"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 2.0,
+            "player": "Donovan Wilson"
           }
         }
       }
