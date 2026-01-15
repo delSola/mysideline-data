@@ -2581,11 +2581,11 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 19,
-        "wins": 11,
+        "played": 20,
+        "wins": 12,
         "draws": 7,
         "losses": 1,
-        "points": 40,
+        "points": 43,
         "last5": [
           {
             "result": "D",
@@ -2618,13 +2618,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Como",
-          "home": false,
-          "date": "2026-01-15T19:45Z",
-          "time": "2026-01-15T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2863,10 +2857,10 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 9,
         "draws": 7,
-        "losses": 3,
+        "losses": 4,
         "points": 34,
         "last5": [
           {
@@ -2900,13 +2894,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Milan",
-          "home": true,
-          "date": "2026-01-15T19:45Z",
-          "time": "2026-01-15T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3624,7 +3612,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Mateo Pellegrino"
+            "player": ""
           },
           "assists": {
             "value": 2,
@@ -4135,7 +4123,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Jarell Quansah"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4581,11 +4569,11 @@
       "TeamStats": {
         "position": 9,
         "positionSuffix": "th",
-        "played": 16,
+        "played": 17,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "losses": 6,
-        "points": 22,
+        "points": 23,
         "last5": [
           {
             "result": "D",
@@ -4618,13 +4606,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Augsburg",
-          "home": false,
-          "date": "2026-01-15T19:30Z",
-          "time": "2026-01-15T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4653,11 +4635,11 @@
       "TeamStats": {
         "position": 15,
         "positionSuffix": "th",
-        "played": 16,
+        "played": 17,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "losses": 10,
-        "points": 14,
+        "points": 15,
         "last5": [
           {
             "result": "L",
@@ -4690,13 +4672,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Union Berlin",
-          "home": true,
-          "date": "2026-01-15T19:30Z",
-          "time": "2026-01-15T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -7141,12 +7117,6 @@
         "losses": 22,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Lakers",
-            "score": "114-120",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Spurs",
             "score": "106-105",
@@ -7169,14 +7139,20 @@
             "opponent": "Nets",
             "score": "103-98",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Magic",
+            "score": "111-118",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "Magic",
-          "home": false,
-          "date": "2026-01-15T19:00Z",
-          "time": "2026-01-15T19:00Z",
-          "status": "live"
+          "home": true,
+          "date": "2026-01-18T17:00Z",
+          "time": "2026-01-18T17:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7666,12 +7642,6 @@
         "losses": 18,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "135-127",
-            "home": true
-          },
-          {
             "result": "L",
             "opponent": "Wizards",
             "score": "112-120",
@@ -7694,14 +7664,20 @@
             "opponent": "Pelicans",
             "score": "128-118",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Grizzlies",
+            "score": "118-111",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Grizzlies",
-          "home": true,
-          "date": "2026-01-15T19:00Z",
-          "time": "2026-01-15T19:00Z",
-          "status": "live"
+          "home": false,
+          "date": "2026-01-18T17:00Z",
+          "time": "2026-01-18T17:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
