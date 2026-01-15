@@ -2732,6 +2732,12 @@
         "points": 30,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Verona",
+            "score": "3-2",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Como",
             "score": "1-1",
@@ -2753,12 +2759,6 @@
             "result": "D",
             "opponent": "Sassuolo",
             "score": "1-1",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Juventus",
-            "score": "0-1",
             "home": true
           }
         ],
@@ -3158,6 +3158,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Bologna",
+            "score": "2-3",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Lazio",
             "score": "0-1",
             "home": true
@@ -3178,12 +3184,6 @@
             "result": "L",
             "opponent": "Milan",
             "score": "0-3",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Fiorentina",
-            "score": "2-1",
             "home": false
           }
         ],
