@@ -6453,7 +6453,7 @@
             "player": "Josh Giddey"
           },
           "rebounds": {
-            "value": 9.3,
+            "value": 9.2,
             "player": "Nikola Vucevic"
           },
           "blocks": {
@@ -6595,7 +6595,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.1,
+            "value": 18.8,
             "player": "Cooper Flagg"
           },
           "assists": {
@@ -7794,11 +7794,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 30.9,
+            "value": 30.5,
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.7,
+            "value": 6.6,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
@@ -7810,7 +7810,7 @@
             "player": "Adem Bona"
           },
           "steals": {
-            "value": 1.9,
+            "value": 1.8,
             "player": "Tyrese Maxey"
           }
         }
@@ -10879,7 +10879,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bills",
+          "home": true,
+          "date": "2026-01-17T21:30Z",
+          "time": "2026-01-17T21:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12804,7 +12810,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "23-32",
+            "score": "69-81",
             "home": false
           }
         ],
@@ -13479,7 +13485,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "32-23",
+            "score": "81-69",
             "home": true
           }
         ],
