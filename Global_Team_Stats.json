@@ -5502,7 +5502,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": true,
+          "date": "2026-01-17T16:00Z",
+          "time": "2026-01-17T16:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
