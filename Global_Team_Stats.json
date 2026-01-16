@@ -5801,7 +5801,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Yann Gboho"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -6232,15 +6232,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.5,
+            "value": 29.4,
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.3,
+            "value": 5.4,
             "player": "Payton Pritchard"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.3,
             "player": "Neemias Queta"
           },
           "blocks": {
@@ -6394,7 +6394,7 @@
             "player": "Moussa Diabate"
           },
           "blocks": {
-            "value": 1.8,
+            "value": 1.7,
             "player": "Ryan Kalkbrenner"
           },
           "steals": {
@@ -6757,15 +6757,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.7,
+            "value": 26.2,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.7,
+            "value": 9.8,
             "player": "Cade Cunningham"
           },
           "rebounds": {
-            "value": 10.6,
+            "value": 10.9,
             "player": "Jalen Duren"
           },
           "blocks": {
@@ -6773,7 +6773,7 @@
             "player": "Isaiah Stewart"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Ausar Thompson"
           }
         }
@@ -6836,7 +6836,7 @@
             "player": "Stephen Curry"
           },
           "assists": {
-            "value": 5.3,
+            "value": 5.2,
             "player": "Draymond Green"
           },
           "rebounds": {
@@ -6844,7 +6844,7 @@
             "player": "Draymond Green"
           },
           "blocks": {
-            "value": 0.8,
+            "value": 0.7,
             "player": "Draymond Green"
           },
           "steals": {
@@ -6907,15 +6907,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.1,
+            "value": 25.9,
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.6,
+            "value": 6.5,
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 8.9,
+            "value": 9.0,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6924,7 +6924,7 @@
           },
           "steals": {
             "value": 1.4,
-            "player": "Alperen Sengun"
+            "player": "Reed Sheppard"
           }
         }
       }
@@ -7131,15 +7131,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.4,
+            "value": 33.6,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.8,
+            "value": 8.7,
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.8,
+            "value": 8.7,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7206,15 +7206,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.5,
+            "value": 18.8,
             "player": "Jaren Jackson Jr."
           },
           "assists": {
-            "value": 5.3,
+            "value": 5.5,
             "player": "Cam Spencer"
           },
           "rebounds": {
-            "value": 6.8,
+            "value": 6.7,
             "player": "Santi Aldama"
           },
           "blocks": {
@@ -7223,7 +7223,7 @@
           },
           "steals": {
             "value": 0.9,
-            "player": "Santi Aldama"
+            "player": "Jaren Jackson Jr."
           }
         }
       }
@@ -7289,11 +7289,11 @@
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 10.1,
+            "value": 9.9,
             "player": "Kel'el Ware"
           },
           "blocks": {
-            "value": 1.2,
+            "value": 1.1,
             "player": "Kel'el Ware"
           },
           "steals": {
@@ -7356,15 +7356,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.1,
+            "value": 28.8,
             "player": "Giannis Antetokounmpo"
           },
           "assists": {
-            "value": 5.7,
-            "player": "Giannis Antetokounmpo"
+            "value": 5.5,
+            "player": "Ryan Rollins"
           },
           "rebounds": {
-            "value": 9.7,
+            "value": 9.5,
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
@@ -7589,7 +7589,7 @@
             "player": "Jalen Brunson"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.5,
             "player": "Karl-Anthony Towns"
           },
           "blocks": {
@@ -7656,11 +7656,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 31.9,
+            "value": 31.6,
             "player": "Shai Gilgeous-Alexander"
           },
           "assists": {
-            "value": 6.4,
+            "value": 6.3,
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
@@ -7672,7 +7672,7 @@
             "player": "Chet Holmgren"
           },
           "steals": {
-            "value": 2.1,
+            "value": 2.2,
             "player": "Cason Wallace"
           }
         }
@@ -7893,7 +7893,7 @@
             "player": "Mark Williams"
           },
           "blocks": {
-            "value": 0.9,
+            "value": 1.0,
             "player": "Mark Williams"
           },
           "steals": {
@@ -7968,7 +7968,7 @@
             "player": "Donovan Clingan"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Donovan Clingan"
           },
           "steals": {
@@ -8106,15 +8106,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.0,
+            "value": 23.9,
             "player": "Victor Wembanyama"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.9,
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 11.0,
+            "value": 10.9,
             "player": "Victor Wembanyama"
           },
           "blocks": {
@@ -8269,7 +8269,7 @@
           },
           "blocks": {
             "value": 0.5,
-            "player": "Kyle Filipowski"
+            "player": "Lauri Markkanen"
           },
           "steals": {
             "value": 1.4,
@@ -9348,7 +9348,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Dortmund",
+          "home": false,
+          "date": "2026-01-17T14:30Z",
+          "time": "2026-01-17T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9512,7 +9518,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Budu Zivzivadze"
           }
         }
       }
@@ -12935,16 +12941,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 23,
+        "played": 24,
         "wins": 8,
-        "losses": 15,
+        "losses": 16,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "84-108",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
@@ -12968,12 +12968,18 @@
             "opponent": "New Zealand Breakers",
             "score": "96-101",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "13-18",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Perth Wildcats",
+          "opponent": "Tasmania JackJumpers",
           "home": false,
-          "date": "2026-01-16T21:30:00Z",
+          "date": "2026-01-24T20:00:00Z",
           "status": "scheduled"
         }
       },
@@ -13310,16 +13316,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
-        "wins": 14,
+        "played": 25,
+        "wins": 15,
         "losses": 10,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "94-85",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Adelaide 36ers",
@@ -13343,12 +13343,18 @@
             "opponent": "SE Melbourne Phoenix",
             "score": "107-97",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "18-13",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Illawarra Hawks",
+          "opponent": "Cairns Taipans",
           "home": true,
-          "date": "2026-01-16T21:30:00Z",
+          "date": "2026-01-22T21:30:00Z",
           "status": "scheduled"
         }
       },
