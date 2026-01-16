@@ -1700,7 +1700,7 @@
           "home": true,
           "date": "2026-01-16T20:00Z",
           "time": "2026-01-16T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1844,7 +1844,7 @@
           "home": false,
           "date": "2026-01-16T20:00Z",
           "time": "2026-01-16T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2707,7 +2707,7 @@
           "home": false,
           "date": "2026-01-16T19:45Z",
           "time": "2026-01-16T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4216,7 +4216,7 @@
           "home": false,
           "date": "2026-01-16T19:30Z",
           "time": "2026-01-16T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4575,7 +4575,7 @@
           "home": true,
           "date": "2026-01-16T19:30Z",
           "time": "2026-01-16T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5076,7 +5076,7 @@
           "home": true,
           "date": "2026-01-16T20:00Z",
           "time": "2026-01-16T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5363,7 +5363,7 @@
           "home": false,
           "date": "2026-01-16T20:00Z",
           "time": "2026-01-16T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9718,7 +9718,7 @@
           "home": true,
           "date": "2026-01-16T19:45Z",
           "time": "2026-01-16T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10041,10 +10041,10 @@
       "TeamStats": {
         "position": 9,
         "positionSuffix": "th",
-        "played": 17,
+        "played": 18,
         "wins": 7,
         "draws": 2,
-        "losses": 8,
+        "losses": 9,
         "points": 23,
         "last5": [
           {
@@ -10078,13 +10078,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lorient",
-          "home": true,
-          "date": "2026-01-16T18:00Z",
-          "time": "2026-01-16T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10187,11 +10181,11 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 17,
-        "wins": 4,
+        "played": 18,
+        "wins": 5,
         "draws": 7,
         "losses": 6,
-        "points": 19,
+        "points": 22,
         "last5": [
           {
             "result": "D",
@@ -10224,13 +10218,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Monaco",
-          "home": false,
-          "date": "2026-01-16T18:00Z",
-          "time": "2026-01-16T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
