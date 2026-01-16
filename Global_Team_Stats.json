@@ -9348,13 +9348,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Dortmund",
-          "home": false,
-          "date": "2026-01-17T14:30Z",
-          "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9518,7 +9512,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Budu Zivzivadze"
+            "player": ""
           }
         }
       }
@@ -13065,8 +13059,8 @@
             "player": "Milton Doyle"
           },
           "assists": {
-            "value": 4.3,
-            "player": "Milton Doyle"
+            "value": 4.7,
+            "player": "Tyson Walker"
           },
           "rebounds": {
             "value": 7.6,
@@ -13515,7 +13509,7 @@
             "player": "Kendric Davis"
           },
           "assists": {
-            "value": 5.8,
+            "value": 6.0,
             "player": "Kendric Davis"
           },
           "rebounds": {
