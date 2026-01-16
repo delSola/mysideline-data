@@ -5872,20 +5872,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Romain Del Castillo"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Ludovic Ajorque"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Pathé Mboup"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Ludovic Ajorque"
           }
         }
       }
@@ -9932,13 +9932,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Le Havre AC",
-          "home": true,
-          "date": "2026-01-18T16:15Z",
-          "time": "2026-01-18T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11142,7 +11136,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Cody Barton"
           }
         }
       }
@@ -11509,7 +11503,7 @@
           },
           "tackles": {
             "value": 183.0,
-            "player": ""
+            "player": "Jordyn Brooks"
           },
           "interceptions": {
             "value": 2.0,
@@ -12972,7 +12966,7 @@
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "60-70",
+            "score": "87-92",
             "home": false
           }
         ],
@@ -13347,7 +13341,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "70-60",
+            "score": "92-87",
             "home": true
           }
         ],
