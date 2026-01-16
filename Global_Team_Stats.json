@@ -1658,10 +1658,10 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 10,
         "draws": 4,
-        "losses": 5,
+        "losses": 6,
         "points": 34,
         "last5": [
           {
@@ -1722,7 +1722,7 @@
       "TeamName": "Getafe",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 19,
         "wins": 6,
@@ -1794,13 +1794,13 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 9,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 5,
+        "played": 20,
+        "wins": 6,
         "draws": 6,
         "losses": 8,
-        "points": 21,
+        "points": 24,
         "last5": [
           {
             "result": "W",
@@ -2004,7 +2004,7 @@
       "TeamName": "Rayo Vallecano",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "played": 19,
         "wins": 5,
@@ -2220,7 +2220,7 @@
       "TeamName": "Real Sociedad",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 19,
         "wins": 5,
@@ -2660,6 +2660,12 @@
         "points": 32,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Pisa",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Torino",
             "score": "2-0",
@@ -2682,12 +2688,6 @@
             "opponent": "Inter Milan",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Genoa",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4163,6 +4163,12 @@
         "points": 27,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Bremen",
+            "score": "3-3",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Stuttgart",
             "score": "2-3",
@@ -4185,12 +4191,6 @@
             "opponent": "Augsburg",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "RB Leipzig",
-            "score": "0-6",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4516,6 +4516,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Frankfurt",
+            "score": "3-3",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Dortmund",
             "score": "0-3",
@@ -4538,12 +4544,6 @@
             "opponent": "Hamburg",
             "score": "2-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Cologne",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5293,6 +5293,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "PSG",
+            "score": "0-3",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Rennes",
             "score": "0-2",
             "home": true
@@ -5314,12 +5320,6 @@
             "opponent": "Le Havre AC",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Paris FC",
-            "score": "4-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8975,7 +8975,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "played": 19,
         "wins": 5,
@@ -9642,6 +9642,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Atalanta",
+            "score": "1-1",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Udinese",
             "score": "2-2",
             "home": false
@@ -9663,12 +9669,6 @@
             "opponent": "Juventus",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Cagliari",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
