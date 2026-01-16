@@ -2414,7 +2414,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Elche",
+          "home": false,
+          "date": "2026-01-19T20:00Z",
+          "time": "2026-01-19T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2928,7 +2934,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Nico Paz"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -10077,7 +10083,7 @@
           "home": true,
           "date": "2026-01-16T18:00Z",
           "time": "2026-01-16T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10223,7 +10229,7 @@
           "home": false,
           "date": "2026-01-16T18:00Z",
           "time": "2026-01-16T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
