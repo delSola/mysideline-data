@@ -5801,7 +5801,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": ""
+            "player": "Yann Gboho"
           },
           "assists": {
             "value": 3,
@@ -5872,20 +5872,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Romain Del Castillo"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 5,
-            "player": "Ludovic Ajorque"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Pathé Mboup"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Ludovic Ajorque"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -6157,7 +6157,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.4,
+            "value": 23.1,
             "player": "Jalen Johnson"
           },
           "assists": {
@@ -6382,11 +6382,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.1,
+            "value": 20.4,
             "player": "LaMelo Ball"
           },
           "assists": {
-            "value": 7.7,
+            "value": 7.8,
             "player": "LaMelo Ball"
           },
           "rebounds": {
@@ -6611,7 +6611,7 @@
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 5.1,
+            "value": 5.3,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -7597,7 +7597,7 @@
             "player": "Mitchell Robinson"
           },
           "steals": {
-            "value": 1.7,
+            "value": 1.6,
             "player": "OG Anunoby"
           }
         }
@@ -7731,7 +7731,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.7,
+            "value": 22.5,
             "player": "Franz Wagner"
           },
           "assists": {
@@ -7739,7 +7739,7 @@
             "player": "Paolo Banchero"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.8,
             "player": "Paolo Banchero"
           },
           "blocks": {
@@ -8260,7 +8260,7 @@
             "player": "Lauri Markkanen"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Keyonte George"
           },
           "rebounds": {
@@ -11142,7 +11142,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Cody Barton"
+            "player": ""
           }
         }
       }
@@ -11509,7 +11509,7 @@
           },
           "tackles": {
             "value": 183.0,
-            "player": "Jordyn Brooks"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
@@ -12972,7 +12972,7 @@
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "13-18",
+            "score": "60-70",
             "home": false
           }
         ],
@@ -13347,7 +13347,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "18-13",
+            "score": "70-60",
             "home": true
           }
         ],
