@@ -1695,13 +1695,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Girona",
-          "home": true,
-          "date": "2026-01-16T20:00Z",
-          "time": "2026-01-16T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1839,13 +1833,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Espanyol",
-          "home": false,
-          "date": "2026-01-16T20:00Z",
-          "time": "2026-01-16T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2665,11 +2653,11 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 7,
+        "draws": 8,
         "losses": 5,
-        "points": 31,
+        "points": 32,
         "last5": [
           {
             "result": "W",
@@ -2702,13 +2690,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Pisa",
-          "home": false,
-          "date": "2026-01-16T19:45Z",
-          "time": "2026-01-16T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4163,7 +4145,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Robert Andrich"
           }
         }
       }
@@ -4174,11 +4156,11 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 17,
+        "played": 18,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 5,
-        "points": 26,
+        "points": 27,
         "last5": [
           {
             "result": "L",
@@ -4211,13 +4193,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bremen",
-          "home": false,
-          "date": "2026-01-16T19:30Z",
-          "time": "2026-01-16T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4531,13 +4507,13 @@
       "TeamName": "Werder Bremen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 12,
         "positionSuffix": "th",
-        "played": 16,
+        "played": 17,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 7,
-        "points": 17,
+        "points": 18,
         "last5": [
           {
             "result": "L",
@@ -4570,13 +4546,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Frankfurt",
-          "home": true,
-          "date": "2026-01-16T19:30Z",
-          "time": "2026-01-16T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5032,13 +5002,13 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 17,
-        "wins": 12,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 18,
+        "wins": 13,
         "draws": 3,
         "losses": 2,
-        "points": 39,
+        "points": 42,
         "last5": [
           {
             "result": "W",
@@ -5071,13 +5041,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lille",
-          "home": true,
-          "date": "2026-01-16T20:00Z",
-          "time": "2026-01-16T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5321,10 +5285,10 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 17,
+        "played": 18,
         "wins": 10,
         "draws": 2,
-        "losses": 5,
+        "losses": 6,
         "points": 32,
         "last5": [
           {
@@ -5358,13 +5322,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "PSG",
-          "home": false,
-          "date": "2026-01-16T20:00Z",
-          "time": "2026-01-16T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5463,8 +5421,8 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 17,
         "wins": 13,
         "draws": 1,
@@ -9090,7 +9048,7 @@
       "Sport": "Soccer",
       "League": "bundesliga",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 17,
         "wins": 4,
@@ -9676,11 +9634,11 @@
       "TeamStats": {
         "position": 19,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 1,
-        "draws": 10,
+        "draws": 11,
         "losses": 9,
-        "points": 13,
+        "points": 14,
         "last5": [
           {
             "result": "D",
@@ -9713,13 +9671,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": true,
-          "date": "2026-01-16T19:45Z",
-          "time": "2026-01-16T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10309,7 +10261,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Gautier Lloris"
           }
         }
       }
