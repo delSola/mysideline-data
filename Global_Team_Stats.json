@@ -2785,7 +2785,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Riccardo Orsolini"
           },
           "assists": {
@@ -2798,7 +2798,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Nicolò Cambiaghi"
+            "player": "Torbjorn Heggem"
           }
         }
       }
@@ -3216,7 +3216,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Gift Orban"
           },
           "assists": {
@@ -4657,7 +4657,7 @@
             "player": "Ilyas Ansah"
           },
           "assists": {
-            "value": 6,
+            "value": 7,
             "player": "Andrej Ilic"
           },
           "yellowCards": {
@@ -4666,7 +4666,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Tom Rothe"
+            "player": "Derrick Köhn"
           }
         }
       }
@@ -5502,13 +5502,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Auxerre",
-          "home": true,
-          "date": "2026-01-17T16:00Z",
-          "time": "2026-01-17T16:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
