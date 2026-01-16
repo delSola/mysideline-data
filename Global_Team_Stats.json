@@ -9932,7 +9932,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Le Havre AC",
+          "home": true,
+          "date": "2026-01-18T16:15Z",
+          "time": "2026-01-18T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11351,7 +11357,7 @@
           },
           "tackles": {
             "value": 174.0,
-            "player": "Devin White"
+            "player": ""
           },
           "interceptions": {
             "value": 3.0,
