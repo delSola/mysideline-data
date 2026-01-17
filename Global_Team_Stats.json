@@ -414,7 +414,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "João Pedro"
+            "player": "João Pedro "
           },
           "assists": {
             "value": 4,
@@ -2219,7 +2219,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Vinícius Júnior "
+            "player": "Vinícius Júnior"
           },
           "redCards": {
             "value": 1,
@@ -3856,7 +3856,7 @@
           "home": true,
           "date": "2026-01-17T14:00Z",
           "time": "2026-01-17T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9645,7 +9645,7 @@
           "home": false,
           "date": "2026-01-17T14:00Z",
           "time": "2026-01-17T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
