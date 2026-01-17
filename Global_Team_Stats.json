@@ -48,7 +48,7 @@
           "home": false,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -219,12 +219,12 @@
       "TeamName": "Brentford",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 10,
         "draws": 3,
-        "losses": 8,
+        "losses": 9,
         "points": 33,
         "last5": [
           {
@@ -357,13 +357,13 @@
       "TeamName": "Chelsea",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 6,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 8,
+        "played": 22,
+        "wins": 9,
         "draws": 7,
         "losses": 6,
-        "points": 31,
+        "points": 34,
         "last5": [
           {
             "result": "L",
@@ -425,12 +425,18 @@
       "TeamStats": {
         "position": 13,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
         "draws": 7,
-        "losses": 7,
+        "losses": 8,
         "points": 28,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Sunderland",
+            "score": "1-2",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Aston Villa",
@@ -454,12 +460,6 @@
             "opponent": "Spurs",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Leeds",
-            "score": "1-4",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -561,14 +561,20 @@
       "TeamName": "Fulham",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 9,
         "draws": 4,
-        "losses": 8,
+        "losses": 9,
         "points": 31,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Leeds",
+            "score": "0-1",
+            "home": false
+          },
           {
             "result": "W",
             "opponent": "Chelsea",
@@ -592,12 +598,6 @@
             "opponent": "West Ham",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Nottm Forest",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -698,13 +698,13 @@
       "TeamName": "Liverpool",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 10,
-        "draws": 5,
+        "draws": 6,
         "losses": 6,
-        "points": 35,
+        "points": 36,
         "last5": [
           {
             "result": "D",
@@ -830,7 +830,7 @@
       "TeamName": "Manchester United",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 22,
         "wins": 9,
@@ -896,7 +896,7 @@
       "TeamName": "Newcastle United",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 7,
+        "position": 9,
         "positionSuffix": "th",
         "played": 21,
         "wins": 9,
@@ -1012,7 +1012,7 @@
           "home": true,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1042,10 +1042,10 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "points": 27,
         "last5": [
           {
@@ -1079,13 +1079,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "West Ham",
-          "home": true,
-          "date": "2026-01-17T15:00Z",
-          "time": "2026-01-17T15:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1114,12 +1108,18 @@
       "TeamStats": {
         "position": 18,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 3,
+        "played": 22,
+        "wins": 4,
         "draws": 5,
         "losses": 13,
-        "points": 14,
+        "points": 17,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Spurs",
+            "score": "2-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Nottm Forest",
@@ -1143,21 +1143,9 @@
             "opponent": "Fulham",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Man City",
-            "score": "0-3",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Spurs",
-          "home": false,
-          "date": "2026-01-17T15:00Z",
-          "time": "2026-01-17T15:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1686,7 +1674,7 @@
       "TeamName": "Getafe",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "played": 19,
         "wins": 6,
@@ -1830,13 +1818,13 @@
       "TeamName": "Mallorca",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 17,
+        "position": 13,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 4,
+        "played": 20,
+        "wins": 5,
         "draws": 6,
         "losses": 9,
-        "points": 18,
+        "points": 21,
         "last5": [
           {
             "result": "L",
@@ -1869,13 +1857,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Athletic",
-          "home": true,
-          "date": "2026-01-17T15:15Z",
-          "time": "2026-01-17T15:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1902,7 +1884,7 @@
       "TeamName": "Osasuna",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
         "played": 19,
         "wins": 5,
@@ -1946,7 +1928,7 @@
           "home": true,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2327,7 +2309,7 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
         "played": 19,
         "wins": 6,
@@ -2666,7 +2648,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Nikola Krstovic"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -3874,7 +3856,7 @@
           "home": false,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3912,6 +3894,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "St. Pauli",
+            "score": "3-2",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Bremen",
             "score": "3-0",
             "home": true
@@ -3933,12 +3921,6 @@
             "opponent": "Freiburg",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Hoffenheim",
-            "score": "2-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4012,7 +3994,7 @@
           "home": true,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4050,6 +4032,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Hoffenheim",
+            "score": "0-1",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Stuttgart",
             "score": "1-4",
             "home": true
@@ -4071,12 +4059,6 @@
             "opponent": "Augsburg",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Dortmund",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4330,6 +4312,12 @@
         "points": 20,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Hamburg",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Hoffenheim",
             "score": "1-5",
@@ -4352,12 +4340,6 @@
             "opponent": "Wolfsburg",
             "score": "1-3",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Mainz",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4685,6 +4667,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Leverkusen",
+            "score": "1-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Gladbach",
             "score": "5-1",
             "home": true
@@ -4706,12 +4694,6 @@
             "opponent": "Dortmund",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Augsburg",
-            "score": "3-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4954,8 +4936,8 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 18,
         "wins": 13,
         "draws": 3,
@@ -5357,7 +5339,7 @@
           "home": false,
           "date": "2026-01-17T18:00Z",
           "time": "2026-01-17T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5385,13 +5367,13 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 17,
-        "wins": 13,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 18,
+        "wins": 14,
         "draws": 1,
         "losses": 3,
-        "points": 40,
+        "points": 43,
         "last5": [
           {
             "result": "W",
@@ -5424,13 +5406,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Auxerre",
-          "home": true,
-          "date": "2026-01-17T16:00Z",
-          "time": "2026-01-17T16:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5716,7 +5692,7 @@
           "home": true,
           "date": "2026-01-17T18:00Z",
           "time": "2026-01-17T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8430,12 +8406,18 @@
       "TeamStats": {
         "position": 16,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 5,
+        "played": 22,
+        "wins": 6,
         "draws": 7,
         "losses": 9,
-        "points": 22,
+        "points": 25,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Fulham",
+            "score": "1-0",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Newcastle",
@@ -8459,12 +8441,6 @@
             "opponent": "Sunderland",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "C Palace",
-            "score": "4-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8495,14 +8471,20 @@
       "Sport": "Soccer",
       "League": "premier_league",
       "TeamStats": {
-        "position": 10,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 7,
+        "played": 22,
+        "wins": 8,
         "draws": 9,
         "losses": 5,
-        "points": 30,
+        "points": 33,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "C Palace",
+            "score": "2-1",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Brentford",
@@ -8526,12 +8508,6 @@
             "opponent": "Leeds",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Brighton",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -8564,11 +8540,11 @@
       "TeamStats": {
         "position": 19,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 3,
-        "draws": 4,
+        "draws": 5,
         "losses": 14,
-        "points": 13,
+        "points": 14,
         "last5": [
           {
             "result": "D",
@@ -8673,7 +8649,7 @@
           "home": false,
           "date": "2026-01-17T17:30Z",
           "time": "2026-01-17T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8704,10 +8680,10 @@
       "TeamStats": {
         "position": 8,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 7,
         "draws": 3,
-        "losses": 9,
+        "losses": 10,
         "points": 24,
         "last5": [
           {
@@ -8741,13 +8717,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Mallorca",
-          "home": false,
-          "date": "2026-01-17T15:15Z",
-          "time": "2026-01-17T15:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8775,7 +8745,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 16,
+        "position": 17,
         "positionSuffix": "th",
         "played": 19,
         "wins": 5,
@@ -8997,6 +8967,12 @@
         "points": 20,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Mainz",
+            "score": "2-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Bayern",
             "score": "1-3",
@@ -9019,12 +8995,6 @@
             "opponent": "Leverkusen",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "St. Pauli",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9064,6 +9034,12 @@
         "points": 17,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Gladbach",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Freiburg",
             "score": "1-2",
@@ -9085,12 +9061,6 @@
             "result": "W",
             "opponent": "Bremen",
             "score": "3-2",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Stuttgart",
-            "score": "2-1",
             "home": true
           }
         ],
@@ -9131,6 +9101,12 @@
         "points": 19,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Heidenheim",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "St. Pauli",
             "score": "2-1",
@@ -9153,12 +9129,6 @@
             "opponent": "Gladbach",
             "score": "3-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Union Berlin",
-            "score": "3-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9199,6 +9169,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Dortmund",
+            "score": "2-3",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Wolfsburg",
             "score": "1-2",
             "home": false
@@ -9219,12 +9195,6 @@
             "result": "D",
             "opponent": "Cologne",
             "score": "1-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Bayern",
-            "score": "1-3",
             "home": false
           }
         ],
@@ -9265,6 +9235,12 @@
         "points": 12,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Cologne",
+            "score": "1-2",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Heidenheim",
             "score": "2-1",
@@ -9287,12 +9263,6 @@
             "opponent": "Bayern",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Gladbach",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9332,6 +9302,12 @@
         "points": 13,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Wolfsburg",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Mainz",
             "score": "1-2",
@@ -9354,12 +9330,6 @@
             "opponent": "St. Pauli",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Freiburg",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9824,10 +9794,10 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 17,
+        "played": 18,
         "wins": 3,
         "draws": 3,
-        "losses": 11,
+        "losses": 12,
         "points": 12,
         "last5": [
           {
@@ -9861,13 +9831,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lens",
-          "home": false,
-          "date": "2026-01-17T16:00Z",
-          "time": "2026-01-17T16:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
