@@ -4279,7 +4279,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": ""
+            "player": "Jamie Leweling"
           },
           "redCards": {
             "value": 1,
@@ -6225,12 +6225,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Magic",
-            "score": "103-104",
-            "home": true
-          },
-          {
-            "result": "L",
             "opponent": "Clippers",
             "score": "105-121",
             "home": true
@@ -6252,14 +6246,20 @@
             "opponent": "Pelicans",
             "score": "113-116",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Bulls",
+            "score": "112-109",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Bulls",
-          "home": true,
-          "date": "2026-01-17T00:30Z",
-          "time": "2026-01-17T00:30Z",
-          "status": "live"
+          "home": false,
+          "date": "2026-01-19T00:00Z",
+          "time": "2026-01-19T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6375,12 +6375,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Celtics",
-            "score": "101-115",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Pistons",
             "score": "93-108",
             "home": false
@@ -6402,14 +6396,20 @@
             "opponent": "Jazz",
             "score": "128-126",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Nets",
+            "score": "109-112",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "Nets",
-          "home": false,
-          "date": "2026-01-17T00:30Z",
-          "time": "2026-01-17T00:30Z",
-          "status": "live"
+          "home": true,
+          "date": "2026-01-19T00:00Z",
+          "time": "2026-01-19T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6441,19 +6441,13 @@
       "TeamName": "Cleveland Cavaliers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 42,
-        "wins": 23,
+        "played": 43,
+        "wins": 24,
         "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "120-116",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Timberwolves",
@@ -6477,14 +6471,20 @@
             "opponent": "76ers",
             "score": "133-107",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "117-115",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
-          "home": false,
-          "date": "2026-01-17T00:00Z",
-          "time": "2026-01-17T00:00Z",
-          "status": "live"
+          "opponent": "Thunder",
+          "home": true,
+          "date": "2026-01-19T19:30Z",
+          "time": "2026-01-19T19:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6859,7 +6859,7 @@
           "home": true,
           "date": "2026-01-17T02:30Z",
           "time": "2026-01-17T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6894,16 +6894,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
-        "wins": 9,
+        "played": 42,
+        "wins": 10,
         "losses": 32,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "116-120",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Hornets",
@@ -6927,14 +6921,20 @@
             "opponent": "Raptors",
             "score": "101-115",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pelicans",
+            "score": "127-119",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
-          "home": true,
-          "date": "2026-01-17T00:00Z",
-          "time": "2026-01-17T00:00Z",
-          "status": "live"
+          "opponent": "Pistons",
+          "home": false,
+          "date": "2026-01-18T00:30Z",
+          "time": "2026-01-18T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7383,7 +7383,7 @@
           "home": false,
           "date": "2026-01-17T02:30Z",
           "time": "2026-01-17T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7418,16 +7418,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
+        "played": 44,
         "wins": 10,
-        "losses": 33,
+        "losses": 34,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hawks",
-            "score": "100-117",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Wizards",
@@ -7451,14 +7445,20 @@
             "opponent": "Nets",
             "score": "116-113",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Pacers",
+            "score": "119-127",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pacers",
+          "opponent": "Rockets",
           "home": false,
-          "date": "2026-01-17T00:00Z",
-          "time": "2026-01-17T00:00Z",
-          "status": "live"
+          "date": "2026-01-19T00:00Z",
+          "time": "2026-01-19T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7640,7 +7640,7 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "East",
         "played": 41,
@@ -7715,19 +7715,13 @@
       "TeamName": "Philadelphia 76ers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 39,
+        "played": 40,
         "wins": 22,
-        "losses": 17,
+        "losses": 18,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Wizards",
-            "score": "131-110",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Magic",
@@ -7751,14 +7745,20 @@
             "opponent": "Cavaliers",
             "score": "107-133",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "115-117",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Cavaliers",
+          "opponent": "Pacers",
           "home": true,
-          "date": "2026-01-17T00:00Z",
-          "time": "2026-01-17T00:00Z",
-          "status": "live"
+          "date": "2026-01-20T00:00Z",
+          "time": "2026-01-20T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9098,20 +9098,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Said El Mala"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Ragnar Ache"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Eric Martel"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Rav van den Berg"
           }
         }
       }
@@ -10330,7 +10330,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Maxime López"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -11584,28 +11584,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4394.0,
+            "player": "Drake Maye"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 911.0,
+            "player": "TreVeyon Henderson"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1013.0,
+            "player": "Stefon Diggs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 9.0,
+            "player": "TreVeyon Henderson"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 97.0,
+            "player": "Robert Spillane"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 4.0,
+            "player": "Jaylinn Hawkins"
           }
         }
       }
