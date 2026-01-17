@@ -228,6 +228,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Chelsea",
+            "score": "0-2",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Sunderland",
             "score": "3-0",
@@ -250,12 +256,6 @@
             "opponent": "Bournemouth",
             "score": "4-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Wolves",
-            "score": "2-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -366,6 +366,12 @@
         "points": 34,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Brentford",
+            "score": "2-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Fulham",
             "score": "1-2",
@@ -388,12 +394,6 @@
             "opponent": "Aston Villa",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Newcastle",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -402,7 +402,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
@@ -708,6 +708,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Burnley",
+            "score": "1-1",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Arsenal",
             "score": "0-0",
             "home": false
@@ -729,12 +735,6 @@
             "opponent": "Wolves",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Spurs",
-            "score": "2-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -1050,6 +1050,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "West Ham",
+            "score": "1-2",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Bournemouth",
             "score": "2-3",
             "home": false
@@ -1071,12 +1077,6 @@
             "opponent": "C Palace",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Liverpool",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1827,6 +1827,12 @@
         "points": 21,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Athletic",
+            "score": "3-2",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Rayo",
             "score": "1-2",
@@ -1849,12 +1855,6 @@
             "opponent": "Elche",
             "score": "3-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Real Oviedo",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -2087,11 +2087,11 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Natan"
+            "player": "Natan "
           },
           "redCards": {
             "value": 1,
-            "player": "Antony"
+            "player": "Antony "
           }
         }
       }
@@ -2648,7 +2648,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": ""
+            "player": "Nikola Krstovic"
           },
           "assists": {
             "value": 3,
@@ -3461,11 +3461,11 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 20,
-        "wins": 12,
+        "played": 21,
+        "wins": 13,
         "draws": 4,
         "losses": 4,
-        "points": 40,
+        "points": 43,
         "last5": [
           {
             "result": "D",
@@ -3498,13 +3498,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sassuolo",
-          "home": true,
-          "date": "2026-01-17T17:00Z",
-          "time": "2026-01-17T17:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3674,7 +3668,7 @@
       "TeamName": "Torino",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -5377,6 +5371,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Auxerre",
+            "score": "1-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Toulouse",
             "score": "3-0",
             "home": false
@@ -5398,12 +5398,6 @@
             "opponent": "Angers",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Strasbourg",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8548,6 +8542,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Liverpool",
+            "score": "1-1",
+            "home": false
+          },
+          {
+            "result": "D",
             "opponent": "Man United",
             "score": "2-2",
             "home": true
@@ -8569,12 +8569,6 @@
             "opponent": "Everton",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Bournemouth",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -8687,6 +8681,12 @@
         "points": 24,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Mallorca",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Osasuna",
             "score": "1-1",
@@ -8708,12 +8708,6 @@
             "result": "W",
             "opponent": "Atlético",
             "score": "1-0",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Real Madrid",
-            "score": "0-3",
             "home": true
           }
         ],
@@ -9573,12 +9567,12 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 6,
         "draws": 5,
-        "losses": 9,
+        "losses": 10,
         "points": 23,
         "last5": [
           {
@@ -9612,13 +9606,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Napoli",
-          "home": false,
-          "date": "2026-01-17T17:00Z",
-          "time": "2026-01-17T17:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9802,6 +9790,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Lens",
+            "score": "0-1",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Brest",
             "score": "0-2",
             "home": false
@@ -9823,12 +9817,6 @@
             "opponent": "Paris FC",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Lyon",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
