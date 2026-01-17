@@ -4279,7 +4279,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Jamie Leweling"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -9098,20 +9098,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Said El Mala"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Ragnar Ache"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Eric Martel"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Rav van den Berg"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -11584,28 +11584,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 4394.0,
-            "player": "Drake Maye"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 911.0,
-            "player": "TreVeyon Henderson"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1013.0,
-            "player": "Stefon Diggs"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 9.0,
-            "player": "TreVeyon Henderson"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 97.0,
-            "player": "Robert Spillane"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 4.0,
-            "player": "Jaylinn Hawkins"
+            "value": 0,
+            "player": ""
           }
         }
       }
