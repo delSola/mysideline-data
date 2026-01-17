@@ -1695,7 +1695,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Valencia",
+          "home": false,
+          "date": "2026-01-24T15:15Z",
+          "time": "2026-01-24T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1833,7 +1839,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Getafe",
+          "home": true,
+          "date": "2026-01-26T20:00Z",
+          "time": "2026-01-26T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2690,7 +2702,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Parma",
+          "home": true,
+          "date": "2026-01-25T14:00Z",
+          "time": "2026-01-25T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4193,7 +4211,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hoffenheim",
+          "home": true,
+          "date": "2026-01-24T14:30Z",
+          "time": "2026-01-24T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5047,7 +5071,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": false,
+          "date": "2026-01-23T19:00Z",
+          "time": "2026-01-23T19:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5328,7 +5358,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Strasbourg",
+          "home": true,
+          "date": "2026-01-25T19:45Z",
+          "time": "2026-01-25T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6822,19 +6858,13 @@
       "TeamName": "Houston Rockets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 38,
-        "wins": 23,
+        "played": 39,
+        "wins": 24,
         "losses": 15,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "102-103",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Trail Blazers",
@@ -6858,14 +6888,20 @@
             "opponent": "Thunder",
             "score": "91-111",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Timberwolves",
+            "score": "110-105",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Timberwolves",
+          "opponent": "Pelicans",
           "home": true,
-          "date": "2026-01-17T02:30Z",
-          "time": "2026-01-17T02:30Z",
-          "status": "live"
+          "date": "2026-01-19T00:00Z",
+          "time": "2026-01-19T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7046,7 +7082,7 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 39,
@@ -7349,16 +7385,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 41,
+        "played": 42,
         "wins": 27,
-        "losses": 14,
+        "losses": 15,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Heat",
-            "score": "122-94",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Cavaliers",
@@ -7382,14 +7412,20 @@
             "opponent": "Bucks",
             "score": "139-106",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Rockets",
+            "score": "105-110",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
+          "opponent": "Spurs",
           "home": false,
-          "date": "2026-01-17T02:30Z",
-          "time": "2026-01-17T02:30Z",
-          "status": "live"
+          "date": "2026-01-18T01:00Z",
+          "time": "2026-01-18T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7949,16 +7985,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 41,
-        "wins": 11,
+        "played": 42,
+        "wins": 12,
         "losses": 30,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Mavericks",
-            "score": "98-100",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Warriors",
@@ -7982,14 +8012,20 @@
             "opponent": "Knicks",
             "score": "112-101",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "128-115",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
+          "opponent": "Trail Blazers",
           "home": true,
-          "date": "2026-01-17T03:00Z",
-          "time": "2026-01-17T03:00Z",
-          "status": "live"
+          "date": "2026-01-19T02:00Z",
+          "time": "2026-01-19T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8249,16 +8285,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 39,
+        "played": 40,
         "wins": 10,
-        "losses": 29,
+        "losses": 30,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Magic",
-            "score": "120-112",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "76ers",
@@ -8282,14 +8312,20 @@
             "opponent": "Clippers",
             "score": "105-119",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Kings",
+            "score": "115-128",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Kings",
+          "opponent": "Nuggets",
           "home": false,
-          "date": "2026-01-17T03:00Z",
-          "time": "2026-01-17T03:00Z",
-          "status": "live"
+          "date": "2026-01-18T02:00Z",
+          "time": "2026-01-18T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9677,7 +9713,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Inter Milan",
+          "home": false,
+          "date": "2026-01-23T19:45Z",
+          "time": "2026-01-23T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10036,7 +10078,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Le Havre AC",
+          "home": false,
+          "date": "2026-01-24T18:00Z",
+          "time": "2026-01-24T18:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10176,7 +10224,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rennes",
+          "home": false,
+          "date": "2026-01-24T16:00Z",
+          "time": "2026-01-24T16:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
