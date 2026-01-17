@@ -2012,11 +2012,11 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 7,
+        "played": 20,
+        "wins": 8,
         "draws": 8,
         "losses": 4,
-        "points": 29,
+        "points": 32,
         "last5": [
           {
             "result": "D",
@@ -2049,13 +2049,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Villarreal",
-          "home": true,
-          "date": "2026-01-17T20:00Z",
-          "time": "2026-01-17T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2346,7 +2340,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Rubén Vargas"
+            "player": ""
           },
           "yellowCards": {
             "value": 8,
@@ -2437,10 +2431,10 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 18,
+        "played": 19,
         "wins": 13,
         "draws": 2,
-        "losses": 3,
+        "losses": 4,
         "points": 41,
         "last5": [
           {
@@ -2474,13 +2468,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Betis",
-          "home": false,
-          "date": "2026-01-17T20:00Z",
-          "time": "2026-01-17T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2723,13 +2711,13 @@
       "TeamName": "Cagliari",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 15,
         "positionSuffix": "th",
-        "played": 20,
-        "wins": 4,
+        "played": 21,
+        "wins": 5,
         "draws": 7,
         "losses": 9,
-        "points": 19,
+        "points": 22,
         "last5": [
           {
             "result": "L",
@@ -2762,13 +2750,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": true,
-          "date": "2026-01-17T19:45Z",
-          "time": "2026-01-17T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3010,7 +2992,7 @@
       "TeamName": "Genoa",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
         "played": 20,
         "wins": 4,
@@ -3225,12 +3207,12 @@
       "TeamName": "Juventus",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 11,
         "draws": 6,
-        "losses": 3,
+        "losses": 4,
         "points": 39,
         "last5": [
           {
@@ -3264,13 +3246,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Cagliari",
-          "home": false,
-          "date": "2026-01-17T19:45Z",
-          "time": "2026-01-17T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4383,20 +4359,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Vincenzo Grifo"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 2,
-            "player": "Matthias Ginter"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Maximilian Eggestein"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Johan Manzambi"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -9306,7 +9282,7 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
         "played": 20,
         "wins": 13,
@@ -10279,7 +10255,7 @@
           "home": false,
           "date": "2026-01-17T21:30Z",
           "time": "2026-01-17T21:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10290,7 +10266,7 @@
           },
           "rushingYards": {
             "value": 1621.0,
-            "player": "James Cook III"
+            "player": ""
           },
           "receivingYards": {
             "value": 719.0,
@@ -10656,7 +10632,7 @@
           "home": true,
           "date": "2026-01-17T21:30Z",
           "time": "2026-01-17T21:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11640,7 +11616,7 @@
           },
           "tackles": {
             "value": 154.0,
-            "player": ""
+            "player": "Jamien Sherwood"
           },
           "interceptions": {
             "value": 0,
