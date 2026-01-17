@@ -1665,6 +1665,12 @@
         "points": 34,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Girona",
+            "score": "0-2",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Levante",
             "score": "1-1",
@@ -1687,12 +1693,6 @@
             "opponent": "Getafe",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Rayo",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1804,6 +1804,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Espanyol",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Osasuna",
             "score": "1-0",
             "home": true
@@ -1824,12 +1830,6 @@
             "result": "W",
             "opponent": "Real Sociedad",
             "score": "2-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Elche",
-            "score": "0-3",
             "home": false
           }
         ],
@@ -5012,6 +5012,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Lille",
+            "score": "3-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Paris FC",
             "score": "2-1",
             "home": true
@@ -5033,12 +5039,6 @@
             "opponent": "Monaco",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Le Havre AC",
-            "score": "3-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5328,7 +5328,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Hakon Arnar Haraldsson"
+            "player": "Hákon Haraldsson"
           },
           "assists": {
             "value": 4,
@@ -10036,7 +10036,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Ansu Fati"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -11751,7 +11751,7 @@
           },
           "interceptions": {
             "value": 2.0,
-            "player": "Bobby Okereke"
+            "player": ""
           }
         }
       }
