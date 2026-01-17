@@ -2219,7 +2219,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Vinícius Júnior"
+            "player": "Vinícius Júnior "
           },
           "redCards": {
             "value": 1,
@@ -3871,7 +3871,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Nicolò Zaniolo"
           },
           "redCards": {
             "value": 1,
@@ -6465,7 +6465,7 @@
             "player": "Josh Giddey"
           },
           "rebounds": {
-            "value": 9.2,
+            "value": 9.1,
             "player": "Nikola Vucevic"
           },
           "blocks": {
@@ -6907,7 +6907,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.9,
+            "value": 26.3,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -7435,7 +7435,7 @@
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.7,
+            "value": 5.6,
             "player": "Julius Randle"
           },
           "rebounds": {
@@ -7514,7 +7514,7 @@
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.5,
+            "value": 7.6,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -7806,11 +7806,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 30.5,
+            "value": 30.3,
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.6,
+            "value": 6.7,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
@@ -7822,7 +7822,7 @@
             "player": "Adem Bona"
           },
           "steals": {
-            "value": 1.8,
+            "value": 1.9,
             "player": "Tyrese Maxey"
           }
         }
@@ -8335,7 +8335,7 @@
             "player": "CJ McCollum"
           },
           "assists": {
-            "value": 4.9,
+            "value": 4.8,
             "player": "Kyshawn George"
           },
           "rebounds": {
@@ -13047,7 +13047,7 @@
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
-            "score": "23-21",
+            "score": "61-59",
             "home": true
           }
         ],
@@ -13197,7 +13197,7 @@
           {
             "result": "L",
             "opponent": "Melbourne United",
-            "score": "21-23",
+            "score": "59-61",
             "home": false
           }
         ],
