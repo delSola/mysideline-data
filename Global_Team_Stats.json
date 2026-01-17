@@ -1767,7 +1767,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Valencia",
+          "home": true,
+          "date": "2026-01-18T13:00Z",
+          "time": "2026-01-18T13:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10242,7 +10248,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Darlin Yongwa"
           }
         }
       }
@@ -12891,7 +12897,7 @@
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
-            "score": "51-55",
+            "score": "86-104",
             "home": true
           }
         ],
@@ -12980,7 +12986,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.6,
+            "value": 20.1,
             "player": "JaVale McGee"
           },
           "assists": {
@@ -12988,7 +12994,7 @@
             "player": "William Hickey"
           },
           "rebounds": {
-            "value": 9.7,
+            "value": 9.9,
             "player": "JaVale McGee"
           },
           "blocks": {
@@ -13116,7 +13122,7 @@
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "55-51",
+            "score": "104-86",
             "home": false
           }
         ],
@@ -13355,7 +13361,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.8,
+            "value": 16.9,
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
@@ -13363,7 +13369,7 @@
             "player": "Kristian Doolittle"
           },
           "rebounds": {
-            "value": 7.6,
+            "value": 7.7,
             "player": "Kristian Doolittle"
           },
           "blocks": {
