@@ -14,6 +14,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Nottm Forest",
+            "score": "0-0",
+            "home": false
+          },
+          {
+            "result": "D",
             "opponent": "Liverpool",
             "score": "0-0",
             "home": true
@@ -35,12 +41,6 @@
             "opponent": "Brighton",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Everton",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -971,6 +971,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Arsenal",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "West Ham",
             "score": "2-1",
@@ -993,12 +999,6 @@
             "opponent": "Man City",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Fulham",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -1881,6 +1881,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Real Oviedo",
+            "score": "3-2",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Girona",
             "score": "0-1",
@@ -1903,12 +1909,6 @@
             "opponent": "Barcelona",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Levante",
-            "score": "2-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3798,6 +3798,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "RB Leipzig",
+            "score": "5-1",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Cologne",
             "score": "3-1",
             "home": false
@@ -3819,12 +3825,6 @@
             "opponent": "Mainz",
             "score": "2-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Stuttgart",
-            "score": "5-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3929,6 +3929,12 @@
         "points": 32,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Bayern",
+            "score": "1-5",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Freiburg",
             "score": "2-0",
@@ -3951,12 +3957,6 @@
             "opponent": "Frankfurt",
             "score": "6-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Gladbach",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5087,7 +5087,7 @@
           "home": false,
           "date": "2026-01-17T20:05Z",
           "time": "2026-01-17T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5268,6 +5268,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Toulouse",
+            "score": "1-5",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Strasbourg",
             "score": "1-1",
@@ -5290,12 +5296,6 @@
             "opponent": "Lorient",
             "score": "1-3",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Marseille",
-            "score": "1-5",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5615,6 +5615,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Nice",
+            "score": "5-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Lens",
             "score": "0-3",
@@ -5637,12 +5643,6 @@
             "opponent": "Marseille",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Angers",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5859,7 +5859,7 @@
           "home": true,
           "date": "2026-01-17T20:05Z",
           "time": "2026-01-17T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8566,6 +8566,12 @@
         "points": 13,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Osasuna",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Betis",
             "score": "1-1",
@@ -8588,12 +8594,6 @@
             "opponent": "Sevilla",
             "score": "0-4",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Mallorca",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9529,6 +9529,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Napoli",
+            "score": "0-1",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "AS Roma",
             "score": "0-2",
             "home": false
@@ -9550,12 +9556,6 @@
             "opponent": "Bologna",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Torino",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -11326,7 +11326,7 @@
         "leaders": {
           "passingYards": {
             "value": 1632.0,
-            "player": ""
+            "player": "J.J. McCarthy"
           },
           "rushingYards": {
             "value": 758.0,
@@ -11640,7 +11640,7 @@
           },
           "tackles": {
             "value": 154.0,
-            "player": "Jamien Sherwood"
+            "player": ""
           },
           "interceptions": {
             "value": 0,
