@@ -6259,7 +6259,7 @@
           "home": true,
           "date": "2026-01-17T00:30Z",
           "time": "2026-01-17T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6409,7 +6409,7 @@
           "home": false,
           "date": "2026-01-17T00:30Z",
           "time": "2026-01-17T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6484,7 +6484,7 @@
           "home": false,
           "date": "2026-01-17T00:00Z",
           "time": "2026-01-17T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6934,7 +6934,7 @@
           "home": true,
           "date": "2026-01-17T00:00Z",
           "time": "2026-01-17T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7458,7 +7458,7 @@
           "home": false,
           "date": "2026-01-17T00:00Z",
           "time": "2026-01-17T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7758,7 +7758,7 @@
           "home": true,
           "date": "2026-01-17T00:00Z",
           "time": "2026-01-17T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8133,7 +8133,7 @@
           "home": true,
           "date": "2026-01-17T00:30Z",
           "time": "2026-01-17T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8358,7 +8358,7 @@
           "home": false,
           "date": "2026-01-17T00:30Z",
           "time": "2026-01-17T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10036,7 +10036,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": ""
+            "player": "Ansu Fati"
           },
           "assists": {
             "value": 3,
@@ -11751,7 +11751,7 @@
           },
           "interceptions": {
             "value": 2.0,
-            "player": ""
+            "player": "Bobby Okereke"
           }
         }
       }
