@@ -1715,7 +1715,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Pol Lozano"
+            "player": "Omar El Hilali"
           },
           "redCards": {
             "value": 1,
@@ -1767,13 +1767,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Valencia",
-          "home": true,
-          "date": "2026-01-18T13:00Z",
-          "time": "2026-01-18T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10248,7 +10242,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Darlin Yongwa"
+            "player": ""
           }
         }
       }
@@ -12866,16 +12860,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
+        "played": 25,
         "wins": 7,
-        "losses": 17,
+        "losses": 18,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "73-93",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
@@ -12898,6 +12886,12 @@
             "result": "W",
             "opponent": "Brisbane Bullets",
             "score": "88-83",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "51-55",
             "home": true
           }
         ],
@@ -13091,16 +13085,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
-        "wins": 9,
+        "played": 25,
+        "wins": 10,
         "losses": 15,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Brisbane Bullets",
-            "score": "85-99",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
@@ -13123,6 +13111,12 @@
             "result": "W",
             "opponent": "Illawarra Hawks",
             "score": "101-96",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "55-51",
             "home": false
           }
         ],
