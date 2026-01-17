@@ -566,7 +566,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": ""
+            "player": "Tim Iroegbunam"
           },
           "redCards": {
             "value": 1,
@@ -1850,7 +1850,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 7,
             "player": "Vladyslav Vanat"
           },
           "assists": {
@@ -2714,7 +2714,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Gianluca Scamacca"
+            "player": "Nikola Krstovic"
           },
           "assists": {
             "value": 3,
@@ -4226,11 +4226,11 @@
             "player": "Jonathan Burkardt"
           },
           "assists": {
-            "value": 6,
+            "value": 7,
             "player": "Farès Chaïbi"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Arthur Theate"
           },
           "redCards": {
@@ -4581,16 +4581,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Jens Stage"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Romano Schmid"
           },
           "yellowCards": {
             "value": 4,
-            "player": "Marco Grüll"
+            "player": "Romano Schmid"
           },
           "redCards": {
             "value": 2,
@@ -5082,11 +5082,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Bradley Barcola"
           },
           "assists": {
-            "value": 6,
+            "value": 7,
             "player": "Vitinha "
           },
           "yellowCards": {
@@ -9728,7 +9728,7 @@
             "player": "Stefano Moreo"
           },
           "assists": {
-            "value": 2,
+            "value": 3,
             "player": "Mehdi Léris"
           },
           "yellowCards": {
@@ -10089,7 +10089,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Ansu Fati"
           },
           "assists": {
@@ -12902,9 +12902,9 @@
           }
         ],
         "nextGame": {
-          "opponent": "New Zealand Breakers",
-          "home": true,
-          "date": "2026-01-17T19:00:00Z",
+          "opponent": "Perth Wildcats",
+          "home": false,
+          "date": "2026-01-22T21:30:00Z",
           "status": "scheduled"
         }
       },
@@ -13127,9 +13127,9 @@
           }
         ],
         "nextGame": {
-          "opponent": "Cairns Taipans",
+          "opponent": "SE Melbourne Phoenix",
           "home": false,
-          "date": "2026-01-17T19:00:00Z",
+          "date": "2026-01-21T19:30:00Z",
           "status": "scheduled"
         }
       },
