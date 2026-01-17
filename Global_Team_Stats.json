@@ -838,7 +838,7 @@
           "home": false,
           "date": "2026-01-17T12:30Z",
           "time": "2026-01-17T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -910,7 +910,7 @@
           "home": true,
           "date": "2026-01-17T12:30Z",
           "time": "2026-01-17T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2204,7 +2204,7 @@
           "home": true,
           "date": "2026-01-17T13:00Z",
           "time": "2026-01-17T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5087,7 +5087,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha "
+            "player": "Vitinha"
           },
           "yellowCards": {
             "value": 3,
@@ -8988,7 +8988,7 @@
           "home": false,
           "date": "2026-01-17T13:00Z",
           "time": "2026-01-17T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -13047,7 +13047,7 @@
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
-            "score": "61-59",
+            "score": "79-77",
             "home": true
           }
         ],
@@ -13197,7 +13197,7 @@
           {
             "result": "L",
             "opponent": "Melbourne United",
-            "score": "59-61",
+            "score": "77-79",
             "home": false
           }
         ],
