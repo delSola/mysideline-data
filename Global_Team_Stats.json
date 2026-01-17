@@ -219,7 +219,7 @@
       "TeamName": "Brentford",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 21,
         "wins": 10,
@@ -263,7 +263,7 @@
           "home": false,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -407,7 +407,7 @@
           "home": true,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -479,7 +479,7 @@
           "home": false,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -623,7 +623,7 @@
           "home": false,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -722,7 +722,7 @@
       "TeamName": "Liverpool",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 21,
         "wins": 10,
@@ -766,7 +766,7 @@
           "home": true,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -796,10 +796,10 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 21,
+        "played": 22,
         "wins": 13,
         "draws": 4,
-        "losses": 4,
+        "losses": 5,
         "points": 43,
         "last5": [
           {
@@ -833,13 +833,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Man United",
-          "home": false,
-          "date": "2026-01-17T12:30Z",
-          "time": "2026-01-17T12:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -866,13 +860,13 @@
       "TeamName": "Manchester United",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 7,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 8,
+        "played": 22,
+        "wins": 9,
         "draws": 8,
         "losses": 5,
-        "points": 32,
+        "points": 35,
         "last5": [
           {
             "result": "D",
@@ -905,13 +899,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Man City",
-          "home": true,
-          "date": "2026-01-17T12:30Z",
-          "time": "2026-01-17T12:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -938,7 +926,7 @@
       "TeamName": "Newcastle United",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "played": 21,
         "wins": 9,
@@ -1126,7 +1114,7 @@
           "home": true,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1198,7 +1186,7 @@
           "home": false,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2162,11 +2150,11 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 19,
-        "wins": 14,
+        "played": 20,
+        "wins": 15,
         "draws": 3,
         "losses": 2,
-        "points": 45,
+        "points": 48,
         "last5": [
           {
             "result": "W",
@@ -2199,13 +2187,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Levante",
-          "home": true,
-          "date": "2026-01-17T13:00Z",
-          "time": "2026-01-17T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4000,7 +3982,7 @@
           "home": true,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4144,7 +4126,7 @@
           "home": false,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4431,7 +4413,7 @@
           "home": false,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4791,7 +4773,7 @@
           "home": true,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8550,7 +8532,7 @@
           "home": true,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8623,7 +8605,7 @@
           "home": true,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8696,7 +8678,7 @@
           "home": false,
           "date": "2026-01-17T15:00Z",
           "time": "2026-01-17T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8946,10 +8928,10 @@
       "TeamStats": {
         "position": 19,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 3,
         "draws": 5,
-        "losses": 10,
+        "losses": 11,
         "points": 14,
         "last5": [
           {
@@ -8983,13 +8965,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": false,
-          "date": "2026-01-17T13:00Z",
-          "time": "2026-01-17T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9134,7 +9110,7 @@
           "home": true,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9202,13 +9178,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Gladbach",
-          "home": true,
-          "date": "2026-01-17T14:30Z",
-          "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9280,7 +9250,7 @@
           "home": true,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9353,7 +9323,7 @@
           "home": false,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9426,7 +9396,7 @@
           "home": false,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9499,7 +9469,7 @@
           "home": false,
           "date": "2026-01-17T14:30Z",
           "time": "2026-01-17T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
