@@ -4546,7 +4546,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Leverkusen",
+          "home": false,
+          "date": "2026-01-24T14:30Z",
+          "time": "2026-01-24T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
