@@ -3871,7 +3871,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Nicolò Zaniolo"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -6307,16 +6307,16 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.7,
+            "value": 25.8,
             "player": "Michael Porter Jr."
           },
           "assists": {
-            "value": 4.0,
+            "value": 4.1,
             "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 7.5,
-            "player": "Michael Porter Jr."
+            "value": 7.6,
+            "player": "Nic Claxton"
           },
           "blocks": {
             "value": 1.4,
@@ -6532,7 +6532,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.7,
+            "value": 29.2,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6540,7 +6540,7 @@
             "player": "Darius Garland"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.6,
             "player": "Evan Mobley"
           },
           "blocks": {
@@ -6911,11 +6911,11 @@
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.5,
+            "value": 6.4,
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.0,
+            "value": 9.2,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6982,11 +6982,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.6,
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.1,
+            "value": 7.2,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
@@ -7443,7 +7443,7 @@
             "player": "Rudy Gobert"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.7,
             "player": "Rudy Gobert"
           },
           "steals": {
@@ -7506,7 +7506,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.4,
+            "value": 22.6,
             "player": "Zion Williamson"
           },
           "assists": {
@@ -7518,11 +7518,11 @@
             "player": "Derik Queen"
           },
           "blocks": {
-            "value": 1.2,
+            "value": 1.3,
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Trey Murphy III"
           }
         }
@@ -7818,7 +7818,7 @@
             "player": "Andre Drummond"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.4,
             "player": "Adem Bona"
           },
           "steals": {
@@ -8031,7 +8031,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.0,
+            "value": 19.9,
             "player": "Zach LaVine"
           },
           "assists": {
@@ -8039,8 +8039,8 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.5,
-            "player": "Russell Westbrook"
+            "value": 6.4,
+            "player": "Maxime Raynaud"
           },
           "blocks": {
             "value": 0.6,
@@ -8181,7 +8181,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.9,
+            "value": 21.8,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8189,7 +8189,7 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.2,
             "player": "Scottie Barnes"
           },
           "blocks": {
@@ -8339,7 +8339,7 @@
             "player": "Kyshawn George"
           },
           "rebounds": {
-            "value": 7.6,
+            "value": 7.5,
             "player": "Alex Sarr"
           },
           "blocks": {
@@ -8410,15 +8410,15 @@
             "player": "Kawhi Leonard"
           },
           "assists": {
-            "value": 8.0,
+            "value": 8.1,
             "player": "James Harden"
           },
           "rebounds": {
-            "value": 10.7,
+            "value": 10.8,
             "player": "Ivica Zubac"
           },
           "blocks": {
-            "value": 1.0,
+            "value": 0.9,
             "player": "Ivica Zubac"
           },
           "steals": {
@@ -13016,16 +13016,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "losses": 10,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Tasmania JackJumpers",
-            "score": "73-92",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
@@ -13049,12 +13043,18 @@
             "opponent": "Sydney Kings",
             "score": "94-97",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "23-21",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Tasmania JackJumpers",
+          "opponent": "Brisbane Bullets",
           "home": true,
-          "date": "2026-01-17T21:30:00Z",
+          "date": "2026-01-21T17:30:00Z",
           "status": "scheduled"
         }
       },
@@ -13166,16 +13166,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 25,
+        "played": 26,
         "wins": 12,
-        "losses": 13,
+        "losses": 14,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "New Zealand Breakers",
-            "score": "80-81",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "SE Melbourne Phoenix",
@@ -13199,12 +13193,18 @@
             "opponent": "Adelaide 36ers",
             "score": "80-72",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Melbourne United",
+            "score": "21-23",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Melbourne United",
+          "opponent": "Sydney Kings",
           "home": false,
-          "date": "2026-01-17T21:30:00Z",
+          "date": "2026-01-22T19:30:00Z",
           "status": "scheduled"
         }
       },
