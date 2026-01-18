@@ -2125,11 +2125,11 @@
           },
           "assists": {
             "value": 6,
-            "player": "Arda Güler"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
-            "player": "Vinícius Júnior"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4287,20 +4287,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
-            "player": "Haris Tabakovic"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Franck Honorat"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Joe Scally"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Jens Castrop"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -5922,19 +5922,13 @@
       "TeamName": "Atlanta Hawks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 43,
+        "played": 44,
         "wins": 20,
-        "losses": 23,
+        "losses": 24,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "117-100",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Nuggets",
@@ -5958,14 +5952,20 @@
             "opponent": "Trail Blazers",
             "score": "101-117",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Celtics",
+            "score": "106-132",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
+          "opponent": "Bucks",
           "home": true,
-          "date": "2026-01-18T00:30Z",
-          "time": "2026-01-18T00:30Z",
-          "status": "live"
+          "date": "2026-01-19T18:00Z",
+          "time": "2026-01-19T18:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6000,16 +6000,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "East",
-        "played": 40,
-        "wins": 25,
+        "played": 41,
+        "wins": 26,
         "losses": 15,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Nuggets",
-            "score": "110-114",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Raptors",
@@ -6033,14 +6027,20 @@
             "opponent": "Heat",
             "score": "119-114",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Hawks",
+            "score": "132-106",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hawks",
+          "opponent": "Pistons",
           "home": false,
-          "date": "2026-01-18T00:30Z",
-          "time": "2026-01-18T00:30Z",
-          "status": "live"
+          "date": "2026-01-20T01:00Z",
+          "time": "2026-01-20T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6222,7 +6222,7 @@
       "TeamName": "Chicago Bulls",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "East",
         "played": 41,
@@ -6490,7 +6490,7 @@
           "home": true,
           "date": "2026-01-18T02:00Z",
           "time": "2026-01-18T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6531,12 +6531,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Cavaliers",
-            "score": "114-110",
-            "home": false
-          },
-          {
-            "result": "W",
             "opponent": "Knicks",
             "score": "121-90",
             "home": true
@@ -6558,14 +6552,20 @@
             "opponent": "Suns",
             "score": "108-105",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pacers",
+            "score": "121-78",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pacers",
+          "opponent": "Celtics",
           "home": true,
-          "date": "2026-01-18T00:30Z",
-          "time": "2026-01-18T00:30Z",
-          "status": "live"
+          "date": "2026-01-20T01:00Z",
+          "time": "2026-01-20T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6756,12 +6756,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Hornets",
-            "score": "114-112",
-            "home": false
-          },
-          {
-            "result": "W",
             "opponent": "Heat",
             "score": "123-99",
             "home": true
@@ -6783,14 +6777,20 @@
             "opponent": "Pelicans",
             "score": "127-119",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Pistons",
+            "score": "78-121",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pistons",
+          "opponent": "76ers",
           "home": false,
-          "date": "2026-01-18T00:30Z",
-          "time": "2026-01-18T00:30Z",
-          "status": "live"
+          "date": "2026-01-20T00:00Z",
+          "time": "2026-01-20T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8139,7 +8139,7 @@
           "home": false,
           "date": "2026-01-18T02:00Z",
           "time": "2026-01-18T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
