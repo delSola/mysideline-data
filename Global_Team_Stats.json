@@ -6240,7 +6240,7 @@
             "player": "Payton Pritchard"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.2,
             "player": "Neemias Queta"
           },
           "blocks": {
@@ -6394,7 +6394,7 @@
             "player": "Moussa Diabate"
           },
           "blocks": {
-            "value": 1.7,
+            "value": 1.6,
             "player": "Ryan Kalkbrenner"
           },
           "steals": {
@@ -6757,11 +6757,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.2,
+            "value": 25.9,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.8,
+            "value": 9.6,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -6773,7 +6773,7 @@
             "player": "Isaiah Stewart"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Ausar Thompson"
           }
         }
@@ -6832,7 +6832,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.1,
+            "value": 27.6,
             "player": "Stephen Curry"
           },
           "assists": {
@@ -6840,7 +6840,7 @@
             "player": "Draymond Green"
           },
           "rebounds": {
-            "value": 5.9,
+            "value": 5.8,
             "player": "Draymond Green"
           },
           "blocks": {
@@ -7656,19 +7656,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 31.6,
+            "value": 31.8,
             "player": "Shai Gilgeous-Alexander"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.2,
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
-            "value": 8.4,
+            "value": 8.5,
             "player": "Chet Holmgren"
           },
           "blocks": {
-            "value": 1.9,
+            "value": 2.0,
             "player": "Chet Holmgren"
           },
           "steals": {
@@ -7881,11 +7881,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.2,
+            "value": 25.3,
             "player": "Devin Booker"
           },
           "assists": {
-            "value": 6.5,
+            "value": 6.4,
             "player": "Devin Booker"
           },
           "rebounds": {
@@ -8110,7 +8110,7 @@
             "player": "Victor Wembanyama"
           },
           "assists": {
-            "value": 6.9,
+            "value": 7.0,
             "player": "Stephon Castle"
           },
           "rebounds": {
@@ -8123,7 +8123,7 @@
           },
           "steals": {
             "value": 1.3,
-            "player": "De'Aaron Fox"
+            "player": "Stephon Castle"
           }
         }
       }
@@ -8343,7 +8343,7 @@
             "player": "Alex Sarr"
           },
           "blocks": {
-            "value": 2.3,
+            "value": 2.2,
             "player": "Alex Sarr"
           },
           "steals": {
