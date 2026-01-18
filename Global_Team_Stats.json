@@ -1455,7 +1455,7 @@
           "home": false,
           "date": "2026-01-18T20:00Z",
           "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1983,6 +1983,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Celta Vigo",
+            "score": "0-3",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Mallorca",
             "score": "2-1",
@@ -2005,12 +2011,6 @@
             "opponent": "Betis",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Espanyol",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -2228,7 +2228,7 @@
           "home": true,
           "date": "2026-01-18T20:00Z",
           "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3672,6 +3672,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "AS Roma",
+            "score": "0-2",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Atalanta",
             "score": "0-2",
             "home": false
@@ -3693,12 +3699,6 @@
             "opponent": "Cagliari",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Sassuolo",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5130,7 +5130,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Bilal Nadir"
           }
         }
       }
@@ -9412,6 +9412,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Torino",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Sassuolo",
             "score": "2-0",
             "home": true
@@ -9433,12 +9439,6 @@
             "opponent": "Genoa",
             "score": "3-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Juventus",
-            "score": "1-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10880,28 +10880,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3381.0,
+            "player": "Jordan Love"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 929.0,
+            "player": "Josh Jacobs"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 724.0,
+            "player": "Romeo Doubs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 13.0,
+            "player": "Josh Jacobs"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 128.0,
+            "player": "Quay Walker"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Evan Williams"
           }
         }
       }
@@ -11470,7 +11470,7 @@
           "home": true,
           "date": "2026-01-18T20:00Z",
           "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12571,7 +12571,7 @@
           "home": false,
           "date": "2026-01-18T20:00Z",
           "time": "2026-01-18T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
