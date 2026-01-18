@@ -731,7 +731,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bournemouth",
+          "home": false,
+          "date": "2026-01-24T17:30Z",
+          "time": "2026-01-24T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -797,7 +803,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Wolves",
+          "home": true,
+          "date": "2026-01-24T15:00Z",
+          "time": "2026-01-24T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6450,16 +6462,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "West",
-        "played": 41,
-        "wins": 28,
+        "played": 42,
+        "wins": 29,
         "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Celtics",
-            "score": "114-110",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Hawks",
@@ -6483,14 +6489,20 @@
             "opponent": "Mavericks",
             "score": "118-109",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "121-115",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
+          "opponent": "Hornets",
           "home": true,
-          "date": "2026-01-18T02:00Z",
-          "time": "2026-01-18T02:00Z",
-          "status": "live"
+          "date": "2026-01-19T01:00Z",
+          "time": "2026-01-19T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8099,16 +8111,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 40,
+        "played": 41,
         "wins": 10,
-        "losses": 30,
+        "losses": 31,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "76ers",
-            "score": "110-131",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Pelicans",
@@ -8132,14 +8138,20 @@
             "opponent": "Kings",
             "score": "115-128",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Nuggets",
+            "score": "115-121",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Nuggets",
-          "home": false,
-          "date": "2026-01-18T02:00Z",
-          "time": "2026-01-18T02:00Z",
-          "status": "live"
+          "opponent": "Clippers",
+          "home": true,
+          "date": "2026-01-19T20:00Z",
+          "time": "2026-01-19T20:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -11941,13 +11953,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Seahawks",
-          "home": false,
-          "date": "2026-01-18T01:00Z",
-          "time": "2026-01-18T01:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12021,11 +12027,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "49ers",
+          "opponent": "TBD",
           "home": true,
-          "date": "2026-01-18T01:00Z",
-          "time": "2026-01-18T01:00Z",
-          "status": "live"
+          "date": "2026-01-25T23:30Z",
+          "time": "2026-01-25T23:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12990,7 +12996,7 @@
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "25-31",
+            "score": "71-84",
             "home": true
           }
         ],
@@ -13140,7 +13146,7 @@
           {
             "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "31-25",
+            "score": "84-71",
             "home": false
           }
         ],
