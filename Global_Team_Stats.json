@@ -85,6 +85,12 @@
         "points": 43,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Everton",
+            "score": "0-1",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "C Palace",
             "score": "0-0",
@@ -107,12 +113,6 @@
             "opponent": "Chelsea",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Man United",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -510,6 +510,12 @@
         "points": 32,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Aston Villa",
+            "score": "1-0",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Wolves",
             "score": "1-1",
@@ -532,12 +538,6 @@
             "opponent": "Burnley",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Arsenal",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1485,12 +1485,18 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 7,
+        "played": 20,
+        "wins": 8,
         "draws": 8,
         "losses": 4,
-        "points": 29,
+        "points": 32,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Rayo",
+            "score": "3-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Sevilla",
@@ -1514,21 +1520,9 @@
             "opponent": "Athletic",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Real Madrid",
-            "score": "2-0",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rayo",
-          "home": true,
-          "date": "2026-01-18T17:30Z",
-          "time": "2026-01-18T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1982,10 +1976,10 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 7,
-        "losses": 7,
+        "losses": 8,
         "points": 22,
         "last5": [
           {
@@ -2019,13 +2013,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Celta Vigo",
-          "home": false,
-          "date": "2026-01-18T17:30Z",
-          "time": "2026-01-18T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2593,7 +2581,7 @@
           "home": true,
           "date": "2026-01-18T19:45Z",
           "time": "2026-01-18T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3437,7 +3425,7 @@
           "home": false,
           "date": "2026-01-18T19:45Z",
           "time": "2026-01-18T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4390,6 +4378,12 @@
         "points": 24,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Augsburg",
+            "score": "2-2",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "RB Leipzig",
             "score": "0-2",
@@ -4412,12 +4406,6 @@
             "opponent": "Dortmund",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Heidenheim",
-            "score": "1-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4595,6 +4583,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Freiburg",
+            "score": "2-2",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Union Berlin",
             "score": "1-1",
             "home": true
@@ -4616,12 +4610,6 @@
             "opponent": "Frankfurt",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Leverkusen",
-            "score": "2-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5142,7 +5130,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Bilal Nadir"
+            "player": ""
           }
         }
       }
@@ -5195,7 +5183,7 @@
           "home": true,
           "date": "2026-01-18T19:45Z",
           "time": "2026-01-18T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5585,6 +5573,12 @@
         "points": 14,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Paris FC",
+            "score": "1-2",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Marseille",
             "score": "2-0",
@@ -5607,12 +5601,6 @@
             "opponent": "Lyon",
             "score": "0-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Lorient",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5758,7 +5746,7 @@
           "home": false,
           "date": "2026-01-18T19:45Z",
           "time": "2026-01-18T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6375,7 +6363,7 @@
       "TeamName": "Cleveland Cavaliers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "East",
         "played": 43,
@@ -7049,19 +7037,13 @@
       "TeamName": "Memphis Grizzlies",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 40,
-        "wins": 17,
+        "played": 41,
+        "wins": 18,
         "losses": 23,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Spurs",
-            "score": "106-105",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Suns",
@@ -7085,14 +7067,20 @@
             "opponent": "Magic",
             "score": "111-118",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Magic",
+            "score": "126-109",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
+          "opponent": "Hawks",
           "home": true,
-          "date": "2026-01-18T17:00Z",
-          "time": "2026-01-18T17:00Z",
-          "status": "live"
+          "date": "2026-01-22T01:00Z",
+          "time": "2026-01-22T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7574,19 +7562,13 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
+        "played": 42,
         "wins": 23,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Wizards",
-            "score": "112-120",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Nets",
@@ -7610,14 +7592,20 @@
             "opponent": "Grizzlies",
             "score": "118-111",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Grizzlies",
+            "score": "109-126",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Grizzlies",
-          "home": false,
-          "date": "2026-01-18T17:00Z",
-          "time": "2026-01-18T17:00Z",
-          "status": "live"
+          "opponent": "Hornets",
+          "home": true,
+          "date": "2026-01-23T00:00Z",
+          "time": "2026-01-23T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7649,7 +7637,7 @@
       "TeamName": "Philadelphia 76ers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "East",
         "played": 40,
@@ -8249,7 +8237,7 @@
       "TeamName": "LA Clippers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "West",
         "played": 41,
@@ -9459,7 +9447,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Matìas Soulè"
           },
           "assists": {
             "value": 4,
@@ -9782,6 +9770,12 @@
         "points": 31,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Le Havre AC",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Lille",
             "score": "2-0",
@@ -9804,12 +9798,6 @@
             "opponent": "Metz",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Monaco",
-            "score": "4-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10135,6 +10123,12 @@
         "points": 19,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Rennes",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Angers",
             "score": "2-1",
@@ -10157,12 +10151,6 @@
             "opponent": "Lille",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "PSG",
-            "score": "0-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10202,6 +10190,12 @@
         "points": 19,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Nantes",
+            "score": "2-1",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "PSG",
             "score": "1-2",
@@ -10224,12 +10218,6 @@
             "opponent": "Auxerre",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Lille",
-            "score": "2-4",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10892,28 +10880,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3381.0,
-            "player": "Jordan Love"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 929.0,
-            "player": "Josh Jacobs"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 724.0,
-            "player": "Romeo Doubs"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 13.0,
-            "player": "Josh Jacobs"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 128.0,
-            "player": "Quay Walker"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Evan Williams"
+            "value": 0,
+            "player": ""
           }
         }
       }
