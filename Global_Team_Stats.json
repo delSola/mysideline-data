@@ -493,7 +493,7 @@
             "player": "Maxence Lacroix"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Tyrick Mitchell"
           },
           "redCards": {
@@ -2582,7 +2582,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Renato Veiga"
+            "player": "Santi Comesaña"
           }
         }
       }
@@ -3934,11 +3934,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 20,
+            "value": 21,
             "player": "Harry Kane"
           },
           "assists": {
-            "value": 10,
+            "value": 13,
             "player": "Michael Olise"
           },
           "yellowCards": {
@@ -4158,7 +4158,7 @@
             "player": "Aleix García"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Jarell Quansah"
           },
           "redCards": {
@@ -5225,7 +5225,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 11,
+            "value": 12,
             "player": "Mason Greenwood"
           },
           "assists": {
@@ -5513,7 +5513,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Wesley Saïd"
           },
           "assists": {
@@ -5521,7 +5521,7 @@
             "player": "Matthieu Udol"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Adrien Thomasson"
           },
           "redCards": {
@@ -5813,7 +5813,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Emersonn"
+            "player": "Alexis Vossah"
           }
         }
       }
@@ -6023,7 +6023,7 @@
             "player": "Yassin Belkhdim"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Haris Belkebla"
           },
           "redCards": {
@@ -9148,7 +9148,7 @@
             "player": "Ragnar Ache"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Eric Martel"
           },
           "redCards": {
@@ -9291,10 +9291,10 @@
           },
           "assists": {
             "value": 4,
-            "player": "Saël Kumbedi"
+            "player": "Christian Eriksen"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Maximilian Arnold"
           },
           "redCards": {
@@ -9651,7 +9651,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
+            "value": 11,
             "player": "Lautaro Martínez"
           },
           "assists": {
@@ -10885,13 +10885,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "TBD",
-          "home": true,
-          "date": "2026-01-25T20:00Z",
-          "time": "2026-01-25T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
