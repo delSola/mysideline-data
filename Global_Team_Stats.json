@@ -277,8 +277,8 @@
             "player": "Vitaly Janelt"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Michael Kayode"
+            "value": 6,
+            "player": "Kevin Schade"
           },
           "redCards": {
             "value": 0,
@@ -413,7 +413,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "João Pedro"
           },
           "assists": {
@@ -637,7 +637,7 @@
             "player": "Harry Wilson"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Harry Wilson"
           },
           "redCards": {
@@ -916,11 +916,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Bryan Mbeumo"
           },
           "assists": {
-            "value": 8,
+            "value": 9,
             "player": "Bruno Fernandes"
           },
           "yellowCards": {
@@ -1140,7 +1140,7 @@
             "player": "Mohammed Kudus"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Cristian Romero"
           },
           "redCards": {
@@ -1217,7 +1217,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Lucas Paquetá"
+            "player": "Tomás Soucek"
           }
         }
       }
@@ -1922,7 +1922,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 11,
+            "value": 14,
             "player": "Vedat Muriqi"
           },
           "assists": {
@@ -1994,7 +1994,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 8,
             "player": "Ante Budimir"
           },
           "assists": {
@@ -2007,7 +2007,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Abel Bretones"
+            "player": "Alejandro Catena"
           }
         }
       }
@@ -2210,16 +2210,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 18,
+            "value": 19,
             "player": "Kylian Mbappé"
           },
           "assists": {
-            "value": 6,
+            "value": 7,
             "player": "Arda Güler"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Vinícius Júnior"
+            "value": 5,
+            "player": "Aurélien Tchouaméni"
           },
           "redCards": {
             "value": 1,
@@ -5310,7 +5310,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Ainsley Maitland-Niles"
+            "player": ""
           }
         }
       }
@@ -8564,7 +8564,7 @@
             "player": "Brenden Aaronson"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Ethan Ampadu"
           },
           "redCards": {
@@ -8637,7 +8637,7 @@
             "player": "Granit Xhaka"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Trai Hume"
           },
           "redCards": {
@@ -8775,11 +8775,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 2,
-            "player": "Salomón Rondón"
+            "value": 3,
+            "player": "Federico Viñas"
           },
           "assists": {
-            "value": 1,
+            "value": 2,
             "player": "Haissem Hassan"
           },
           "yellowCards": {
@@ -8848,7 +8848,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 4,
             "player": "Nico Williams"
           },
           "assists": {
@@ -8860,8 +8860,8 @@
             "player": "Iñigo Ruiz de Galarreta"
           },
           "redCards": {
-            "value": 1,
-            "player": "Dani Vivian"
+            "value": 2,
+            "player": "Iñigo Lekue"
           }
         }
       }
