@@ -6190,7 +6190,7 @@
           "home": false,
           "date": "2026-01-18T01:30Z",
           "time": "2026-01-18T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6640,7 +6640,7 @@
           "home": true,
           "date": "2026-01-18T01:30Z",
           "time": "2026-01-18T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7089,7 +7089,7 @@
           "home": true,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7239,7 +7239,7 @@
           "home": false,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7464,7 +7464,7 @@
           "home": false,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7914,7 +7914,7 @@
           "home": true,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10238,13 +10238,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Broncos",
-          "home": false,
-          "date": "2026-01-17T21:30Z",
-          "time": "2026-01-17T21:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10616,11 +10610,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Bills",
+          "opponent": "TBD",
           "home": true,
-          "date": "2026-01-17T21:30Z",
-          "time": "2026-01-17T21:30Z",
-          "status": "live"
+          "date": "2026-01-25T20:00Z",
+          "time": "2026-01-25T20:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -11952,7 +11946,7 @@
           "home": false,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12031,7 +12025,7 @@
           "home": true,
           "date": "2026-01-18T01:00Z",
           "time": "2026-01-18T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
