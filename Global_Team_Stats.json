@@ -997,7 +997,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Joelinton"
+            "player": "Joelinton "
           },
           "redCards": {
             "value": 1,
@@ -1285,7 +1285,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": ""
+            "player": "João Gomes"
           },
           "redCards": {
             "value": 1,
@@ -1772,7 +1772,7 @@
           "home": true,
           "date": "2026-01-18T13:00Z",
           "time": "2026-01-18T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2491,7 +2491,7 @@
           "home": false,
           "date": "2026-01-18T13:00Z",
           "time": "2026-01-18T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10167,7 +10167,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Gauthier Hein"
           },
           "yellowCards": {
             "value": 5,
@@ -11408,7 +11408,7 @@
         "leaders": {
           "passingYards": {
             "value": 4707.0,
-            "player": ""
+            "player": "Matthew Stafford"
           },
           "rushingYards": {
             "value": 1252.0,
@@ -12436,7 +12436,7 @@
         "leaders": {
           "passingYards": {
             "value": 1695.0,
-            "player": "Marcus Mariota"
+            "player": ""
           },
           "rushingYards": {
             "value": 805.0,
