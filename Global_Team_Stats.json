@@ -5965,7 +5965,7 @@
           "home": true,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6040,7 +6040,7 @@
           "home": false,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6375,16 +6375,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 42,
-        "wins": 16,
+        "played": 43,
+        "wins": 17,
         "losses": 26,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Jazz",
-            "score": "114-116",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Bulls",
@@ -6408,14 +6402,20 @@
             "opponent": "Jazz",
             "score": "144-122",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "138-120",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
-          "home": true,
-          "date": "2026-01-17T22:00Z",
-          "time": "2026-01-17T22:00Z",
-          "status": "live"
+          "opponent": "Knicks",
+          "home": false,
+          "date": "2026-01-19T22:00Z",
+          "time": "2026-01-19T22:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6565,7 +6565,7 @@
           "home": true,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6790,7 +6790,7 @@
           "home": false,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7389,7 +7389,7 @@
           "home": true,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7689,7 +7689,7 @@
           "home": false,
           "date": "2026-01-18T00:30Z",
           "time": "2026-01-18T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8024,16 +8024,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 41,
+        "played": 42,
         "wins": 14,
-        "losses": 27,
+        "losses": 28,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Mavericks",
-            "score": "116-114",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Hornets",
@@ -8057,14 +8051,20 @@
             "opponent": "Mavericks",
             "score": "122-144",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Mavericks",
+            "score": "120-138",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Mavericks",
+          "opponent": "Spurs",
           "home": false,
-          "date": "2026-01-17T22:00Z",
-          "time": "2026-01-17T22:00Z",
-          "status": "live"
+          "date": "2026-01-19T22:00Z",
+          "time": "2026-01-19T22:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12522,35 +12522,40 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "79-116",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "83-81",
+            "score": "70-95",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "New Zealand Breakers",
-            "score": "84-113",
+            "opponent": "Perth Wildcats",
+            "score": "75-95",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Melbourne United",
-            "score": "93-99",
+            "opponent": "Adelaide 36ers",
+            "score": "86-97",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cairns Taipans",
+            "score": "83-88",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "76-103",
-            "home": true
+            "opponent": "Sydney Kings",
+            "score": "80-95",
+            "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Melbourne United",
+          "home": false,
+          "date": "2026-01-21T17:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12590,37 +12595,42 @@
         "losses": 18,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "75-69",
-            "home": false
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "96-111",
+            "home": true
           },
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
-            "score": "90-107",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "90-101",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "101-105",
+            "score": "78-96",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "93-92",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "88-83",
+            "home": true
           },
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
-            "score": "96-102",
+            "score": "86-104",
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Perth Wildcats",
+          "home": false,
+          "date": "2026-01-22T21:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12661,36 +12671,41 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Melbourne United",
-            "score": "107-93",
+            "opponent": "Tasmania JackJumpers",
+            "score": "92-90",
             "home": true
           },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "107-90",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "71-98",
+            "score": "96-78",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "85-97",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "113-124",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "Melbourne United",
-            "score": "102-105",
+            "opponent": "New Zealand Breakers",
+            "score": "96-101",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "87-92",
+            "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Tasmania JackJumpers",
+          "home": false,
+          "date": "2026-01-24T20:00:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12730,37 +12745,42 @@
         "losses": 10,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "92-95",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "93-107",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "92-81",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "99-93",
+            "score": "92-87",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Tasmania JackJumpers",
+            "score": "75-84",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Cairns Taipans",
+            "score": "92-93",
             "home": true
           },
           {
-            "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "105-102",
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "94-97",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "79-77",
+            "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brisbane Bullets",
+          "home": true,
+          "date": "2026-01-21T17:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12800,37 +12820,42 @@
         "losses": 15,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "79-83",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "72-79",
-            "home": false
-          },
-          {
             "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "113-84",
+            "opponent": "Tasmania JackJumpers",
+            "score": "81-80",
             "home": false
           },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "75-88",
+            "score": "91-99",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "62-103",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "101-96",
             "home": false
           },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "102-96",
+            "score": "104-86",
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "SE Melbourne Phoenix",
+          "home": false,
+          "date": "2026-01-21T19:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12870,37 +12895,42 @@
         "losses": 14,
         "last5": [
           {
-            "result": "L",
+            "result": "W",
             "opponent": "SE Melbourne Phoenix",
-            "score": "102-103",
+            "score": "87-84",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Brisbane Bullets",
-            "score": "81-83",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "86-97",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "95-101",
+            "opponent": "Illawarra Hawks",
+            "score": "90-92",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "Sydney Kings",
-            "score": "104-81",
+            "opponent": "Melbourne United",
+            "score": "84-75",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Adelaide 36ers",
+            "score": "80-72",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Melbourne United",
+            "score": "77-79",
+            "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Sydney Kings",
+          "home": false,
+          "date": "2026-01-22T19:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12940,37 +12970,42 @@
         "losses": 5,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "87-94",
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "93-73",
             "home": true
           },
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
+            "opponent": "Perth Wildcats",
+            "score": "95-84",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Sydney Kings",
+            "score": "85-79",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
             "score": "97-86",
             "home": false
           },
           {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "105-101",
+            "result": "L",
+            "opponent": "Tasmania JackJumpers",
+            "score": "72-80",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "97-85",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "94-81",
-            "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "SE Melbourne Phoenix",
+          "home": true,
+          "date": "2026-01-18T14:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -13010,37 +13045,42 @@
         "losses": 10,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "95-84",
-            "home": false
-          },
-          {
             "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "89-94",
+            "opponent": "Adelaide 36ers",
+            "score": "84-95",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "Adelaide 36ers",
-            "score": "94-87",
+            "opponent": "Brisbane Bullets",
+            "score": "95-75",
             "home": false
           },
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "88-75",
-            "home": true
+            "score": "99-91",
+            "home": false
           },
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "101-95",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "107-97",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "92-87",
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cairns Taipans",
+          "home": true,
+          "date": "2026-01-22T21:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -13080,37 +13120,42 @@
         "losses": 8,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "103-102",
-            "home": false
-          },
-          {
             "result": "L",
-            "opponent": "Melbourne United",
-            "score": "81-92",
-            "home": true
+            "opponent": "Tasmania JackJumpers",
+            "score": "84-87",
+            "home": false
           },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "101-90",
+            "score": "111-96",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "103-76",
+            "opponent": "Sydney Kings",
+            "score": "124-117",
             "home": false
           },
           {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "124-113",
+            "home": true
+          },
+          {
             "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "81-94",
+            "opponent": "Perth Wildcats",
+            "score": "97-107",
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Adelaide 36ers",
+          "home": false,
+          "date": "2026-01-18T14:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -13150,37 +13195,42 @@
         "losses": 9,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "79-85",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "117-124",
+            "home": true
+          },
+          {
             "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "116-79",
+            "opponent": "New Zealand Breakers",
+            "score": "103-62",
             "home": false
           },
           {
             "result": "W",
             "opponent": "Melbourne United",
-            "score": "95-92",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "New Zealand Breakers",
-            "score": "79-72",
+            "score": "97-94",
             "home": true
           },
           {
             "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "98-71",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Tasmania JackJumpers",
-            "score": "81-104",
-            "home": false
+            "opponent": "Brisbane Bullets",
+            "score": "95-80",
+            "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Tasmania JackJumpers",
+          "home": true,
+          "date": "2026-01-22T19:30:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
