@@ -558,7 +558,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Iliman Ndiaye"
+            "player": "Thierno Barry"
           },
           "assists": {
             "value": 6,
@@ -570,7 +570,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Michael Keane"
+            "player": "Jack Grealish"
           }
         }
       }
@@ -1284,8 +1284,8 @@
             "player": "David Møller Wolfe"
           },
           "yellowCards": {
-            "value": 6,
-            "player": "João Gomes"
+            "value": 7,
+            "player": "Yerson Mosquera"
           },
           "redCards": {
             "value": 1,
@@ -1495,7 +1495,7 @@
             "player": "Ferran Torres"
           },
           "assists": {
-            "value": 7,
+            "value": 8,
             "player": "Lamine Yamal"
           },
           "yellowCards": {
@@ -2139,7 +2139,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": ""
+            "player": "Cucho Hernández"
           },
           "assists": {
             "value": 4,
@@ -2219,7 +2219,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Aurélien Tchouaméni"
           },
           "redCards": {
             "value": 1,
@@ -2438,7 +2438,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Marcão"
           }
         }
       }
@@ -4151,7 +4151,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Patrik Schick"
           },
           "assists": {
             "value": 4,
@@ -4223,7 +4223,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Jonathan Burkardt"
+            "player": ""
           },
           "assists": {
             "value": 7,
