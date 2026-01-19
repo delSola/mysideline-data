@@ -2630,7 +2630,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "AS Roma",
+          "home": false,
+          "date": "2026-01-25T19:45Z",
+          "time": "2026-01-25T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
