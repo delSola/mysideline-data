@@ -335,7 +335,7 @@
           "home": true,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2923,7 +2923,7 @@
           "home": false,
           "date": "2026-01-19T19:45Z",
           "time": "2026-01-19T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3168,11 +3168,11 @@
       "TeamStats": {
         "position": 20,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 2,
-        "draws": 7,
+        "draws": 8,
         "losses": 11,
-        "points": 13,
+        "points": 14,
         "last5": [
           {
             "result": "L",
@@ -3205,13 +3205,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Cremonese",
-          "home": false,
-          "date": "2026-01-19T17:30Z",
-          "time": "2026-01-19T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3425,7 +3419,7 @@
           "home": true,
           "date": "2026-01-19T19:45Z",
           "time": "2026-01-19T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3597,7 +3591,7 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 21,
         "wins": 5,
@@ -3636,13 +3630,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": false,
-          "date": "2026-01-25T14:00Z",
-          "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3740,7 +3728,7 @@
       "TeamName": "Torino",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "played": 21,
         "wins": 6,
@@ -3795,7 +3783,7 @@
           },
           "assists": {
             "value": 2,
-            "player": ""
+            "player": "Nikola Vlasic"
           },
           "yellowCards": {
             "value": 5,
@@ -6526,7 +6514,7 @@
           "home": true,
           "date": "2026-01-19T19:30Z",
           "time": "2026-01-19T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7650,7 +7638,7 @@
           "home": false,
           "date": "2026-01-19T19:30Z",
           "time": "2026-01-19T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8477,7 +8465,7 @@
           "home": false,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9820,13 +9808,13 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 14,
+        "position": 12,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 5,
-        "draws": 7,
+        "draws": 8,
         "losses": 8,
-        "points": 22,
+        "points": 23,
         "last5": [
           {
             "result": "L",
@@ -9859,13 +9847,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Verona",
-          "home": true,
-          "date": "2026-01-19T17:30Z",
-          "time": "2026-01-19T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11497,7 +11479,7 @@
           },
           "tackles": {
             "value": 183.0,
-            "player": ""
+            "player": "Jordyn Brooks"
           },
           "interceptions": {
             "value": 2.0,
@@ -12669,7 +12651,7 @@
           },
           "receivingYards": {
             "value": 1211.0,
-            "player": "Zay Flowers"
+            "player": ""
           },
           "touchdowns": {
             "value": 16.0,
