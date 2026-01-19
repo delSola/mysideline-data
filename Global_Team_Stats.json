@@ -2419,7 +2419,7 @@
           "home": false,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3175,6 +3175,12 @@
         "points": 14,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Cremonese",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Bologna",
             "score": "2-3",
@@ -3197,12 +3203,6 @@
             "opponent": "Torino",
             "score": "0-3",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Milan",
-            "score": "0-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3630,7 +3630,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Atalanta",
+          "home": false,
+          "date": "2026-01-25T14:00Z",
+          "time": "2026-01-25T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6099,16 +6105,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 44,
+        "played": 45,
         "wins": 20,
-        "losses": 24,
+        "losses": 25,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nuggets",
-            "score": "110-87",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Warriors",
@@ -6132,14 +6132,20 @@
             "opponent": "Celtics",
             "score": "106-132",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Bucks",
+            "score": "110-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bucks",
-          "home": true,
-          "date": "2026-01-19T18:00Z",
-          "time": "2026-01-19T18:00Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": false,
+          "date": "2026-01-22T01:00Z",
+          "time": "2026-01-22T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7298,16 +7304,10 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
-        "wins": 17,
+        "played": 42,
+        "wins": 18,
         "losses": 24,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Warriors",
-            "score": "113-120",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Lakers",
@@ -7331,14 +7331,20 @@
             "opponent": "Spurs",
             "score": "101-119",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Hawks",
+            "score": "112-110",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hawks",
-          "home": false,
-          "date": "2026-01-19T18:00Z",
-          "time": "2026-01-19T18:00Z",
-          "status": "live"
+          "opponent": "Thunder",
+          "home": true,
+          "date": "2026-01-22T02:30Z",
+          "time": "2026-01-22T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8313,7 +8319,7 @@
           "home": true,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8388,7 +8394,7 @@
           "home": false,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9049,7 +9055,7 @@
           "home": true,
           "date": "2026-01-19T20:00Z",
           "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9817,6 +9823,12 @@
         "points": 23,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Verona",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Juventus",
             "score": "0-5",
@@ -9839,12 +9851,6 @@
             "opponent": "Napoli",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Lazio",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10648,7 +10654,7 @@
         "leaders": {
           "passingYards": {
             "value": 1809.0,
-            "player": "Joe Burrow"
+            "player": ""
           },
           "rushingYards": {
             "value": 1019.0,
@@ -12651,7 +12657,7 @@
           },
           "receivingYards": {
             "value": 1211.0,
-            "player": ""
+            "player": "Zay Flowers"
           },
           "touchdowns": {
             "value": 16.0,
