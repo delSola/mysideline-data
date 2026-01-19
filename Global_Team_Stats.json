@@ -6382,7 +6382,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.2,
+            "value": 19.9,
             "player": "LaMelo Ball"
           },
           "assists": {
@@ -6398,7 +6398,7 @@
             "player": "Ryan Kalkbrenner"
           },
           "steals": {
-            "value": 1.1,
+            "value": 1.2,
             "player": "LaMelo Ball"
           }
         }
@@ -6465,7 +6465,7 @@
             "player": "Josh Giddey"
           },
           "rebounds": {
-            "value": 9.1,
+            "value": 9.2,
             "player": "Nikola Vucevic"
           },
           "blocks": {
@@ -7514,7 +7514,7 @@
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.6,
+            "value": 7.5,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -7731,11 +7731,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.5,
+            "value": 22.2,
             "player": "Franz Wagner"
           },
           "assists": {
-            "value": 4.9,
+            "value": 5.0,
             "player": "Paolo Banchero"
           },
           "rebounds": {
@@ -7956,7 +7956,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.1,
+            "value": 26.2,
             "player": "Deni Avdija"
           },
           "assists": {
