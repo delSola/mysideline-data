@@ -634,7 +634,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Harry Wilson"
           },
           "yellowCards": {
             "value": 6,
@@ -844,16 +844,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 20,
+            "player": "Erling Haaland"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Rayan Cherki"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Bernardo Silva"
           },
           "redCards": {
             "value": 0,
@@ -1289,7 +1289,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Emmanuel Agbadou"
           }
         }
       }
@@ -1564,7 +1564,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Borja Iglesias"
           },
           "assists": {
             "value": 3,
@@ -1999,7 +1999,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Rubén García"
           },
           "yellowCards": {
             "value": 7,
@@ -2630,7 +2630,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "AS Roma",
+          "home": false,
+          "date": "2026-01-25T19:45Z",
+          "time": "2026-01-25T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3510,7 +3516,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Kialonda Gaspar"
           }
         }
       }
@@ -4157,7 +4163,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Robert Andrich"
           }
         }
       }
@@ -5280,7 +5286,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Metz",
+          "home": false,
+          "date": "2026-01-25T16:15Z",
+          "time": "2026-01-25T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7198,7 +7210,7 @@
             "player": "Jaren Jackson Jr."
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.4,
             "player": "Cam Spencer"
           },
           "rebounds": {
@@ -7210,8 +7222,8 @@
             "player": "Jaren Jackson Jr."
           },
           "steals": {
-            "value": 0.9,
-            "player": "Jaren Jackson Jr."
+            "value": 1.0,
+            "player": "John Konchar"
           }
         }
       }
@@ -7494,7 +7506,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.6,
+            "value": 22.5,
             "player": "Zion Williamson"
           },
           "assists": {
@@ -7952,7 +7964,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 10.7,
+            "value": 10.9,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -8019,7 +8031,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.9,
+            "value": 19.8,
             "player": "Zach LaVine"
           },
           "assists": {
@@ -8027,7 +8039,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.4,
+            "value": 6.5,
             "player": "Maxime Raynaud"
           },
           "blocks": {
@@ -8169,7 +8181,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.8,
+            "value": 21.7,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8177,7 +8189,7 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.3,
             "player": "Scottie Barnes"
           },
           "blocks": {
@@ -10653,28 +10665,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1809.0,
+            "player": "Joe Burrow"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1019.0,
+            "player": "Chase Brown"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1412.0,
+            "player": "Ja'Marr Chase"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 6.0,
+            "player": "Chase Brown"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 125.0,
+            "player": "Jordan Battle"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 4.0,
+            "player": "Jordan Battle"
           }
         }
       }
@@ -10883,7 +10895,7 @@
           },
           "rushingYards": {
             "value": 772.0,
-            "player": ""
+            "player": "J.K. Dobbins"
           },
           "receivingYards": {
             "value": 1017.0,
@@ -11024,28 +11036,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3381.0,
+            "player": "Jordan Love"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 929.0,
+            "player": "Josh Jacobs"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 724.0,
+            "player": "Romeo Doubs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 13.0,
+            "player": "Josh Jacobs"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 128.0,
+            "player": "Quay Walker"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Evan Williams"
           }
         }
       }
@@ -11395,28 +11407,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4707.0,
+            "player": "Matthew Stafford"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1252.0,
+            "player": "Kyren Williams"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1715.0,
+            "player": "Puka Nacua"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 10.0,
+            "player": "Kyren Williams"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 132.0,
+            "player": "Nate Landman"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Cobie Durant"
           }
         }
       }
