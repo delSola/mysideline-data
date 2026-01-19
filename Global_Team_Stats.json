@@ -324,13 +324,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Bournemouth",
-          "home": true,
-          "date": "2026-01-19T20:00Z",
-          "time": "2026-01-19T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1114,20 +1108,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Richarlison"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Mohammed Kudus"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 8,
+            "player": "Cristian Romero"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Cristian Romero"
           }
         }
       }
@@ -1186,20 +1180,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Jarrod Bowen"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "El Hadji Malick Diouf"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Lucas Paquetá"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Tomás Soucek"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -3767,7 +3761,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Maduka Okoye"
           }
         }
       }
@@ -4047,7 +4041,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Aleix García"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -5094,7 +5088,7 @@
         "leaders": {
           "goals": {
             "value": 12,
-            "player": "Mason Greenwood"
+            "player": ""
           },
           "assists": {
             "value": 5,
@@ -6151,24 +6145,24 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 0,
-            "player": ""
+            "value": 25.8,
+            "player": "Michael Porter Jr."
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4.1,
+            "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 0,
-            "player": ""
+            "value": 7.6,
+            "player": "Nic Claxton"
           },
           "blocks": {
-            "value": 0,
-            "player": ""
+            "value": 1.4,
+            "player": "Nic Claxton"
           },
           "steals": {
-            "value": 0,
-            "player": ""
+            "value": 1.1,
+            "player": "Ziaire Williams"
           }
         }
       }
@@ -6220,7 +6214,7 @@
           "home": false,
           "date": "2026-01-19T01:00Z",
           "time": "2026-01-19T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6520,7 +6514,7 @@
           "home": true,
           "date": "2026-01-19T01:00Z",
           "time": "2026-01-19T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9764,7 +9758,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Le Havre AC",
+          "home": true,
+          "date": "2026-01-18T16:15Z",
+          "time": "2026-01-18T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9843,7 +9843,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Lassine Sinayoko"
+            "player": ""
           },
           "assists": {
             "value": 2,
@@ -11516,7 +11516,7 @@
           },
           "receivingYards": {
             "value": 1163.0,
-            "player": ""
+            "player": "Chris Olave"
           },
           "touchdowns": {
             "value": 3.0,
@@ -11946,7 +11946,7 @@
         "leaders": {
           "passingYards": {
             "value": 3727.0,
-            "player": ""
+            "player": "Justin Herbert"
           },
           "rushingYards": {
             "value": 643.0,
@@ -12311,7 +12311,7 @@
         "leaders": {
           "passingYards": {
             "value": 3011.0,
-            "player": "Bryce Young"
+            "player": ""
           },
           "rushingYards": {
             "value": 1076.0,
