@@ -1719,7 +1719,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Tyrhys Dolan"
+            "player": ""
           }
         }
       }
@@ -1728,7 +1728,7 @@
       "TeamName": "Getafe",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -1800,7 +1800,7 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -1872,7 +1872,7 @@
       "TeamName": "Mallorca",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
         "played": 20,
         "wins": 5,
@@ -2232,7 +2232,7 @@
       "TeamName": "Real Sociedad",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -2375,13 +2375,13 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 14,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 6,
-        "draws": 2,
+        "draws": 3,
         "losses": 11,
-        "points": 20,
+        "points": 21,
         "last5": [
           {
             "result": "L",
@@ -2414,13 +2414,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Elche",
-          "home": false,
-          "date": "2026-01-19T20:00Z",
-          "time": "2026-01-19T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2881,11 +2875,11 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 20,
-        "wins": 9,
+        "played": 21,
+        "wins": 10,
         "draws": 7,
         "losses": 4,
-        "points": 34,
+        "points": 37,
         "last5": [
           {
             "result": "L",
@@ -2918,13 +2912,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": false,
-          "date": "2026-01-19T19:45Z",
-          "time": "2026-01-19T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3215,7 +3203,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane "
+            "player": "Giovane"
           },
           "yellowCards": {
             "value": 5,
@@ -3377,10 +3365,10 @@
       "TeamStats": {
         "position": 9,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 7,
         "draws": 7,
-        "losses": 6,
+        "losses": 7,
         "points": 28,
         "last5": [
           {
@@ -3414,13 +3402,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Como",
-          "home": true,
-          "date": "2026-01-19T19:45Z",
-          "time": "2026-01-19T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5508,7 +5490,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Wesley Saïd"
+            "player": ""
           },
           "assists": {
             "value": 5,
@@ -6105,9 +6087,9 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 45,
+        "played": 44,
         "wins": 20,
-        "losses": 25,
+        "losses": 24,
         "last5": [
           {
             "result": "W",
@@ -7304,8 +7286,8 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 42,
-        "wins": 18,
+        "played": 41,
+        "wins": 17,
         "losses": 24,
         "last5": [
           {
@@ -8792,7 +8774,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "played": 20,
         "wins": 7,
@@ -9011,13 +8993,13 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 11,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 8,
+        "draws": 9,
         "losses": 6,
-        "points": 23,
+        "points": 24,
         "last5": [
           {
             "result": "D",
@@ -9050,13 +9032,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Sevilla",
-          "home": true,
-          "date": "2026-01-19T20:00Z",
-          "time": "2026-01-19T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10654,7 +10630,7 @@
         "leaders": {
           "passingYards": {
             "value": 1809.0,
-            "player": ""
+            "player": "Joe Burrow"
           },
           "rushingYards": {
             "value": 1019.0,
