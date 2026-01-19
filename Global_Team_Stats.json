@@ -2075,7 +2075,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Andrei Ratiu"
+            "player": "Isi Palazón"
           },
           "redCards": {
             "value": 1,
@@ -2139,7 +2139,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Cucho Hernández"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -2219,7 +2219,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Aurélien Tchouaméni"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -2282,7 +2282,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Mikel Oyarzabal"
           },
           "assists": {
@@ -2290,12 +2290,12 @@
             "player": "Takefusa Kubo"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Jon Aramburu"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Carlos Soler"
           }
         }
       }
@@ -2438,7 +2438,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Marcão"
+            "player": ""
           }
         }
       }
@@ -2646,11 +2646,11 @@
           },
           "assists": {
             "value": 3,
-            "player": "Adrien Rabiot"
+            "player": "Alexis Saelemaekers"
           },
           "yellowCards": {
             "value": 4,
-            "player": "Youssouf Fofana"
+            "player": "Fikayo Tomori"
           },
           "redCards": {
             "value": 1,
@@ -2793,7 +2793,7 @@
             "player": "Nicolò Cambiaghi"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Juan Miranda"
           },
           "redCards": {
@@ -3072,12 +3072,12 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Rolando Mandragora"
           },
           "assists": {
             "value": 3,
-            "player": "Nicolò Fagioli"
+            "player": "Albert Gudmundsson"
           },
           "yellowCards": {
             "value": 7,
@@ -3157,7 +3157,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Brooke Norton-Cuffy"
+            "player": "Nicola Leali"
           }
         }
       }
@@ -3512,7 +3512,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Kialonda Gaspar"
+            "player": "Ylber Ramadani"
           },
           "redCards": {
             "value": 1,
@@ -4151,7 +4151,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Patrik Schick"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -4517,8 +4517,8 @@
             "player": "Matthias Ginter"
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Maximilian Eggestein"
+            "value": 4,
+            "player": "Johan Manzambi"
           },
           "redCards": {
             "value": 1,
@@ -4730,11 +4730,11 @@
           },
           "assists": {
             "value": 2,
-            "player": "Mert Kömür"
+            "player": "Fabian Rieder"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Chrislain Matsima"
+            "player": "Noahkai Banks"
           },
           "redCards": {
             "value": 1,
@@ -5297,11 +5297,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Pavel Sulc"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Afonso Moreira"
           },
           "yellowCards": {
@@ -5729,7 +5729,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": "Youssef El Arabi"
+            "player": "Matthis Abline"
           },
           "assists": {
             "value": 2,
@@ -9587,7 +9587,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Mario Hermoso"
+            "player": "Gianluca Mancini"
           },
           "redCards": {
             "value": 1,
@@ -9952,7 +9952,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Jérémy Jacquet"
+            "player": "Mousa Al-Tamari"
           },
           "redCards": {
             "value": 1,
@@ -10162,7 +10162,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Gauthier Hein"
           },
           "assists": {
@@ -10312,8 +10312,8 @@
             "player": "Issa Soumaré"
           },
           "assists": {
-            "value": 2,
-            "player": "Issa Soumaré"
+            "value": 3,
+            "player": "Rassoul Ndiaye"
           },
           "yellowCards": {
             "value": 4,
@@ -10381,7 +10381,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Ilan Kebbal"
           },
           "assists": {
@@ -10389,7 +10389,7 @@
             "player": "Ilan Kebbal"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Maxime López"
           },
           "redCards": {
@@ -10879,7 +10879,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Patriots",
+          "home": true,
+          "date": "2026-01-25T20:00Z",
+          "time": "2026-01-25T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11390,7 +11396,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Seahawks",
+          "home": false,
+          "date": "2026-01-25T23:30Z",
+          "time": "2026-01-25T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11609,7 +11621,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Broncos",
+          "home": false,
+          "date": "2026-01-25T20:00Z",
+          "time": "2026-01-25T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12266,7 +12284,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rams",
+          "home": true,
+          "date": "2026-01-25T23:30Z",
+          "time": "2026-01-25T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
