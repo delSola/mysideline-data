@@ -3210,7 +3210,7 @@
           "home": false,
           "date": "2026-01-19T17:30Z",
           "time": "2026-01-19T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9514,7 +9514,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": ""
+            "player": "Jan Schöppner"
           },
           "redCards": {
             "value": 1,
@@ -9864,7 +9864,7 @@
           "home": true,
           "date": "2026-01-19T17:30Z",
           "time": "2026-01-19T17:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
