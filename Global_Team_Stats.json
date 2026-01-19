@@ -3795,7 +3795,7 @@
           },
           "assists": {
             "value": 2,
-            "player": "Nikola Vlasic"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -6151,7 +6151,7 @@
           "home": true,
           "date": "2026-01-19T18:00Z",
           "time": "2026-01-19T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7350,7 +7350,7 @@
           "home": false,
           "date": "2026-01-19T18:00Z",
           "time": "2026-01-19T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11497,7 +11497,7 @@
           },
           "tackles": {
             "value": 183.0,
-            "player": "Jordyn Brooks"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
