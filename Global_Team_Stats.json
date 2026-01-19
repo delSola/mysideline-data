@@ -54,16 +54,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Viktor Gyökeres"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Leandro Trossard"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Riccardo Calafiori"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -2157,7 +2157,7 @@
         "leaders": {
           "goals": {
             "value": 19,
-            "player": ""
+            "player": "Kylian Mbappé"
           },
           "assists": {
             "value": 7,
@@ -2366,7 +2366,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": "Akor Adams"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -5082,7 +5082,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lens",
+          "home": true,
+          "date": "2026-01-24T20:05Z",
+          "time": "2026-01-24T20:05Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6174,16 +6180,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 42,
-        "wins": 15,
+        "played": 43,
+        "wins": 16,
         "losses": 27,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pacers",
-            "score": "112-114",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -6207,14 +6207,20 @@
             "opponent": "Warriors",
             "score": "116-136",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Nuggets",
+            "score": "110-87",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Nuggets",
-          "home": false,
-          "date": "2026-01-19T01:00Z",
-          "time": "2026-01-19T01:00Z",
-          "status": "live"
+          "opponent": "Cavaliers",
+          "home": true,
+          "date": "2026-01-22T00:00Z",
+          "time": "2026-01-22T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6474,16 +6480,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "West",
-        "played": 42,
+        "played": 43,
         "wins": 29,
-        "losses": 13,
+        "losses": 14,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hawks",
-            "score": "87-110",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -6507,14 +6507,20 @@
             "opponent": "Wizards",
             "score": "121-115",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Hornets",
+            "score": "87-110",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
+          "opponent": "Lakers",
           "home": true,
-          "date": "2026-01-19T01:00Z",
-          "time": "2026-01-19T01:00Z",
-          "status": "live"
+          "date": "2026-01-21T03:00Z",
+          "time": "2026-01-21T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8467,20 +8473,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Wilson Isidor"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 5,
-            "player": "Granit Xhaka"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Trai Hume"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Reinildo Mandava"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -8541,7 +8547,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Jaidon Anthony"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -9192,7 +9198,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Andreas Hountondji"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -9728,9 +9734,9 @@
         "points": 31,
         "last5": [
           {
-            "result": "D",
+            "result": "L",
             "opponent": "Le Havre AC",
-            "score": "1-1",
+            "score": "0-1",
             "home": true
           },
           {
@@ -10389,13 +10395,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Rams",
-          "home": true,
-          "date": "2026-01-18T23:30Z",
-          "time": "2026-01-18T23:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11198,13 +11198,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Bears",
-          "home": false,
-          "date": "2026-01-18T23:30Z",
-          "time": "2026-01-18T23:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
