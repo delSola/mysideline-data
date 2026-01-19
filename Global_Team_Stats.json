@@ -324,7 +324,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bournemouth",
+          "home": true,
+          "date": "2026-01-19T20:00Z",
+          "time": "2026-01-19T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1180,20 +1186,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Jarrod Bowen"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "El Hadji Malick Diouf"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Lucas Paquetá"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Tomás Soucek"
           }
         }
       }
@@ -2151,7 +2157,7 @@
         "leaders": {
           "goals": {
             "value": 19,
-            "player": "Kylian Mbappé"
+            "player": ""
           },
           "assists": {
             "value": 7,
@@ -4041,7 +4047,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Aleix García"
           },
           "yellowCards": {
             "value": 6,
@@ -5076,19 +5082,13 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lens",
-          "home": true,
-          "date": "2026-01-24T20:05Z",
-          "time": "2026-01-24T20:05Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 12,
-            "player": ""
+            "player": "Mason Greenwood"
           },
           "assists": {
             "value": 5,
@@ -6099,16 +6099,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 39,
+        "played": 40,
         "wins": 12,
-        "losses": 27,
+        "losses": 28,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Clippers",
-            "score": "105-121",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Grizzlies",
@@ -6132,14 +6126,20 @@
             "opponent": "Bulls",
             "score": "112-109",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Bulls",
+            "score": "102-124",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Bulls",
-          "home": false,
-          "date": "2026-01-19T00:00Z",
-          "time": "2026-01-19T00:00Z",
-          "status": "live"
+          "opponent": "Suns",
+          "home": true,
+          "date": "2026-01-20T00:30Z",
+          "time": "2026-01-20T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6249,16 +6249,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
-        "wins": 19,
+        "played": 42,
+        "wins": 20,
         "losses": 22,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pistons",
-            "score": "93-108",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Mavericks",
@@ -6282,14 +6276,20 @@
             "opponent": "Nets",
             "score": "109-112",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Nets",
+            "score": "124-102",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Nets",
+          "opponent": "Clippers",
           "home": true,
-          "date": "2026-01-19T00:00Z",
-          "time": "2026-01-19T00:00Z",
-          "status": "live"
+          "date": "2026-01-21T01:00Z",
+          "time": "2026-01-21T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6699,16 +6699,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 39,
-        "wins": 24,
+        "played": 40,
+        "wins": 25,
         "losses": 15,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "105-111",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Kings",
@@ -6732,14 +6726,20 @@
             "opponent": "Timberwolves",
             "score": "110-105",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pelicans",
+            "score": "119-110",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
+          "opponent": "Spurs",
           "home": true,
-          "date": "2026-01-19T00:00Z",
-          "time": "2026-01-19T00:00Z",
-          "status": "live"
+          "date": "2026-01-21T01:00Z",
+          "time": "2026-01-21T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6963,7 +6963,7 @@
           "home": true,
           "date": "2026-01-19T02:30Z",
           "time": "2026-01-19T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7298,16 +7298,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 44,
+        "played": 45,
         "wins": 10,
-        "losses": 34,
+        "losses": 35,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Wizards",
-            "score": "128-107",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Magic",
@@ -7331,14 +7325,20 @@
             "opponent": "Pacers",
             "score": "119-127",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Rockets",
+            "score": "110-119",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
-          "home": false,
-          "date": "2026-01-19T00:00Z",
-          "time": "2026-01-19T00:00Z",
-          "status": "live"
+          "opponent": "Pistons",
+          "home": true,
+          "date": "2026-01-22T01:00Z",
+          "time": "2026-01-22T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7788,7 +7788,7 @@
           "home": false,
           "date": "2026-01-19T02:00Z",
           "time": "2026-01-19T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7863,7 +7863,7 @@
           "home": true,
           "date": "2026-01-19T02:00Z",
           "time": "2026-01-19T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8013,7 +8013,7 @@
           "home": false,
           "date": "2026-01-19T02:30Z",
           "time": "2026-01-19T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9758,13 +9758,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Le Havre AC",
-          "home": true,
-          "date": "2026-01-18T16:15Z",
-          "time": "2026-01-18T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9843,7 +9837,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": ""
+            "player": "Lassine Sinayoko"
           },
           "assists": {
             "value": 2,
@@ -12311,7 +12305,7 @@
         "leaders": {
           "passingYards": {
             "value": 3011.0,
-            "player": ""
+            "player": "Bryce Young"
           },
           "rushingYards": {
             "value": 1076.0,
