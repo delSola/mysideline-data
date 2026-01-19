@@ -634,7 +634,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Harry Wilson"
           },
           "yellowCards": {
             "value": 6,
@@ -2630,13 +2630,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "AS Roma",
-          "home": false,
-          "date": "2026-01-25T19:45Z",
-          "time": "2026-01-25T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10467,7 +10461,7 @@
           },
           "interceptions": {
             "value": 5.0,
-            "player": ""
+            "player": "Xavier Watts"
           }
         }
       }
