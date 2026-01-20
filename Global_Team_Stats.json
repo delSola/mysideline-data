@@ -6161,12 +6161,6 @@
         "losses": 15,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Raptors",
-            "score": "125-117",
-            "home": true
-          },
-          {
             "result": "L",
             "opponent": "Spurs",
             "score": "95-100",
@@ -6189,14 +6183,20 @@
             "opponent": "Hawks",
             "score": "132-106",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Pistons",
+            "score": "103-104",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pistons",
-          "home": false,
-          "date": "2026-01-20T01:00Z",
-          "time": "2026-01-20T01:00Z",
-          "status": "live"
+          "opponent": "Pacers",
+          "home": true,
+          "date": "2026-01-22T00:30Z",
+          "time": "2026-01-22T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6231,9 +6231,9 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 40,
+        "played": 41,
         "wins": 12,
-        "losses": 28,
+        "losses": 29,
         "last5": [
           {
             "result": "L",
@@ -6687,12 +6687,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Knicks",
-            "score": "121-90",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Bulls",
             "score": "108-93",
             "home": true
@@ -6714,14 +6708,20 @@
             "opponent": "Pacers",
             "score": "121-78",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Celtics",
+            "score": "104-103",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
-          "home": true,
-          "date": "2026-01-20T01:00Z",
-          "time": "2026-01-20T01:00Z",
-          "status": "live"
+          "opponent": "Pelicans",
+          "home": false,
+          "date": "2026-01-22T01:00Z",
+          "time": "2026-01-22T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6796,7 +6796,7 @@
           "home": true,
           "date": "2026-01-20T03:00Z",
           "time": "2026-01-20T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7245,7 +7245,7 @@
           "home": false,
           "date": "2026-01-20T03:00Z",
           "time": "2026-01-20T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7805,8 +7805,8 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 42,
-        "wins": 25,
+        "played": 43,
+        "wins": 26,
         "losses": 17,
         "last5": [
           {
