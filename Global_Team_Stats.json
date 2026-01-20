@@ -3114,20 +3114,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Lorenzo Colombo"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Aarón Martín"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Ruslan Malinovskyi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Nicola Leali"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -5376,7 +5376,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nantes",
+          "home": false,
+          "date": "2026-01-25T14:00Z",
+          "time": "2026-01-25T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11852,28 +11858,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3224.0,
-            "player": "Jalen Hurts"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 1140.0,
-            "player": "Saquon Barkley"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1008.0,
-            "player": "DeVonta Smith"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 8.0,
-            "player": "Jalen Hurts"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 123.0,
-            "player": "Zack Baun"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Jalyx Hunt"
+            "value": 0,
+            "player": ""
           }
         }
       }
