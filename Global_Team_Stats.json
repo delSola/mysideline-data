@@ -43,13 +43,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Man United",
-          "home": true,
-          "date": "2026-01-25T16:30Z",
-          "time": "2026-01-25T16:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -833,13 +827,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Wolves",
-          "home": true,
-          "date": "2026-01-24T15:00Z",
-          "time": "2026-01-24T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1121,13 +1109,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Burnley",
-          "home": false,
-          "date": "2026-01-24T15:00Z",
-          "time": "2026-01-24T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1193,31 +1175,25 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Sunderland",
-          "home": true,
-          "date": "2026-01-24T12:30Z",
-          "time": "2026-01-24T12:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Jarrod Bowen"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "El Hadji Malick Diouf"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Lucas Paquetá"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Tomás Soucek"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -1564,7 +1540,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Borja Iglesias"
           },
           "assists": {
             "value": 3,
@@ -2199,13 +2175,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Villarreal",
-          "home": false,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3564,13 +3534,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": false,
-          "date": "2026-01-25T17:00Z",
-          "time": "2026-01-25T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3995,13 +3959,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Union Berlin",
-          "home": false,
-          "date": "2026-01-24T17:30Z",
-          "time": "2026-01-24T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4139,13 +4097,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bremen",
-          "home": true,
-          "date": "2026-01-24T14:30Z",
-          "time": "2026-01-24T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8491,8 +8443,8 @@
             "player": "Marcos Senesi"
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Antoine Semenyo"
+            "value": 7,
+            "player": "Marcos Senesi"
           },
           "redCards": {
             "value": 1,
@@ -9640,13 +9592,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Pisa",
-          "home": true,
-          "date": "2026-01-23T19:45Z",
-          "time": "2026-01-23T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
