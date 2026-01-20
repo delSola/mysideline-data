@@ -6156,9 +6156,9 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "East",
-        "played": 41,
+        "played": 42,
         "wins": 26,
-        "losses": 15,
+        "losses": 16,
         "last5": [
           {
             "result": "L",
@@ -6681,8 +6681,8 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "East",
-        "played": 40,
-        "wins": 30,
+        "played": 41,
+        "wins": 31,
         "losses": 10,
         "last5": [
           {
@@ -9020,7 +9020,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Levante",
+          "home": false,
+          "date": "2026-01-23T20:00Z",
+          "time": "2026-01-23T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
