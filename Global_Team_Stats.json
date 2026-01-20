@@ -3114,20 +3114,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Lorenzo Colombo"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Aarón Martín"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Ruslan Malinovskyi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Nicola Leali"
           }
         }
       }
@@ -11858,28 +11858,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3224.0,
+            "player": "Jalen Hurts"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1140.0,
+            "player": "Saquon Barkley"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1008.0,
+            "player": "DeVonta Smith"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 8.0,
+            "player": "Jalen Hurts"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 123.0,
+            "player": "Zack Baun"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Jalyx Hunt"
           }
         }
       }
