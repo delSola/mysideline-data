@@ -330,7 +330,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Fulham",
+          "home": false,
+          "date": "2026-01-24T15:00Z",
+          "time": "2026-01-24T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2408,7 +2414,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Athletic",
+          "home": true,
+          "date": "2026-01-24T17:30Z",
+          "time": "2026-01-24T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2906,7 +2918,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Torino",
+          "home": true,
+          "date": "2026-01-24T14:00Z",
+          "time": "2026-01-24T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3187,7 +3205,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Udinese",
+          "home": true,
+          "date": "2026-01-26T19:45Z",
+          "time": "2026-01-26T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3396,7 +3420,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lecce",
+          "home": false,
+          "date": "2026-01-24T19:45Z",
+          "time": "2026-01-24T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5204,7 +5234,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Michael Murillo"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -5626,20 +5656,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
-            "player": "Joaquín Panichelli"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Valentín Barco"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Mike Penders"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Valentín Barco"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -6756,16 +6786,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
-        "wins": 24,
+        "played": 44,
+        "wins": 25,
         "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "137-103",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Hawks",
@@ -6789,14 +6813,20 @@
             "opponent": "Hornets",
             "score": "136-116",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Heat",
+            "score": "135-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Heat",
+          "opponent": "Raptors",
           "home": true,
-          "date": "2026-01-20T03:00Z",
-          "time": "2026-01-20T03:00Z",
-          "status": "live"
+          "date": "2026-01-21T03:00Z",
+          "time": "2026-01-21T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7205,16 +7235,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 42,
+        "played": 43,
         "wins": 22,
-        "losses": 20,
+        "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pacers",
-            "score": "99-123",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Thunder",
@@ -7238,14 +7262,20 @@
             "opponent": "Thunder",
             "score": "122-120",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Warriors",
+            "score": "112-135",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
+          "opponent": "Kings",
           "home": false,
-          "date": "2026-01-20T03:00Z",
-          "time": "2026-01-20T03:00Z",
-          "status": "live"
+          "date": "2026-01-21T03:00Z",
+          "time": "2026-01-21T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8442,7 +8472,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Liverpool",
+          "home": true,
+          "date": "2026-01-24T17:30Z",
+          "time": "2026-01-24T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9823,7 +9859,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Sassuolo",
+          "home": false,
+          "date": "2026-01-25T11:30Z",
+          "time": "2026-01-25T11:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10125,11 +10167,11 @@
           },
           "assists": {
             "value": 4,
-            "player": "Gauthier Hein"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
-            "player": "Koffi Kouao"
+            "player": ""
           },
           "redCards": {
             "value": 2,
@@ -10486,7 +10528,7 @@
           },
           "receivingYards": {
             "value": 719.0,
-            "player": "Khalil Shakir"
+            "player": ""
           },
           "touchdowns": {
             "value": 14.0,
@@ -10498,7 +10540,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Cole Bishop"
+            "player": ""
           }
         }
       }
