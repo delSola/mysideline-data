@@ -2916,7 +2916,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Nico Paz"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -4756,13 +4756,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Frankfurt",
-          "home": false,
-          "date": "2026-01-24T14:30Z",
-          "time": "2026-01-24T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -6196,7 +6190,7 @@
           "home": false,
           "date": "2026-01-20T01:00Z",
           "time": "2026-01-20T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6721,7 +6715,7 @@
           "home": true,
           "date": "2026-01-20T01:00Z",
           "time": "2026-01-20T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8302,7 +8296,7 @@
         "leaders": {
           "points": {
             "value": 18.8,
-            "player": ""
+            "player": "CJ McCollum"
           },
           "assists": {
             "value": 4.9,
@@ -10557,7 +10551,7 @@
           },
           "touchdowns": {
             "value": 9.0,
-            "player": ""
+            "player": "D'Andre Swift"
           },
           "tackles": {
             "value": 112.0,
