@@ -1175,25 +1175,31 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Sunderland",
+          "home": true,
+          "date": "2026-01-24T12:30Z",
+          "time": "2026-01-24T12:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Jarrod Bowen"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "El Hadji Malick Diouf"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Lucas Paquetá"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Tomás Soucek"
           }
         }
       }
@@ -2528,13 +2534,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": true,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3410,7 +3410,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Mattia Zaccagni"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -5023,13 +5023,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Auxerre",
-          "home": false,
-          "date": "2026-01-23T19:00Z",
-          "time": "2026-01-23T19:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5465,20 +5459,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
-            "player": "Wesley Saïd"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 5,
-            "player": "Matthieu Udol"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Adrien Thomasson"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Morgan Guilavogui"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -10024,13 +10018,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Le Havre AC",
-          "home": false,
-          "date": "2026-01-24T18:00Z",
-          "time": "2026-01-24T18:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10774,7 +10762,7 @@
           },
           "tackles": {
             "value": 91.0,
-            "player": "Shemar James"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
