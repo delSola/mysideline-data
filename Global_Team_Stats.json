@@ -1564,7 +1564,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "Borja Iglesias"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -2425,7 +2425,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 5,
             "player": "Akor Adams"
           },
           "assists": {
@@ -2929,7 +2929,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 8,
             "player": "Nico Paz"
           },
           "assists": {
@@ -2937,8 +2937,8 @@
             "player": "Nico Paz"
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Máximo Perrone"
+            "value": 7,
+            "player": "Ivan Smolcic"
           },
           "redCards": {
             "value": 1,
@@ -3440,7 +3440,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Matteo Guendouzi"
+            "player": "Mattia Zaccagni"
           },
           "redCards": {
             "value": 1,
@@ -9075,8 +9075,8 @@
             "player": "Álvaro Rodríguez"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Aleix Febas"
+            "value": 5,
+            "player": "Víctor Chust"
           },
           "redCards": {
             "value": 1,
@@ -12006,7 +12006,7 @@
           },
           "receivingYards": {
             "value": 1239.0,
-            "player": ""
+            "player": "Trey McBride"
           },
           "touchdowns": {
             "value": 4.0,
