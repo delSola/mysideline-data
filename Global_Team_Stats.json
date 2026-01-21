@@ -6405,7 +6405,7 @@
             "player": "Josh Giddey"
           },
           "rebounds": {
-            "value": 9.2,
+            "value": 9.1,
             "player": "Nikola Vucevic"
           },
           "blocks": {
@@ -6847,7 +6847,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.1,
+            "value": 25.9,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -7371,11 +7371,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.6,
+            "value": 29.9,
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.4,
             "player": "Julius Randle"
           },
           "rebounds": {
@@ -7746,7 +7746,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 30.2,
+            "value": 30.0,
             "player": "Tyrese Maxey"
           },
           "assists": {
@@ -7754,7 +7754,7 @@
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 8.8,
+            "value": 9.0,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -8046,7 +8046,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.8,
+            "value": 24.4,
             "player": "Victor Wembanyama"
           },
           "assists": {
@@ -8058,7 +8058,7 @@
             "player": "Victor Wembanyama"
           },
           "blocks": {
-            "value": 2.6,
+            "value": 2.5,
             "player": "Victor Wembanyama"
           },
           "steals": {
@@ -8200,11 +8200,11 @@
             "player": "Lauri Markkanen"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.7,
             "player": "Keyonte George"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 10.2,
             "player": "Jusuf Nurkic"
           },
           "blocks": {
@@ -11798,7 +11798,7 @@
           },
           "touchdowns": {
             "value": 4.0,
-            "player": "Justin Fields"
+            "player": ""
           },
           "tackles": {
             "value": 154.0,
@@ -12017,11 +12017,11 @@
           },
           "touchdowns": {
             "value": 6.0,
-            "player": ""
+            "player": "Jaylen Warren"
           },
           "tackles": {
             "value": 126.0,
-            "player": "Payton Wilson"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
@@ -12246,7 +12246,7 @@
           },
           "tackles": {
             "value": 126.0,
-            "player": "Ernest Jones IV"
+            "player": ""
           },
           "interceptions": {
             "value": 5.0,
