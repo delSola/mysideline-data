@@ -2894,7 +2894,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Nico Paz"
+            "player": ""
           },
           "assists": {
             "value": 6,
@@ -11798,7 +11798,7 @@
           },
           "touchdowns": {
             "value": 4.0,
-            "player": ""
+            "player": "Justin Fields"
           },
           "tackles": {
             "value": 154.0,
@@ -12021,7 +12021,7 @@
           },
           "tackles": {
             "value": 126.0,
-            "player": ""
+            "player": "Payton Wilson"
           },
           "interceptions": {
             "value": 2.0,
@@ -12246,7 +12246,7 @@
           },
           "tackles": {
             "value": 126.0,
-            "player": ""
+            "player": "Ernest Jones IV"
           },
           "interceptions": {
             "value": 5.0,
