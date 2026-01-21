@@ -5681,7 +5681,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Junior Mwanga"
           }
         }
       }
@@ -6772,7 +6772,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.4,
+            "value": 27.1,
             "player": "Stephen Curry"
           },
           "assists": {
@@ -6851,11 +6851,11 @@
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.4,
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.2,
+            "value": 9.3,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6863,7 +6863,7 @@
             "player": "Alperen Sengun"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Alperen Sengun"
           }
         }
@@ -7071,11 +7071,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.3,
+            "value": 33.5,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.6,
+            "value": 8.7,
             "player": "Luka Doncic"
           },
           "rebounds": {
@@ -7087,7 +7087,7 @@
             "player": "Deandre Ayton"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Luka Doncic"
           }
         }
@@ -7825,7 +7825,7 @@
             "player": "Devin Booker"
           },
           "assists": {
-            "value": 6.4,
+            "value": 6.3,
             "player": "Devin Booker"
           },
           "rebounds": {
@@ -7833,7 +7833,7 @@
             "player": "Mark Williams"
           },
           "blocks": {
-            "value": 1.1,
+            "value": 1.0,
             "player": "Mark Williams"
           },
           "steals": {
@@ -7979,7 +7979,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.5,
+            "value": 6.6,
             "player": "Maxime Raynaud"
           },
           "blocks": {
@@ -8125,15 +8125,15 @@
             "player": "Brandon Ingram"
           },
           "assists": {
-            "value": 6.1,
+            "value": 6.2,
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.2,
             "player": "Scottie Barnes"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Scottie Barnes"
           },
           "steals": {
@@ -8350,7 +8350,7 @@
             "player": "Kawhi Leonard"
           },
           "assists": {
-            "value": 8.1,
+            "value": 8.0,
             "player": "James Harden"
           },
           "rebounds": {
@@ -8358,8 +8358,8 @@
             "player": "Ivica Zubac"
           },
           "blocks": {
-            "value": 0.9,
-            "player": "Ivica Zubac"
+            "value": 1.0,
+            "player": "Brook Lopez"
           },
           "steals": {
             "value": 2.2,
@@ -9366,20 +9366,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Nadiem Amiri"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Lee Jae-Sung"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Nadiem Amiri"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Dominik Kohr"
           }
         }
       }
@@ -9793,7 +9793,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Sassuolo",
+          "home": false,
+          "date": "2026-01-25T11:30Z",
+          "time": "2026-01-25T11:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9811,7 +9817,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Federico Ceccherini"
           }
         }
       }
@@ -10606,7 +10612,7 @@
           },
           "touchdowns": {
             "value": 6.0,
-            "player": ""
+            "player": "Chase Brown"
           },
           "tackles": {
             "value": 125.0,
@@ -12011,7 +12017,7 @@
           },
           "touchdowns": {
             "value": 6.0,
-            "player": "Jaylen Warren"
+            "player": ""
           },
           "tackles": {
             "value": 126.0,
@@ -12240,7 +12246,7 @@
           },
           "tackles": {
             "value": 126.0,
-            "player": ""
+            "player": "Ernest Jones IV"
           },
           "interceptions": {
             "value": 5.0,
@@ -13026,7 +13032,7 @@
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "85-96",
+            "score": "116-123",
             "home": false
           }
         ],
@@ -13326,7 +13332,7 @@
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "96-85",
+            "score": "123-116",
             "home": true
           }
         ],
