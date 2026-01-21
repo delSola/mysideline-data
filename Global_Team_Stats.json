@@ -2071,7 +2071,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Unai López"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -10820,7 +10820,7 @@
           },
           "receivingYards": {
             "value": 1429.0,
-            "player": "George Pickens"
+            "player": ""
           },
           "touchdowns": {
             "value": 11.0,
@@ -12767,16 +12767,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 26,
+        "played": 27,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "70-95",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
@@ -12800,12 +12794,18 @@
             "opponent": "Sydney Kings",
             "score": "80-95",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Melbourne United",
+            "score": "20-32",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Melbourne United",
-          "home": false,
-          "date": "2026-01-21T17:30:00Z",
+          "opponent": "Illawarra Hawks",
+          "home": true,
+          "date": "2026-01-26T19:30:00Z",
           "status": "scheduled"
         }
       },
@@ -12992,16 +12992,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 26,
-        "wins": 16,
+        "played": 27,
+        "wins": 17,
         "losses": 10,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "92-87",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
@@ -13025,12 +13019,18 @@
             "opponent": "Tasmania JackJumpers",
             "score": "79-77",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "32-20",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Brisbane Bullets",
-          "home": true,
-          "date": "2026-01-21T17:30:00Z",
+          "opponent": "Perth Wildcats",
+          "home": false,
+          "date": "2026-01-25T16:30:00Z",
           "status": "scheduled"
         }
       },
