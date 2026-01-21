@@ -4749,16 +4749,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Fisnik Asllani"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Vladimír Coufal"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Bernardo"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -10991,7 +10991,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Evan Williams"
+            "player": ""
           }
         }
       }
@@ -11729,7 +11729,7 @@
           },
           "tackles": {
             "value": 143.0,
-            "player": ""
+            "player": "Bobby Okereke"
           },
           "interceptions": {
             "value": 2.0,
