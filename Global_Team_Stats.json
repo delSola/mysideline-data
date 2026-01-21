@@ -3959,7 +3959,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Union Berlin",
+          "home": false,
+          "date": "2026-01-24T17:30Z",
+          "time": "2026-01-24T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5023,7 +5029,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": false,
+          "date": "2026-01-23T19:00Z",
+          "time": "2026-01-23T19:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6804,11 +6816,11 @@
       "TeamName": "Houston Rockets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 40,
-        "wins": 25,
+        "played": 41,
+        "wins": 26,
         "losses": 15,
         "last5": [
           {
@@ -7328,19 +7340,13 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 4,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
+        "played": 44,
         "wins": 27,
-        "losses": 16,
+        "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "134-146",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Spurs",
@@ -7364,14 +7370,20 @@
             "opponent": "Spurs",
             "score": "123-126",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Jazz",
+            "score": "122-127",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
-          "home": false,
-          "date": "2026-01-21T02:00Z",
-          "time": "2026-01-21T02:00Z",
-          "status": "live"
+          "opponent": "Bulls",
+          "home": true,
+          "date": "2026-01-23T01:00Z",
+          "time": "2026-01-23T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7778,7 +7790,7 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
         "played": 44,
@@ -8006,9 +8018,9 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 43,
+        "played": 44,
         "wins": 30,
-        "losses": 13,
+        "losses": 14,
         "last5": [
           {
             "result": "L",
@@ -8156,16 +8168,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
-        "wins": 14,
+        "played": 44,
+        "wins": 15,
         "losses": 29,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cavaliers",
-            "score": "123-112",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Bulls",
@@ -8189,14 +8195,20 @@
             "opponent": "Spurs",
             "score": "110-123",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Timberwolves",
+            "score": "127-122",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Timberwolves",
+          "opponent": "Spurs",
           "home": true,
-          "date": "2026-01-21T02:00Z",
-          "time": "2026-01-21T02:00Z",
-          "status": "live"
+          "date": "2026-01-23T02:00Z",
+          "time": "2026-01-23T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
