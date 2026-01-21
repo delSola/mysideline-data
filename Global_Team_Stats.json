@@ -2071,7 +2071,7 @@
           },
           "assists": {
             "value": 3,
-            "player": ""
+            "player": "Unai López"
           },
           "yellowCards": {
             "value": 6,
@@ -3348,13 +3348,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Napoli",
-          "home": true,
-          "date": "2026-01-25T17:00Z",
-          "time": "2026-01-25T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3923,13 +3917,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Augsburg",
-          "home": true,
-          "date": "2026-01-24T14:30Z",
-          "time": "2026-01-24T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4211,13 +4199,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Hoffenheim",
-          "home": true,
-          "date": "2026-01-24T14:30Z",
-          "time": "2026-01-24T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10820,7 +10802,7 @@
           },
           "receivingYards": {
             "value": 1429.0,
-            "player": ""
+            "player": "George Pickens"
           },
           "touchdowns": {
             "value": 11.0,
@@ -12798,7 +12780,7 @@
           {
             "result": "L",
             "opponent": "Melbourne United",
-            "score": "20-32",
+            "score": "50-81",
             "home": false
           }
         ],
@@ -13023,7 +13005,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "32-20",
+            "score": "81-50",
             "home": true
           }
         ],
