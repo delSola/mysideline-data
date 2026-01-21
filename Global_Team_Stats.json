@@ -4749,16 +4749,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Fisnik Asllani"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Vladimír Coufal"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Bernardo"
           },
           "redCards": {
             "value": 0,
@@ -7746,7 +7746,7 @@
           "home": true,
           "date": "2026-01-21T00:00Z",
           "time": "2026-01-21T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7821,7 +7821,7 @@
           "home": false,
           "date": "2026-01-21T00:00Z",
           "time": "2026-01-21T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10991,7 +10991,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Evan Williams"
           }
         }
       }
