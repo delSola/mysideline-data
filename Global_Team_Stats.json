@@ -5831,7 +5831,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Ludovic Ajorque"
+            "player": ""
           }
         }
       }
@@ -7028,7 +7028,7 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
         "played": 41,
@@ -7371,7 +7371,7 @@
           "home": false,
           "date": "2026-01-21T02:00Z",
           "time": "2026-01-21T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7706,16 +7706,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 41,
+        "played": 42,
         "wins": 23,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Raptors",
-            "score": "115-116",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Raptors",
@@ -7739,14 +7733,20 @@
             "opponent": "Pacers",
             "score": "113-104",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Suns",
+            "score": "110-116",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
+          "opponent": "Rockets",
           "home": true,
-          "date": "2026-01-21T00:00Z",
-          "time": "2026-01-21T00:00Z",
-          "status": "live"
+          "date": "2026-01-23T00:00Z",
+          "time": "2026-01-23T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7778,19 +7778,13 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
-        "wins": 26,
+        "played": 44,
+        "wins": 27,
         "losses": 17,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Wizards",
-            "score": "112-93",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Heat",
@@ -7814,14 +7808,20 @@
             "opponent": "Nets",
             "score": "126-117",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "116-110",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Hawks",
           "home": false,
-          "date": "2026-01-21T00:00Z",
-          "time": "2026-01-21T00:00Z",
-          "status": "live"
+          "date": "2026-01-24T00:30Z",
+          "time": "2026-01-24T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8196,7 +8196,7 @@
           "home": true,
           "date": "2026-01-21T02:00Z",
           "time": "2026-01-21T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12521,28 +12521,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 4007.0,
-            "player": "Trevor Lawrence"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 1107.0,
-            "player": "Travis Etienne Jr."
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 847.0,
-            "player": "Parker Washington"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 9.0,
-            "player": "Trevor Lawrence"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 143.0,
-            "player": "Foyesade Oluokun"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 5.0,
-            "player": "Devin Lloyd"
+            "value": 0,
+            "player": ""
           }
         }
       }
