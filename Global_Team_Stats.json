@@ -9567,13 +9567,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Milan",
-          "home": true,
-          "date": "2026-01-25T19:45Z",
-          "time": "2026-01-25T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10879,13 +10873,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Patriots",
-          "home": true,
-          "date": "2026-01-25T20:00Z",
-          "time": "2026-01-25T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11615,13 +11603,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Broncos",
-          "home": false,
-          "date": "2026-01-25T20:00Z",
-          "time": "2026-01-25T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
