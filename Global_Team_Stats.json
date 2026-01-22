@@ -11396,13 +11396,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Seahawks",
-          "home": false,
-          "date": "2026-01-25T23:30Z",
-          "time": "2026-01-25T23:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12284,13 +12278,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rams",
-          "home": true,
-          "date": "2026-01-25T23:30Z",
-          "time": "2026-01-25T23:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
