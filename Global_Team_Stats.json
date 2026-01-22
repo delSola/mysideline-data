@@ -408,7 +408,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
@@ -6091,7 +6091,7 @@
           "home": false,
           "date": "2026-01-22T01:00Z",
           "time": "2026-01-22T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6691,7 +6691,7 @@
           "home": false,
           "date": "2026-01-22T01:00Z",
           "time": "2026-01-22T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7140,7 +7140,7 @@
           "home": true,
           "date": "2026-01-22T01:00Z",
           "time": "2026-01-22T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7440,7 +7440,7 @@
           "home": true,
           "date": "2026-01-22T01:00Z",
           "time": "2026-01-22T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
