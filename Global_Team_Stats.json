@@ -1540,13 +1540,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Sociedad",
-          "home": false,
-          "date": "2026-01-25T17:30Z",
-          "time": "2026-01-25T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5382,13 +5376,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nantes",
-          "home": false,
-          "date": "2026-01-25T14:00Z",
-          "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12959,15 +12947,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 14.7,
+            "value": 15.3,
             "player": "Milton Doyle"
           },
           "assists": {
-            "value": 4.7,
+            "value": 4.8,
             "player": "Tyson Walker"
           },
           "rebounds": {
-            "value": 7.6,
+            "value": 7.7,
             "player": "Jesse Edwards"
           },
           "blocks": {
@@ -13034,15 +13022,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.7,
-            "player": "Parker Jackson-Cartwright"
+            "value": 17.1,
+            "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.6,
+            "value": 7.7,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
-            "value": 6.7,
+            "value": 6.6,
             "player": "Sam Mennenga"
           },
           "blocks": {
@@ -13069,12 +13057,6 @@
         "losses": 15,
         "last5": [
           {
-            "result": "W",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "87-84",
-            "home": true
-          },
-          {
             "result": "L",
             "opponent": "Illawarra Hawks",
             "score": "90-92",
@@ -13096,6 +13078,12 @@
             "result": "L",
             "opponent": "Melbourne United",
             "score": "77-79",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "47-68",
             "home": false
           }
         ],
@@ -13334,15 +13322,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.8,
+            "value": 22.6,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 4.7,
+            "value": 4.8,
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 6.2,
+            "value": 6.1,
             "player": "Jordan Hunter"
           },
           "blocks": {
@@ -13370,12 +13358,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "79-85",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "SE Melbourne Phoenix",
             "score": "117-124",
             "home": true
@@ -13396,6 +13378,12 @@
             "result": "W",
             "opponent": "Brisbane Bullets",
             "score": "95-80",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "68-47",
             "home": true
           }
         ],
