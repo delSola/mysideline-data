@@ -12777,13 +12777,13 @@
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "69-104",
+            "score": "69-106",
             "home": false
           },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "69-104",
+            "score": "69-106",
             "home": false
           }
         ],
@@ -13015,7 +13015,7 @@
         "nextGame": {
           "opponent": "Adelaide 36ers",
           "home": true,
-          "date": "2026-01-23T00:00:00Z",
+          "date": "2026-01-23T17:30:00Z",
           "status": "scheduled"
         }
       },
@@ -13165,7 +13165,7 @@
         "nextGame": {
           "opponent": "New Zealand Breakers",
           "home": false,
-          "date": "2026-01-23T00:00:00Z",
+          "date": "2026-01-23T17:30:00Z",
           "status": "scheduled"
         }
       },
@@ -13227,13 +13227,13 @@
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "104-69",
+            "score": "106-69",
             "home": true
           },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "104-69",
+            "score": "106-69",
             "home": true
           }
         ],
