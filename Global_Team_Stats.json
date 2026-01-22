@@ -1456,7 +1456,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Real Oviedo",
+          "home": true,
+          "date": "2026-01-25T15:15Z",
+          "time": "2026-01-25T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4163,7 +4169,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hoffenheim",
+          "home": true,
+          "date": "2026-01-24T14:30Z",
+          "time": "2026-01-24T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7255,12 +7267,6 @@
         "losses": 24,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Lakers",
-            "score": "105-101",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Nuggets",
             "score": "104-108",
@@ -7283,14 +7289,20 @@
             "opponent": "Hawks",
             "score": "112-110",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Thunder",
+            "score": "102-122",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
+          "opponent": "Nuggets",
           "home": true,
-          "date": "2026-01-22T02:30Z",
-          "time": "2026-01-22T02:30Z",
-          "status": "live"
+          "date": "2026-01-24T02:30Z",
+          "time": "2026-01-24T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7556,12 +7568,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Heat",
-            "score": "124-112",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Spurs",
             "score": "119-98",
             "home": true
@@ -7583,14 +7589,20 @@
             "opponent": "Cavaliers",
             "score": "136-104",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Bucks",
+            "score": "122-102",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Bucks",
-          "home": false,
-          "date": "2026-01-22T02:30Z",
-          "time": "2026-01-22T02:30Z",
-          "status": "live"
+          "opponent": "Pacers",
+          "home": true,
+          "date": "2026-01-24T01:00Z",
+          "time": "2026-01-24T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12090,7 +12102,7 @@
           },
           "touchdowns": {
             "value": 4.0,
-            "player": "Omarion Hampton"
+            "player": ""
           },
           "tackles": {
             "value": 103.0,
