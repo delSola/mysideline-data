@@ -5032,13 +5032,13 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 18,
-        "wins": 13,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 19,
+        "wins": 14,
         "draws": 3,
         "losses": 2,
-        "points": 42,
+        "points": 45,
         "last5": [
           {
             "result": "W",
@@ -5463,8 +5463,8 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 18,
         "wins": 14,
         "draws": 1,
@@ -9968,10 +9968,10 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 3,
         "draws": 3,
-        "losses": 12,
+        "losses": 13,
         "points": 12,
         "last5": [
           {
