@@ -5076,7 +5076,7 @@
           "home": false,
           "date": "2026-01-23T19:00Z",
           "time": "2026-01-23T19:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5087,7 +5087,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha"
+            "player": "Vitinha "
           },
           "yellowCards": {
             "value": 3,
@@ -10010,7 +10010,7 @@
           "home": true,
           "date": "2026-01-23T19:00Z",
           "time": "2026-01-23T19:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
