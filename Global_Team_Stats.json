@@ -10879,7 +10879,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Patriots",
+          "home": true,
+          "date": "2026-01-25T20:00Z",
+          "time": "2026-01-25T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11390,7 +11396,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Seahawks",
+          "home": false,
+          "date": "2026-01-25T23:30Z",
+          "time": "2026-01-25T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11609,7 +11621,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Broncos",
+          "home": false,
+          "date": "2026-01-25T20:00Z",
+          "time": "2026-01-25T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12266,7 +12284,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rams",
+          "home": true,
+          "date": "2026-01-25T23:30Z",
+          "time": "2026-01-25T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -13052,9 +13076,9 @@
             "home": false
           },
           {
-            "result": "D",
+            "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "30-30",
+            "score": "76-80",
             "home": true
           }
         ],
@@ -13192,9 +13216,9 @@
             "home": true
           },
           {
-            "result": "D",
+            "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "30-30",
+            "score": "80-76",
             "home": false
           }
         ],
