@@ -12877,7 +12877,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.6,
+            "value": 21.2,
             "player": "Jack McVeigh"
           },
           "assists": {
@@ -12885,7 +12885,7 @@
             "player": "Andrew Andrews"
           },
           "rebounds": {
-            "value": 6.3,
+            "value": 6.2,
             "player": "Jack McVeigh"
           },
           "blocks": {
@@ -13087,19 +13087,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 17.1,
+            "value": 16.7,
             "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.7,
+            "value": 7.5,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
-            "value": 6.6,
+            "value": 6.4,
             "player": "Sam Mennenga"
           },
           "blocks": {
-            "value": 1.0,
+            "value": 0.9,
             "player": "Karim Lopez"
           },
           "steals": {
@@ -13157,15 +13157,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.3,
+            "value": 18.2,
             "player": "Bryce Hamilton"
           },
           "assists": {
-            "value": 3.4,
+            "value": 3.5,
             "player": "Tyger Campbell"
           },
           "rebounds": {
-            "value": 9.4,
+            "value": 9.6,
             "player": "Josh Bannan"
           },
           "blocks": {
@@ -13227,19 +13227,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.4,
+            "value": 24.7,
             "player": "Bryce Cotton"
           },
           "assists": {
-            "value": 7.6,
+            "value": 7.4,
             "player": "Bryce Cotton"
           },
           "rebounds": {
-            "value": 10.1,
+            "value": 9.7,
             "player": "Zylan Cheatham"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Isaac Humphries"
           },
           "steals": {
@@ -13297,15 +13297,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.9,
+            "value": 16.7,
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
-            "value": 3.5,
+            "value": 3.4,
             "player": "Kristian Doolittle"
           },
           "rebounds": {
-            "value": 7.7,
+            "value": 7.6,
             "player": "Kristian Doolittle"
           },
           "blocks": {
@@ -13375,8 +13375,8 @@
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 5.8,
-            "player": "John Brown"
+            "value": 6.1,
+            "player": "Jordan Hunter"
           },
           "blocks": {
             "value": 0.8,
@@ -13437,7 +13437,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.0,
+            "value": 23.6,
             "player": "Kendric Davis"
           },
           "assists": {
@@ -13449,8 +13449,8 @@
             "player": "Xavier Cooks"
           },
           "blocks": {
-            "value": 1.2,
-            "player": "Xavier Cooks"
+            "value": 2.0,
+            "player": "Torrey Craig"
           },
           "steals": {
             "value": 0.0,
