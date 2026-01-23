@@ -8947,6 +8947,12 @@
         "points": 17,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Elche",
+            "score": "3-2",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Real Madrid",
             "score": "0-2",
@@ -8969,12 +8975,6 @@
             "opponent": "Real Sociedad",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Osasuna",
-            "score": "0-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9014,6 +9014,12 @@
         "points": 24,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Levante",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Sevilla",
             "score": "2-2",
@@ -9036,12 +9042,6 @@
             "opponent": "Rayo",
             "score": "4-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Mallorca",
-            "score": "1-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9155,6 +9155,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "St. Pauli",
+            "score": "0-0",
+            "home": false
+          },
+          {
+            "result": "D",
             "opponent": "Gladbach",
             "score": "0-0",
             "home": true
@@ -9176,21 +9182,9 @@
             "opponent": "Hoffenheim",
             "score": "1-4",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Bremen",
-            "score": "3-2",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "St. Pauli",
-          "home": false,
-          "date": "2026-01-23T19:30Z",
-          "time": "2026-01-23T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9300,6 +9294,12 @@
         "points": 13,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Hamburg",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Dortmund",
             "score": "2-3",
@@ -9322,21 +9322,9 @@
             "opponent": "Heidenheim",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Cologne",
-            "score": "1-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Hamburg",
-          "home": true,
-          "date": "2026-01-23T19:30Z",
-          "time": "2026-01-23T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9593,6 +9581,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Pisa",
+            "score": "6-2",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Udinese",
             "score": "1-0",
             "home": false
@@ -9614,21 +9608,9 @@
             "opponent": "Parma",
             "score": "2-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Bologna",
-            "score": "3-1",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Pisa",
-          "home": true,
-          "date": "2026-01-23T19:45Z",
-          "time": "2026-01-23T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9665,6 +9647,12 @@
         "points": 14,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Inter Milan",
+            "score": "2-6",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Atalanta",
             "score": "1-1",
@@ -9687,21 +9675,9 @@
             "opponent": "Genoa",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Juventus",
-            "score": "0-2",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Inter Milan",
-          "home": false,
-          "date": "2026-01-23T19:45Z",
-          "time": "2026-01-23T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9958,6 +9934,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "PSG",
+            "score": "0-1",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Lens",
             "score": "0-1",
             "home": false
@@ -9979,12 +9961,6 @@
             "opponent": "Metz",
             "score": "3-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Paris FC",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
