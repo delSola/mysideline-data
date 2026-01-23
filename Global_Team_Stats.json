@@ -115,7 +115,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Newcastle",
+          "home": false,
+          "date": "2026-01-25T14:00Z",
+          "time": "2026-01-25T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1043,7 +1049,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brentford",
+          "home": false,
+          "date": "2026-01-25T14:00Z",
+          "time": "2026-01-25T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3414,7 +3426,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Mario Gila"
           }
         }
       }
@@ -4462,7 +4474,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cologne",
+          "home": true,
+          "date": "2026-01-25T16:30Z",
+          "time": "2026-01-25T16:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -8000,16 +8018,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 44,
-        "wins": 30,
+        "played": 45,
+        "wins": 31,
         "losses": 14,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Thunder",
-            "score": "98-119",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -8033,14 +8045,20 @@
             "opponent": "Rockets",
             "score": "106-111",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "126-109",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
-          "home": false,
-          "date": "2026-01-23T02:00Z",
-          "time": "2026-01-23T02:00Z",
-          "status": "live"
+          "opponent": "Pelicans",
+          "home": true,
+          "date": "2026-01-26T00:00Z",
+          "time": "2026-01-26T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8150,16 +8168,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 44,
+        "played": 45,
         "wins": 15,
-        "losses": 29,
+        "losses": 30,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Bulls",
-            "score": "126-128",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Mavericks",
@@ -8183,14 +8195,20 @@
             "opponent": "Timberwolves",
             "score": "127-122",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Spurs",
+            "score": "109-126",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Spurs",
+          "opponent": "Heat",
           "home": true,
-          "date": "2026-01-23T02:00Z",
-          "time": "2026-01-23T02:00Z",
-          "status": "live"
+          "date": "2026-01-25T02:30Z",
+          "time": "2026-01-25T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9153,20 +9171,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Rayan Philippe"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Miro Muheim"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Nicolai Remberg"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Fabio Vieira"
           }
         }
       }
@@ -9507,7 +9525,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Milan",
+          "home": true,
+          "date": "2026-01-25T19:45Z",
+          "time": "2026-01-25T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
