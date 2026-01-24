@@ -1327,8 +1327,8 @@
       "TeamName": "Atlético Madrid",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "played": 20,
         "wins": 12,
         "draws": 5,
@@ -1399,8 +1399,8 @@
       "TeamName": "Barcelona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 20,
         "wins": 16,
         "draws": 1,
@@ -2100,13 +2100,13 @@
       "TeamName": "Real Madrid",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 20,
-        "wins": 15,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 21,
+        "wins": 16,
         "draws": 3,
         "losses": 2,
-        "points": 48,
+        "points": 51,
         "last5": [
           {
             "result": "W",
@@ -2139,13 +2139,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Villarreal",
-          "home": false,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2447,12 +2441,12 @@
       "TeamName": "Villarreal",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
-        "played": 19,
+        "position": 4,
+        "positionSuffix": "th",
+        "played": 20,
         "wins": 13,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "points": 41,
         "last5": [
           {
@@ -2486,13 +2480,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": true,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3293,11 +3281,11 @@
       "TeamStats": {
         "position": 9,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
-        "draws": 7,
+        "draws": 8,
         "losses": 7,
-        "points": 28,
+        "points": 29,
         "last5": [
           {
             "result": "L",
@@ -3330,13 +3318,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lecce",
-          "home": false,
-          "date": "2026-01-24T19:45Z",
-          "time": "2026-01-24T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3365,11 +3347,11 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 4,
-        "draws": 5,
+        "draws": 6,
         "losses": 12,
-        "points": 17,
+        "points": 18,
         "last5": [
           {
             "result": "L",
@@ -3402,13 +3384,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": true,
-          "date": "2026-01-24T19:45Z",
-          "time": "2026-01-24T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5027,11 +5003,11 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 18,
-        "wins": 11,
+        "played": 19,
+        "wins": 12,
         "draws": 2,
         "losses": 5,
-        "points": 35,
+        "points": 38,
         "last5": [
           {
             "result": "W",
@@ -5064,13 +5040,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lens",
-          "home": true,
-          "date": "2026-01-24T20:05Z",
-          "time": "2026-01-24T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5315,10 +5285,10 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 18,
+        "played": 19,
         "wins": 14,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "points": 43,
         "last5": [
           {
@@ -5352,13 +5322,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Marseille",
-          "home": false,
-          "date": "2026-01-24T20:05Z",
-          "time": "2026-01-24T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
