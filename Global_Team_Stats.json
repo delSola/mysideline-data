@@ -1719,7 +1719,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Tyrhys Dolan"
           }
         }
       }
@@ -1988,7 +1988,7 @@
           "home": false,
           "date": "2026-01-24T13:00Z",
           "time": "2026-01-24T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2060,7 +2060,7 @@
           "home": true,
           "date": "2026-01-24T13:00Z",
           "time": "2026-01-24T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2923,7 +2923,7 @@
           "home": true,
           "date": "2026-01-24T14:00Z",
           "time": "2026-01-24T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3784,7 +3784,7 @@
           "home": false,
           "date": "2026-01-24T14:00Z",
           "time": "2026-01-24T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4806,7 +4806,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Bernardo"
+            "player": "Bernardo "
           },
           "redCards": {
             "value": 0,
