@@ -1164,6 +1164,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Sunderland",
+            "score": "3-1",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Spurs",
             "score": "2-1",
             "home": false
@@ -1184,12 +1190,6 @@
             "result": "D",
             "opponent": "Brighton",
             "score": "2-2",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Fulham",
-            "score": "0-1",
             "home": true
           }
         ],
@@ -1652,11 +1652,11 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 6,
-        "points": 34,
+        "points": 35,
         "last5": [
           {
             "result": "L",
@@ -1694,7 +1694,7 @@
           "home": false,
           "date": "2026-01-24T15:15Z",
           "time": "2026-01-24T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1794,7 +1794,7 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -1938,13 +1938,13 @@
       "TeamName": "Osasuna",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 20,
-        "wins": 6,
+        "played": 21,
+        "wins": 7,
         "draws": 4,
         "losses": 10,
-        "points": 22,
+        "points": 25,
         "last5": [
           {
             "result": "W",
@@ -2006,12 +2006,18 @@
       "TeamStats": {
         "position": 13,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 7,
-        "losses": 8,
+        "losses": 9,
         "points": 22,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Osasuna",
+            "score": "1-3",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Celta Vigo",
@@ -2035,12 +2041,6 @@
             "opponent": "Elche",
             "score": "0-4",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Betis",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -2214,7 +2214,7 @@
       "TeamName": "Real Sociedad",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "played": 20,
         "wins": 6,
@@ -2431,11 +2431,11 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 4,
-        "draws": 8,
+        "draws": 9,
         "losses": 8,
-        "points": 20,
+        "points": 21,
         "last5": [
           {
             "result": "W",
@@ -2473,7 +2473,7 @@
           "home": true,
           "date": "2026-01-24T15:15Z",
           "time": "2026-01-24T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2861,13 +2861,13 @@
       "TeamName": "Como",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 10,
+        "played": 22,
+        "wins": 11,
         "draws": 7,
         "losses": 4,
-        "points": 37,
+        "points": 40,
         "last5": [
           {
             "result": "W",
@@ -3291,7 +3291,7 @@
       "TeamName": "Juventus",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 21,
         "wins": 11,
@@ -3724,10 +3724,10 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 6,
         "draws": 5,
-        "losses": 10,
+        "losses": 11,
         "points": 23,
         "last5": [
           {
@@ -8774,7 +8774,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "played": 20,
         "wins": 7,
@@ -8993,7 +8993,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
         "played": 21,
         "wins": 5,
