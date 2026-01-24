@@ -1198,7 +1198,7 @@
           "home": true,
           "date": "2026-01-24T12:30Z",
           "time": "2026-01-24T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1719,7 +1719,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Tyrhys Dolan"
+            "player": ""
           }
         }
       }
@@ -2079,7 +2079,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Óscar Valentín"
+            "player": "Óscar Valentín "
           }
         }
       }
@@ -8623,7 +8623,7 @@
           "home": false,
           "date": "2026-01-24T12:30Z",
           "time": "2026-01-24T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
