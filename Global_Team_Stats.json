@@ -6165,7 +6165,7 @@
             "player": "Jalen Johnson"
           },
           "rebounds": {
-            "value": 10.3,
+            "value": 10.5,
             "player": "Jalen Johnson"
           },
           "blocks": {
@@ -6232,7 +6232,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.8,
+            "value": 29.7,
             "player": "Jaylen Brown"
           },
           "assists": {
@@ -6765,11 +6765,11 @@
             "player": "Cade Cunningham"
           },
           "rebounds": {
-            "value": 10.9,
+            "value": 10.8,
             "player": "Jalen Duren"
           },
           "blocks": {
-            "value": 2.0,
+            "value": 1.9,
             "player": "Isaiah Stewart"
           },
           "steals": {
@@ -6907,7 +6907,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.1,
+            "value": 26.3,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -6994,7 +6994,7 @@
             "player": "Pascal Siakam"
           },
           "blocks": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Jay Huff"
           },
           "steals": {
@@ -7356,7 +7356,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.2,
+            "value": 28.0,
             "player": "Giannis Antetokounmpo"
           },
           "assists": {
@@ -7364,11 +7364,11 @@
             "player": "Giannis Antetokounmpo"
           },
           "rebounds": {
-            "value": 9.9,
+            "value": 10.0,
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Myles Turner"
           },
           "steals": {
@@ -7656,11 +7656,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 32.0,
+            "value": 32.3,
             "player": "Shai Gilgeous-Alexander"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.2,
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
@@ -8039,7 +8039,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.6,
+            "value": 6.4,
             "player": "Maxime Raynaud"
           },
           "blocks": {
