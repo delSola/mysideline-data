@@ -12877,15 +12877,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.2,
+            "value": 20.6,
             "player": "Jack McVeigh"
           },
           "assists": {
-            "value": 7.3,
+            "value": 7.2,
             "player": "Andrew Andrews"
           },
           "rebounds": {
-            "value": 6.2,
+            "value": 6.1,
             "player": "Jack McVeigh"
           },
           "blocks": {
@@ -12907,16 +12907,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 24,
-        "wins": 8,
+        "played": 25,
+        "wins": 9,
         "losses": 16,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "92-90",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
@@ -12939,6 +12933,12 @@
             "result": "L",
             "opponent": "Perth Wildcats",
             "score": "87-92",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "60-48",
             "home": false
           }
         ],
@@ -13087,19 +13087,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.7,
+            "value": 17.2,
             "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.8,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
-            "value": 6.4,
+            "value": 6.8,
             "player": "Sam Mennenga"
           },
           "blocks": {
-            "value": 0.9,
+            "value": 1.0,
             "player": "Karim Lopez"
           },
           "steals": {
@@ -13117,16 +13117,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 27,
+        "played": 28,
         "wins": 12,
-        "losses": 15,
+        "losses": 16,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "90-92",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Melbourne United",
@@ -13150,6 +13144,12 @@
             "opponent": "Sydney Kings",
             "score": "94-105",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Illawarra Hawks",
+            "score": "48-60",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -13227,19 +13227,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.7,
+            "value": 25.7,
             "player": "Bryce Cotton"
           },
           "assists": {
-            "value": 7.4,
+            "value": 7.7,
             "player": "Bryce Cotton"
           },
           "rebounds": {
-            "value": 9.7,
+            "value": 10.1,
             "player": "Zylan Cheatham"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Isaac Humphries"
           },
           "steals": {
@@ -13367,15 +13367,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.6,
+            "value": 21.8,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 4.8,
+            "value": 4.6,
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 6.1,
+            "value": 6.0,
             "player": "Jordan Hunter"
           },
           "blocks": {
