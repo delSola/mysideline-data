@@ -5082,7 +5082,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Bradley Barcola"
           },
           "assists": {
@@ -8998,7 +8998,7 @@
             "player": "Etta Eyong"
           },
           "assists": {
-            "value": 2,
+            "value": 3,
             "player": "Jeremy Toljan"
           },
           "yellowCards": {
@@ -9076,7 +9076,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Víctor Chust"
+            "player": "Aleix Febas"
           },
           "redCards": {
             "value": 1,
@@ -9221,7 +9221,7 @@
             "player": "Miro Muheim"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Nicolai Remberg"
           },
           "redCards": {
@@ -9367,7 +9367,7 @@
             "player": "Joel Chima Fujita"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Adam Dzwigala"
           },
           "redCards": {
@@ -9651,16 +9651,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 11,
+            "value": 12,
             "player": "Lautaro Martínez"
           },
           "assists": {
-            "value": 5,
-            "player": "Nicolò Barella"
+            "value": 7,
+            "player": "Federico Dimarco"
           },
           "yellowCards": {
             "value": 4,
-            "player": "Hakan Çalhanoglu"
+            "player": "Nicolò Barella"
           },
           "redCards": {
             "value": 0,
@@ -9724,7 +9724,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 5,
             "player": "Stefano Moreo"
           },
           "assists": {
@@ -10029,7 +10029,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Josué Casimir"
+            "player": "Donovan Léon"
           }
         }
       }
@@ -12838,8 +12838,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 27,
-        "wins": 8,
-        "losses": 19,
+        "wins": 7,
+        "losses": 20,
         "last5": [
           {
             "result": "W",
@@ -12866,9 +12866,9 @@
             "home": false
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "29-21",
+            "score": "67-81",
             "home": false
           }
         ],
@@ -13328,8 +13328,8 @@
         "positionSuffix": "nd",
         "conference": "NBL",
         "played": 27,
-        "wins": 18,
-        "losses": 9,
+        "wins": 19,
+        "losses": 8,
         "last5": [
           {
             "result": "W",
@@ -13356,9 +13356,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "21-29",
+            "score": "81-67",
             "home": true
           }
         ],
