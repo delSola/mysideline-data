@@ -9324,7 +9324,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "RB Leipzig",
+          "home": true,
+          "date": "2026-01-27T19:30Z",
+          "time": "2026-01-27T19:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
