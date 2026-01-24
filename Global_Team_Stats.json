@@ -6173,7 +6173,7 @@
             "player": "Onyeka Okongwu"
           },
           "steals": {
-            "value": 1.9,
+            "value": 1.8,
             "player": "Dyson Daniels"
           }
         }
@@ -6237,7 +6237,7 @@
           },
           "assists": {
             "value": 5.4,
-            "player": "Payton Pritchard"
+            "player": "Derrick White"
           },
           "rebounds": {
             "value": 8.2,
@@ -6307,7 +6307,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.4,
             "player": "Michael Porter Jr."
           },
           "assists": {
@@ -6323,7 +6323,7 @@
             "player": "Nic Claxton"
           },
           "steals": {
-            "value": 1.2,
+            "value": 1.1,
             "player": "Ziaire Williams"
           }
         }
@@ -6532,7 +6532,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.9,
+            "value": 29.0,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6540,11 +6540,11 @@
             "player": "Donovan Mitchell"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.8,
             "player": "Evan Mobley"
           },
           "blocks": {
-            "value": 1.9,
+            "value": 2.0,
             "player": "Evan Mobley"
           },
           "steals": {
@@ -6757,11 +6757,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.7,
+            "value": 25.3,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.8,
+            "value": 9.7,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -6915,7 +6915,7 @@
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.2,
+            "value": 9.0,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6986,11 +6986,11 @@
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.1,
+            "value": 7.2,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
-            "value": 7.0,
+            "value": 6.9,
             "player": "Pascal Siakam"
           },
           "blocks": {
@@ -6999,7 +6999,7 @@
           },
           "steals": {
             "value": 1.2,
-            "player": "Pascal Siakam"
+            "player": "T.J. McConnell"
           }
         }
       }
@@ -7206,11 +7206,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.7,
+            "value": 18.9,
             "player": "Jaren Jackson Jr."
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Cam Spencer"
           },
           "rebounds": {
@@ -7506,7 +7506,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.0,
+            "value": 22.3,
             "player": "Trey Murphy III"
           },
           "assists": {
@@ -7522,7 +7522,7 @@
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Trey Murphy III"
           }
         }
@@ -7664,7 +7664,7 @@
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
-            "value": 8.4,
+            "value": 8.5,
             "player": "Chet Holmgren"
           },
           "blocks": {
@@ -7881,15 +7881,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.4,
             "player": "Devin Booker"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.2,
             "player": "Devin Booker"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.2,
             "player": "Mark Williams"
           },
           "blocks": {
@@ -7897,7 +7897,7 @@
             "player": "Mark Williams"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Grayson Allen"
           }
         }
@@ -7964,7 +7964,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 10.8,
+            "value": 10.9,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -8031,11 +8031,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.8,
+            "value": 19.5,
             "player": "Zach LaVine"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Russell Westbrook"
           },
           "rebounds": {
@@ -8181,7 +8181,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.8,
+            "value": 21.7,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8193,11 +8193,11 @@
             "player": "Scottie Barnes"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.4,
             "player": "Scottie Barnes"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Scottie Barnes"
           }
         }
@@ -12938,7 +12938,7 @@
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
-            "score": "60-48",
+            "score": "101-91",
             "home": false
           }
         ],
@@ -13148,7 +13148,7 @@
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
-            "score": "48-60",
+            "score": "91-101",
             "home": true
           }
         ],
