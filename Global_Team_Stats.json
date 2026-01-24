@@ -2110,6 +2110,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Villarreal",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Levante",
             "score": "2-0",
             "home": true
@@ -2131,12 +2137,6 @@
             "opponent": "Alavés",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Celta Vigo",
-            "score": "0-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -2451,6 +2451,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Real Madrid",
+            "score": "0-2",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Betis",
             "score": "0-2",
             "home": false
@@ -2471,12 +2477,6 @@
             "result": "L",
             "opponent": "Barcelona",
             "score": "0-2",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Getafe",
-            "score": "2-0",
             "home": true
           }
         ],
@@ -3288,6 +3288,12 @@
         "points": 29,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Lecce",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Como",
             "score": "0-3",
@@ -3310,12 +3316,6 @@
             "opponent": "Napoli",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Udinese",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3354,6 +3354,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Lazio",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Milan",
             "score": "0-1",
@@ -3376,12 +3382,6 @@
             "opponent": "AS Roma",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Juventus",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5011,6 +5011,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Lens",
+            "score": "3-1",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Angers",
             "score": "5-2",
             "home": false
@@ -5032,12 +5038,6 @@
             "opponent": "Lille",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Toulouse",
-            "score": "2-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5292,6 +5292,12 @@
         "points": 43,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Marseille",
+            "score": "1-3",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Auxerre",
             "score": "1-0",
@@ -5312,12 +5318,6 @@
           {
             "result": "W",
             "opponent": "Nantes",
-            "score": "2-1",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Angers",
             "score": "2-1",
             "home": false
           }
@@ -7346,19 +7346,13 @@
       "TeamName": "New York Knicks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "East",
-        "played": 44,
-        "wins": 26,
+        "played": 45,
+        "wins": 27,
         "losses": 18,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Kings",
-            "score": "101-112",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Warriors",
@@ -7382,14 +7376,20 @@
             "opponent": "Nets",
             "score": "120-66",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "112-109",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
-          "home": false,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "live"
+          "opponent": "Kings",
+          "home": true,
+          "date": "2026-01-28T00:30Z",
+          "time": "2026-01-28T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7574,16 +7574,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 43,
+        "played": 44,
         "wins": 24,
-        "losses": 19,
+        "losses": 20,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "107-133",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Cavaliers",
@@ -7607,14 +7601,20 @@
             "opponent": "Rockets",
             "score": "128-122",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Knicks",
+            "score": "109-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Knicks",
-          "home": true,
-          "date": "2026-01-24T20:00Z",
-          "time": "2026-01-24T20:00Z",
-          "status": "live"
+          "opponent": "Hornets",
+          "home": false,
+          "date": "2026-01-27T00:00Z",
+          "time": "2026-01-27T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7946,8 +7946,8 @@
       "TeamName": "Toronto Raptors",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "conference": "East",
         "played": 47,
         "wins": 28,
