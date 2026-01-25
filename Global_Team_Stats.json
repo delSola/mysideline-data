@@ -6000,16 +6000,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "East",
-        "played": 44,
+        "played": 45,
         "wins": 28,
-        "losses": 16,
+        "losses": 17,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Heat",
-            "score": "119-114",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Hawks",
@@ -6033,14 +6027,20 @@
             "opponent": "Nets",
             "score": "130-126",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Bulls",
+            "score": "111-114",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Bulls",
-          "home": false,
-          "date": "2026-01-25T01:00Z",
-          "time": "2026-01-25T01:00Z",
-          "status": "live"
+          "opponent": "Trail Blazers",
+          "home": true,
+          "date": "2026-01-27T01:00Z",
+          "time": "2026-01-27T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6225,16 +6225,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 44,
-        "wins": 22,
+        "played": 45,
+        "wins": 23,
         "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Jazz",
-            "score": "128-126",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Nets",
@@ -6258,14 +6252,20 @@
             "opponent": "Timberwolves",
             "score": "120-115",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Celtics",
+            "score": "114-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
+          "opponent": "Lakers",
           "home": true,
-          "date": "2026-01-25T01:00Z",
-          "time": "2026-01-25T01:00Z",
-          "status": "live"
+          "date": "2026-01-27T01:00Z",
+          "time": "2026-01-27T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12935,16 +12935,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "NBL",
-        "played": 26,
-        "wins": 20,
+        "played": 27,
+        "wins": 21,
         "losses": 6,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Sydney Kings",
-            "score": "85-79",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
@@ -12967,6 +12961,12 @@
             "result": "W",
             "opponent": "New Zealand Breakers",
             "score": "112-110",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Sydney Kings",
+            "score": "30-27",
             "home": false
           }
         ],
@@ -13145,16 +13145,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "NBL",
-        "played": 26,
+        "played": 27,
         "wins": 17,
-        "losses": 9,
+        "losses": 10,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "117-124",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
@@ -13177,6 +13171,12 @@
             "result": "W",
             "opponent": "Tasmania JackJumpers",
             "score": "105-94",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "27-30",
             "home": true
           }
         ],
