@@ -120,7 +120,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -407,7 +407,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -479,7 +479,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -982,7 +982,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1054,7 +1054,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1413,7 +1413,7 @@
           "home": true,
           "date": "2026-01-25T13:00Z",
           "time": "2026-01-25T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1916,7 +1916,7 @@
           "home": false,
           "date": "2026-01-25T13:00Z",
           "time": "2026-01-25T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2707,7 +2707,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2807,7 +2807,7 @@
       "TeamName": "Cagliari",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 22,
         "wins": 6,
@@ -3138,7 +3138,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3597,7 +3597,7 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 13,
         "positionSuffix": "th",
         "played": 21,
         "wins": 5,
@@ -3641,7 +3641,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5435,7 +5435,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5722,7 +5722,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9747,13 +9747,13 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 6,
+        "played": 22,
+        "wins": 7,
         "draws": 5,
         "losses": 10,
-        "points": 23,
+        "points": 26,
         "last5": [
           {
             "result": "L",
@@ -9786,13 +9786,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Cremonese",
-          "home": true,
-          "date": "2026-01-25T11:30Z",
-          "time": "2026-01-25T11:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9820,12 +9814,12 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 5,
         "draws": 8,
-        "losses": 8,
+        "losses": 9,
         "points": 23,
         "last5": [
           {
@@ -9859,13 +9853,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Sassuolo",
-          "home": false,
-          "date": "2026-01-25T11:30Z",
-          "time": "2026-01-25T11:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
