@@ -1419,20 +1419,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Julián Álvarez"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Giuliano Simeone"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Koke "
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Alexander Sørloth"
           }
         }
       }
@@ -6232,12 +6232,12 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.7,
+            "value": 29.8,
             "player": "Jaylen Brown"
           },
           "assists": {
             "value": 5.4,
-            "player": "Payton Pritchard"
+            "player": "Derrick White"
           },
           "rebounds": {
             "value": 8.0,
@@ -6386,11 +6386,11 @@
             "player": "Brandon Miller"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.6,
             "player": "LaMelo Ball"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.3,
             "player": "Moussa Diabate"
           },
           "blocks": {
@@ -6457,7 +6457,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.3,
+            "value": 18.8,
             "player": "Josh Giddey"
           },
           "assists": {
@@ -6611,7 +6611,7 @@
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 5.2,
+            "value": 5.1,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -7281,7 +7281,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.2,
             "player": "Norman Powell"
           },
           "assists": {
@@ -7297,7 +7297,7 @@
             "player": "Kel'el Ware"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Dru Smith"
           }
         }
@@ -7731,15 +7731,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.2,
-            "player": "Franz Wagner"
+            "value": 21.1,
+            "player": "Paolo Banchero"
           },
           "assists": {
-            "value": 5.0,
+            "value": 4.9,
             "player": "Paolo Banchero"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.6,
             "player": "Paolo Banchero"
           },
           "blocks": {
@@ -7806,7 +7806,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 30.1,
+            "value": 29.9,
             "player": "Tyrese Maxey"
           },
           "assists": {
@@ -8260,8 +8260,8 @@
             "player": "Lauri Markkanen"
           },
           "assists": {
-            "value": 6.7,
-            "player": "Keyonte George"
+            "value": 6.6,
+            "player": "Isaiah Collier"
           },
           "rebounds": {
             "value": 10.2,
@@ -8335,7 +8335,7 @@
             "player": "CJ McCollum"
           },
           "assists": {
-            "value": 5.0,
+            "value": 5.1,
             "player": "Kyshawn George"
           },
           "rebounds": {
@@ -8853,7 +8853,7 @@
           },
           "assists": {
             "value": 2,
-            "player": ""
+            "player": "Álex Berenguer"
           },
           "yellowCards": {
             "value": 8,
@@ -9791,7 +9791,7 @@
           "home": true,
           "date": "2026-01-25T11:30Z",
           "time": "2026-01-25T11:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9864,7 +9864,7 @@
           "home": false,
           "date": "2026-01-25T11:30Z",
           "time": "2026-01-25T11:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
