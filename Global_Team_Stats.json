@@ -1994,7 +1994,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Ante Budimir"
           },
           "assists": {
@@ -2071,7 +2071,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Unai López"
+            "player": "Isi Palazón"
           },
           "yellowCards": {
             "value": 6,
@@ -2425,7 +2425,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Akor Adams"
           },
           "assists": {
@@ -2497,7 +2497,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Hugo Duro"
           },
           "assists": {
@@ -2506,7 +2506,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "César Tárrega"
+            "player": "Hugo Duro"
           },
           "redCards": {
             "value": 1,
@@ -2577,7 +2577,7 @@
             "player": "Alberto Moleiro"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Tajon Buchanan"
           },
           "redCards": {
@@ -2861,7 +2861,7 @@
             "player": "Sebastiano Esposito"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Marco Palestra"
           },
           "yellowCards": {
@@ -2918,7 +2918,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Atalanta",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3074,7 +3080,7 @@
             "player": "Albert Gudmundsson"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Marin Pongracic"
           },
           "redCards": {
@@ -3932,7 +3938,7 @@
             "player": "Harry Kane"
           },
           "assists": {
-            "value": 13,
+            "value": 14,
             "player": "Michael Olise"
           },
           "yellowCards": {
@@ -4004,7 +4010,7 @@
             "player": "Serhou Guirassy"
           },
           "assists": {
-            "value": 5,
+            "value": 6,
             "player": "Julian Ryerson"
           },
           "yellowCards": {
@@ -4583,8 +4589,8 @@
             "player": "Romano Schmid"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Romano Schmid"
+            "value": 5,
+            "player": "Marco Friedl"
           },
           "redCards": {
             "value": 2,
@@ -4723,12 +4729,12 @@
             "player": "Fabian Rieder"
           },
           "assists": {
-            "value": 2,
-            "player": "Fabian Rieder"
+            "value": 3,
+            "player": "Mert Kömür"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Noahkai Banks"
+            "player": "Dimitris Giannoulis"
           },
           "redCards": {
             "value": 1,
@@ -4795,12 +4801,12 @@
             "player": "Fisnik Asllani"
           },
           "assists": {
-            "value": 4,
-            "player": "Vladimír Coufal"
+            "value": 5,
+            "player": "Wouter Burger"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Bernardo"
+            "value": 6,
+            "player": "Albian Hajdari"
           },
           "redCards": {
             "value": 0,
@@ -8850,7 +8856,7 @@
             "player": "Álex Berenguer"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Iñigo Ruiz de Galarreta"
           },
           "redCards": {
@@ -9280,12 +9286,12 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Mohamed Amoura"
           },
           "assists": {
-            "value": 4,
-            "player": "Christian Eriksen"
+            "value": 5,
+            "player": "Saël Kumbedi"
           },
           "yellowCards": {
             "value": 5,
@@ -9426,7 +9432,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Nadiem Amiri"
           },
           "assists": {
@@ -9507,8 +9513,8 @@
             "player": "Arijon Ibrahimovic"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Jan Schöppner"
+            "value": 5,
+            "player": "Benedikt Gimber"
           },
           "redCards": {
             "value": 1,
@@ -10229,7 +10235,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Pablo Pagis"
           },
           "assists": {
@@ -12363,7 +12369,7 @@
         "leaders": {
           "passingYards": {
             "value": 3693.0,
-            "player": "Baker Mayfield"
+            "player": ""
           },
           "rushingYards": {
             "value": 588.0,
@@ -12968,12 +12974,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 28,
-        "wins": 17,
-        "losses": 11,
+        "wins": 18,
+        "losses": 10,
         "last5": [
           {
             "result": "L",
@@ -13000,9 +13006,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Perth Wildcats",
-            "score": "44-52",
+            "score": "74-73",
             "home": false
           }
         ],
@@ -13248,12 +13254,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 27,
-        "wins": 17,
-        "losses": 10,
+        "wins": 16,
+        "losses": 11,
         "last5": [
           {
             "result": "W",
@@ -13280,9 +13286,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Melbourne United",
-            "score": "52-44",
+            "score": "73-74",
             "home": true
           }
         ],
