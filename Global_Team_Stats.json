@@ -1229,7 +1229,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bournemouth",
+          "home": true,
+          "date": "2026-01-31T15:00Z",
+          "time": "2026-01-31T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2828,7 +2834,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Atalanta",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3665,7 +3677,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lecce",
+          "home": true,
+          "date": "2026-02-01T11:30Z",
+          "time": "2026-02-01T11:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4420,7 +4438,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hoffenheim",
+          "home": true,
+          "date": "2026-01-27T19:30Z",
+          "time": "2026-01-27T19:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4552,7 +4576,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "St. Pauli",
+          "home": true,
+          "date": "2026-01-31T14:30Z",
+          "time": "2026-01-31T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4618,13 +4648,19 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Bremen",
+          "home": false,
+          "date": "2026-01-27T19:30Z",
+          "time": "2026-01-27T19:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Fisnik Asllani"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -5189,20 +5225,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Hákon Haraldsson"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Felix Correia"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Benjamin André"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Nathan Ngoy"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -5830,7 +5866,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Sidiki Cherif"
+            "player": ""
           },
           "assists": {
             "value": 2,
@@ -6372,19 +6408,13 @@
       "TeamName": "Dallas Mavericks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 45,
+        "played": 46,
         "wins": 19,
-        "losses": 26,
+        "losses": 27,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Nuggets",
-            "score": "109-118",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -6408,14 +6438,20 @@
             "opponent": "Warriors",
             "score": "123-115",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Lakers",
+            "score": "110-116",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
-          "home": true,
-          "date": "2026-01-25T01:30Z",
-          "time": "2026-01-25T01:30Z",
-          "status": "live"
+          "opponent": "Bucks",
+          "home": false,
+          "date": "2026-01-26T00:00Z",
+          "time": "2026-01-26T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6899,16 +6935,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
-        "wins": 26,
+        "played": 44,
+        "wins": 27,
         "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hornets",
-            "score": "117-135",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Trail Blazers",
@@ -6932,14 +6962,20 @@
             "opponent": "Clippers",
             "score": "104-112",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "116-110",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Mavericks",
+          "opponent": "Bulls",
           "home": false,
-          "date": "2026-01-25T01:30Z",
-          "time": "2026-01-25T01:30Z",
-          "status": "live"
+          "date": "2026-01-27T01:00Z",
+          "time": "2026-01-27T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6971,7 +7007,7 @@
       "TeamName": "Memphis Grizzlies",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "West",
         "played": 43,
@@ -7029,7 +7065,7 @@
           },
           "rebounds": {
             "value": 6.7,
-            "player": "Santi Aldama"
+            "player": ""
           },
           "blocks": {
             "value": 1.5,
@@ -10056,20 +10092,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
-            "player": "Issa Soumaré"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Rassoul Ndiaye"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Yanis Zouaoui"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Gautier Lloris"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -11835,7 +11871,7 @@
           },
           "tackles": {
             "value": 126.0,
-            "player": "Payton Wilson"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
@@ -11981,7 +12017,7 @@
           },
           "tackles": {
             "value": 101.0,
-            "player": "Dee Winters"
+            "player": ""
           },
           "interceptions": {
             "value": 2.0,
@@ -12486,7 +12522,7 @@
           },
           "rushingYards": {
             "value": 703.0,
-            "player": "Woody Marks"
+            "player": ""
           },
           "receivingYards": {
             "value": 1117.0,
@@ -12936,8 +12972,8 @@
         "positionSuffix": "st",
         "conference": "NBL",
         "played": 27,
-        "wins": 21,
-        "losses": 6,
+        "wins": 20,
+        "losses": 7,
         "last5": [
           {
             "result": "W",
@@ -12964,9 +13000,9 @@
             "home": false
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Sydney Kings",
-            "score": "30-27",
+            "score": "76-87",
             "home": false
           }
         ],
@@ -13146,8 +13182,8 @@
         "positionSuffix": "rd",
         "conference": "NBL",
         "played": 27,
-        "wins": 17,
-        "losses": 10,
+        "wins": 18,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13174,9 +13210,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "27-30",
+            "score": "87-76",
             "home": true
           }
         ],
