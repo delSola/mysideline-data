@@ -263,7 +263,7 @@
           "home": true,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1371,12 +1371,18 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 20,
-        "wins": 12,
+        "played": 21,
+        "wins": 13,
         "draws": 5,
         "losses": 3,
-        "points": 41,
+        "points": 44,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Mallorca",
+            "score": "3-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Alavés",
@@ -1400,21 +1406,9 @@
             "opponent": "Valencia",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Athletic",
-            "score": "0-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Mallorca",
-          "home": true,
-          "date": "2026-01-25T13:00Z",
-          "time": "2026-01-25T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1874,10 +1868,10 @@
       "TeamStats": {
         "position": 16,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 6,
-        "losses": 9,
+        "losses": 10,
         "points": 21,
         "last5": [
           {
@@ -1911,13 +1905,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Atlético",
-          "home": false,
-          "date": "2026-01-25T13:00Z",
-          "time": "2026-01-25T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2779,7 +2767,7 @@
           "home": false,
           "date": "2026-01-25T14:00Z",
           "time": "2026-01-25T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4288,7 +4276,7 @@
           "home": false,
           "date": "2026-01-25T14:30Z",
           "time": "2026-01-25T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4431,7 +4419,7 @@
           "home": true,
           "date": "2026-01-25T14:30Z",
           "time": "2026-01-25T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9756,6 +9744,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Cremonese",
+            "score": "1-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Napoli",
             "score": "0-1",
@@ -9778,12 +9772,6 @@
             "opponent": "Parma",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Bologna",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9823,6 +9811,12 @@
         "points": 23,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Sassuolo",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Verona",
             "score": "0-0",
@@ -9845,12 +9839,6 @@
             "opponent": "Fiorentina",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Napoli",
-            "score": "0-2",
-            "home": true
           }
         ],
         "nextGame": {}
