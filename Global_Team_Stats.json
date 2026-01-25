@@ -629,7 +629,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Harry Wilson"
           },
           "assists": {
@@ -776,12 +776,12 @@
             "player": "Hugo Ekitike"
           },
           "assists": {
-            "value": 3,
-            "player": "Cody Gakpo"
+            "value": 4,
+            "player": "Mohamed Salah"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Ibrahima Konaté"
+            "player": "Dominik Szoboszlai"
           },
           "redCards": {
             "value": 0,
@@ -1204,7 +1204,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Jarrod Bowen"
           },
           "assists": {
@@ -1284,7 +1284,7 @@
             "player": "David Møller Wolfe"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Yerson Mosquera"
           },
           "redCards": {
@@ -1714,8 +1714,8 @@
             "player": "Edu Expósito"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Omar El Hilali"
+            "value": 6,
+            "player": "Pol Lozano"
           },
           "redCards": {
             "value": 1,
@@ -2210,7 +2210,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 19,
+            "value": 21,
             "player": "Kylian Mbappé"
           },
           "assists": {
@@ -8629,8 +8629,8 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Wilson Isidor"
+            "value": 5,
+            "player": "Brian Brobbey"
           },
           "assists": {
             "value": 5,
@@ -12369,7 +12369,7 @@
         "leaders": {
           "passingYards": {
             "value": 3693.0,
-            "player": ""
+            "player": "Baker Mayfield"
           },
           "rushingYards": {
             "value": 588.0,
