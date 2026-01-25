@@ -6300,16 +6300,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 46,
-        "wins": 26,
+        "played": 47,
+        "wins": 27,
         "losses": 20,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "76ers",
-            "score": "133-107",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "76ers",
@@ -6333,14 +6327,20 @@
             "opponent": "Kings",
             "score": "123-118",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Magic",
+            "score": "119-105",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "Magic",
-          "home": false,
-          "date": "2026-01-25T00:00Z",
-          "time": "2026-01-25T00:00Z",
-          "status": "live"
+          "home": true,
+          "date": "2026-01-27T00:00Z",
+          "time": "2026-01-27T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7089,7 +7089,7 @@
           "home": false,
           "date": "2026-01-25T02:30Z",
           "time": "2026-01-25T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7499,16 +7499,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 43,
+        "played": 44,
         "wins": 23,
-        "losses": 20,
+        "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "76ers",
-            "score": "91-103",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Pelicans",
@@ -7532,14 +7526,20 @@
             "opponent": "Hornets",
             "score": "97-124",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "105-119",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Cavaliers",
-          "home": true,
-          "date": "2026-01-25T00:00Z",
-          "time": "2026-01-25T00:00Z",
-          "status": "live"
+          "home": false,
+          "date": "2026-01-27T00:00Z",
+          "time": "2026-01-27T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8064,7 +8064,7 @@
           "home": true,
           "date": "2026-01-25T02:30Z",
           "time": "2026-01-25T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
