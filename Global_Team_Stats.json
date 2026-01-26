@@ -7040,19 +7040,13 @@
       "TeamName": "Miami Heat",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 46,
-        "wins": 24,
+        "played": 47,
+        "wins": 25,
         "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Thunder",
-            "score": "122-120",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Warriors",
@@ -7076,14 +7070,20 @@
             "opponent": "Jazz",
             "score": "147-116",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Suns",
+            "score": "111-102",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
-          "home": false,
-          "date": "2026-01-26T01:00Z",
-          "time": "2026-01-26T01:00Z",
-          "status": "live"
+          "opponent": "Magic",
+          "home": true,
+          "date": "2026-01-29T00:30Z",
+          "time": "2026-01-29T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7490,7 +7490,7 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "East",
         "played": 44,
@@ -7643,16 +7643,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 45,
+        "played": 46,
         "wins": 27,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pistons",
-            "score": "105-108",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Knicks",
@@ -7676,14 +7670,20 @@
             "opponent": "Hawks",
             "score": "103-110",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Heat",
+            "score": "102-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Heat",
+          "opponent": "Nets",
           "home": true,
-          "date": "2026-01-26T01:00Z",
-          "time": "2026-01-26T01:00Z",
-          "status": "live"
+          "date": "2026-01-28T02:00Z",
+          "time": "2026-01-28T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
