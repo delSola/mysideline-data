@@ -1731,6 +1731,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Girona",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Valencia",
             "score": "0-1",
@@ -1753,12 +1759,6 @@
             "opponent": "Betis",
             "score": "0-4",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Espanyol",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1797,6 +1797,12 @@
         "points": 25,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Getafe",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Espanyol",
             "score": "2-0",
@@ -1819,12 +1825,6 @@
             "opponent": "Atlético",
             "score": "0-3",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Real Sociedad",
-            "score": "2-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3157,6 +3157,12 @@
         "points": 14,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Udinese",
+            "score": "1-3",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Cremonese",
             "score": "0-0",
@@ -3179,12 +3185,6 @@
             "opponent": "Napoli",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Torino",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3797,6 +3797,12 @@
         "points": 29,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Verona",
+            "score": "3-1",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Inter Milan",
             "score": "0-1",
@@ -3819,12 +3825,6 @@
             "opponent": "Como",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Lazio",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5627,7 +5627,7 @@
         "leaders": {
           "goals": {
             "value": 11,
-            "player": "Joaquín Panichelli"
+            "player": ""
           },
           "assists": {
             "value": 5,
@@ -5711,7 +5711,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Junior Mwanga"
           }
         }
       }
@@ -6311,12 +6311,6 @@
         "losses": 28,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Warriors",
-            "score": "116-136",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Nuggets",
             "score": "110-87",
@@ -6339,14 +6333,20 @@
             "opponent": "Wizards",
             "score": "119-115",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "76ers",
+            "score": "130-93",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
-          "home": true,
-          "date": "2026-01-26T20:00Z",
-          "time": "2026-01-26T20:00Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": false,
+          "date": "2026-01-29T01:00Z",
+          "time": "2026-01-29T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7735,12 +7735,6 @@
         "losses": 20,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "115-117",
-            "home": true
-          },
-          {
             "result": "W",
             "opponent": "Pacers",
             "score": "113-104",
@@ -7763,14 +7757,20 @@
             "opponent": "Knicks",
             "score": "109-112",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Hornets",
+            "score": "93-130",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
-          "home": false,
-          "date": "2026-01-26T20:00Z",
-          "time": "2026-01-26T20:00Z",
-          "status": "live"
+          "opponent": "Bucks",
+          "home": true,
+          "date": "2026-01-28T01:00Z",
+          "time": "2026-01-28T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8485,6 +8485,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Everton",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Fulham",
             "score": "1-0",
@@ -8506,12 +8512,6 @@
             "result": "D",
             "opponent": "Liverpool",
             "score": "0-0",
-            "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Sunderland",
-            "score": "1-1",
             "home": false
           }
         ],
@@ -10135,7 +10135,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": ""
+            "player": "Koffi Kouao"
           },
           "redCards": {
             "value": 2,
