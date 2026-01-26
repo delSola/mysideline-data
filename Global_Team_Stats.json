@@ -126,11 +126,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Morgan Rogers"
+            "value": 8,
+            "player": "Ollie Watkins"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Morgan Rogers"
           },
           "yellowCards": {
@@ -413,7 +413,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "João Pedro"
           },
           "assists": {
@@ -421,8 +421,8 @@
             "player": "Reece James"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Enzo Fernández"
+            "value": 6,
+            "player": "Moisés Caicedo"
           },
           "redCards": {
             "value": 1,
@@ -497,8 +497,8 @@
             "player": "Tyrick Mitchell"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Adam Wharton"
           }
         }
       }
@@ -916,11 +916,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Bryan Mbeumo"
           },
           "assists": {
-            "value": 9,
+            "value": 10,
             "player": "Bruno Fernandes"
           },
           "yellowCards": {
@@ -996,7 +996,7 @@
             "player": "Bruno Guimarães"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Joelinton"
           },
           "redCards": {
@@ -1499,12 +1499,12 @@
             "player": "Lamine Yamal"
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Jules Koundé"
+            "value": 4,
+            "player": "Gerard Martín"
           },
           "redCards": {
             "value": 1,
-            "player": "Pedri"
+            "player": "Frenkie de Jong"
           }
         }
       }
@@ -1563,7 +1563,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Borja Iglesias"
           },
           "assists": {
@@ -2282,12 +2282,12 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 8,
             "player": "Mikel Oyarzabal"
           },
           "assists": {
             "value": 3,
-            "player": "Takefusa Kubo"
+            "player": "Ander Barrenetxea"
           },
           "yellowCards": {
             "value": 7,
@@ -8921,7 +8921,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Carlos Vicente"
           },
           "assists": {
@@ -12519,7 +12519,7 @@
           },
           "tackles": {
             "value": 122.0,
-            "player": ""
+            "player": "Christian Rozeboom"
           },
           "interceptions": {
             "value": 5.0,
@@ -12755,16 +12755,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 27,
+        "played": 28,
         "wins": 6,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "75-95",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Adelaide 36ers",
@@ -12788,6 +12782,12 @@
             "opponent": "Melbourne United",
             "score": "66-98",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Illawarra Hawks",
+            "score": "14-32",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -12892,19 +12892,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 25,
-        "wins": 9,
+        "played": 26,
+        "wins": 10,
         "losses": 16,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "96-78",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
@@ -12927,6 +12921,12 @@
             "result": "W",
             "opponent": "Tasmania JackJumpers",
             "score": "101-91",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "32-14",
             "home": false
           }
         ],
@@ -13032,7 +13032,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 27,
