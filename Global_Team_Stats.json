@@ -450,7 +450,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nottm Forest",
+          "home": false,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -875,7 +881,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Fulham",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6069,16 +6081,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 43,
+        "played": 44,
         "wins": 12,
-        "losses": 31,
+        "losses": 32,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bulls",
-            "score": "112-109",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Bulls",
@@ -6102,14 +6108,20 @@
             "opponent": "Celtics",
             "score": "126-130",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Clippers",
+            "score": "89-126",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
+          "opponent": "Suns",
           "home": false,
-          "date": "2026-01-26T02:00Z",
-          "time": "2026-01-26T02:00Z",
-          "status": "live"
+          "date": "2026-01-28T02:00Z",
+          "time": "2026-01-28T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8168,16 +8180,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 44,
-        "wins": 20,
+        "played": 45,
+        "wins": 21,
         "losses": 24,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Wizards",
-            "score": "119-105",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Raptors",
@@ -8201,14 +8207,20 @@
             "opponent": "Lakers",
             "score": "112-104",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Nets",
+            "score": "126-89",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Nets",
-          "home": true,
-          "date": "2026-01-26T02:00Z",
-          "time": "2026-01-26T02:00Z",
-          "status": "live"
+          "opponent": "Jazz",
+          "home": false,
+          "date": "2026-01-28T03:00Z",
+          "time": "2026-01-28T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9509,7 +9521,7 @@
         "leaders": {
           "goals": {
             "value": 5,
-            "player": "Stefano Moreo"
+            "player": ""
           },
           "assists": {
             "value": 3,
