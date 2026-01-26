@@ -551,7 +551,7 @@
           "home": true,
           "date": "2026-01-26T20:00Z",
           "time": "2026-01-26T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1772,7 +1772,7 @@
           "home": false,
           "date": "2026-01-26T20:00Z",
           "time": "2026-01-26T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6117,12 +6117,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "101-117",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Celtics",
             "score": "106-132",
             "home": true
@@ -6144,14 +6138,20 @@
             "opponent": "Suns",
             "score": "110-103",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pacers",
+            "score": "132-116",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pacers",
-          "home": true,
-          "date": "2026-01-26T18:30Z",
-          "time": "2026-01-26T18:30Z",
-          "status": "live"
+          "opponent": "Celtics",
+          "home": false,
+          "date": "2026-01-29T00:30Z",
+          "time": "2026-01-29T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6376,7 +6376,7 @@
           "home": true,
           "date": "2026-01-26T20:00Z",
           "time": "2026-01-26T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6941,12 +6941,6 @@
         "losses": 35,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "127-119",
-            "home": true
-          },
-          {
             "result": "L",
             "opponent": "Pistons",
             "score": "78-121",
@@ -6969,14 +6963,20 @@
             "opponent": "Thunder",
             "score": "117-114",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Hawks",
+            "score": "116-132",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hawks",
-          "home": false,
-          "date": "2026-01-26T18:30Z",
-          "time": "2026-01-26T18:30Z",
-          "status": "live"
+          "opponent": "Bulls",
+          "home": true,
+          "date": "2026-01-29T00:00Z",
+          "time": "2026-01-29T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7800,7 +7800,7 @@
           "home": false,
           "date": "2026-01-26T20:00Z",
           "time": "2026-01-26T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8550,7 +8550,7 @@
           "home": false,
           "date": "2026-01-26T20:00Z",
           "time": "2026-01-26T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
