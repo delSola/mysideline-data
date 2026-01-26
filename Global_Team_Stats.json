@@ -6765,11 +6765,11 @@
             "player": "Cade Cunningham"
           },
           "rebounds": {
-            "value": 10.8,
+            "value": 10.6,
             "player": "Jalen Duren"
           },
           "blocks": {
-            "value": 1.9,
+            "value": 2.0,
             "player": "Isaiah Stewart"
           },
           "steals": {
@@ -7281,7 +7281,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.2,
+            "value": 23.1,
             "player": "Norman Powell"
           },
           "assists": {
@@ -7431,11 +7431,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.6,
+            "value": 29.7,
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Julius Randle"
           },
           "rebounds": {
@@ -7510,7 +7510,7 @@
             "player": "Trey Murphy III"
           },
           "assists": {
-            "value": 4.4,
+            "value": 4.3,
             "player": "Derik Queen"
           },
           "rebounds": {
@@ -7672,7 +7672,7 @@
             "player": "Chet Holmgren"
           },
           "steals": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Cason Wallace"
           }
         }
@@ -8106,7 +8106,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.5,
+            "value": 24.2,
             "player": "Victor Wembanyama"
           },
           "assists": {
@@ -8114,11 +8114,11 @@
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 10.9,
+            "value": 11.1,
             "player": "Victor Wembanyama"
           },
           "blocks": {
-            "value": 2.6,
+            "value": 2.7,
             "player": "Victor Wembanyama"
           },
           "steals": {
