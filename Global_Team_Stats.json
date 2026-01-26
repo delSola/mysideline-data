@@ -12786,7 +12786,7 @@
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
-            "score": "14-32",
+            "score": "60-102",
             "home": true
           }
         ],
@@ -12926,7 +12926,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "32-14",
+            "score": "102-60",
             "home": false
           }
         ],
@@ -13005,7 +13005,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 15.1,
+            "value": 15.6,
             "player": "Milton Doyle"
           },
           "assists": {
@@ -13013,7 +13013,7 @@
             "player": "Tyson Walker"
           },
           "rebounds": {
-            "value": 7.8,
+            "value": 8.0,
             "player": "Jesse Edwards"
           },
           "blocks": {
@@ -13285,7 +13285,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.7,
+            "value": 17.0,
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
@@ -13297,7 +13297,7 @@
             "player": "Kristian Doolittle"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Jo Lual-Acuil Jr"
           },
           "steals": {
