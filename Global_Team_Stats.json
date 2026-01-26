@@ -2069,11 +2069,11 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Natan "
+            "player": "Natan"
           },
           "redCards": {
             "value": 1,
-            "player": "Antony "
+            "player": "Antony"
           }
         }
       }
@@ -3250,7 +3250,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Kenan Yildiz"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -5142,13 +5142,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Metz",
-          "home": false,
-          "date": "2026-01-25T16:15Z",
-          "time": "2026-01-25T16:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -6606,12 +6600,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Knicks",
-            "score": "126-113",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Hornets",
             "score": "136-116",
             "home": true
@@ -6633,14 +6621,20 @@
             "opponent": "Mavericks",
             "score": "115-123",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Timberwolves",
+            "score": "111-85",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "Timberwolves",
           "home": false,
-          "date": "2026-01-25T22:30Z",
-          "time": "2026-01-25T22:30Z",
-          "status": "live"
+          "date": "2026-01-27T02:30Z",
+          "time": "2026-01-27T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7204,12 +7198,6 @@
         "losses": 18,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Bucks",
-            "score": "139-106",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Rockets",
             "score": "105-110",
@@ -7232,14 +7220,20 @@
             "opponent": "Bulls",
             "score": "115-120",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Warriors",
+            "score": "85-111",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Warriors",
           "home": true,
-          "date": "2026-01-25T22:30Z",
-          "time": "2026-01-25T22:30Z",
-          "status": "live"
+          "date": "2026-01-27T02:30Z",
+          "time": "2026-01-27T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7314,7 +7308,7 @@
           "home": false,
           "date": "2026-01-26T00:00Z",
           "time": "2026-01-26T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7464,7 +7458,7 @@
           "home": true,
           "date": "2026-01-26T00:00Z",
           "time": "2026-01-26T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7914,7 +7908,7 @@
           "home": true,
           "date": "2026-01-26T00:00Z",
           "time": "2026-01-26T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7989,7 +7983,7 @@
           "home": false,
           "date": "2026-01-26T00:00Z",
           "time": "2026-01-26T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
