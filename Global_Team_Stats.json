@@ -2146,7 +2146,7 @@
             "player": "Pablo Fornals"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Natan"
           },
           "redCards": {
@@ -2713,11 +2713,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Nikola Krstovic"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Nikola Krstovic"
           },
           "yellowCards": {
@@ -3152,12 +3152,12 @@
             "player": "Aarón Martín"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Ruslan Malinovskyi"
           },
           "redCards": {
             "value": 1,
-            "player": "Nicola Leali"
+            "player": "Brooke Norton-Cuffy"
           }
         }
       }
@@ -3359,7 +3359,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Kenan Yildiz"
           },
           "assists": {
@@ -3580,10 +3580,10 @@
           },
           "assists": {
             "value": 3,
-            "player": "Matteo Politano"
+            "player": "Scott McTominay"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Juan Jesus"
           },
           "redCards": {
@@ -4294,7 +4294,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
+            "value": 11,
             "player": "Deniz Undav"
           },
           "assists": {
@@ -4513,7 +4513,7 @@
             "player": "Vincenzo Grifo"
           },
           "assists": {
-            "value": 2,
+            "value": 3,
             "player": "Matthias Ginter"
           },
           "yellowCards": {
@@ -5441,16 +5441,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Sofiane Diop"
           },
           "assists": {
-            "value": 2,
-            "player": "Sofiane Diop"
+            "value": 3,
+            "player": "Jonathan Clauss"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Antoine Mendy"
+            "player": "Juma Bah"
           },
           "redCards": {
             "value": 1,
@@ -5656,16 +5656,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
+            "value": 11,
             "player": "Joaquín Panichelli"
           },
           "assists": {
-            "value": 4,
-            "player": "Valentín Barco"
+            "value": 5,
+            "player": "Guela Doué"
           },
           "yellowCards": {
             "value": 3,
-            "player": "Mike Penders"
+            "player": "Samir El Mourabet"
           },
           "redCards": {
             "value": 1,
@@ -5800,7 +5800,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Yann Gboho"
           },
           "assists": {
@@ -5809,7 +5809,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Aron Donnum"
+            "player": "Charlie Cresswell"
           },
           "redCards": {
             "value": 1,
@@ -5881,7 +5881,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Pathé Mboup"
+            "player": "Ludovic Ajorque"
           },
           "redCards": {
             "value": 1,
@@ -6023,7 +6023,7 @@
             "player": "Yassin Belkhdim"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Haris Belkebla"
           },
           "redCards": {
@@ -9879,7 +9879,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Martín Payero"
+            "player": "Giuseppe Pezzella"
           },
           "redCards": {
             "value": 1,
@@ -10170,7 +10170,7 @@
             "player": "Gauthier Hein"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Koffi Kouao"
           },
           "redCards": {
@@ -12519,7 +12519,7 @@
           },
           "tackles": {
             "value": 122.0,
-            "player": "Christian Rozeboom"
+            "player": ""
           },
           "interceptions": {
             "value": 5.0,
