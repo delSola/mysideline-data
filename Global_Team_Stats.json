@@ -390,7 +390,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
@@ -893,7 +893,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Casemiro "
+            "player": "Casemiro"
           }
         }
       }
@@ -955,7 +955,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Joelinton "
+            "player": "Joelinton"
           },
           "redCards": {
             "value": 1,
@@ -3113,7 +3113,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane "
+            "player": "Giovane"
           },
           "yellowCards": {
             "value": 5,
@@ -3250,7 +3250,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Kenan Yildiz"
           },
           "yellowCards": {
             "value": 5,
@@ -6594,8 +6594,8 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 46,
-        "wins": 25,
+        "played": 47,
+        "wins": 26,
         "losses": 21,
         "last5": [
           {
@@ -7083,7 +7083,7 @@
           "home": false,
           "date": "2026-01-26T01:00Z",
           "time": "2026-01-26T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7193,9 +7193,9 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 45,
+        "played": 46,
         "wins": 27,
-        "losses": 18,
+        "losses": 19,
         "last5": [
           {
             "result": "L",
@@ -7683,7 +7683,7 @@
           "home": true,
           "date": "2026-01-26T01:00Z",
           "time": "2026-01-26T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
