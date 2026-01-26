@@ -6109,7 +6109,7 @@
           "home": false,
           "date": "2026-01-26T02:00Z",
           "time": "2026-01-26T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7268,16 +7268,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 47,
-        "wins": 11,
+        "played": 48,
+        "wins": 12,
         "losses": 36,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "116-113",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Pacers",
@@ -7301,14 +7295,20 @@
             "opponent": "Grizzlies",
             "score": "133-127",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Spurs",
+            "score": "104-95",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Spurs",
+          "opponent": "Thunder",
           "home": false,
-          "date": "2026-01-26T00:00Z",
-          "time": "2026-01-26T00:00Z",
-          "status": "live"
+          "date": "2026-01-28T01:00Z",
+          "time": "2026-01-28T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7340,8 +7340,8 @@
       "TeamName": "New York Knicks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "conference": "East",
         "played": 45,
         "wins": 27,
@@ -7418,16 +7418,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 46,
+        "played": 47,
         "wins": 37,
-        "losses": 9,
+        "losses": 10,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Rockets",
-            "score": "111-91",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Heat",
@@ -7451,14 +7445,20 @@
             "opponent": "Pacers",
             "score": "114-117",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Raptors",
+            "score": "101-103",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Raptors",
+          "opponent": "Pelicans",
           "home": true,
-          "date": "2026-01-26T00:00Z",
-          "time": "2026-01-26T00:00Z",
-          "status": "live"
+          "date": "2026-01-28T01:00Z",
+          "time": "2026-01-28T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7868,16 +7868,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 45,
+        "played": 46,
         "wins": 31,
-        "losses": 14,
+        "losses": 15,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bucks",
-            "score": "119-101",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Timberwolves",
@@ -7901,14 +7895,20 @@
             "opponent": "Jazz",
             "score": "126-109",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Pelicans",
+            "score": "95-104",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
-          "home": true,
-          "date": "2026-01-26T00:00Z",
-          "time": "2026-01-26T00:00Z",
-          "status": "live"
+          "opponent": "Rockets",
+          "home": false,
+          "date": "2026-01-29T02:30Z",
+          "time": "2026-01-29T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7940,19 +7940,13 @@
       "TeamName": "Toronto Raptors",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "East",
-        "played": 47,
-        "wins": 28,
+        "played": 48,
+        "wins": 29,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Clippers",
-            "score": "117-121",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Lakers",
@@ -7976,14 +7970,20 @@
             "opponent": "Trail Blazers",
             "score": "110-98",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Thunder",
+            "score": "103-101",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": false,
-          "date": "2026-01-26T00:00Z",
-          "time": "2026-01-26T00:00Z",
-          "status": "live"
+          "opponent": "Knicks",
+          "home": true,
+          "date": "2026-01-29T00:30Z",
+          "time": "2026-01-29T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8208,7 +8208,7 @@
           "home": true,
           "date": "2026-01-26T02:00Z",
           "time": "2026-01-26T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11150,13 +11150,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Seahawks",
-          "home": false,
-          "date": "2026-01-25T23:30Z",
-          "time": "2026-01-25T23:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11376,7 +11370,7 @@
           }
         ],
         "nextGame": {
-          "opponent": "TBD",
+          "opponent": "Seahawks",
           "home": true,
           "date": "2026-02-08T23:30Z",
           "time": "2026-02-08T23:30Z",
@@ -12039,11 +12033,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Rams",
-          "home": true,
-          "date": "2026-01-25T23:30Z",
-          "time": "2026-01-25T23:30Z",
-          "status": "live"
+          "opponent": "Patriots",
+          "home": false,
+          "date": "2026-02-08T23:30Z",
+          "time": "2026-02-08T23:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
