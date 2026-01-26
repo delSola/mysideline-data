@@ -2025,6 +2025,12 @@
         "points": 32,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Alavés",
+            "score": "1-2",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Villarreal",
             "score": "2-0",
@@ -2047,12 +2053,6 @@
             "opponent": "Getafe",
             "score": "4-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Rayo",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5142,7 +5142,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Metz",
+          "home": false,
+          "date": "2026-01-25T16:15Z",
+          "time": "2026-01-25T16:15Z",
+          "status": "live"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -8682,6 +8688,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Betis",
+            "score": "2-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Atlético",
             "score": "0-1",
@@ -8704,12 +8716,6 @@
             "opponent": "Osasuna",
             "score": "0-3",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Real Madrid",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10639,13 +10645,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Patriots",
-          "home": true,
-          "date": "2026-01-25T20:00Z",
-          "time": "2026-01-25T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11161,7 +11161,7 @@
           "home": false,
           "date": "2026-01-25T23:30Z",
           "time": "2026-01-25T23:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11382,11 +11382,11 @@
           }
         ],
         "nextGame": {
-          "opponent": "Broncos",
-          "home": false,
-          "date": "2026-01-25T20:00Z",
-          "time": "2026-01-25T20:00Z",
-          "status": "live"
+          "opponent": "TBD",
+          "home": true,
+          "date": "2026-02-08T23:30Z",
+          "time": "2026-02-08T23:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12049,7 +12049,7 @@
           "home": true,
           "date": "2026-01-25T23:30Z",
           "time": "2026-01-25T23:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
