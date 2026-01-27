@@ -11383,28 +11383,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4707.0,
+            "player": "Matthew Stafford"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1252.0,
+            "player": "Kyren Williams"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1715.0,
+            "player": "Puka Nacua"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 10.0,
+            "player": "Kyren Williams"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 132.0,
+            "player": "Nate Landman"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Cobie Durant"
           }
         }
       }
