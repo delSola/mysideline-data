@@ -2139,7 +2139,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": ""
+            "player": "Cucho Hernández"
           },
           "assists": {
             "value": 4,
@@ -6370,7 +6370,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.0,
+            "value": 20.4,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -6520,7 +6520,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.1,
+            "value": 29.5,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6974,11 +6974,11 @@
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.2,
+            "value": 7.4,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
-            "value": 6.9,
+            "value": 7.0,
             "player": "Pascal Siakam"
           },
           "blocks": {
@@ -7119,23 +7119,23 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.4,
+            "value": 33.8,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.7,
+            "value": 8.8,
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.6,
             "player": "Deandre Ayton"
           },
           "blocks": {
-            "value": 1.0,
+            "value": 0.9,
             "player": "Deandre Ayton"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Luka Doncic"
           }
         }
@@ -7427,7 +7427,7 @@
             "player": "Julius Randle"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.3,
             "player": "Rudy Gobert"
           },
           "blocks": {
@@ -7806,7 +7806,7 @@
             "player": "Andre Drummond"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Adem Bona"
           },
           "steals": {
@@ -7952,12 +7952,12 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 10.9,
+            "value": 11.0,
             "player": "Donovan Clingan"
           },
           "blocks": {
             "value": 1.3,
-            "player": "Robert Williams III"
+            "player": "Donovan Clingan"
           },
           "steals": {
             "value": 1.5,
