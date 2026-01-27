@@ -781,7 +781,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Dominik Szoboszlai"
           },
           "redCards": {
             "value": 0,
@@ -4025,6 +4025,12 @@
         "points": 36,
         "last5": [
           {
+            "result": "D",
+            "opponent": "St. Pauli",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Heidenheim",
             "score": "3-0",
@@ -4047,12 +4053,6 @@
             "opponent": "Leverkusen",
             "score": "1-3",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Union Berlin",
-            "score": "1-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4523,6 +4523,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Hoffenheim",
+            "score": "0-2",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Leverkusen",
             "score": "0-1",
             "home": false
@@ -4544,12 +4550,6 @@
             "opponent": "Augsburg",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Stuttgart",
-            "score": "0-4",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4733,6 +4733,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Bremen",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Frankfurt",
             "score": "3-1",
             "home": false
@@ -4754,12 +4760,6 @@
             "opponent": "Stuttgart",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Hamburg",
-            "score": "4-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8880,7 +8880,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Espanyol",
+          "home": false,
+          "date": "2026-01-30T20:00Z",
+          "time": "2026-01-30T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -8971,7 +8977,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Unai Vencedor"
           }
         }
       }
@@ -9283,6 +9289,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "RB Leipzig",
+            "score": "1-1",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Hamburg",
             "score": "0-0",
             "home": true
@@ -9304,12 +9316,6 @@
             "opponent": "Mainz",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Heidenheim",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {}
