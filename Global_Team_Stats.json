@@ -2684,13 +2684,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Como",
-          "home": false,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5057,7 +5051,7 @@
           },
           "assists": {
             "value": 7,
-            "player": ""
+            "player": "Vitinha"
           },
           "yellowCards": {
             "value": 3,
@@ -6496,7 +6490,7 @@
           "home": true,
           "date": "2026-01-27T00:00Z",
           "time": "2026-01-27T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7410,7 +7404,7 @@
           },
           "rebounds": {
             "value": 11.2,
-            "player": ""
+            "player": "Rudy Gobert"
           },
           "blocks": {
             "value": 1.7,
@@ -7695,7 +7689,7 @@
           "home": false,
           "date": "2026-01-27T00:00Z",
           "time": "2026-01-27T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
