@@ -6145,15 +6145,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.2,
+            "value": 23.0,
             "player": "Jalen Johnson"
           },
           "assists": {
-            "value": 8.0,
+            "value": 7.9,
             "player": "Jalen Johnson"
           },
           "rebounds": {
-            "value": 10.5,
+            "value": 10.4,
             "player": "Jalen Johnson"
           },
           "blocks": {
@@ -6220,7 +6220,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.8,
+            "value": 29.6,
             "player": "Jaylen Brown"
           },
           "assists": {
@@ -6449,7 +6449,7 @@
             "player": "Josh Giddey"
           },
           "assists": {
-            "value": 8.9,
+            "value": 8.8,
             "player": "Josh Giddey"
           },
           "rebounds": {
@@ -6895,7 +6895,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.3,
+            "value": 26.4,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -7198,7 +7198,7 @@
             "player": "Jaren Jackson Jr."
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.7,
             "player": "Cam Spencer"
           },
           "rebounds": {
@@ -7423,7 +7423,7 @@
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.4,
             "player": "Julius Randle"
           },
           "rebounds": {
@@ -7719,7 +7719,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.1,
+            "value": 21.6,
             "player": "Paolo Banchero"
           },
           "assists": {
@@ -7727,7 +7727,7 @@
             "player": "Paolo Banchero"
           },
           "rebounds": {
-            "value": 8.6,
+            "value": 8.7,
             "player": "Paolo Banchero"
           },
           "blocks": {
@@ -7794,7 +7794,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.9,
+            "value": 29.4,
             "player": "Tyrese Maxey"
           },
           "assists": {
@@ -7802,7 +7802,7 @@
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 9.0,
+            "value": 8.9,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -7810,7 +7810,7 @@
             "player": "Adem Bona"
           },
           "steals": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Tyrese Maxey"
           }
         }
