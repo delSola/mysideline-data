@@ -418,7 +418,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Reece James"
           },
           "yellowCards": {
             "value": 6,
@@ -4253,7 +4253,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Freiburg",
+          "home": true,
+          "date": "2026-02-01T14:30Z",
+          "time": "2026-02-01T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6150,16 +6156,10 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "East",
-        "played": 45,
-        "wins": 28,
+        "played": 46,
+        "wins": 29,
         "losses": 17,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hawks",
-            "score": "132-106",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Pistons",
@@ -6183,14 +6183,20 @@
             "opponent": "Bulls",
             "score": "111-114",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Trail Blazers",
+            "score": "102-94",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
+          "opponent": "Hawks",
           "home": true,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "date": "2026-01-29T00:30Z",
+          "time": "2026-01-29T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6372,19 +6378,13 @@
       "TeamName": "Chicago Bulls",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 45,
+        "played": 46,
         "wins": 23,
-        "losses": 22,
+        "losses": 23,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Nets",
-            "score": "109-112",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Nets",
@@ -6408,14 +6408,20 @@
             "opponent": "Celtics",
             "score": "114-111",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Lakers",
+            "score": "118-129",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
-          "home": true,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "opponent": "Pacers",
+          "home": false,
+          "date": "2026-01-29T00:00Z",
+          "time": "2026-01-29T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6522,7 +6528,7 @@
       "TeamName": "Dallas Mavericks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "West",
         "played": 46,
@@ -6825,16 +6831,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
-        "wins": 27,
+        "played": 44,
+        "wins": 28,
         "losses": 16,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Timberwolves",
-            "score": "110-105",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Pelicans",
@@ -6858,14 +6858,20 @@
             "opponent": "Pistons",
             "score": "111-104",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Grizzlies",
+            "score": "108-99",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Grizzlies",
+          "opponent": "Spurs",
           "home": true,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "date": "2026-01-29T02:30Z",
+          "time": "2026-01-29T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7049,16 +7055,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 44,
-        "wins": 27,
+        "played": 45,
+        "wins": 28,
         "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Trail Blazers",
-            "score": "116-132",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Raptors",
@@ -7082,14 +7082,20 @@
             "opponent": "Mavericks",
             "score": "116-110",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Bulls",
+            "score": "129-118",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Bulls",
+          "opponent": "Cavaliers",
           "home": false,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "date": "2026-01-29T00:00Z",
+          "time": "2026-01-29T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7121,19 +7127,13 @@
       "TeamName": "Memphis Grizzlies",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 43,
+        "played": 44,
         "wins": 18,
-        "losses": 25,
+        "losses": 26,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "103-98",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Magic",
@@ -7157,14 +7157,20 @@
             "opponent": "Pelicans",
             "score": "127-133",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Rockets",
+            "score": "99-108",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
-          "home": false,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "opponent": "Hornets",
+          "home": true,
+          "date": "2026-01-29T01:00Z",
+          "time": "2026-01-29T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7646,7 +7652,7 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "East",
         "played": 45,
@@ -7874,16 +7880,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 46,
+        "played": 47,
         "wins": 23,
-        "losses": 23,
+        "losses": 24,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hawks",
-            "score": "117-101",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Lakers",
@@ -7907,14 +7907,20 @@
             "opponent": "Raptors",
             "score": "98-110",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Celtics",
+            "score": "94-102",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
+          "opponent": "Wizards",
           "home": false,
-          "date": "2026-01-27T01:00Z",
-          "time": "2026-01-27T01:00Z",
-          "status": "live"
+          "date": "2026-01-28T00:00Z",
+          "time": "2026-01-28T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12627,7 +12633,7 @@
           },
           "interceptions": {
             "value": 4.0,
-            "player": ""
+            "player": "Marlon Humphrey"
           }
         }
       }
