@@ -2684,7 +2684,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Como",
+          "home": false,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6190,7 +6196,7 @@
           "home": true,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6415,7 +6421,7 @@
           "home": true,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6865,7 +6871,7 @@
           "home": true,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7089,7 +7095,7 @@
           "home": false,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7164,7 +7170,7 @@
           "home": false,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7914,7 +7920,7 @@
           "home": false,
           "date": "2026-01-27T01:00Z",
           "time": "2026-01-27T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
