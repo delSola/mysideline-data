@@ -8484,7 +8484,7 @@
         "leaders": {
           "goals": {
             "value": 10,
-            "player": ""
+            "player": "Antoine Semenyo"
           },
           "assists": {
             "value": 4,
@@ -12272,13 +12272,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Patriots",
-          "home": false,
-          "date": "2026-02-08T23:30Z",
-          "time": "2026-02-08T23:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12575,28 +12569,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4007.0,
+            "player": "Trevor Lawrence"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1107.0,
+            "player": "Travis Etienne Jr."
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 847.0,
+            "player": "Parker Washington"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 9.0,
+            "player": "Trevor Lawrence"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 143.0,
+            "player": "Foyesade Oluokun"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 5.0,
+            "player": "Devin Lloyd"
           }
         }
       }
