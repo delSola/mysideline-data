@@ -2139,7 +2139,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Cucho Hernández"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -12911,7 +12911,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.2,
+            "value": 20.1,
             "player": "JaVale McGee"
           },
           "assists": {
@@ -12923,7 +12923,7 @@
             "player": "JaVale McGee"
           },
           "blocks": {
-            "value": 2.0,
+            "value": 1.9,
             "player": "JaVale McGee"
           },
           "steals": {
