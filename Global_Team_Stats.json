@@ -516,6 +516,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Leeds",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Aston Villa",
             "score": "1-0",
@@ -537,12 +543,6 @@
             "result": "W",
             "opponent": "Nottm Forest",
             "score": "2-0",
-            "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Burnley",
-            "score": "0-0",
             "home": false
           }
         ],
@@ -5057,7 +5057,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha"
+            "player": ""
           },
           "yellowCards": {
             "value": 3,
@@ -5627,7 +5627,7 @@
         "leaders": {
           "goals": {
             "value": 11,
-            "player": ""
+            "player": "Joaquín Panichelli"
           },
           "assists": {
             "value": 5,
@@ -6306,8 +6306,8 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 46,
-        "wins": 18,
+        "played": 47,
+        "wins": 19,
         "losses": 28,
         "last5": [
           {
@@ -7410,7 +7410,7 @@
           },
           "rebounds": {
             "value": 11.2,
-            "player": "Rudy Gobert"
+            "player": ""
           },
           "blocks": {
             "value": 1.7,
@@ -7730,9 +7730,9 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 44,
+        "played": 45,
         "wins": 24,
-        "losses": 20,
+        "losses": 21,
         "last5": [
           {
             "result": "W",
