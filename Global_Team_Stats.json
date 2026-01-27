@@ -418,7 +418,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Reece James"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -4253,13 +4253,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Freiburg",
-          "home": true,
-          "date": "2026-02-01T14:30Z",
-          "time": "2026-02-01T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -6378,7 +6372,7 @@
       "TeamName": "Chicago Bulls",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "East",
         "played": 45,
@@ -6456,16 +6450,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 47,
-        "wins": 27,
+        "played": 48,
+        "wins": 28,
         "losses": 20,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "76ers",
-            "score": "117-115",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Thunder",
@@ -6489,14 +6477,20 @@
             "opponent": "Magic",
             "score": "119-105",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Magic",
+            "score": "114-98",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
+          "opponent": "Lakers",
           "home": true,
-          "date": "2026-01-27T00:00Z",
-          "time": "2026-01-27T00:00Z",
-          "status": "live"
+          "date": "2026-01-29T00:00Z",
+          "time": "2026-01-29T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6796,7 +6790,7 @@
           "home": false,
           "date": "2026-01-27T02:30Z",
           "time": "2026-01-27T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7395,7 +7389,7 @@
           "home": true,
           "date": "2026-01-27T02:30Z",
           "time": "2026-01-27T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7652,19 +7646,13 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 44,
+        "played": 45,
         "wins": 23,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "128-118",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Grizzlies",
@@ -7688,14 +7676,20 @@
             "opponent": "Cavaliers",
             "score": "105-119",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "98-114",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Cavaliers",
+          "opponent": "Heat",
           "home": false,
-          "date": "2026-01-27T00:00Z",
-          "time": "2026-01-27T00:00Z",
-          "status": "live"
+          "date": "2026-01-29T00:30Z",
+          "time": "2026-01-29T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -12633,7 +12627,7 @@
           },
           "interceptions": {
             "value": 4.0,
-            "player": "Marlon Humphrey"
+            "player": ""
           }
         }
       }
