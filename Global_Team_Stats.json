@@ -546,7 +546,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brighton",
+          "home": false,
+          "date": "2026-01-31T15:00Z",
+          "time": "2026-01-31T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1761,7 +1767,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Celta Vigo",
+          "home": true,
+          "date": "2026-02-01T17:30Z",
+          "time": "2026-02-01T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1827,7 +1839,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Real Oviedo",
+          "home": false,
+          "date": "2026-01-31T13:00Z",
+          "time": "2026-01-31T13:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2412,7 +2430,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Rubén Vargas"
           },
           "yellowCards": {
             "value": 8,
@@ -8466,7 +8484,7 @@
         "leaders": {
           "goals": {
             "value": 10,
-            "player": "Antoine Semenyo"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -8527,7 +8545,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Arsenal",
+          "home": true,
+          "date": "2026-01-31T15:00Z",
+          "time": "2026-01-31T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10796,7 +10820,7 @@
           },
           "receivingYards": {
             "value": 1429.0,
-            "player": ""
+            "player": "George Pickens"
           },
           "touchdowns": {
             "value": 11.0,
@@ -12551,28 +12575,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 4007.0,
-            "player": "Trevor Lawrence"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 1107.0,
-            "player": "Travis Etienne Jr."
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 847.0,
-            "player": "Parker Washington"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 9.0,
-            "player": "Trevor Lawrence"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 143.0,
-            "player": "Foyesade Oluokun"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 5.0,
-            "player": "Devin Lloyd"
+            "value": 0,
+            "player": ""
           }
         }
       }
