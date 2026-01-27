@@ -1786,7 +1786,7 @@
             "player": "Luis Milla"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Mario Martín"
           },
           "redCards": {
@@ -1855,7 +1855,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Bryan Gil"
+            "player": "Álex Moreno"
           },
           "yellowCards": {
             "value": 6,
@@ -1863,7 +1863,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Paulo Gazzaniga"
+            "player": "Vitor Reis"
           }
         }
       }
@@ -3216,7 +3216,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Gift Orban"
           },
           "assists": {
@@ -3224,8 +3224,8 @@
             "player": "Giovane"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Martin Frese"
+            "value": 6,
+            "player": "Roberto Gagliardini"
           },
           "redCards": {
             "value": 0,
@@ -3862,7 +3862,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Keinan Davis"
           },
           "assists": {
@@ -7286,7 +7286,7 @@
           },
           "assists": {
             "value": 7.2,
-            "player": "Davion Mitchell"
+            "player": ""
           },
           "rebounds": {
             "value": 9.8,
@@ -11609,13 +11609,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Seahawks",
-          "home": true,
-          "date": "2026-02-08T23:30Z",
-          "time": "2026-02-08T23:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
