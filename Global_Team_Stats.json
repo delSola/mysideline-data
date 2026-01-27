@@ -557,7 +557,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
+            "value": 5,
             "player": "Thierno Barry"
           },
           "assists": {
@@ -2918,13 +2918,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": true,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3061,13 +3055,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Napoli",
-          "home": false,
-          "date": "2026-01-31T17:00Z",
-          "time": "2026-01-31T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -7286,7 +7274,7 @@
           },
           "assists": {
             "value": 7.2,
-            "player": ""
+            "player": "Davion Mitchell"
           },
           "rebounds": {
             "value": 9.8,
