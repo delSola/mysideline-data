@@ -781,7 +781,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Dominik Szoboszlai"
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -4016,13 +4016,13 @@
       "TeamName": "RB Leipzig",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 11,
-        "draws": 2,
+        "draws": 3,
         "losses": 5,
-        "points": 35,
+        "points": 36,
         "last5": [
           {
             "result": "W",
@@ -4055,13 +4055,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "St. Pauli",
-          "home": false,
-          "date": "2026-01-27T19:30Z",
-          "time": "2026-01-27T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4232,7 +4226,7 @@
       "TeamName": "VfB Stuttgart",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 19,
         "wins": 11,
@@ -4521,10 +4515,10 @@
       "TeamStats": {
         "position": 15,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 4,
         "draws": 6,
-        "losses": 8,
+        "losses": 9,
         "points": 18,
         "last5": [
           {
@@ -4558,13 +4552,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Hoffenheim",
-          "home": true,
-          "date": "2026-01-27T19:30Z",
-          "time": "2026-01-27T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4737,11 +4725,11 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 18,
-        "wins": 11,
+        "played": 19,
+        "wins": 12,
         "draws": 3,
         "losses": 4,
-        "points": 36,
+        "points": 39,
         "last5": [
           {
             "result": "W",
@@ -4774,13 +4762,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Bremen",
-          "home": false,
-          "date": "2026-01-27T19:30Z",
-          "time": "2026-01-27T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8898,13 +8880,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Espanyol",
-          "home": false,
-          "date": "2026-01-30T20:00Z",
-          "time": "2026-01-30T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8995,7 +8971,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Unai Vencedor"
+            "player": ""
           }
         }
       }
@@ -9299,11 +9275,11 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 18,
+        "played": 19,
         "wins": 3,
-        "draws": 4,
+        "draws": 5,
         "losses": 11,
-        "points": 13,
+        "points": 14,
         "last5": [
           {
             "result": "D",
@@ -9336,13 +9312,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "RB Leipzig",
-          "home": true,
-          "date": "2026-01-27T19:30Z",
-          "time": "2026-01-27T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
