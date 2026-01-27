@@ -2412,7 +2412,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Rubén Vargas"
+            "player": ""
           },
           "yellowCards": {
             "value": 8,
@@ -3187,7 +3187,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cagliari",
+          "home": false,
+          "date": "2026-01-31T19:45Z",
+          "time": "2026-01-31T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3827,7 +3833,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "AS Roma",
+          "home": true,
+          "date": "2026-02-02T19:45Z",
+          "time": "2026-02-02T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6756,16 +6768,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 47,
+        "played": 48,
         "wins": 26,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hornets",
-            "score": "136-116",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Heat",
@@ -6789,14 +6795,20 @@
             "opponent": "Timberwolves",
             "score": "111-85",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Timberwolves",
+            "score": "83-108",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Timberwolves",
+          "opponent": "Jazz",
           "home": false,
-          "date": "2026-01-27T02:30Z",
-          "time": "2026-01-27T02:30Z",
-          "status": "live"
+          "date": "2026-01-29T02:00Z",
+          "time": "2026-01-29T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7352,19 +7364,13 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 46,
-        "wins": 27,
+        "played": 47,
+        "wins": 28,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Rockets",
-            "score": "105-110",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Spurs",
@@ -7388,14 +7394,20 @@
             "opponent": "Warriors",
             "score": "85-111",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Warriors",
+            "score": "108-83",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
-          "home": true,
-          "date": "2026-01-27T02:30Z",
-          "time": "2026-01-27T02:30Z",
-          "status": "live"
+          "opponent": "Mavericks",
+          "home": false,
+          "date": "2026-01-29T01:30Z",
+          "time": "2026-01-29T01:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7802,7 +7814,7 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
         "played": 46,
@@ -10784,7 +10796,7 @@
           },
           "receivingYards": {
             "value": 1429.0,
-            "player": "George Pickens"
+            "player": ""
           },
           "touchdowns": {
             "value": 11.0,
