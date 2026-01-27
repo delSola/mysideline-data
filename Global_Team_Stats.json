@@ -3428,7 +3428,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Mattia Zaccagni"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4060,7 +4060,7 @@
           "home": false,
           "date": "2026-01-27T19:30Z",
           "time": "2026-01-27T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4563,7 +4563,7 @@
           "home": true,
           "date": "2026-01-27T19:30Z",
           "time": "2026-01-27T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4779,7 +4779,7 @@
           "home": false,
           "date": "2026-01-27T19:30Z",
           "time": "2026-01-27T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9341,7 +9341,7 @@
           "home": true,
           "date": "2026-01-27T19:30Z",
           "time": "2026-01-27T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
