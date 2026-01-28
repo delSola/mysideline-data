@@ -3348,13 +3348,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": false,
-          "date": "2026-02-01T19:45Z",
-          "time": "2026-02-01T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4078,16 +4072,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Christoph Baumgartner"
+            "value": 7,
+            "player": "Yan Diomande"
           },
           "assists": {
             "value": 6,
             "player": "Christoph Baumgartner"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "David Raum"
+            "value": 5,
+            "player": "Christoph Baumgartner"
           },
           "redCards": {
             "value": 0,
@@ -4798,7 +4792,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Fisnik Asllani"
+            "player": "Andrej Kramaric"
           },
           "assists": {
             "value": 5,
@@ -4806,11 +4800,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Albian Hajdari"
+            "player": "Bernardo"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Wouter Burger"
           }
         }
       }
