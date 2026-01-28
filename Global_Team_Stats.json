@@ -11477,7 +11477,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Seahawks",
+          "home": true,
+          "date": "2026-02-08T23:30Z",
+          "time": "2026-02-08T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12134,7 +12140,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Patriots",
+          "home": false,
+          "date": "2026-02-08T23:30Z",
+          "time": "2026-02-08T23:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
