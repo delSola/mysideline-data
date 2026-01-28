@@ -557,20 +557,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Thierno Barry"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 6,
-            "player": "Jack Grealish"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 7,
-            "player": "Tim Iroegbunam"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Jack Grealish"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -7320,7 +7320,7 @@
           "home": false,
           "date": "2026-01-28T01:00Z",
           "time": "2026-01-28T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7470,7 +7470,7 @@
           "home": false,
           "date": "2026-01-28T01:00Z",
           "time": "2026-01-28T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7620,7 +7620,7 @@
           "home": true,
           "date": "2026-01-28T01:00Z",
           "time": "2026-01-28T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7770,7 +7770,7 @@
           "home": true,
           "date": "2026-01-28T01:00Z",
           "time": "2026-01-28T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
