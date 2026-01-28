@@ -3644,7 +3644,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": ""
+            "player": "Enrico Del Prato"
           },
           "redCards": {
             "value": 1,
@@ -6303,7 +6303,7 @@
       "TeamName": "Charlotte Hornets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 12,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "East",
         "played": 47,
@@ -7277,19 +7277,13 @@
       "TeamName": "Milwaukee Bucks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 44,
+        "played": 45,
         "wins": 18,
-        "losses": 26,
+        "losses": 27,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Timberwolves",
-            "score": "106-139",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Spurs",
@@ -7313,14 +7307,20 @@
             "opponent": "Nuggets",
             "score": "100-102",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "122-139",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Wizards",
           "home": false,
-          "date": "2026-01-28T01:00Z",
-          "time": "2026-01-28T01:00Z",
-          "status": "live"
+          "date": "2026-01-30T00:00Z",
+          "time": "2026-01-30T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7430,16 +7430,10 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 48,
+        "played": 49,
         "wins": 12,
-        "losses": 36,
+        "losses": 37,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Pacers",
-            "score": "119-127",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Rockets",
@@ -7463,14 +7457,20 @@
             "opponent": "Spurs",
             "score": "104-95",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Thunder",
+            "score": "95-104",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": false,
-          "date": "2026-01-28T01:00Z",
-          "time": "2026-01-28T01:00Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": true,
+          "date": "2026-01-31T00:30Z",
+          "time": "2026-01-31T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7502,11 +7502,11 @@
       "TeamName": "New York Knicks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "East",
-        "played": 45,
-        "wins": 27,
+        "played": 46,
+        "wins": 28,
         "losses": 18,
         "last5": [
           {
@@ -7580,16 +7580,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 47,
-        "wins": 37,
+        "played": 48,
+        "wins": 38,
         "losses": 10,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Heat",
-            "score": "120-122",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Cavaliers",
@@ -7613,14 +7607,20 @@
             "opponent": "Raptors",
             "score": "101-103",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pelicans",
+            "score": "104-95",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
-          "home": true,
-          "date": "2026-01-28T01:00Z",
-          "time": "2026-01-28T01:00Z",
-          "status": "live"
+          "opponent": "Timberwolves",
+          "home": false,
+          "date": "2026-01-30T02:30Z",
+          "time": "2026-01-30T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7730,16 +7730,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 45,
-        "wins": 24,
+        "played": 46,
+        "wins": 25,
         "losses": 21,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "113-104",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Suns",
@@ -7763,14 +7757,20 @@
             "opponent": "Hornets",
             "score": "93-130",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Bucks",
+            "score": "139-122",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bucks",
+          "opponent": "Kings",
           "home": true,
-          "date": "2026-01-28T01:00Z",
-          "time": "2026-01-28T01:00Z",
-          "status": "live"
+          "date": "2026-01-30T00:00Z",
+          "time": "2026-01-30T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7955,9 +7955,9 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 47,
+        "played": 48,
         "wins": 12,
-        "losses": 35,
+        "losses": 36,
         "last5": [
           {
             "result": "L",
@@ -8102,8 +8102,8 @@
       "TeamName": "Toronto Raptors",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "conference": "East",
         "played": 48,
         "wins": 29,
@@ -8220,7 +8220,7 @@
           "home": true,
           "date": "2026-01-28T03:00Z",
           "time": "2026-01-28T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8370,7 +8370,7 @@
           "home": false,
           "date": "2026-01-28T03:00Z",
           "time": "2026-01-28T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
