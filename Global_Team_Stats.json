@@ -12617,6 +12617,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "86-97",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Cairns Taipans",
             "score": "83-88",
             "home": false
@@ -12637,12 +12643,6 @@
             "result": "L",
             "opponent": "Illawarra Hawks",
             "score": "75-113",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "33-40",
             "home": true
           }
         ],
@@ -13036,6 +13036,12 @@
         "losses": 7,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "97-86",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
             "score": "72-80",
@@ -13057,12 +13063,6 @@
             "result": "L",
             "opponent": "Sydney Kings",
             "score": "101-106",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "40-33",
             "home": false
           }
         ],
