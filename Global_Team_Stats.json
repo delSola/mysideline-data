@@ -5339,20 +5339,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Hákon Haraldsson"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Felix Correia"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Benjamin André"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Nathan Ngoy"
+            "value": 0,
+            "player": ""
           }
         }
       }
