@@ -115,13 +115,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Brentford",
-          "home": true,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1049,13 +1043,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "C Palace",
-          "home": true,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1552,13 +1540,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Getafe",
-          "home": false,
-          "date": "2026-02-01T17:30Z",
-          "time": "2026-02-01T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2127,13 +2109,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Valencia",
-          "home": true,
-          "date": "2026-02-01T15:15Z",
-          "time": "2026-02-01T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2774,13 +2750,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Milan",
-          "home": true,
-          "date": "2026-02-03T19:45Z",
-          "time": "2026-02-03T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4283,13 +4253,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Freiburg",
-          "home": true,
-          "date": "2026-02-01T14:30Z",
-          "time": "2026-02-01T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4498,13 +4462,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Stuttgart",
-          "home": false,
-          "date": "2026-02-01T14:30Z",
-          "time": "2026-02-01T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9567,13 +9525,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Udinese",
-          "home": false,
-          "date": "2026-02-02T19:45Z",
-          "time": "2026-02-02T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12892,19 +12844,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 26,
+        "played": 27,
         "wins": 10,
-        "losses": 16,
+        "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "113-124",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
@@ -12927,6 +12873,12 @@
             "result": "W",
             "opponent": "Brisbane Bullets",
             "score": "113-75",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "30-34",
             "home": false
           }
         ],
@@ -13032,7 +12984,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 27,
@@ -13312,8 +13264,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "NBL",
         "played": 28,
         "wins": 19,
@@ -13382,19 +13334,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
-        "played": 27,
-        "wins": 18,
+        "played": 28,
+        "wins": 19,
         "losses": 9,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "New Zealand Breakers",
-            "score": "103-62",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Melbourne United",
@@ -13417,6 +13363,12 @@
             "result": "W",
             "opponent": "Adelaide 36ers",
             "score": "106-101",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "34-30",
             "home": true
           }
         ],
