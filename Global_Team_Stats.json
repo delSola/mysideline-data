@@ -1832,20 +1832,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Vladyslav Vanat"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Álex Moreno"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Azzedine Ounahi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Vitor Reis"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -11778,7 +11778,7 @@
           },
           "rushingYards": {
             "value": 1065.0,
-            "player": ""
+            "player": "Breece Hall"
           },
           "receivingYards": {
             "value": 395.0,
