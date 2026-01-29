@@ -5244,13 +5244,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lille",
-          "home": true,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5316,13 +5310,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lyon",
-          "home": false,
-          "date": "2026-02-01T14:00Z",
-          "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5388,13 +5376,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Brest",
-          "home": true,
-          "date": "2026-02-01T16:15Z",
-          "time": "2026-02-01T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12878,7 +12860,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "30-34",
+            "score": "85-104",
             "home": false
           }
         ],
@@ -13167,19 +13149,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.4,
+            "value": 25.3,
             "player": "Bryce Cotton"
           },
           "assists": {
-            "value": 7.7,
+            "value": 7.8,
             "player": "Bryce Cotton"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 9.9,
             "player": "Zylan Cheatham"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.6,
             "player": "Isaac Humphries"
           },
           "steals": {
@@ -13241,11 +13223,11 @@
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
-            "value": 3.3,
-            "player": "David Duke Jnr"
+            "value": 3.4,
+            "player": "Kristian Doolittle"
           },
           "rebounds": {
-            "value": 7.4,
+            "value": 7.5,
             "player": "Kristian Doolittle"
           },
           "blocks": {
@@ -13307,16 +13289,16 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.1,
+            "value": 22.3,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 5.0,
+            "value": 4.9,
             "player": "Nathan Sobey"
           },
           "rebounds": {
             "value": 6.1,
-            "player": "Jordan Hunter"
+            "player": "John Brown"
           },
           "blocks": {
             "value": 0.8,
@@ -13368,7 +13350,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "34-30",
+            "score": "104-85",
             "home": true
           }
         ],
