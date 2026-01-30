@@ -402,7 +402,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "West Ham",
+          "home": true,
+          "date": "2026-01-31T17:30Z",
+          "time": "2026-01-31T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -420,7 +426,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Trevoh Chalobah"
+            "player": ""
           }
         }
       }
@@ -6385,7 +6391,7 @@
           },
           "rebounds": {
             "value": 8.5,
-            "player": "Moussa Diabate"
+            "player": ""
           },
           "blocks": {
             "value": 1.5,
@@ -9938,7 +9944,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": ""
+            "player": "Esteban Lepaul"
           },
           "assists": {
             "value": 3,
@@ -11316,28 +11322,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3025.0,
+            "player": "Geno Smith"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 975.0,
+            "player": "Ashton Jeanty"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 696.0,
+            "player": "Tre Tucker"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 5.0,
+            "player": "Ashton Jeanty"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 174.0,
+            "player": "Devin White"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Kyu Blu Kelly"
           }
         }
       }
@@ -11614,28 +11620,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4394.0,
+            "player": "Drake Maye"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 911.0,
+            "player": "TreVeyon Henderson"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1013.0,
+            "player": "Stefon Diggs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 9.0,
+            "player": "TreVeyon Henderson"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 97.0,
+            "player": "Robert Spillane"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 4.0,
+            "player": "Jaylinn Hawkins"
           }
         }
       }
@@ -12959,16 +12965,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 28,
+        "played": 29,
         "wins": 18,
-        "losses": 10,
+        "losses": 11,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cairns Taipans",
-            "score": "92-93",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Sydney Kings",
@@ -12991,6 +12991,12 @@
             "result": "W",
             "opponent": "Perth Wildcats",
             "score": "74-73",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "21-28",
             "home": false
           }
         ],
@@ -13029,16 +13035,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 27,
-        "wins": 10,
+        "played": 28,
+        "wins": 11,
         "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "62-103",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
@@ -13061,6 +13061,12 @@
             "result": "L",
             "opponent": "Adelaide 36ers",
             "score": "110-112",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "28-21",
             "home": true
           }
         ],
