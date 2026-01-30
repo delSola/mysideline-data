@@ -8106,24 +8106,24 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.3,
-            "player": "Victor Wembanyama"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 7.0,
-            "player": "Stephon Castle"
+            "value": 0,
+            "player": ""
           },
           "rebounds": {
-            "value": 11.2,
-            "player": "Victor Wembanyama"
+            "value": 0,
+            "player": ""
           },
           "blocks": {
-            "value": 2.7,
-            "player": "Victor Wembanyama"
+            "value": 0,
+            "player": ""
           },
           "steals": {
-            "value": 1.3,
-            "player": "Stephon Castle"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -9879,7 +9879,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Giuseppe Pezzella"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -12856,7 +12856,7 @@
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
-            "score": "31-17",
+            "score": "71-65",
             "home": true
           }
         ],
@@ -12935,11 +12935,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.1,
+            "value": 20.0,
             "player": "JaVale McGee"
           },
           "assists": {
-            "value": 6.6,
+            "value": 6.5,
             "player": "William Hickey"
           },
           "rebounds": {
@@ -13005,19 +13005,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 15.6,
+            "value": 15.0,
             "player": "Milton Doyle"
           },
           "assists": {
-            "value": 4.6,
+            "value": 4.5,
             "player": "Tyson Walker"
           },
           "rebounds": {
-            "value": 8.0,
+            "value": 7.8,
             "player": "Jesse Edwards"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Fabijan Krslovic"
           },
           "steals": {
@@ -13079,7 +13079,7 @@
             "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.8,
+            "value": 7.5,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
@@ -13087,7 +13087,7 @@
             "player": "Sam Mennenga"
           },
           "blocks": {
-            "value": 1.0,
+            "value": 0.9,
             "player": "Karim Lopez"
           },
           "steals": {
@@ -13136,7 +13136,7 @@
           {
             "result": "L",
             "opponent": "Cairns Taipans",
-            "score": "17-31",
+            "score": "65-71",
             "home": false
           }
         ],
@@ -13425,20 +13425,20 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.4,
             "player": "Kendric Davis"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.4,
             "player": "Kendric Davis"
           },
           "rebounds": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Xavier Cooks"
           },
           "blocks": {
-            "value": 1.2,
-            "player": "Xavier Cooks"
+            "value": 1.3,
+            "player": "Torrey Craig"
           },
           "steals": {
             "value": 0.0,
