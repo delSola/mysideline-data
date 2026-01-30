@@ -1832,20 +1832,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Vladyslav Vanat"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Álex Moreno"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Azzedine Ounahi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Vitor Reis"
           }
         }
       }
@@ -10023,20 +10023,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Ansu Fati"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Kassoum Ouattara"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Jordan Teze"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 2,
-            "player": "Thilo Kehrer"
+            "value": 0,
+            "player": ""
           }
         }
       }
