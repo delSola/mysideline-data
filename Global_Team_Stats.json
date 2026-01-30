@@ -115,7 +115,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brentford",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -396,13 +402,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "West Ham",
-          "home": true,
-          "date": "2026-01-31T17:30Z",
-          "time": "2026-01-31T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1043,7 +1043,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "C Palace",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1540,7 +1546,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Getafe",
+          "home": false,
+          "date": "2026-02-01T17:30Z",
+          "time": "2026-02-01T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2109,7 +2121,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Valencia",
+          "home": true,
+          "date": "2026-02-01T15:15Z",
+          "time": "2026-02-01T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2750,7 +2768,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Milan",
+          "home": true,
+          "date": "2026-02-03T19:45Z",
+          "time": "2026-02-03T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4253,7 +4277,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Freiburg",
+          "home": true,
+          "date": "2026-02-01T14:30Z",
+          "time": "2026-02-01T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4462,7 +4492,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Stuttgart",
+          "home": false,
+          "date": "2026-02-01T14:30Z",
+          "time": "2026-02-01T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5244,7 +5280,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lille",
+          "home": true,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5310,7 +5352,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lyon",
+          "home": false,
+          "date": "2026-02-01T14:00Z",
+          "time": "2026-02-01T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5376,7 +5424,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brest",
+          "home": true,
+          "date": "2026-02-01T16:15Z",
+          "time": "2026-02-01T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7022,7 +7076,7 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 46,
@@ -7322,19 +7376,13 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 48,
-        "wins": 29,
+        "played": 49,
+        "wins": 30,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Jazz",
-            "score": "122-127",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Bulls",
@@ -7358,14 +7406,20 @@
             "opponent": "Mavericks",
             "score": "118-105",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Thunder",
+            "score": "123-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": true,
-          "date": "2026-01-30T02:30Z",
-          "time": "2026-01-30T02:30Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": false,
+          "date": "2026-02-01T01:00Z",
+          "time": "2026-02-01T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7550,16 +7604,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 48,
+        "played": 49,
         "wins": 38,
-        "losses": 10,
+        "losses": 11,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cavaliers",
-            "score": "136-104",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -7583,14 +7631,20 @@
             "opponent": "Pelicans",
             "score": "104-95",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Timberwolves",
+            "score": "111-123",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Timberwolves",
+          "opponent": "Nuggets",
           "home": false,
-          "date": "2026-01-30T02:30Z",
-          "time": "2026-01-30T02:30Z",
-          "status": "live"
+          "date": "2026-02-02T02:30Z",
+          "time": "2026-02-02T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7772,7 +7826,7 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
         "played": 48,
@@ -9884,11 +9938,11 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Esteban Lepaul"
+            "player": ""
           },
           "assists": {
             "value": 3,
-            "player": ""
+            "player": "Quentin Merlin"
           },
           "yellowCards": {
             "value": 4,
@@ -11262,28 +11316,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3025.0,
-            "player": "Geno Smith"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 975.0,
-            "player": "Ashton Jeanty"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 696.0,
-            "player": "Tre Tucker"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 5.0,
-            "player": "Ashton Jeanty"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 174.0,
-            "player": "Devin White"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Kyu Blu Kelly"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -11560,28 +11614,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 4394.0,
-            "player": "Drake Maye"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 911.0,
-            "player": "TreVeyon Henderson"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1013.0,
-            "player": "Stefon Diggs"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 9.0,
-            "player": "TreVeyon Henderson"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 97.0,
-            "player": "Robert Spillane"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 4.0,
-            "player": "Jaylinn Hawkins"
+            "value": 0,
+            "player": ""
           }
         }
       }
