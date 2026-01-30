@@ -6241,7 +6241,7 @@
           "home": false,
           "date": "2026-01-30T02:00Z",
           "time": "2026-01-30T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6616,7 +6616,7 @@
           "home": true,
           "date": "2026-01-30T02:00Z",
           "time": "2026-01-30T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6691,7 +6691,7 @@
           "home": false,
           "date": "2026-01-30T02:00Z",
           "time": "2026-01-30T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7255,12 +7255,6 @@
         "losses": 27,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Spurs",
-            "score": "101-119",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Hawks",
             "score": "112-110",
@@ -7283,14 +7277,20 @@
             "opponent": "76ers",
             "score": "122-139",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Wizards",
+            "score": "99-109",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
+          "opponent": "Celtics",
           "home": false,
-          "date": "2026-01-30T00:00Z",
-          "time": "2026-01-30T00:00Z",
-          "status": "live"
+          "date": "2026-02-01T20:30Z",
+          "time": "2026-02-01T20:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7365,7 +7365,7 @@
           "home": true,
           "date": "2026-01-30T02:30Z",
           "time": "2026-01-30T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7590,7 +7590,7 @@
           "home": false,
           "date": "2026-01-30T02:30Z",
           "time": "2026-01-30T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7705,12 +7705,6 @@
         "losses": 21,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Suns",
-            "score": "110-116",
-            "home": true
-          },
-          {
             "result": "W",
             "opponent": "Rockets",
             "score": "128-122",
@@ -7733,14 +7727,20 @@
             "opponent": "Bucks",
             "score": "139-122",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Kings",
+            "score": "113-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Kings",
+          "opponent": "Pelicans",
           "home": true,
-          "date": "2026-01-30T00:00Z",
-          "time": "2026-01-30T00:00Z",
-          "status": "live"
+          "date": "2026-02-01T00:30Z",
+          "time": "2026-02-01T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7815,7 +7815,7 @@
           "home": true,
           "date": "2026-01-30T02:00Z",
           "time": "2026-01-30T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7931,12 +7931,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Heat",
-            "score": "117-130",
-            "home": true
-          },
-          {
-            "result": "L",
             "opponent": "Raptors",
             "score": "109-122",
             "home": true
@@ -7958,14 +7952,20 @@
             "opponent": "Knicks",
             "score": "87-103",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "111-113",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Celtics",
           "home": false,
-          "date": "2026-01-30T00:00Z",
-          "time": "2026-01-30T00:00Z",
-          "status": "live"
+          "date": "2026-01-31T00:30Z",
+          "time": "2026-01-31T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8231,12 +8231,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Nuggets",
-            "score": "115-121",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Clippers",
             "score": "106-110",
             "home": true
@@ -8258,14 +8252,20 @@
             "opponent": "Trail Blazers",
             "score": "115-111",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Bucks",
+            "score": "109-99",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bucks",
+          "opponent": "Lakers",
           "home": true,
-          "date": "2026-01-30T00:00Z",
-          "time": "2026-01-30T00:00Z",
-          "status": "live"
+          "date": "2026-01-31T00:00Z",
+          "time": "2026-01-31T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10766,7 +10766,7 @@
           },
           "interceptions": {
             "value": 2.0,
-            "player": "Donovan Wilson"
+            "player": ""
           }
         }
       }
@@ -11256,28 +11256,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3025.0,
+            "player": "Geno Smith"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 975.0,
+            "player": "Ashton Jeanty"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 696.0,
+            "player": "Tre Tucker"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 5.0,
+            "player": "Ashton Jeanty"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 174.0,
+            "player": "Devin White"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Kyu Blu Kelly"
           }
         }
       }
