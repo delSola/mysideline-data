@@ -2617,20 +2617,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
-            "player": "Christian Pulisic"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Alexis Saelemaekers"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Fikayo Tomori"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Pervis Estupiñán"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -7290,7 +7290,7 @@
           "home": false,
           "date": "2026-01-30T00:00Z",
           "time": "2026-01-30T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7740,7 +7740,7 @@
           "home": true,
           "date": "2026-01-30T00:00Z",
           "time": "2026-01-30T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7965,7 +7965,7 @@
           "home": false,
           "date": "2026-01-30T00:00Z",
           "time": "2026-01-30T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8265,7 +8265,7 @@
           "home": true,
           "date": "2026-01-30T00:00Z",
           "time": "2026-01-30T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10023,20 +10023,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Ansu Fati"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Kassoum Ouattara"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Jordan Teze"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Thilo Kehrer"
           }
         }
       }
