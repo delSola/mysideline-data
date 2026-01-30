@@ -426,7 +426,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Trevoh Chalobah"
           }
         }
       }
@@ -6391,7 +6391,7 @@
           },
           "rebounds": {
             "value": 8.5,
-            "player": ""
+            "player": "Moussa Diabate"
           },
           "blocks": {
             "value": 1.5,
@@ -12892,7 +12892,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 27,
@@ -12966,8 +12966,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 29,
-        "wins": 18,
-        "losses": 11,
+        "wins": 19,
+        "losses": 10,
         "last5": [
           {
             "result": "L",
@@ -12994,9 +12994,9 @@
             "home": false
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "21-28",
+            "score": "77-71",
             "home": false
           }
         ],
@@ -13032,12 +13032,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 28,
-        "wins": 11,
-        "losses": 17,
+        "wins": 10,
+        "losses": 18,
         "last5": [
           {
             "result": "W",
@@ -13064,9 +13064,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Melbourne United",
-            "score": "28-21",
+            "score": "71-77",
             "home": true
           }
         ],
