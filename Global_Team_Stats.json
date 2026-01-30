@@ -2617,20 +2617,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 8,
+            "player": "Christian Pulisic"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Alexis Saelemaekers"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Fikayo Tomori"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Pervis Estupiñán"
           }
         }
       }
@@ -6091,7 +6091,7 @@
           "home": true,
           "date": "2026-01-30T01:00Z",
           "time": "2026-01-30T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6316,7 +6316,7 @@
           "home": false,
           "date": "2026-01-30T01:30Z",
           "time": "2026-01-30T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6391,7 +6391,7 @@
           "home": true,
           "date": "2026-01-30T01:00Z",
           "time": "2026-01-30T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6541,7 +6541,7 @@
           "home": true,
           "date": "2026-01-30T01:30Z",
           "time": "2026-01-30T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6841,7 +6841,7 @@
           "home": false,
           "date": "2026-01-30T01:00Z",
           "time": "2026-01-30T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7215,7 +7215,7 @@
           "home": false,
           "date": "2026-01-30T01:00Z",
           "time": "2026-01-30T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11256,28 +11256,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3025.0,
-            "player": "Geno Smith"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 975.0,
-            "player": "Ashton Jeanty"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 696.0,
-            "player": "Tre Tucker"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 5.0,
-            "player": "Ashton Jeanty"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 174.0,
-            "player": "Devin White"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Kyu Blu Kelly"
+            "value": 0,
+            "player": ""
           }
         }
       }
