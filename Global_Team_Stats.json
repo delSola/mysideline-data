@@ -4079,7 +4079,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Yan Diomande"
           },
           "assists": {
             "value": 6,
@@ -6390,7 +6390,7 @@
             "player": "LaMelo Ball"
           },
           "rebounds": {
-            "value": 8.5,
+            "value": 8.4,
             "player": "Moussa Diabate"
           },
           "blocks": {
@@ -6607,11 +6607,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 18.8,
+            "value": 19.5,
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 5.0,
+            "value": 4.9,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -6623,7 +6623,7 @@
             "player": "P.J. Washington"
           },
           "steals": {
-            "value": 1.3,
+            "value": 1.2,
             "player": "Cooper Flagg"
           }
         }
@@ -6907,7 +6907,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.4,
+            "value": 26.5,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -7289,7 +7289,7 @@
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 9.7,
+            "value": 9.8,
             "player": "Bam Adebayo"
           },
           "blocks": {
@@ -7368,11 +7368,11 @@
             "player": "Giannis Antetokounmpo"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.7,
             "player": "Myles Turner"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Ryan Rollins"
           }
         }
@@ -7431,11 +7431,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.4,
+            "value": 29.3,
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.3,
             "player": "Julius Randle"
           },
           "rebounds": {
@@ -7806,15 +7806,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.2,
+            "value": 29.4,
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.9,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 8.9,
+            "value": 8.7,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -8347,7 +8347,7 @@
             "player": "Alex Sarr"
           },
           "steals": {
-            "value": 1.1,
+            "value": 1.2,
             "player": "Kyshawn George"
           }
         }
