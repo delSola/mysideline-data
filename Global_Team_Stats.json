@@ -1666,6 +1666,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Alavés",
+            "score": "1-2",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Valencia",
             "score": "2-3",
             "home": false
@@ -1687,12 +1693,6 @@
             "opponent": "Barcelona",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Athletic",
-            "score": "2-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3097,6 +3097,12 @@
         "points": 23,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Lazio",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Bologna",
             "score": "3-2",
@@ -3119,12 +3125,6 @@
             "opponent": "Milan",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Pisa",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3378,6 +3378,12 @@
         "points": 32,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Genoa",
+            "score": "3-2",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Lecce",
             "score": "0-0",
@@ -3399,12 +3405,6 @@
             "result": "D",
             "opponent": "Fiorentina",
             "score": "2-2",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Napoli",
-            "score": "0-2",
             "home": true
           }
         ],
@@ -3494,7 +3494,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": ""
+            "player": "Ylber Ramadani"
           },
           "redCards": {
             "value": 1,
@@ -5454,6 +5454,12 @@
         "points": 46,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Le Havre AC",
+            "score": "1-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Marseille",
             "score": "1-3",
@@ -5476,12 +5482,6 @@
             "opponent": "Nice",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Nantes",
-            "score": "2-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -6350,8 +6350,8 @@
         "nextGame": {
           "opponent": "Spurs",
           "home": true,
-          "date": "2026-01-31T20:00Z",
-          "time": "2026-01-31T20:00Z",
+          "date": "2026-01-31T17:00Z",
+          "time": "2026-01-31T17:00Z",
           "status": "scheduled"
         }
       },
@@ -8074,8 +8074,8 @@
         "nextGame": {
           "opponent": "Hornets",
           "home": false,
-          "date": "2026-01-31T20:00Z",
-          "time": "2026-01-31T20:00Z",
+          "date": "2026-01-31T17:00Z",
+          "time": "2026-01-31T17:00Z",
           "status": "scheduled"
         }
       },
@@ -8857,6 +8857,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Espanyol",
+            "score": "2-1",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Betis",
             "score": "2-1",
             "home": true
@@ -8878,12 +8884,6 @@
             "opponent": "Real Oviedo",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Osasuna",
-            "score": "0-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9069,6 +9069,12 @@
         "points": 23,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Wolfsburg",
+            "score": "1-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Freiburg",
             "score": "1-2",
@@ -9091,12 +9097,6 @@
             "opponent": "Heidenheim",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Union Berlin",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9210,6 +9210,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Cologne",
+            "score": "0-1",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Mainz",
             "score": "1-3",
             "home": false
@@ -9231,12 +9237,6 @@
             "opponent": "Bayern",
             "score": "1-8",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Freiburg",
-            "score": "3-4",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10225,6 +10225,12 @@
         "points": 20,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Lens",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Monaco",
             "score": "0-0",
@@ -10247,12 +10253,6 @@
             "opponent": "Lyon",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Paris FC",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
