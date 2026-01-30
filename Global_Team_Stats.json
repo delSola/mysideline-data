@@ -1658,10 +1658,10 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 10,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "points": 34,
         "last5": [
           {
@@ -1695,13 +1695,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Alavés",
-          "home": true,
-          "date": "2026-01-30T20:00Z",
-          "time": "2026-01-30T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1800,7 +1794,7 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "played": 21,
         "wins": 6,
@@ -2375,7 +2369,7 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 21,
         "wins": 7,
@@ -2447,7 +2441,7 @@
       "TeamName": "Valencia",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
         "played": 21,
         "wins": 5,
@@ -2735,7 +2729,7 @@
       "TeamName": "Bologna",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 9,
         "positionSuffix": "th",
         "played": 22,
         "wins": 8,
@@ -3094,12 +3088,12 @@
       "TeamName": "Genoa",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 22,
+        "played": 23,
         "wins": 5,
         "draws": 8,
-        "losses": 9,
+        "losses": 10,
         "points": 23,
         "last5": [
           {
@@ -3133,13 +3127,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": false,
-          "date": "2026-01-30T19:45Z",
-          "time": "2026-01-30T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3381,13 +3369,13 @@
       "TeamName": "Lazio",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 9,
+        "position": 8,
         "positionSuffix": "th",
-        "played": 22,
-        "wins": 7,
+        "played": 23,
+        "wins": 8,
         "draws": 8,
         "losses": 7,
-        "points": 29,
+        "points": 32,
         "last5": [
           {
             "result": "D",
@@ -3420,13 +3408,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Genoa",
-          "home": true,
-          "date": "2026-01-30T19:45Z",
-          "time": "2026-01-30T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3512,7 +3494,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Ylber Ramadani"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -3597,7 +3579,7 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 14,
         "positionSuffix": "th",
         "played": 22,
         "wins": 5,
@@ -3740,7 +3722,7 @@
       "TeamName": "Torino",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 15,
         "positionSuffix": "th",
         "played": 22,
         "wins": 6,
@@ -5032,8 +5014,8 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 19,
         "wins": 14,
         "draws": 3,
@@ -5463,13 +5445,13 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 19,
-        "wins": 14,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 20,
+        "wins": 15,
         "draws": 1,
         "losses": 4,
-        "points": 43,
+        "points": 46,
         "last5": [
           {
             "result": "L",
@@ -5502,13 +5484,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Le Havre AC",
-          "home": true,
-          "date": "2026-01-30T19:45Z",
-          "time": "2026-01-30T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8798,7 +8774,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "played": 21,
         "wins": 7,
@@ -8871,13 +8847,13 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 15,
+        "position": 10,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 6,
+        "played": 22,
+        "wins": 7,
         "draws": 4,
         "losses": 11,
-        "points": 22,
+        "points": 25,
         "last5": [
           {
             "result": "W",
@@ -8910,13 +8886,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Espanyol",
-          "home": false,
-          "date": "2026-01-30T20:00Z",
-          "time": "2026-01-30T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9017,7 +8987,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 21,
         "wins": 5,
@@ -9092,11 +9062,11 @@
       "TeamStats": {
         "position": 10,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 5,
+        "played": 20,
+        "wins": 6,
         "draws": 5,
         "losses": 9,
-        "points": 20,
+        "points": 23,
         "last5": [
           {
             "result": "L",
@@ -9129,13 +9099,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Wolfsburg",
-          "home": true,
-          "date": "2026-01-30T19:30Z",
-          "time": "2026-01-30T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9238,10 +9202,10 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 5,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "points": 19,
         "last5": [
           {
@@ -9275,13 +9239,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Cologne",
-          "home": false,
-          "date": "2026-01-30T19:30Z",
-          "time": "2026-01-30T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9820,7 +9778,7 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 14,
+        "position": 13,
         "positionSuffix": "th",
         "played": 22,
         "wins": 5,
@@ -10260,10 +10218,10 @@
       "TeamStats": {
         "position": 15,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 4,
         "draws": 8,
-        "losses": 7,
+        "losses": 8,
         "points": 20,
         "last5": [
           {
@@ -10297,13 +10255,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lens",
-          "home": false,
-          "date": "2026-01-30T19:45Z",
-          "time": "2026-01-30T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
