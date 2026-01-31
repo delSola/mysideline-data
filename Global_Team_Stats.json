@@ -48,7 +48,7 @@
           "home": false,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -335,7 +335,7 @@
           "home": true,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -551,7 +551,7 @@
           "home": false,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1270,7 +1270,7 @@
           "home": true,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1802,10 +1802,10 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 6,
         "draws": 7,
-        "losses": 8,
+        "losses": 9,
         "points": 25,
         "last5": [
           {
@@ -1839,13 +1839,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Oviedo",
-          "home": false,
-          "date": "2026-01-31T13:00Z",
-          "time": "2026-01-31T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4072,7 +4066,7 @@
           "home": true,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4144,7 +4138,7 @@
           "home": false,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4216,7 +4210,7 @@
           "home": true,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4431,7 +4425,7 @@
           "home": false,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4575,7 +4569,7 @@
           "home": true,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4647,7 +4641,7 @@
           "home": false,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4719,7 +4713,7 @@
           "home": true,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4791,7 +4785,7 @@
           "home": true,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8477,7 +8471,7 @@
           "home": false,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8550,7 +8544,7 @@
           "home": true,
           "date": "2026-01-31T15:00Z",
           "time": "2026-01-31T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8727,11 +8721,11 @@
       "TeamStats": {
         "position": 20,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 2,
+        "played": 22,
+        "wins": 3,
         "draws": 7,
         "losses": 12,
-        "points": 13,
+        "points": 16,
         "last5": [
           {
             "result": "L",
@@ -8764,13 +8758,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Girona",
-          "home": true,
-          "date": "2026-01-31T13:00Z",
-          "time": "2026-01-31T13:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9353,7 +9341,7 @@
           "home": false,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9426,7 +9414,7 @@
           "home": false,
           "date": "2026-01-31T14:30Z",
           "time": "2026-01-31T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10394,7 +10382,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Otavio"
+            "player": "Otavio "
           }
         }
       }
