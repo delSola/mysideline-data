@@ -361,6 +361,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "West Ham",
+            "score": "3-2",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "C Palace",
             "score": "3-1",
             "home": false
@@ -382,12 +388,6 @@
             "opponent": "Man City",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Bournemouth",
-            "score": "2-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -533,20 +533,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Thierno Barry"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Jack Grealish"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Tim Iroegbunam"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Jack Grealish"
           }
         }
       }
@@ -1139,6 +1139,12 @@
         "points": 20,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Chelsea",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Sunderland",
             "score": "3-1",
@@ -1161,12 +1167,6 @@
             "opponent": "Wolves",
             "score": "0-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Brighton",
-            "score": "2-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1342,6 +1342,12 @@
         "points": 45,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Levante",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Mallorca",
             "score": "3-0",
@@ -1364,12 +1370,6 @@
             "opponent": "Girona",
             "score": "3-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Valencia",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3821,6 +3821,12 @@
         "points": 51,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Hamburg",
+            "score": "2-2",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Augsburg",
             "score": "1-2",
@@ -3843,12 +3849,6 @@
             "opponent": "Wolfsburg",
             "score": "8-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Heidenheim",
-            "score": "4-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5556,6 +5556,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Lorient",
+            "score": "1-2",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Nice",
             "score": "1-4",
             "home": true
@@ -5577,12 +5583,6 @@
             "opponent": "Angers",
             "score": "1-4",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Lens",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8797,6 +8797,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Atlético",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Elche",
             "score": "3-2",
@@ -8819,12 +8825,6 @@
             "opponent": "Sevilla",
             "score": "3-0",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Real Sociedad",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9011,6 +9011,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Bayern",
+            "score": "2-2",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "St. Pauli",
             "score": "0-0",
             "home": false
@@ -9032,12 +9038,6 @@
             "opponent": "Frankfurt",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Hoffenheim",
-            "score": "1-4",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9745,14 +9745,14 @@
           "home": false,
           "date": "2026-01-31T20:05Z",
           "time": "2026-01-31T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 8,
-            "player": ""
+            "player": "Esteban Lepaul"
           },
           "assists": {
             "value": 3,
@@ -9891,7 +9891,7 @@
           "home": true,
           "date": "2026-01-31T20:05Z",
           "time": "2026-01-31T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10003,6 +10003,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Nantes",
+            "score": "2-1",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Rennes",
             "score": "2-0",
             "home": false
@@ -10024,12 +10030,6 @@
             "opponent": "Strasbourg",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Lyon",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
