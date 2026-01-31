@@ -2739,6 +2739,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Verona",
+            "score": "4-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Fiorentina",
             "score": "2-1",
             "home": false
@@ -2760,12 +2766,6 @@
             "opponent": "Cremonese",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Milan",
-            "score": "0-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3086,6 +3086,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Cagliari",
+            "score": "0-4",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Udinese",
             "score": "1-3",
             "home": true
@@ -3107,12 +3113,6 @@
             "opponent": "Lazio",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Napoli",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9667,10 +9667,10 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 8,
         "draws": 7,
-        "losses": 4,
+        "losses": 5,
         "points": 31,
         "last5": [
           {
@@ -9704,13 +9704,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Monaco",
-          "home": false,
-          "date": "2026-01-31T20:05Z",
-          "time": "2026-01-31T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9813,11 +9807,11 @@
       "TeamStats": {
         "position": 10,
         "positionSuffix": "th",
-        "played": 19,
-        "wins": 7,
+        "played": 20,
+        "wins": 8,
         "draws": 3,
         "losses": 9,
-        "points": 24,
+        "points": 27,
         "last5": [
           {
             "result": "D",
@@ -9850,13 +9844,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rennes",
-          "home": true,
-          "date": "2026-01-31T20:05Z",
-          "time": "2026-01-31T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
