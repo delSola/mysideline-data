@@ -8929,8 +8929,8 @@
             "player": "Carles Aleñá"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Antonio Blanco"
+            "value": 6,
+            "player": "Victor Parada"
           },
           "redCards": {
             "value": 1,
@@ -13206,7 +13206,7 @@
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "58-73",
+            "score": "77-97",
             "home": true
           }
         ],
@@ -13346,7 +13346,7 @@
           {
             "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "73-58",
+            "score": "97-77",
             "home": false
           }
         ],
