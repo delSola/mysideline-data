@@ -3152,7 +3152,7 @@
             "player": "Aarón Martín"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Ruslan Malinovskyi"
           },
           "redCards": {
@@ -3432,7 +3432,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": "Mattia Zaccagni"
+            "player": "Danilo Cataldi"
           },
           "assists": {
             "value": 3,
@@ -5517,7 +5517,7 @@
             "player": "Wesley Saïd"
           },
           "assists": {
-            "value": 5,
+            "value": 6,
             "player": "Matthieu Udol"
           },
           "yellowCards": {
@@ -13176,8 +13176,8 @@
         "positionSuffix": "st",
         "conference": "NBL",
         "played": 29,
-        "wins": 22,
-        "losses": 7,
+        "wins": 21,
+        "losses": 8,
         "last5": [
           {
             "result": "L",
@@ -13204,9 +13204,9 @@
             "home": false
           },
           {
-            "result": "D",
+            "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "25-25",
+            "score": "58-73",
             "home": true
           }
         ],
@@ -13312,12 +13312,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 29,
-        "wins": 19,
-        "losses": 10,
+        "wins": 20,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13344,9 +13344,9 @@
             "home": false
           },
           {
-            "result": "D",
+            "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "25-25",
+            "score": "73-58",
             "home": false
           }
         ],
@@ -13382,8 +13382,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "NBL",
         "played": 28,
         "wins": 19,
