@@ -1809,6 +1809,12 @@
         "points": 25,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Real Oviedo",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Getafe",
             "score": "1-1",
@@ -1831,12 +1837,6 @@
             "opponent": "Mallorca",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Atlético",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1982,7 +1982,7 @@
           "home": true,
           "date": "2026-01-31T15:15Z",
           "time": "2026-01-31T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2557,7 +2557,7 @@
           "home": false,
           "date": "2026-01-31T15:15Z",
           "time": "2026-01-31T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3160,7 +3160,7 @@
       "TeamName": "Hellas Verona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 20,
+        "position": 19,
         "positionSuffix": "th",
         "played": 22,
         "wins": 2,
@@ -5213,7 +5213,7 @@
           "home": false,
           "date": "2026-01-31T16:00Z",
           "time": "2026-01-31T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8728,6 +8728,12 @@
         "points": 16,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Girona",
+            "score": "1-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Barcelona",
             "score": "0-3",
@@ -8750,12 +8756,6 @@
             "opponent": "Alavés",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Celta Vigo",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9662,12 +9662,12 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 19,
+        "position": 20,
         "positionSuffix": "th",
-        "played": 22,
+        "played": 23,
         "wins": 1,
         "draws": 11,
-        "losses": 10,
+        "losses": 11,
         "points": 14,
         "last5": [
           {
@@ -9701,13 +9701,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sassuolo",
-          "home": true,
-          "date": "2026-01-31T14:00Z",
-          "time": "2026-01-31T14:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9737,11 +9731,11 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 22,
-        "wins": 7,
+        "played": 23,
+        "wins": 8,
         "draws": 5,
         "losses": 10,
-        "points": 26,
+        "points": 29,
         "last5": [
           {
             "result": "W",
@@ -9774,13 +9768,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Pisa",
-          "home": false,
-          "date": "2026-01-31T14:00Z",
-          "time": "2026-01-31T14:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10363,7 +10351,7 @@
           "home": true,
           "date": "2026-01-31T16:00Z",
           "time": "2026-01-31T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
