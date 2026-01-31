@@ -6711,8 +6711,8 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "East",
-        "played": 46,
-        "wins": 34,
+        "played": 47,
+        "wins": 35,
         "losses": 12,
         "last5": [
           {
@@ -6786,9 +6786,9 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 49,
+        "played": 50,
         "wins": 27,
-        "losses": 22,
+        "losses": 23,
         "last5": [
           {
             "result": "L",
@@ -10601,7 +10601,7 @@
           },
           "receivingYards": {
             "value": 713.0,
-            "player": ""
+            "player": "Colston Loveland"
           },
           "touchdowns": {
             "value": 9.0,
@@ -13175,16 +13175,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "NBL",
-        "played": 28,
-        "wins": 21,
+        "played": 29,
+        "wins": 22,
         "losses": 7,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Tasmania JackJumpers",
-            "score": "72-80",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
@@ -13208,6 +13202,12 @@
             "opponent": "Brisbane Bullets",
             "score": "107-74",
             "home": false
+          },
+          {
+            "result": "D",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "25-25",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -13315,16 +13315,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "NBL",
-        "played": 28,
+        "played": 29,
         "wins": 19,
-        "losses": 9,
+        "losses": 10,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "97-107",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Adelaide 36ers",
@@ -13347,6 +13341,12 @@
             "result": "L",
             "opponent": "Perth Wildcats",
             "score": "93-101",
+            "home": false
+          },
+          {
+            "result": "D",
+            "opponent": "Adelaide 36ers",
+            "score": "25-25",
             "home": false
           }
         ],
