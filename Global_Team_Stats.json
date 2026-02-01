@@ -2857,8 +2857,8 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
-            "player": "Sebastiano Esposito"
+            "value": 4,
+            "player": "Semih Kiliçsoy"
           },
           "assists": {
             "value": 4,
@@ -3228,8 +3228,8 @@
             "player": "Roberto Gagliardini"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Amin Sarr"
           }
         }
       }
@@ -3934,11 +3934,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 21,
+            "value": 22,
             "player": "Harry Kane"
           },
           "assists": {
-            "value": 14,
+            "value": 15,
             "player": "Michael Olise"
           },
           "yellowCards": {
@@ -4083,7 +4083,7 @@
           },
           "assists": {
             "value": 6,
-            "player": ""
+            "player": "Christoph Baumgartner"
           },
           "yellowCards": {
             "value": 5,
@@ -4154,8 +4154,8 @@
             "player": "Patrik Schick"
           },
           "assists": {
-            "value": 4,
-            "player": "Aleix García"
+            "value": 5,
+            "player": "Alejandro Grimaldo"
           },
           "yellowCards": {
             "value": 6,
@@ -4234,8 +4234,8 @@
             "player": "Arthur Theate"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Ellyes Skhiri"
           }
         }
       }
@@ -4437,11 +4437,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "Haris Tabakovic"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Franck Honorat"
           },
           "yellowCards": {
@@ -4733,8 +4733,8 @@
             "player": "Mert Kömür"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Dimitris Giannoulis"
+            "value": 6,
+            "player": "Noahkai Banks"
           },
           "redCards": {
             "value": 1,
@@ -4797,7 +4797,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 8,
             "player": "Andrej Kramaric"
           },
           "assists": {
@@ -4805,8 +4805,8 @@
             "player": "Wouter Burger"
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Bernardo"
+            "value": 7,
+            "player": "Albian Hajdari"
           },
           "redCards": {
             "value": 1,
@@ -5225,7 +5225,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 12,
+            "value": 13,
             "player": "Mason Greenwood"
           },
           "assists": {
@@ -5728,7 +5728,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 4,
             "player": "Matthis Abline"
           },
           "assists": {
@@ -9221,7 +9221,7 @@
             "player": "Miro Muheim"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Nicolai Remberg"
           },
           "redCards": {
@@ -9432,7 +9432,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Nadiem Amiri"
           },
           "assists": {
@@ -9445,7 +9445,7 @@
           },
           "redCards": {
             "value": 2,
-            "player": "Dominik Kohr"
+            "player": "Paul Nebel"
           }
         }
       }
@@ -9797,15 +9797,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Andrea Pinamonti"
+            "value": 5,
+            "player": "Domenico Berardi"
           },
           "assists": {
             "value": 4,
             "player": "Cristian Volpato"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Kristian Thorstvedt"
           },
           "redCards": {
@@ -10089,15 +10089,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Ansu Fati"
           },
           "assists": {
             "value": 3,
-            "player": "Kassoum Ouattara"
+            "player": "Folarin Balogun"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Jordan Teze"
           },
           "redCards": {
@@ -10243,7 +10243,7 @@
             "player": "Arsène Kouassi"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Laurent Abergel"
           },
           "redCards": {
@@ -10381,7 +10381,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Ilan Kebbal"
           },
           "assists": {
@@ -10389,7 +10389,7 @@
             "player": "Ilan Kebbal"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Maxime López"
           },
           "redCards": {
@@ -11035,7 +11035,7 @@
           },
           "rushingYards": {
             "value": 929.0,
-            "player": "Josh Jacobs"
+            "player": ""
           },
           "receivingYards": {
             "value": 724.0,
@@ -12826,8 +12826,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 29,
-        "wins": 9,
-        "losses": 20,
+        "wins": 8,
+        "losses": 21,
         "last5": [
           {
             "result": "L",
@@ -12854,9 +12854,9 @@
             "home": true
           },
           {
-            "result": "D",
+            "result": "L",
             "opponent": "Sydney Kings",
-            "score": "83-83",
+            "score": "92-106",
             "home": true
           }
         ],
@@ -13312,8 +13312,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "NBL",
         "played": 29,
         "wins": 20,
@@ -13382,12 +13382,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 29,
-        "wins": 19,
-        "losses": 10,
+        "wins": 20,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13414,9 +13414,9 @@
             "home": true
           },
           {
-            "result": "D",
+            "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "83-83",
+            "score": "106-92",
             "home": false
           }
         ],
