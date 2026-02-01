@@ -54,7 +54,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Viktor Gyökeres"
           },
           "assists": {
@@ -413,15 +413,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "João Pedro"
           },
           "assists": {
             "value": 4,
-            "player": "Reece James"
+            "player": "João Pedro"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Moisés Caicedo"
           },
           "redCards": {
@@ -565,12 +565,12 @@
             "player": "Jack Grealish"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Tim Iroegbunam"
           },
           "redCards": {
             "value": 1,
-            "player": "Jack Grealish"
+            "player": "Michael Keane"
           }
         }
       }
@@ -772,11 +772,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 10,
             "player": "Hugo Ekitike"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Mohamed Salah"
           },
           "yellowCards": {
@@ -1204,7 +1204,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
+            "value": 8,
             "player": "Jarrod Bowen"
           },
           "assists": {
@@ -1277,14 +1277,14 @@
         "leaders": {
           "goals": {
             "value": 2,
-            "player": "Ladislav Krejcí"
+            "player": "Hwang Hee-Chan"
           },
           "assists": {
             "value": 2,
             "player": "David Møller Wolfe"
           },
           "yellowCards": {
-            "value": 8,
+            "value": 9,
             "player": "Yerson Mosquera"
           },
           "redCards": {
@@ -1491,7 +1491,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 11,
+            "value": 12,
             "player": "Ferran Torres"
           },
           "assists": {
@@ -1994,15 +1994,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "Ante Budimir"
           },
           "assists": {
-            "value": 4,
+            "value": 5,
             "player": "Rubén García"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Alejandro Catena"
           },
           "redCards": {
@@ -8783,7 +8783,7 @@
             "player": "Haissem Hassan"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "David Carmo"
           },
           "redCards": {
@@ -11035,7 +11035,7 @@
           },
           "rushingYards": {
             "value": 929.0,
-            "player": ""
+            "player": "Josh Jacobs"
           },
           "receivingYards": {
             "value": 724.0,
