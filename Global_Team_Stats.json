@@ -947,7 +947,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brentford",
+          "home": true,
+          "date": "2026-02-07T17:30Z",
+          "time": "2026-02-07T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6393,9 +6399,9 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 48,
+        "played": 49,
         "wins": 19,
-        "losses": 29,
+        "losses": 30,
         "last5": [
           {
             "result": "W",
@@ -6693,8 +6699,8 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 46,
-        "wins": 29,
+        "played": 47,
+        "wins": 30,
         "losses": 17,
         "last5": [
           {
@@ -8371,7 +8377,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nottm Forest",
+          "home": true,
+          "date": "2026-02-06T20:00Z",
+          "time": "2026-02-06T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12105,7 +12117,7 @@
         "leaders": {
           "passingYards": {
             "value": 3693.0,
-            "player": ""
+            "player": "Baker Mayfield"
           },
           "rushingYards": {
             "value": 588.0,
@@ -12814,7 +12826,7 @@
           {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
-            "score": "24-27",
+            "score": "71-78",
             "home": false
           }
         ],
@@ -12884,7 +12896,7 @@
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "27-24",
+            "score": "78-71",
             "home": true
           }
         ],
