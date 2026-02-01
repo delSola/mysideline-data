@@ -4083,7 +4083,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Christoph Baumgartner"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -10370,7 +10370,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": false,
+          "date": "2026-02-08T16:15Z",
+          "time": "2026-02-08T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11187,7 +11193,7 @@
           },
           "tackles": {
             "value": 125.0,
-            "player": ""
+            "player": "Zaire Franklin"
           },
           "interceptions": {
             "value": 4.0,
@@ -12574,7 +12580,7 @@
           },
           "rushingYards": {
             "value": 1107.0,
-            "player": ""
+            "player": "Travis Etienne Jr."
           },
           "receivingYards": {
             "value": 847.0,
@@ -12848,9 +12854,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "D",
             "opponent": "Sydney Kings",
-            "score": "37-19",
+            "score": "83-83",
             "home": true
           }
         ],
@@ -13408,9 +13414,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "D",
             "opponent": "Cairns Taipans",
-            "score": "19-37",
+            "score": "83-83",
             "home": false
           }
         ],
