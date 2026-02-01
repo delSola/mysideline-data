@@ -2079,7 +2079,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Óscar Valentín"
+            "player": "Óscar Valentín "
           }
         }
       }
@@ -3497,7 +3497,7 @@
           "home": false,
           "date": "2026-02-01T11:30Z",
           "time": "2026-02-01T11:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3784,7 +3784,7 @@
           "home": true,
           "date": "2026-02-01T11:30Z",
           "time": "2026-02-01T11:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6157,11 +6157,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.9,
+            "value": 23.1,
             "player": "Jalen Johnson"
           },
           "assists": {
-            "value": 7.9,
+            "value": 8.0,
             "player": "Jalen Johnson"
           },
           "rebounds": {
@@ -6390,7 +6390,7 @@
             "player": "LaMelo Ball"
           },
           "rebounds": {
-            "value": 8.4,
+            "value": 8.5,
             "player": "Moussa Diabate"
           },
           "blocks": {
@@ -6398,7 +6398,7 @@
             "player": "Ryan Kalkbrenner"
           },
           "steals": {
-            "value": 1.2,
+            "value": 1.1,
             "player": "LaMelo Ball"
           }
         }
@@ -6469,7 +6469,7 @@
             "player": "Nikola Vucevic"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Matas Buzelis"
           },
           "steals": {
@@ -6607,7 +6607,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.5,
+            "value": 19.8,
             "player": "Cooper Flagg"
           },
           "assists": {
@@ -6765,7 +6765,7 @@
             "player": "Cade Cunningham"
           },
           "rebounds": {
-            "value": 10.6,
+            "value": 10.7,
             "player": "Jalen Duren"
           },
           "blocks": {
@@ -6836,7 +6836,7 @@
             "player": "Stephen Curry"
           },
           "assists": {
-            "value": 5.2,
+            "value": 5.3,
             "player": "Draymond Green"
           },
           "rebounds": {
@@ -6907,7 +6907,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.5,
+            "value": 26.2,
             "player": "Kevin Durant"
           },
           "assists": {
@@ -6986,7 +6986,7 @@
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.4,
+            "value": 7.5,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
@@ -7431,15 +7431,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.3,
+            "value": 29.4,
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.3,
+            "value": 5.4,
             "player": "Julius Randle"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.3,
             "player": "Rudy Gobert"
           },
           "blocks": {
@@ -7506,7 +7506,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.0,
+            "value": 21.7,
             "player": "Zion Williamson"
           },
           "assists": {
@@ -7518,7 +7518,7 @@
             "player": "Derik Queen"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.4,
             "player": "Yves Missi"
           },
           "steals": {
@@ -7806,7 +7806,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.4,
+            "value": 29.2,
             "player": "Tyrese Maxey"
           },
           "assists": {
@@ -8106,7 +8106,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.3,
+            "value": 24.1,
             "player": "Victor Wembanyama"
           },
           "assists": {
@@ -8114,11 +8114,11 @@
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.1,
             "player": "Victor Wembanyama"
           },
           "blocks": {
-            "value": 2.7,
+            "value": 2.6,
             "player": "Victor Wembanyama"
           },
           "steals": {
