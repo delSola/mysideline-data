@@ -707,6 +707,12 @@
         "points": 39,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Newcastle",
+            "score": "4-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Bournemouth",
             "score": "2-3",
@@ -729,12 +735,6 @@
             "opponent": "Fulham",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Leeds",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -918,6 +918,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Liverpool",
+            "score": "1-4",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Aston Villa",
             "score": "0-2",
             "home": true
@@ -939,12 +945,6 @@
             "opponent": "C Palace",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Burnley",
-            "score": "3-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -1397,6 +1397,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Elche",
+            "score": "3-1",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Real Oviedo",
             "score": "3-0",
             "home": true
@@ -1418,12 +1424,6 @@
             "opponent": "Villarreal",
             "score": "2-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Osasuna",
-            "score": "2-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8835,6 +8835,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Barcelona",
+            "score": "1-3",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Levante",
             "score": "2-3",
             "home": false
@@ -8855,12 +8861,6 @@
             "result": "L",
             "opponent": "Villarreal",
             "score": "1-3",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Rayo",
-            "score": "4-0",
             "home": true
           }
         ],
@@ -9675,6 +9675,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Monaco",
+            "score": "0-4",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Lorient",
             "score": "0-2",
             "home": true
@@ -9696,12 +9702,6 @@
             "opponent": "Brest",
             "score": "3-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "PSG",
-            "score": "0-5",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9814,6 +9814,12 @@
         "points": 27,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Rennes",
+            "score": "4-0",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Le Havre AC",
             "score": "0-0",
@@ -9834,12 +9840,6 @@
           {
             "result": "L",
             "opponent": "Marseille",
-            "score": "0-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Brest",
             "score": "0-1",
             "home": false
           }
