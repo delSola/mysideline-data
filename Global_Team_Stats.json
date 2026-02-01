@@ -120,7 +120,7 @@
           "home": true,
           "date": "2026-02-01T14:00Z",
           "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -263,7 +263,7 @@
           "home": false,
           "date": "2026-02-01T14:00Z",
           "time": "2026-02-01T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3462,6 +3462,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Torino",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Lazio",
             "score": "0-0",
@@ -3483,12 +3489,6 @@
             "result": "L",
             "opponent": "Parma",
             "score": "1-2",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "AS Roma",
-            "score": "0-2",
             "home": true
           }
         ],
@@ -3743,6 +3743,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Lecce",
+            "score": "1-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Como",
             "score": "0-6",
@@ -3765,12 +3771,6 @@
             "opponent": "Udinese",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Verona",
-            "score": "3-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -4276,7 +4276,7 @@
           "home": true,
           "date": "2026-02-01T14:30Z",
           "time": "2026-02-01T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4491,7 +4491,7 @@
           "home": false,
           "date": "2026-02-01T14:30Z",
           "time": "2026-02-01T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
