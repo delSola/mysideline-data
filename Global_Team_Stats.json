@@ -1474,6 +1474,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Getafe",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Real Sociedad",
             "score": "1-3",
@@ -1496,12 +1502,6 @@
             "opponent": "Valencia",
             "score": "4-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Real Oviedo",
-            "score": "0-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -1684,6 +1684,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Celta Vigo",
+            "score": "0-0",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Girona",
             "score": "1-1",
             "home": false
@@ -1704,12 +1710,6 @@
             "result": "D",
             "opponent": "Rayo",
             "score": "1-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Betis",
-            "score": "0-4",
             "home": false
           }
         ],
@@ -2198,7 +2198,7 @@
           "home": false,
           "date": "2026-02-01T20:00Z",
           "time": "2026-02-01T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6064,7 +6064,7 @@
           "home": true,
           "date": "2026-02-01T20:30Z",
           "time": "2026-02-01T20:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7188,7 +7188,7 @@
           "home": false,
           "date": "2026-02-01T20:30Z",
           "time": "2026-02-01T20:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7561,8 +7561,8 @@
         "nextGame": {
           "opponent": "Spurs",
           "home": false,
-          "date": "2026-02-02T00:00Z",
-          "time": "2026-02-02T00:00Z",
+          "date": "2026-02-02T02:00Z",
+          "time": "2026-02-02T02:00Z",
           "status": "scheduled"
         }
       },
@@ -7936,8 +7936,8 @@
         "nextGame": {
           "opponent": "Magic",
           "home": true,
-          "date": "2026-02-02T00:00Z",
-          "time": "2026-02-02T00:00Z",
+          "date": "2026-02-02T02:00Z",
+          "time": "2026-02-02T02:00Z",
           "status": "scheduled"
         }
       },
@@ -8680,7 +8680,7 @@
           "home": true,
           "date": "2026-02-01T20:00Z",
           "time": "2026-02-01T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11501,28 +11501,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 2384.0,
-            "player": "Tyler Shough"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 471.0,
-            "player": "Alvin Kamara"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1163.0,
-            "player": "Chris Olave"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 3.0,
-            "player": "Tyler Shough"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 143.0,
-            "player": "Demario Davis"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Kool-Aid McKinstry"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -12319,7 +12319,7 @@
           },
           "receivingYards": {
             "value": 1014.0,
-            "player": ""
+            "player": "Tetairoa McMillan"
           },
           "touchdowns": {
             "value": 6.0,
