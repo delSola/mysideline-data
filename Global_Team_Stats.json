@@ -6382,7 +6382,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.6,
+            "value": 20.8,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -6615,11 +6615,11 @@
             "player": "Ryan Nembhard"
           },
           "rebounds": {
-            "value": 7.3,
+            "value": 7.2,
             "player": "P.J. Washington"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "P.J. Washington"
           },
           "steals": {
@@ -6757,7 +6757,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.4,
             "player": "Cade Cunningham"
           },
           "assists": {
@@ -6773,7 +6773,7 @@
             "player": "Isaiah Stewart"
           },
           "steals": {
-            "value": 1.7,
+            "value": 1.8,
             "player": "Ausar Thompson"
           }
         }
@@ -6832,7 +6832,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.3,
+            "value": 27.2,
             "player": "Stephen Curry"
           },
           "assists": {
@@ -6915,7 +6915,7 @@
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.1,
+            "value": 9.2,
             "player": "Alperen Sengun"
           },
           "blocks": {
@@ -6923,8 +6923,8 @@
             "player": "Alperen Sengun"
           },
           "steals": {
-            "value": 1.5,
-            "player": "Alperen Sengun"
+            "value": 1.4,
+            "player": "Amen Thompson"
           }
         }
       }
@@ -6982,7 +6982,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.7,
+            "value": 23.8,
             "player": "Pascal Siakam"
           },
           "assists": {
@@ -12761,32 +12761,32 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "79-116",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "83-81",
+            "opponent": "Cairns Taipans",
+            "score": "83-88",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "New Zealand Breakers",
-            "score": "84-113",
-            "home": true
+            "opponent": "Sydney Kings",
+            "score": "80-95",
+            "home": false
           },
           {
             "result": "L",
             "opponent": "Melbourne United",
-            "score": "93-99",
+            "score": "66-98",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "76-103",
+            "opponent": "Illawarra Hawks",
+            "score": "75-113",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "74-107",
             "home": true
           }
         ],
@@ -12830,33 +12830,33 @@
         "losses": 21,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "75-69",
-            "home": false
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "86-104",
+            "home": true
           },
           {
             "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "90-107",
-            "home": true
+            "opponent": "Perth Wildcats",
+            "score": "69-106",
+            "home": false
           },
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "90-101",
+            "score": "91-118",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "96-93",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "101-105",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "New Zealand Breakers",
-            "score": "96-102",
+            "opponent": "Sydney Kings",
+            "score": "92-106",
             "home": true
           }
         ],
@@ -12900,33 +12900,33 @@
         "losses": 18,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Melbourne United",
-            "score": "107-93",
-            "home": true
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "87-92",
+            "home": false
           },
           {
             "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "107-90",
+            "opponent": "Tasmania JackJumpers",
+            "score": "101-91",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "113-75",
             "home": false
           },
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "71-98",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "85-97",
+            "score": "104-122",
             "home": false
           },
           {
             "result": "L",
-            "opponent": "Melbourne United",
-            "score": "102-105",
+            "opponent": "Perth Wildcats",
+            "score": "99-106",
             "home": true
           }
         ],
@@ -12972,31 +12972,31 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "92-95",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Illawarra Hawks",
-            "score": "93-107",
+            "score": "94-97",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "92-81",
-            "home": false
+            "opponent": "Tasmania JackJumpers",
+            "score": "79-77",
+            "home": true
           },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "99-93",
+            "score": "98-66",
             "home": true
           },
           {
             "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "105-102",
+            "opponent": "Perth Wildcats",
+            "score": "74-73",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "95-97",
             "home": false
           }
         ],
@@ -13040,33 +13040,33 @@
         "losses": 18,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "104-86",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "116-123",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "79-83",
+            "score": "110-112",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "97-95",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "72-79",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "113-84",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "75-88",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "102-96",
+            "opponent": "Tasmania JackJumpers",
+            "score": "89-91",
             "home": false
           }
         ],
@@ -13111,32 +13111,32 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "102-103",
+            "opponent": "Melbourne United",
+            "score": "77-79",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "94-105",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Illawarra Hawks",
+            "score": "91-101",
             "home": true
           },
           {
             "result": "L",
-            "opponent": "Brisbane Bullets",
-            "score": "81-83",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Adelaide 36ers",
-            "score": "86-97",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "95-101",
+            "opponent": "Cairns Taipans",
+            "score": "93-96",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "Sydney Kings",
-            "score": "104-81",
+            "opponent": "New Zealand Breakers",
+            "score": "91-89",
             "home": true
           }
         ],
@@ -13181,33 +13181,33 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "87-94",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "97-86",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "105-101",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "97-85",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "SE Melbourne Phoenix",
-            "score": "94-81",
+            "score": "89-108",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "New Zealand Breakers",
+            "score": "112-110",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "101-106",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "107-74",
+            "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "77-97",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -13251,33 +13251,33 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "95-84",
-            "home": false
+            "opponent": "Illawarra Hawks",
+            "score": "92-87",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "106-69",
+            "home": true
           },
           {
             "result": "L",
+            "opponent": "Melbourne United",
+            "score": "73-74",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "SE Melbourne Phoenix",
-            "score": "89-94",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Adelaide 36ers",
-            "score": "94-87",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "New Zealand Breakers",
-            "score": "88-75",
+            "score": "101-93",
             "home": true
           },
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "101-95",
-            "home": true
+            "opponent": "Illawarra Hawks",
+            "score": "106-99",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13321,33 +13321,33 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "103-102",
+            "opponent": "Adelaide 36ers",
+            "score": "108-89",
             "home": false
           },
           {
-            "result": "L",
-            "opponent": "Melbourne United",
-            "score": "81-92",
+            "result": "W",
+            "opponent": "New Zealand Breakers",
+            "score": "123-116",
             "home": true
           },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "101-90",
+            "score": "118-91",
+            "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "93-101",
             "home": false
           },
           {
             "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "103-76",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "81-94",
-            "home": true
+            "score": "97-77",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13392,31 +13392,31 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "116-79",
-            "home": false
+            "score": "95-80",
+            "home": true
           },
           {
             "result": "W",
-            "opponent": "Melbourne United",
-            "score": "95-92",
-            "home": false
+            "opponent": "Tasmania JackJumpers",
+            "score": "105-94",
+            "home": true
           },
           {
             "result": "W",
-            "opponent": "New Zealand Breakers",
-            "score": "79-72",
+            "opponent": "Adelaide 36ers",
+            "score": "106-101",
             "home": true
           },
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "98-71",
-            "home": false
+            "score": "122-104",
+            "home": true
           },
           {
-            "result": "L",
-            "opponent": "Tasmania JackJumpers",
-            "score": "81-104",
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "106-92",
             "home": false
           }
         ],
