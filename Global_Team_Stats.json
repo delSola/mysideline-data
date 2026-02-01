@@ -1740,7 +1740,7 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 11,
+        "position": 12,
         "positionSuffix": "th",
         "played": 22,
         "wins": 6,
@@ -2156,11 +2156,11 @@
       "TeamStats": {
         "position": 8,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
-        "draws": 6,
+        "draws": 7,
         "losses": 8,
-        "points": 27,
+        "points": 28,
         "last5": [
           {
             "result": "W",
@@ -2193,13 +2193,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Athletic",
-          "home": false,
-          "date": "2026-02-01T20:00Z",
-          "time": "2026-02-01T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2297,7 +2291,7 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "played": 21,
         "wins": 7,
@@ -2998,7 +2992,7 @@
       "TeamName": "Genoa",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 14,
         "positionSuffix": "th",
         "played": 23,
         "wins": 5,
@@ -3213,13 +3207,13 @@
       "TeamName": "Juventus",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 22,
-        "wins": 12,
+        "played": 23,
+        "wins": 13,
         "draws": 6,
         "losses": 4,
-        "points": 42,
+        "points": 45,
         "last5": [
           {
             "result": "W",
@@ -3252,13 +3246,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": false,
-          "date": "2026-02-01T19:45Z",
-          "time": "2026-02-01T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3495,12 +3483,12 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 22,
+        "played": 23,
         "wins": 5,
         "draws": 8,
-        "losses": 9,
+        "losses": 10,
         "points": 23,
         "last5": [
           {
@@ -3534,13 +3522,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": true,
-          "date": "2026-02-01T19:45Z",
-          "time": "2026-02-01T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4516,13 +4498,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Frankfurt",
-          "home": true,
-          "date": "2026-02-06T19:30Z",
-          "time": "2026-02-06T19:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4906,13 +4882,13 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 19,
-        "wins": 14,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 20,
+        "wins": 15,
         "draws": 3,
         "losses": 2,
-        "points": 45,
+        "points": 48,
         "last5": [
           {
             "result": "W",
@@ -4945,13 +4921,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Strasbourg",
-          "home": false,
-          "date": "2026-02-01T19:45Z",
-          "time": "2026-02-01T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5319,8 +5289,8 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 20,
         "wins": 15,
         "draws": 1,
@@ -5464,10 +5434,10 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 19,
+        "played": 20,
         "wins": 9,
         "draws": 3,
-        "losses": 7,
+        "losses": 8,
         "points": 30,
         "last5": [
           {
@@ -5501,13 +5471,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "PSG",
-          "home": true,
-          "date": "2026-02-01T19:45Z",
-          "time": "2026-02-01T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8636,13 +8600,13 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 14,
+        "position": 11,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "losses": 11,
-        "points": 24,
+        "points": 25,
         "last5": [
           {
             "result": "L",
@@ -8675,13 +8639,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Real Sociedad",
-          "home": true,
-          "date": "2026-02-01T20:00Z",
-          "time": "2026-02-01T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8855,7 +8813,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 12,
+        "position": 13,
         "positionSuffix": "th",
         "played": 22,
         "wins": 5,
@@ -9360,7 +9318,7 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 22,
         "wins": 14,
@@ -9646,7 +9604,7 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 16,
+        "position": 15,
         "positionSuffix": "th",
         "played": 23,
         "wins": 5,
@@ -9776,7 +9734,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Jérémy Jacquet"
+            "player": ""
           }
         }
       }
@@ -10859,7 +10817,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Evan Williams"
+            "player": ""
           }
         }
       }
@@ -11131,7 +11089,7 @@
         "leaders": {
           "passingYards": {
             "value": 3025.0,
-            "player": "Geno Smith"
+            "player": ""
           },
           "rushingYards": {
             "value": 975.0,
@@ -11501,28 +11459,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 2384.0,
+            "player": "Tyler Shough"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 471.0,
+            "player": "Alvin Kamara"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1163.0,
+            "player": "Chris Olave"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Tyler Shough"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 143.0,
+            "player": "Demario Davis"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Kool-Aid McKinstry"
           }
         }
       }
@@ -11725,7 +11683,7 @@
           },
           "rushingYards": {
             "value": 1140.0,
-            "player": "Saquon Barkley"
+            "player": ""
           },
           "receivingYards": {
             "value": 1008.0,
