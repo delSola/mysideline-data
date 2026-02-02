@@ -4937,7 +4937,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha"
+            "player": ""
           },
           "yellowCards": {
             "value": 3,
@@ -5991,8 +5991,8 @@
       "TeamName": "Boston Celtics",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "East",
         "played": 49,
         "wins": 31,
@@ -6334,7 +6334,7 @@
           "home": false,
           "date": "2026-02-02T02:00Z",
           "time": "2026-02-02T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6484,7 +6484,7 @@
           "home": true,
           "date": "2026-02-02T02:30Z",
           "time": "2026-02-02T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6890,19 +6890,13 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 47,
+        "played": 48,
         "wins": 29,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Clippers",
-            "score": "104-112",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Mavericks",
@@ -6926,14 +6920,20 @@
             "opponent": "Wizards",
             "score": "142-111",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Knicks",
+            "score": "100-112",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Knicks",
+          "opponent": "Nets",
           "home": false,
-          "date": "2026-02-02T00:00Z",
-          "time": "2026-02-02T00:00Z",
-          "status": "live"
+          "date": "2026-02-04T00:30Z",
+          "time": "2026-02-04T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7340,19 +7340,13 @@
       "TeamName": "New York Knicks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "East",
-        "played": 48,
-        "wins": 30,
+        "played": 49,
+        "wins": 31,
         "losses": 18,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "120-66",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "76ers",
@@ -7376,14 +7370,20 @@
             "opponent": "Trail Blazers",
             "score": "127-97",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Lakers",
+            "score": "112-100",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
-          "home": true,
-          "date": "2026-02-02T00:00Z",
-          "time": "2026-02-02T00:00Z",
-          "status": "live"
+          "opponent": "Wizards",
+          "home": false,
+          "date": "2026-02-04T00:00Z",
+          "time": "2026-02-04T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7458,7 +7458,7 @@
           "home": false,
           "date": "2026-02-02T02:30Z",
           "time": "2026-02-02T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7533,7 +7533,7 @@
           "home": false,
           "date": "2026-02-02T02:00Z",
           "time": "2026-02-02T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7640,7 +7640,7 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 49,
@@ -7758,7 +7758,7 @@
           "home": true,
           "date": "2026-02-02T02:00Z",
           "time": "2026-02-02T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7908,7 +7908,7 @@
           "home": true,
           "date": "2026-02-02T02:00Z",
           "time": "2026-02-02T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7943,8 +7943,8 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
-        "wins": 29,
+        "played": 51,
+        "wins": 30,
         "losses": 21,
         "last5": [
           {
@@ -8018,9 +8018,9 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 49,
+        "played": 50,
         "wins": 15,
-        "losses": 34,
+        "losses": 35,
         "last5": [
           {
             "result": "L",
@@ -11985,7 +11985,7 @@
           },
           "receivingYards": {
             "value": 924.0,
-            "player": ""
+            "player": "Christian McCaffrey"
           },
           "touchdowns": {
             "value": 10.0,
