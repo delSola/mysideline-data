@@ -1728,7 +1728,7 @@
       "TeamName": "Getafe",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 17,
         "positionSuffix": "th",
         "played": 22,
         "wins": 6,
@@ -1872,13 +1872,13 @@
       "TeamName": "Mallorca",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 18,
+        "position": 14,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 5,
+        "played": 22,
+        "wins": 6,
         "draws": 6,
         "losses": 10,
-        "points": 21,
+        "points": 24,
         "last5": [
           {
             "result": "L",
@@ -2010,7 +2010,7 @@
       "TeamName": "Rayo Vallecano",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 17,
+        "position": 18,
         "positionSuffix": "th",
         "played": 22,
         "wins": 5,
@@ -2369,12 +2369,12 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
         "draws": 3,
-        "losses": 11,
+        "losses": 12,
         "points": 24,
         "last5": [
           {
@@ -2435,7 +2435,7 @@
       "TeamName": "Valencia",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
         "played": 22,
         "wins": 5,
@@ -3810,6 +3810,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "AS Roma",
+            "score": "1-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Verona",
             "score": "3-1",
             "home": false
@@ -3830,12 +3836,6 @@
             "result": "W",
             "opponent": "Torino",
             "score": "2-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Como",
-            "score": "0-1",
             "home": false
           }
         ],
@@ -4277,7 +4277,7 @@
         "leaders": {
           "goals": {
             "value": 11,
-            "player": ""
+            "player": "Deniz Undav"
           },
           "assists": {
             "value": 5,
@@ -6318,16 +6318,10 @@
         "position": 11,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
-        "wins": 22,
+        "played": 51,
+        "wins": 23,
         "losses": 28,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Wizards",
-            "score": "119-115",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "76ers",
@@ -6351,14 +6345,20 @@
             "opponent": "Spurs",
             "score": "111-106",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pelicans",
+            "score": "102-95",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pelicans",
-          "home": true,
-          "date": "2026-02-02T20:00Z",
-          "time": "2026-02-02T20:00Z",
-          "status": "live"
+          "opponent": "Rockets",
+          "home": false,
+          "date": "2026-02-06T01:00Z",
+          "time": "2026-02-06T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7442,16 +7442,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 51,
+        "played": 52,
         "wins": 13,
-        "losses": 38,
+        "losses": 39,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Grizzlies",
-            "score": "133-127",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Spurs",
@@ -7475,14 +7469,20 @@
             "opponent": "76ers",
             "score": "114-124",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Hornets",
+            "score": "95-102",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
+          "opponent": "Bucks",
           "home": false,
-          "date": "2026-02-02T20:00Z",
-          "time": "2026-02-02T20:00Z",
-          "status": "live"
+          "date": "2026-02-05T01:00Z",
+          "time": "2026-02-05T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8570,6 +8570,12 @@
         "points": 36,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Burnley",
+            "score": "3-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "West Ham",
             "score": "1-3",
@@ -8592,12 +8598,6 @@
             "opponent": "Spurs",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Man City",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9507,6 +9507,12 @@
         "points": 43,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Udinese",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Milan",
             "score": "1-1",
@@ -9528,12 +9534,6 @@
             "result": "W",
             "opponent": "Lecce",
             "score": "2-0",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Atalanta",
-            "score": "0-1",
             "home": false
           }
         ],
