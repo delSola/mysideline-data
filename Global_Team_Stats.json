@@ -278,11 +278,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Kevin Schade"
+            "player": "Michael Kayode"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Kevin Schade"
           }
         }
       }
@@ -920,12 +920,12 @@
             "player": "Bryan Mbeumo"
           },
           "assists": {
-            "value": 10,
+            "value": 12,
             "player": "Bruno Fernandes"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Patrick Dorgu"
+            "value": 6,
+            "player": "Casemiro"
           },
           "redCards": {
             "value": 1,
@@ -1060,7 +1060,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Morgan Gibbs-White"
           },
           "assists": {
@@ -1068,12 +1068,12 @@
             "player": "Elliot Anderson"
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Neco Williams"
+            "value": 5,
+            "player": "Nikola Milenkovic"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Neco Williams"
           }
         }
       }
@@ -1428,7 +1428,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Koke"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -1571,7 +1571,7 @@
             "player": "Iago Aspas"
           },
           "yellowCards": {
-            "value": 3,
+            "value": 4,
             "player": "Ilaix Moriba"
           },
           "redCards": {
@@ -1931,7 +1931,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": "Samú Costa"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -2066,20 +2066,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Jorge de Frutos"
           },
           "assists": {
             "value": 3,
-            "player": "Isi Palazón"
+            "player": "Álvaro García"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Isi Palazón"
           },
           "redCards": {
-            "value": 1,
-            "player": "Óscar Valentín"
+            "value": 2,
+            "player": "Pathé Ciss"
           }
         }
       }
@@ -2210,7 +2210,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 21,
+            "value": 22,
             "player": "Kylian Mbappé"
           },
           "assists": {
@@ -2219,7 +2219,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Aurélien Tchouaméni"
+            "player": "Vinícius Júnior"
           },
           "redCards": {
             "value": 1,
@@ -2287,7 +2287,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Ander Barrenetxea"
+            "player": "Mikel Oyarzabal"
           },
           "yellowCards": {
             "value": 7,
@@ -2295,7 +2295,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Carlos Soler"
+            "player": "Brais Méndez"
           }
         }
       }
@@ -2505,8 +2505,8 @@
             "player": "Luis Rioja"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Hugo Duro"
+            "value": 6,
+            "player": "César Tárrega"
           },
           "redCards": {
             "value": 1,
@@ -4006,7 +4006,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 8,
             "player": "Serhou Guirassy"
           },
           "assists": {
@@ -8764,13 +8764,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rayo",
-          "home": false,
-          "date": "2026-02-07T13:00Z",
-          "time": "2026-02-07T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11051,7 +11045,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": "Evan Williams"
+            "player": ""
           }
         }
       }
