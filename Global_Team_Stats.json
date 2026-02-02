@@ -2721,7 +2721,7 @@
             "player": "Nikola Krstovic"
           },
           "yellowCards": {
-            "value": 4,
+            "value": 5,
             "player": "Marten de Roon"
           },
           "redCards": {
@@ -2938,7 +2938,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": "Ivan Smolcic"
+            "player": "Máximo Perrone"
           },
           "redCards": {
             "value": 1,
@@ -3511,7 +3511,7 @@
             "player": "Medon Berisha"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Ylber Ramadani"
           },
           "redCards": {
@@ -3794,12 +3794,12 @@
             "player": "Nikola Vlasic"
           },
           "assists": {
-            "value": 2,
+            "value": 3,
             "player": "Nikola Vlasic"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Cesare Casadei"
+            "player": "Nikola Vlasic"
           },
           "redCards": {
             "value": 0,
@@ -5094,8 +5094,8 @@
             "player": "Illia Zabarnyi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Achraf Hakimi"
           }
         }
       }
@@ -5445,12 +5445,12 @@
             "player": "Sofiane Diop"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Jonathan Clauss"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Juma Bah"
+            "value": 6,
+            "player": "Charles Vanhoutte"
           },
           "redCards": {
             "value": 1,
@@ -5664,8 +5664,8 @@
             "player": "Guela Doué"
           },
           "yellowCards": {
-            "value": 3,
-            "player": "Samir El Mourabet"
+            "value": 4,
+            "player": "Diego Moreira"
           },
           "redCards": {
             "value": 1,
@@ -5872,11 +5872,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
+            "value": 7,
             "player": "Romain Del Castillo"
           },
           "assists": {
-            "value": 5,
+            "value": 6,
             "player": "Ludovic Ajorque"
           },
           "yellowCards": {
@@ -6019,8 +6019,8 @@
             "player": "Sidiki Cherif"
           },
           "assists": {
-            "value": 2,
-            "player": "Yassin Belkhdim"
+            "value": 3,
+            "player": "Carlens Arcus"
           },
           "yellowCards": {
             "value": 7,
@@ -9651,11 +9651,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 12,
+            "value": 13,
             "player": "Lautaro Martínez"
           },
           "assists": {
-            "value": 7,
+            "value": 8,
             "player": "Federico Dimarco"
           },
           "yellowCards": {
