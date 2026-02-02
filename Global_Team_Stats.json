@@ -1428,7 +1428,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": ""
+            "player": "Koke"
           },
           "redCards": {
             "value": 1,
@@ -1931,7 +1931,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": ""
+            "player": "Samú Costa"
           },
           "redCards": {
             "value": 1,
@@ -8764,7 +8764,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rayo",
+          "home": false,
+          "date": "2026-02-07T13:00Z",
+          "time": "2026-02-07T13:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11045,7 +11051,7 @@
           },
           "interceptions": {
             "value": 3.0,
-            "player": ""
+            "player": "Evan Williams"
           }
         }
       }
@@ -12859,15 +12865,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.7,
+            "value": 21.8,
             "player": "Jack McVeigh"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.6,
             "player": "Andrew Andrews"
           },
           "rebounds": {
-            "value": 6.1,
+            "value": 6.2,
             "player": "Jack McVeigh"
           },
           "blocks": {
@@ -13419,20 +13425,20 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.5,
+            "value": 23.8,
             "player": "Kendric Davis"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.4,
             "player": "Kendric Davis"
           },
           "rebounds": {
-            "value": 6.7,
+            "value": 6.8,
             "player": "Xavier Cooks"
           },
           "blocks": {
-            "value": 1.2,
-            "player": "Xavier Cooks"
+            "value": 1.5,
+            "player": "Torrey Craig"
           },
           "steals": {
             "value": 0.0,
