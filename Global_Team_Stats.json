@@ -6311,11 +6311,11 @@
             "player": "Michael Porter Jr."
           },
           "assists": {
-            "value": 4.1,
+            "value": 4.0,
             "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 7.5,
+            "value": 7.4,
             "player": "Nic Claxton"
           },
           "blocks": {
@@ -6532,7 +6532,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.1,
+            "value": 28.8,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6757,11 +6757,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.4,
+            "value": 25.2,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.7,
+            "value": 9.8,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -7131,7 +7131,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.7,
+            "value": 33.6,
             "player": "Luka Doncic"
           },
           "assists": {
@@ -7139,7 +7139,7 @@
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.6,
+            "value": 8.5,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7581,11 +7581,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.6,
+            "value": 27.2,
             "player": "Jalen Brunson"
           },
           "assists": {
-            "value": 5.9,
+            "value": 6.1,
             "player": "Jalen Brunson"
           },
           "rebounds": {
@@ -7664,11 +7664,11 @@
             "player": "Shai Gilgeous-Alexander"
           },
           "rebounds": {
-            "value": 8.6,
+            "value": 8.5,
             "player": "Chet Holmgren"
           },
           "blocks": {
-            "value": 2.0,
+            "value": 2.1,
             "player": "Chet Holmgren"
           },
           "steals": {
@@ -7889,7 +7889,7 @@
             "player": "Devin Booker"
           },
           "rebounds": {
-            "value": 8.1,
+            "value": 8.0,
             "player": "Mark Williams"
           },
           "blocks": {
@@ -7897,7 +7897,7 @@
             "player": "Mark Williams"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Grayson Allen"
           }
         }
@@ -8031,7 +8031,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.3,
+            "value": 19.8,
             "player": "Zach LaVine"
           },
           "assists": {
@@ -8193,7 +8193,7 @@
             "player": "Scottie Barnes"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Scottie Barnes"
           },
           "steals": {
@@ -8347,8 +8347,8 @@
             "player": "Alex Sarr"
           },
           "steals": {
-            "value": 1.2,
-            "player": "Kyshawn George"
+            "value": 1.4,
+            "player": "Bilal Coulibaly"
           }
         }
       }
@@ -8406,7 +8406,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.7,
+            "value": 27.6,
             "player": "Kawhi Leonard"
           },
           "assists": {
@@ -8414,7 +8414,7 @@
             "player": "James Harden"
           },
           "rebounds": {
-            "value": 10.8,
+            "value": 11.0,
             "player": "Ivica Zubac"
           },
           "blocks": {
@@ -8422,7 +8422,7 @@
             "player": "Brook Lopez"
           },
           "steals": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Kawhi Leonard"
           }
         }
