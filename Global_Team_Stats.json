@@ -1013,7 +1013,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Leeds",
+          "home": false,
+          "date": "2026-02-06T20:00Z",
+          "time": "2026-02-06T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1995,7 +2001,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Real Oviedo",
+          "home": true,
+          "date": "2026-02-07T13:00Z",
+          "time": "2026-02-07T13:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2127,7 +2139,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Valencia",
+          "home": false,
+          "date": "2026-02-08T20:00Z",
+          "time": "2026-02-08T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3246,7 +3264,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lazio",
+          "home": true,
+          "date": "2026-02-08T19:45Z",
+          "time": "2026-02-08T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6294,16 +6318,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
-        "wins": 29,
+        "played": 51,
+        "wins": 30,
         "losses": 21,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "123-118",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Magic",
@@ -6327,14 +6345,20 @@
             "opponent": "Suns",
             "score": "113-126",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Trail Blazers",
+            "score": "130-111",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
+          "opponent": "Clippers",
           "home": false,
-          "date": "2026-02-02T02:00Z",
-          "time": "2026-02-02T02:00Z",
-          "status": "live"
+          "date": "2026-02-05T03:30Z",
+          "time": "2026-02-05T03:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6441,8 +6465,8 @@
       "TeamName": "Denver Nuggets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "West",
         "played": 49,
         "wins": 33,
@@ -7040,7 +7064,7 @@
       "TeamName": "Miami Heat",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "East",
         "played": 51,
@@ -7490,19 +7514,13 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 47,
+        "played": 48,
         "wins": 25,
-        "losses": 22,
+        "losses": 23,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hornets",
-            "score": "97-124",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Cavaliers",
@@ -7526,14 +7544,20 @@
             "opponent": "Raptors",
             "score": "130-120",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Spurs",
+            "score": "103-112",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Spurs",
+          "opponent": "Thunder",
           "home": false,
-          "date": "2026-02-02T02:00Z",
-          "time": "2026-02-02T02:00Z",
-          "status": "live"
+          "date": "2026-02-04T01:00Z",
+          "time": "2026-02-04T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7718,16 +7742,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 49,
+        "played": 50,
         "wins": 23,
-        "losses": 26,
+        "losses": 27,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Heat",
-            "score": "127-110",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Raptors",
@@ -7751,14 +7769,20 @@
             "opponent": "Knicks",
             "score": "97-127",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Cavaliers",
+            "score": "111-130",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Cavaliers",
+          "opponent": "Suns",
           "home": true,
-          "date": "2026-02-02T02:00Z",
-          "time": "2026-02-02T02:00Z",
-          "status": "live"
+          "date": "2026-02-04T04:00Z",
+          "time": "2026-02-04T04:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7865,19 +7889,13 @@
       "TeamName": "San Antonio Spurs",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "West",
-        "played": 48,
-        "wins": 32,
+        "played": 49,
+        "wins": 33,
         "losses": 16,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Rockets",
-            "score": "106-111",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -7901,14 +7919,20 @@
             "opponent": "Hornets",
             "score": "106-111",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Magic",
+            "score": "112-103",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
+          "opponent": "Thunder",
           "home": true,
-          "date": "2026-02-02T02:00Z",
-          "time": "2026-02-02T02:00Z",
-          "status": "live"
+          "date": "2026-02-05T02:30Z",
+          "time": "2026-02-05T02:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8942,20 +8966,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Said El Mala"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Ragnar Ache"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Eric Martel"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Rav van den Berg"
           }
         }
       }
