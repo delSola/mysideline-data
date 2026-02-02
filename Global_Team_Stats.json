@@ -4937,7 +4937,7 @@
           },
           "assists": {
             "value": 7,
-            "player": ""
+            "player": "Vitinha"
           },
           "yellowCards": {
             "value": 3,
@@ -6890,7 +6890,7 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 48,
@@ -7640,19 +7640,13 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 49,
+        "played": 50,
         "wins": 30,
-        "losses": 19,
+        "losses": 20,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hawks",
-            "score": "103-110",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Heat",
@@ -7676,14 +7670,20 @@
             "opponent": "Cavaliers",
             "score": "126-113",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Clippers",
+            "score": "93-117",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
-          "home": true,
-          "date": "2026-02-02T01:00Z",
-          "time": "2026-02-02T01:00Z",
-          "status": "live"
+          "opponent": "Trail Blazers",
+          "home": false,
+          "date": "2026-02-04T04:00Z",
+          "time": "2026-02-04T04:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7715,7 +7715,7 @@
       "TeamName": "Portland Trail Blazers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "West",
         "played": 49,
@@ -8165,19 +8165,13 @@
       "TeamName": "LA Clippers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 47,
-        "wins": 22,
+        "played": 48,
+        "wins": 23,
         "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Bulls",
-            "score": "110-138",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Lakers",
@@ -8201,14 +8195,20 @@
             "opponent": "Nuggets",
             "score": "109-122",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Suns",
+            "score": "117-93",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
-          "home": false,
-          "date": "2026-02-02T01:00Z",
-          "time": "2026-02-02T01:00Z",
-          "status": "live"
+          "opponent": "76ers",
+          "home": true,
+          "date": "2026-02-03T03:00Z",
+          "time": "2026-02-03T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8942,20 +8942,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Said El Mala"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Ragnar Ache"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Eric Martel"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Rav van den Berg"
+            "value": 0,
+            "player": ""
           }
         }
       }
