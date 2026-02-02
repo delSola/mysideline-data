@@ -6933,7 +6933,7 @@
           "home": false,
           "date": "2026-02-02T00:00Z",
           "time": "2026-02-02T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7019,7 +7019,7 @@
           },
           "assists": {
             "value": 5.6,
-            "player": ""
+            "player": "Cam Spencer"
           },
           "rebounds": {
             "value": 6.7,
@@ -7383,7 +7383,7 @@
           "home": true,
           "date": "2026-02-02T00:00Z",
           "time": "2026-02-02T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10085,7 +10085,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Rassoul Ndiaye"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -10730,7 +10730,7 @@
         "leaders": {
           "passingYards": {
             "value": 4564.0,
-            "player": ""
+            "player": "Jared Goff"
           },
           "rushingYards": {
             "value": 1223.0,
@@ -11022,7 +11022,7 @@
         "leaders": {
           "passingYards": {
             "value": 3587.0,
-            "player": ""
+            "player": "Patrick Mahomes"
           },
           "rushingYards": {
             "value": 611.0,
@@ -12056,7 +12056,7 @@
         "leaders": {
           "passingYards": {
             "value": 4048.0,
-            "player": ""
+            "player": "Sam Darnold"
           },
           "rushingYards": {
             "value": 1027.0,
