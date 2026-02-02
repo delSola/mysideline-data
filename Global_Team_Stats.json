@@ -7506,24 +7506,24 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 0,
-            "player": ""
+            "value": 21.7,
+            "player": "Zion Williamson"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4.3,
+            "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 0,
-            "player": ""
+            "value": 7.4,
+            "player": "Derik Queen"
           },
           "blocks": {
-            "value": 0,
-            "player": ""
+            "value": 1.4,
+            "player": "Yves Missi"
           },
           "steals": {
-            "value": 0,
-            "player": ""
+            "value": 1.6,
+            "player": "Trey Murphy III"
           }
         }
       }
@@ -11030,28 +11030,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3381.0,
+            "player": "Jordan Love"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 929.0,
+            "player": "Josh Jacobs"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 724.0,
+            "player": "Romeo Doubs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 13.0,
+            "player": "Josh Jacobs"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 128.0,
+            "player": "Quay Walker"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Evan Williams"
           }
         }
       }
