@@ -6356,7 +6356,7 @@
             "player": "Brandon Miller"
           },
           "assists": {
-            "value": 7.6,
+            "value": 7.5,
             "player": "LaMelo Ball"
           },
           "rebounds": {
@@ -6885,15 +6885,15 @@
             "player": "Alperen Sengun"
           },
           "rebounds": {
-            "value": 9.2,
+            "value": 9.4,
             "player": "Alperen Sengun"
           },
           "blocks": {
             "value": 1.0,
-            "player": "Alperen Sengun"
+            "player": "Jabari Smith Jr."
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Amen Thompson"
           }
         }
@@ -7401,7 +7401,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.4,
+            "value": 29.7,
             "player": "Anthony Edwards"
           },
           "assists": {
@@ -7476,8 +7476,8 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.7,
-            "player": "Zion Williamson"
+            "value": 21.6,
+            "player": "Trey Murphy III"
           },
           "assists": {
             "value": 4.3,
@@ -7492,7 +7492,7 @@
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Trey Murphy III"
           }
         }
