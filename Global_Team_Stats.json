@@ -43,13 +43,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sunderland",
-          "home": true,
-          "date": "2026-02-07T15:00Z",
-          "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -402,13 +396,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Wolves",
-          "home": false,
-          "date": "2026-02-07T15:00Z",
-          "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1480,13 +1468,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Mallorca",
-          "home": true,
-          "date": "2026-02-07T15:15Z",
-          "time": "2026-02-07T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1922,7 +1904,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 14,
+            "value": 15,
             "player": "Vedat Muriqi"
           },
           "assists": {
@@ -2433,8 +2415,8 @@
             "player": "Rubén Vargas"
           },
           "yellowCards": {
-            "value": 8,
-            "player": "José Ángel Carmona"
+            "value": 9,
+            "player": "Lucien Agoumé"
           },
           "redCards": {
             "value": 1,
@@ -4139,13 +4121,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Gladbach",
-          "home": false,
-          "date": "2026-02-07T17:30Z",
-          "time": "2026-02-07T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5214,13 +5190,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "PSG",
-          "home": false,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8637,7 +8607,7 @@
             "player": "Granit Xhaka"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Trai Hume"
           },
           "redCards": {
@@ -8710,7 +8680,7 @@
             "player": "Quilindschy Hartman"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Kyle Walker"
           },
           "redCards": {
@@ -9348,13 +9318,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Stuttgart",
-          "home": true,
-          "date": "2026-02-07T14:30Z",
-          "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9932,13 +9896,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lens",
-          "home": false,
-          "date": "2026-02-07T16:00Z",
-          "time": "2026-02-07T16:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
