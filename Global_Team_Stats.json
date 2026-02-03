@@ -2582,6 +2582,12 @@
         "points": 50,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Bologna",
+            "score": "3-0",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "AS Roma",
             "score": "1-1",
@@ -2604,12 +2610,6 @@
             "opponent": "Fiorentina",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Genoa",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -2721,6 +2721,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Milan",
+            "score": "0-3",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Genoa",
             "score": "2-3",
             "home": false
@@ -2742,12 +2748,6 @@
             "opponent": "Como",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Atalanta",
-            "score": "0-2",
-            "home": true
           }
         ],
         "nextGame": {}
