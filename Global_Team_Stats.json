@@ -10042,13 +10042,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nice",
-          "home": false,
-          "date": "2026-02-08T14:00Z",
-          "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
