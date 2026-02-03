@@ -402,11 +402,11 @@
         "leaders": {
           "goals": {
             "value": 9,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "yellowCards": {
             "value": 7,
@@ -2617,7 +2617,7 @@
           "home": false,
           "date": "2026-02-03T19:45Z",
           "time": "2026-02-03T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2761,7 +2761,7 @@
           "home": true,
           "date": "2026-02-03T19:45Z",
           "time": "2026-02-03T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
