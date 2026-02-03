@@ -6352,7 +6352,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.8,
+            "value": 20.6,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -6960,7 +6960,7 @@
             "player": "Andrew Nembhard"
           },
           "rebounds": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Pascal Siakam"
           },
           "blocks": {
@@ -7176,7 +7176,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.0,
+            "value": 19.2,
             "player": "Jaren Jackson Jr."
           },
           "assists": {
@@ -7192,7 +7192,7 @@
             "player": "Jaren Jackson Jr."
           },
           "steals": {
-            "value": 1.1,
+            "value": 1.0,
             "player": "Jaren Jackson Jr."
           }
         }
@@ -8392,7 +8392,7 @@
             "player": "Brook Lopez"
           },
           "steals": {
-            "value": 2.0,
+            "value": 2.1,
             "player": "Kawhi Leonard"
           }
         }
