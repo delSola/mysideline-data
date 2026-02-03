@@ -1911,7 +1911,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Barcelona",
+          "home": false,
+          "date": "2026-02-07T15:15Z",
+          "time": "2026-02-07T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2408,7 +2414,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Girona",
+          "home": true,
+          "date": "2026-02-07T17:30Z",
+          "time": "2026-02-07T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5788,20 +5800,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Yann Gboho"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Djibril Sidibé"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Charlie Cresswell"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Alexis Vossah"
           }
         }
       }
@@ -7748,16 +7760,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 48,
-        "wins": 27,
+        "played": 49,
+        "wins": 28,
         "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Knicks",
-            "score": "109-112",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Hornets",
@@ -7781,14 +7787,20 @@
             "opponent": "Pelicans",
             "score": "124-114",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Clippers",
+            "score": "128-113",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Clippers",
+          "opponent": "Warriors",
           "home": false,
-          "date": "2026-02-03T03:00Z",
-          "time": "2026-02-03T03:00Z",
-          "status": "live"
+          "date": "2026-02-04T03:00Z",
+          "time": "2026-02-04T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8348,16 +8360,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 48,
+        "played": 49,
         "wins": 23,
-        "losses": 25,
+        "losses": 26,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Lakers",
-            "score": "112-104",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Nets",
@@ -8381,14 +8387,20 @@
             "opponent": "Suns",
             "score": "117-93",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "113-128",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Cavaliers",
           "home": true,
-          "date": "2026-02-03T03:00Z",
-          "time": "2026-02-03T03:00Z",
-          "status": "live"
+          "date": "2026-02-05T03:30Z",
+          "time": "2026-02-05T03:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8606,7 +8618,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Arsenal",
+          "home": false,
+          "date": "2026-02-07T15:00Z",
+          "time": "2026-02-07T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -8673,7 +8691,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "West Ham",
+          "home": true,
+          "date": "2026-02-07T15:00Z",
+          "time": "2026-02-07T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9543,7 +9567,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cagliari",
+          "home": true,
+          "date": "2026-02-09T19:45Z",
+          "time": "2026-02-09T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10437,7 +10467,7 @@
           },
           "interceptions": {
             "value": 5.0,
-            "player": "Xavier Watts"
+            "player": ""
           }
         }
       }
