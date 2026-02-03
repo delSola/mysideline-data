@@ -6849,12 +6849,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Pistons",
-            "score": "111-104",
-            "home": false
-          },
-          {
-            "result": "W",
             "opponent": "Grizzlies",
             "score": "108-99",
             "home": true
@@ -6876,14 +6870,20 @@
             "opponent": "Mavericks",
             "score": "111-107",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pacers",
+            "score": "118-114",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pacers",
-          "home": false,
-          "date": "2026-02-03T00:00Z",
-          "time": "2026-02-03T00:00Z",
-          "status": "live"
+          "opponent": "Celtics",
+          "home": true,
+          "date": "2026-02-05T01:00Z",
+          "time": "2026-02-05T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6923,12 +6923,6 @@
         "losses": 36,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Celtics",
-            "score": "104-119",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Thunder",
             "score": "117-114",
@@ -6951,14 +6945,20 @@
             "opponent": "Hawks",
             "score": "129-124",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Rockets",
+            "score": "114-118",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
+          "opponent": "Jazz",
           "home": true,
-          "date": "2026-02-03T00:00Z",
-          "time": "2026-02-03T00:00Z",
-          "status": "live"
+          "date": "2026-02-04T00:00Z",
+          "time": "2026-02-04T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10042,7 +10042,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nice",
+          "home": false,
+          "date": "2026-02-08T14:00Z",
+          "time": "2026-02-08T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
