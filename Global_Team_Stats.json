@@ -2750,7 +2750,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Parma",
+          "home": true,
+          "date": "2026-02-08T11:30Z",
+          "time": "2026-02-08T11:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4109,7 +4115,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Gladbach",
+          "home": false,
+          "date": "2026-02-07T17:30Z",
+          "time": "2026-02-07T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5178,7 +5190,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "PSG",
+          "home": false,
+          "date": "2026-02-08T19:45Z",
+          "time": "2026-02-08T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7833,7 +7851,7 @@
           "home": false,
           "date": "2026-02-04T04:00Z",
           "time": "2026-02-04T04:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7908,7 +7926,7 @@
           "home": true,
           "date": "2026-02-04T04:00Z",
           "time": "2026-02-04T04:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
