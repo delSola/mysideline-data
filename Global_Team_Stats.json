@@ -7840,12 +7840,6 @@
         "losses": 20,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Heat",
-            "score": "102-111",
-            "home": true
-          },
-          {
             "result": "W",
             "opponent": "Nets",
             "score": "106-102",
@@ -7868,14 +7862,20 @@
             "opponent": "Clippers",
             "score": "93-117",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Trail Blazers",
+            "score": "130-125",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
-          "home": false,
-          "date": "2026-02-04T04:00Z",
-          "time": "2026-02-04T04:00Z",
-          "status": "live"
+          "opponent": "Warriors",
+          "home": true,
+          "date": "2026-02-06T03:00Z",
+          "time": "2026-02-06T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7916,12 +7916,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Raptors",
-            "score": "98-110",
-            "home": true
-          },
-          {
-            "result": "L",
             "opponent": "Celtics",
             "score": "94-102",
             "home": false
@@ -7943,14 +7937,20 @@
             "opponent": "Cavaliers",
             "score": "111-130",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Suns",
+            "score": "125-130",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
+          "opponent": "Grizzlies",
           "home": true,
-          "date": "2026-02-04T04:00Z",
-          "time": "2026-02-04T04:00Z",
-          "status": "live"
+          "date": "2026-02-07T03:00Z",
+          "time": "2026-02-07T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
