@@ -6184,7 +6184,7 @@
           "home": false,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6409,7 +6409,7 @@
           "home": false,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6559,7 +6559,7 @@
           "home": true,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7308,7 +7308,7 @@
           "home": true,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7608,7 +7608,7 @@
           "home": true,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7683,7 +7683,7 @@
           "home": false,
           "date": "2026-02-04T01:00Z",
           "time": "2026-02-04T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
