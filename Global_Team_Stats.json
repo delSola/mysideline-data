@@ -971,13 +971,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Brentford",
-          "home": true,
-          "date": "2026-02-07T17:30Z",
-          "time": "2026-02-07T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2265,13 +2259,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Elche",
-          "home": true,
-          "date": "2026-02-07T20:00Z",
-          "time": "2026-02-07T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3767,13 +3755,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Fiorentina",
-          "home": false,
-          "date": "2026-02-07T19:45Z",
-          "time": "2026-02-07T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4271,13 +4253,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "St. Pauli",
-          "home": false,
-          "date": "2026-02-07T14:30Z",
-          "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5274,13 +5250,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Nantes",
-          "home": false,
-          "date": "2026-02-07T20:05Z",
-          "time": "2026-02-07T20:05Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5418,13 +5388,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Monaco",
-          "home": true,
-          "date": "2026-02-08T14:00Z",
-          "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5490,13 +5454,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Rennes",
-          "home": true,
-          "date": "2026-02-07T16:00Z",
-          "time": "2026-02-07T16:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5777,13 +5735,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Angers",
-          "home": false,
-          "date": "2026-02-08T16:15Z",
-          "time": "2026-02-08T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8825,13 +8777,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Levante",
-          "home": true,
-          "date": "2026-02-08T15:15Z",
-          "time": "2026-02-08T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8898,13 +8844,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Getafe",
-          "home": true,
-          "date": "2026-02-08T13:00Z",
-          "time": "2026-02-08T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9628,13 +9568,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Sassuolo",
-          "home": false,
-          "date": "2026-02-08T17:00Z",
-          "time": "2026-02-08T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10212,13 +10146,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Brest",
-          "home": false,
-          "date": "2026-02-07T18:00Z",
-          "time": "2026-02-07T18:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10358,13 +10286,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Auxerre",
-          "home": false,
-          "date": "2026-02-08T16:15Z",
-          "time": "2026-02-08T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
