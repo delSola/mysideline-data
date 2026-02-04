@@ -6097,7 +6097,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.1,
+            "value": 23.2,
             "player": "Jalen Johnson"
           },
           "assists": {
@@ -6172,11 +6172,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.4,
+            "value": 29.5,
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Derrick White"
           },
           "rebounds": {
@@ -6188,7 +6188,7 @@
             "player": "Derrick White"
           },
           "steals": {
-            "value": 1.3,
+            "value": 1.2,
             "player": "Derrick White"
           }
         }
@@ -6409,7 +6409,7 @@
             "player": "Nikola Vucevic"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Matas Buzelis"
           },
           "steals": {
@@ -6547,11 +6547,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.8,
+            "value": 20.1,
             "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 4.9,
+            "value": 4.8,
             "player": "Ryan Nembhard"
           },
           "rebounds": {
@@ -6622,19 +6622,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.3,
+            "value": 29.1,
             "player": "Nikola Jokic"
           },
           "assists": {
-            "value": 10.7,
+            "value": 10.5,
             "player": "Nikola Jokic"
           },
           "rebounds": {
-            "value": 12.0,
+            "value": 12.1,
             "player": "Nikola Jokic"
           },
           "blocks": {
-            "value": 1.1,
+            "value": 1.2,
             "player": "Peyton Watson"
           },
           "steals": {
@@ -6776,7 +6776,7 @@
             "player": "Stephen Curry"
           },
           "assists": {
-            "value": 5.3,
+            "value": 5.2,
             "player": "Draymond Green"
           },
           "rebounds": {
@@ -6934,7 +6934,7 @@
             "player": "Pascal Siakam"
           },
           "blocks": {
-            "value": 2.0,
+            "value": 1.9,
             "player": "Jay Huff"
           },
           "steals": {
@@ -7225,11 +7225,11 @@
             "player": "Norman Powell"
           },
           "assists": {
-            "value": 7.2,
+            "value": 7.3,
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 9.8,
+            "value": 9.9,
             "player": "Bam Adebayo"
           },
           "blocks": {
@@ -7312,7 +7312,7 @@
             "player": "Myles Turner"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Ryan Rollins"
           }
         }
@@ -7596,7 +7596,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 32.0,
+            "value": 31.8,
             "player": "Shai Gilgeous-Alexander"
           },
           "assists": {
@@ -7608,11 +7608,11 @@
             "player": "Chet Holmgren"
           },
           "blocks": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Chet Holmgren"
           },
           "steals": {
-            "value": 2.0,
+            "value": 2.1,
             "player": "Cason Wallace"
           }
         }
@@ -7671,15 +7671,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.7,
+            "value": 21.6,
             "player": "Paolo Banchero"
           },
           "assists": {
-            "value": 4.9,
+            "value": 4.8,
             "player": "Paolo Banchero"
           },
           "rebounds": {
-            "value": 8.8,
+            "value": 8.6,
             "player": "Paolo Banchero"
           },
           "blocks": {
@@ -7687,7 +7687,7 @@
             "player": "Goga Bitadze"
           },
           "steals": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Anthony Black"
           }
         }
@@ -7746,15 +7746,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.2,
+            "value": 28.9,
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.8,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -7838,7 +7838,7 @@
           },
           "steals": {
             "value": 1.5,
-            "player": "Grayson Allen"
+            "player": "Jordan Goodwin"
           }
         }
       }
@@ -7909,10 +7909,10 @@
           },
           "blocks": {
             "value": 1.4,
-            "player": "Donovan Clingan"
+            "player": "Robert Williams III"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Shaedon Sharpe"
           }
         }
@@ -8200,7 +8200,7 @@
             "player": "Lauri Markkanen"
           },
           "assists": {
-            "value": 6.7,
+            "value": 7.0,
             "player": "Isaiah Collier"
           },
           "rebounds": {
@@ -8208,7 +8208,7 @@
             "player": "Jusuf Nurkic"
           },
           "blocks": {
-            "value": 0.6,
+            "value": 0.5,
             "player": "Lauri Markkanen"
           },
           "steals": {
@@ -8275,7 +8275,7 @@
             "player": "CJ McCollum"
           },
           "assists": {
-            "value": 5.0,
+            "value": 4.9,
             "player": "Kyshawn George"
           },
           "rebounds": {
