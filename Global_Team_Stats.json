@@ -43,7 +43,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Sunderland",
+          "home": true,
+          "date": "2026-02-07T15:00Z",
+          "time": "2026-02-07T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -396,7 +402,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Wolves",
+          "home": false,
+          "date": "2026-02-07T15:00Z",
+          "time": "2026-02-07T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1468,7 +1480,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Mallorca",
+          "home": true,
+          "date": "2026-02-07T15:15Z",
+          "time": "2026-02-07T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2612,7 +2630,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Pisa",
+          "home": false,
+          "date": "2026-02-13T19:45Z",
+          "time": "2026-02-13T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6762,16 +6786,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
+        "played": 51,
         "wins": 27,
-        "losses": 23,
+        "losses": 24,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Mavericks",
-            "score": "115-123",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Timberwolves",
@@ -6795,14 +6813,20 @@
             "opponent": "Pistons",
             "score": "124-131",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "94-113",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
-          "home": true,
-          "date": "2026-02-04T03:00Z",
-          "time": "2026-02-04T03:00Z",
-          "status": "live"
+          "opponent": "Suns",
+          "home": false,
+          "date": "2026-02-06T03:00Z",
+          "time": "2026-02-06T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7736,16 +7760,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 49,
-        "wins": 28,
+        "played": 50,
+        "wins": 29,
         "losses": 21,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hornets",
-            "score": "93-130",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -7769,14 +7787,20 @@
             "opponent": "Clippers",
             "score": "128-113",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Warriors",
+            "score": "113-94",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
+          "opponent": "Lakers",
           "home": false,
-          "date": "2026-02-04T03:00Z",
-          "time": "2026-02-04T03:00Z",
-          "status": "live"
+          "date": "2026-02-06T03:00Z",
+          "time": "2026-02-06T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -9324,7 +9348,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Stuttgart",
+          "home": true,
+          "date": "2026-02-07T14:30Z",
+          "time": "2026-02-07T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9902,7 +9932,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lens",
+          "home": false,
+          "date": "2026-02-07T16:00Z",
+          "time": "2026-02-07T16:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
