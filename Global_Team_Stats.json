@@ -833,13 +833,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Liverpool",
-          "home": false,
-          "date": "2026-02-08T16:30Z",
-          "time": "2026-02-08T16:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2486,13 +2480,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": true,
-          "date": "2026-02-08T20:00Z",
-          "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2645,8 +2633,8 @@
             "player": "Christian Pulisic"
           },
           "assists": {
-            "value": 3,
-            "player": "Alexis Saelemaekers"
+            "value": 4,
+            "player": "Adrien Rabiot"
           },
           "yellowCards": {
             "value": 4,
@@ -7382,7 +7370,7 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "West",
         "played": 51,
@@ -7832,11 +7820,11 @@
       "TeamName": "Phoenix Suns",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
-        "wins": 30,
+        "played": 51,
+        "wins": 31,
         "losses": 20,
         "last5": [
           {
@@ -7910,9 +7898,9 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
+        "played": 51,
         "wins": 23,
-        "losses": 27,
+        "losses": 28,
         "last5": [
           {
             "result": "L",
