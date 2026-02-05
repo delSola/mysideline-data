@@ -7590,7 +7590,7 @@
           "home": false,
           "date": "2026-02-05T02:30Z",
           "time": "2026-02-05T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8040,7 +8040,7 @@
           "home": true,
           "date": "2026-02-05T02:30Z",
           "time": "2026-02-05T02:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11103,7 +11103,7 @@
           },
           "tackles": {
             "value": 125.0,
-            "player": "Zaire Franklin"
+            "player": ""
           },
           "interceptions": {
             "value": 4.0,
