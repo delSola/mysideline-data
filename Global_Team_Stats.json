@@ -3971,13 +3971,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Wolfsburg",
-          "home": false,
-          "date": "2026-02-07T14:30Z",
-          "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
