@@ -2468,7 +2468,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Real Madrid",
+          "home": true,
+          "date": "2026-02-08T20:00Z",
+          "time": "2026-02-08T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3492,7 +3498,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Kialonda Gaspar"
+            "player": ""
           }
         }
       }
@@ -7250,8 +7256,8 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 48,
-        "wins": 19,
+        "played": 49,
+        "wins": 20,
         "losses": 29,
         "last5": [
           {
@@ -7400,9 +7406,9 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 13,
-        "losses": 39,
+        "losses": 40,
         "last5": [
           {
             "result": "L",
@@ -7555,12 +7561,6 @@
         "losses": 11,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Raptors",
-            "score": "101-103",
-            "home": true
-          },
-          {
             "result": "W",
             "opponent": "Pelicans",
             "score": "104-95",
@@ -7583,14 +7583,20 @@
             "opponent": "Magic",
             "score": "128-92",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Spurs",
+            "score": "106-116",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Spurs",
-          "home": false,
-          "date": "2026-02-05T02:30Z",
-          "time": "2026-02-05T02:30Z",
-          "status": "live"
+          "opponent": "Rockets",
+          "home": true,
+          "date": "2026-02-07T20:30Z",
+          "time": "2026-02-07T20:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8005,12 +8011,6 @@
         "losses": 16,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Jazz",
-            "score": "126-109",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Pelicans",
             "score": "95-104",
@@ -8033,14 +8033,20 @@
             "opponent": "Magic",
             "score": "112-103",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Thunder",
+            "score": "116-106",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": true,
-          "date": "2026-02-05T02:30Z",
-          "time": "2026-02-05T02:30Z",
-          "status": "live"
+          "opponent": "Mavericks",
+          "home": false,
+          "date": "2026-02-06T01:30Z",
+          "time": "2026-02-06T01:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
