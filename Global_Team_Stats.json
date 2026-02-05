@@ -1689,7 +1689,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Villarreal",
+          "home": false,
+          "date": "2026-02-09T20:00Z",
+          "time": "2026-02-09T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3837,7 +3843,7 @@
           },
           "assists": {
             "value": 3,
-            "player": ""
+            "player": "Keinan Davis"
           },
           "yellowCards": {
             "value": 5,
@@ -4205,7 +4211,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Ellyes Skhiri"
           }
         }
       }
@@ -4479,20 +4485,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Vincenzo Grifo"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Matthias Ginter"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Johan Manzambi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Johan Manzambi"
           }
         }
       }
@@ -5057,7 +5063,7 @@
           },
           "assists": {
             "value": 7,
-            "player": ""
+            "player": "Vitinha"
           },
           "yellowCards": {
             "value": 3,
@@ -10267,7 +10273,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": "Issa Soumaré"
+            "player": ""
           },
           "assists": {
             "value": 3,
