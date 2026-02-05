@@ -1408,13 +1408,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Betis",
-          "home": true,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2127,13 +2121,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atlético",
-          "home": false,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2702,13 +2690,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Cremonese",
-          "home": true,
-          "date": "2026-02-09T17:30Z",
-          "time": "2026-02-09T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3348,13 +3330,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": true,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5645,13 +5621,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Le Havre AC",
-          "home": false,
-          "date": "2026-02-08T16:15Z",
-          "time": "2026-02-08T16:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12886,19 +12856,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 28,
-        "wins": 10,
+        "played": 29,
+        "wins": 11,
         "losses": 18,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Perth Wildcats",
-            "score": "87-92",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
@@ -12921,6 +12885,12 @@
             "result": "L",
             "opponent": "Perth Wildcats",
             "score": "99-106",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Adelaide 36ers",
+            "score": "27-24",
             "home": true
           }
         ],
@@ -13026,7 +12996,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 30,
@@ -13060,7 +13030,7 @@
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "67-86",
+            "score": "83-114",
             "home": true
           }
         ],
@@ -13166,19 +13136,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
-        "played": 29,
+        "played": 30,
         "wins": 21,
-        "losses": 8,
+        "losses": 9,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "89-108",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
@@ -13202,6 +13166,12 @@
             "opponent": "SE Melbourne Phoenix",
             "score": "77-97",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Illawarra Hawks",
+            "score": "24-27",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13306,8 +13276,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
         "played": 30,
         "wins": 21,
@@ -13340,7 +13310,7 @@
           {
             "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "86-67",
+            "score": "114-83",
             "home": false
           }
         ],
