@@ -6206,11 +6206,11 @@
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.5,
+            "value": 5.6,
             "player": "Derrick White"
           },
           "rebounds": {
-            "value": 8.1,
+            "value": 8.3,
             "player": "Neemias Queta"
           },
           "blocks": {
@@ -6877,11 +6877,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 26.2,
+            "value": 25.9,
             "player": "Kevin Durant"
           },
           "assists": {
-            "value": 6.3,
+            "value": 6.2,
             "player": "Alperen Sengun"
           },
           "rebounds": {
@@ -6893,7 +6893,7 @@
             "player": "Jabari Smith Jr."
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.4,
             "player": "Amen Thompson"
           }
         }
@@ -7476,7 +7476,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.6,
+            "value": 22.1,
             "player": "Trey Murphy III"
           },
           "assists": {
@@ -7484,7 +7484,7 @@
             "player": "Derik Queen"
           },
           "rebounds": {
-            "value": 7.4,
+            "value": 7.3,
             "player": "Derik Queen"
           },
           "blocks": {
@@ -7492,7 +7492,7 @@
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Trey Murphy III"
           }
         }
@@ -7567,7 +7567,7 @@
             "player": "Mitchell Robinson"
           },
           "steals": {
-            "value": 1.8,
+            "value": 1.7,
             "player": "OG Anunoby"
           }
         }
@@ -8009,7 +8009,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.5,
+            "value": 6.4,
             "player": "Maxime Raynaud"
           },
           "blocks": {
@@ -8076,15 +8076,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 24.1,
+            "value": 24.0,
             "player": "Victor Wembanyama"
           },
           "assists": {
-            "value": 7.0,
+            "value": 6.9,
             "player": "Stephon Castle"
           },
           "rebounds": {
-            "value": 11.0,
+            "value": 11.1,
             "player": "Victor Wembanyama"
           },
           "blocks": {
