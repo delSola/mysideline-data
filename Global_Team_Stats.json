@@ -10078,13 +10078,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nice",
-          "home": false,
-          "date": "2026-02-08T14:00Z",
-          "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -13036,8 +13030,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 30,
-        "wins": 12,
-        "losses": 18,
+        "wins": 11,
+        "losses": 19,
         "last5": [
           {
             "result": "L",
@@ -13064,9 +13058,9 @@
             "home": false
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "22-20",
+            "score": "67-86",
             "home": true
           }
         ],
@@ -13312,12 +13306,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 30,
-        "wins": 20,
-        "losses": 10,
+        "wins": 21,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13344,9 +13338,9 @@
             "home": false
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "20-22",
+            "score": "86-67",
             "home": false
           }
         ],
@@ -13382,8 +13376,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "NBL",
         "played": 29,
         "wins": 20,
