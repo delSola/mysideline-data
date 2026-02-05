@@ -11530,28 +11530,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 4394.0,
+            "player": "Drake Maye"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 911.0,
+            "player": "TreVeyon Henderson"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1013.0,
+            "player": "Stefon Diggs"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 9.0,
+            "player": "TreVeyon Henderson"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 97.0,
+            "player": "Robert Spillane"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 4.0,
+            "player": "Jaylinn Hawkins"
           }
         }
       }
