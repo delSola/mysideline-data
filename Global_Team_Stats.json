@@ -7551,11 +7551,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.1,
+            "value": 27.4,
             "player": "Jalen Brunson"
           },
           "assists": {
-            "value": 6.0,
+            "value": 6.1,
             "player": "Jalen Brunson"
           },
           "rebounds": {
@@ -8001,7 +8001,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.8,
+            "value": 19.5,
             "player": "Zach LaVine"
           },
           "assists": {
@@ -8013,8 +8013,8 @@
             "player": "Maxime Raynaud"
           },
           "blocks": {
-            "value": 0.6,
-            "player": "Drew Eubanks"
+            "value": 0.5,
+            "player": "Precious Achiuwa"
           },
           "steals": {
             "value": 1.4,
@@ -8159,11 +8159,11 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.4,
             "player": "Scottie Barnes"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Scottie Barnes"
           },
           "steals": {
@@ -12856,12 +12856,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 29,
-        "wins": 10,
-        "losses": 19,
+        "wins": 11,
+        "losses": 18,
         "last5": [
           {
             "result": "W",
@@ -12888,9 +12888,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "69-78",
+            "score": "100-99",
             "home": true
           }
         ],
@@ -12996,7 +12996,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 30,
@@ -13136,12 +13136,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 30,
-        "wins": 22,
-        "losses": 8,
+        "wins": 21,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13168,9 +13168,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Illawarra Hawks",
-            "score": "78-69",
+            "score": "99-100",
             "home": false
           }
         ],
@@ -13276,8 +13276,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
         "played": 30,
         "wins": 21,
