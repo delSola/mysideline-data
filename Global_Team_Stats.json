@@ -1689,13 +1689,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Villarreal",
-          "home": false,
-          "date": "2026-02-09T20:00Z",
-          "time": "2026-02-09T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3843,7 +3837,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Keinan Davis"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -3971,7 +3965,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Wolfsburg",
+          "home": false,
+          "date": "2026-02-07T14:30Z",
+          "time": "2026-02-07T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4205,7 +4205,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Ellyes Skhiri"
+            "player": ""
           }
         }
       }
@@ -4479,20 +4479,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Vincenzo Grifo"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Matthias Ginter"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 4,
-            "player": "Johan Manzambi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Johan Manzambi"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -5057,7 +5057,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha"
+            "player": ""
           },
           "yellowCards": {
             "value": 3,
