@@ -12856,12 +12856,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 29,
-        "wins": 11,
-        "losses": 18,
+        "wins": 10,
+        "losses": 19,
         "last5": [
           {
             "result": "W",
@@ -12888,9 +12888,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "27-24",
+            "score": "69-78",
             "home": true
           }
         ],
@@ -12996,7 +12996,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 30,
@@ -13039,11 +13039,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 17.3,
-            "player": "Parker Jackson-Cartwright"
+            "value": 17.2,
+            "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.3,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
@@ -13136,12 +13136,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
         "played": 30,
-        "wins": 21,
-        "losses": 9,
+        "wins": 22,
+        "losses": 8,
         "last5": [
           {
             "result": "W",
@@ -13168,9 +13168,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "24-27",
+            "score": "78-69",
             "home": false
           }
         ],
@@ -13276,8 +13276,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 30,
         "wins": 21,
@@ -13319,15 +13319,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.2,
+            "value": 21.4,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 4.9,
+            "value": 4.7,
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 6.4,
+            "value": 6.2,
             "player": "John Brown"
           },
           "blocks": {
