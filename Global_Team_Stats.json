@@ -12755,16 +12755,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 29,
+        "played": 30,
         "wins": 6,
-        "losses": 23,
+        "losses": 24,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cairns Taipans",
-            "score": "83-88",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Sydney Kings",
@@ -12788,6 +12782,12 @@
             "opponent": "Adelaide 36ers",
             "score": "74-107",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Tasmania JackJumpers",
+            "score": "20-37",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13105,16 +13105,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 30,
-        "wins": 13,
+        "played": 31,
+        "wins": 14,
         "losses": 17,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Melbourne United",
-            "score": "77-79",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Sydney Kings",
@@ -13137,6 +13131,12 @@
             "result": "W",
             "opponent": "New Zealand Breakers",
             "score": "91-89",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "37-20",
             "home": true
           }
         ],
