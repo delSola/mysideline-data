@@ -1408,7 +1408,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Betis",
+          "home": true,
+          "date": "2026-02-08T17:30Z",
+          "time": "2026-02-08T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1844,20 +1850,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Vladyslav Vanat"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Álex Moreno"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Azzedine Ounahi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Vitor Reis"
           }
         }
       }
@@ -2121,7 +2127,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Atlético",
+          "home": false,
+          "date": "2026-02-08T17:30Z",
+          "time": "2026-02-08T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5621,7 +5633,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Le Havre AC",
+          "home": false,
+          "date": "2026-02-08T16:15Z",
+          "time": "2026-02-08T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6531,9 +6549,9 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
+        "played": 51,
         "wins": 19,
-        "losses": 31,
+        "losses": 32,
         "last5": [
           {
             "result": "L",
@@ -8030,8 +8048,8 @@
         "position": 2,
         "positionSuffix": "nd",
         "conference": "West",
-        "played": 50,
-        "wins": 34,
+        "played": 51,
+        "wins": 35,
         "losses": 16,
         "last5": [
           {
@@ -9188,7 +9206,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Miro Muheim"
+            "player": ""
           },
           "yellowCards": {
             "value": 7,
@@ -10048,7 +10066,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Nice",
+          "home": false,
+          "date": "2026-02-08T14:00Z",
+          "time": "2026-02-08T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11949,28 +11973,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3366.0,
+            "player": "Jacoby Brissett"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 333.0,
+            "player": "Michael Carter"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1239.0,
+            "player": "Trey McBride"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 4.0,
+            "player": "Bam Knight"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 120.0,
+            "player": "Budda Baker"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 3.0,
+            "player": "Denzel Burke"
           }
         }
       }
@@ -12702,7 +12726,7 @@
           },
           "tackles": {
             "value": 103.0,
-            "player": ""
+            "player": "Azeez Al-Shaair"
           },
           "interceptions": {
             "value": 4.0,
