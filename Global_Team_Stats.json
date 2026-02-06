@@ -2271,7 +2271,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": "Mikel Oyarzabal"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -6121,7 +6121,7 @@
           "home": true,
           "date": "2026-02-06T00:30Z",
           "time": "2026-02-06T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6271,7 +6271,7 @@
           "home": false,
           "date": "2026-02-06T00:00Z",
           "time": "2026-02-06T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6421,7 +6421,7 @@
           "home": false,
           "date": "2026-02-06T00:30Z",
           "time": "2026-02-06T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6444,7 +6444,7 @@
           },
           "steals": {
             "value": 1.3,
-            "player": ""
+            "player": "Tre Jones"
           }
         }
       }
@@ -6721,7 +6721,7 @@
           "home": true,
           "date": "2026-02-06T00:00Z",
           "time": "2026-02-06T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7695,7 +7695,7 @@
           "home": true,
           "date": "2026-02-06T00:00Z",
           "time": "2026-02-06T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8145,7 +8145,7 @@
           "home": true,
           "date": "2026-02-06T00:30Z",
           "time": "2026-02-06T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8220,7 +8220,7 @@
           "home": false,
           "date": "2026-02-06T00:30Z",
           "time": "2026-02-06T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8295,7 +8295,7 @@
           "home": false,
           "date": "2026-02-06T00:00Z",
           "time": "2026-02-06T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
