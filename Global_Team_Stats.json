@@ -1285,7 +1285,7 @@
           },
           "yellowCards": {
             "value": 9,
-            "player": ""
+            "player": "Yerson Mosquera"
           },
           "redCards": {
             "value": 1,
@@ -1418,7 +1418,7 @@
           },
           "assists": {
             "value": 5,
-            "player": ""
+            "player": "Giuliano Simeone"
           },
           "yellowCards": {
             "value": 4,
@@ -1844,20 +1844,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Vladyslav Vanat"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 3,
-            "player": "Álex Moreno"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Azzedine Ounahi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Vitor Reis"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -6081,8 +6081,8 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 52,
-        "wins": 25,
+        "played": 53,
+        "wins": 26,
         "losses": 27,
         "last5": [
           {
@@ -6231,9 +6231,9 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 49,
+        "played": 50,
         "wins": 13,
-        "losses": 36,
+        "losses": 37,
         "last5": [
           {
             "result": "L",
@@ -6303,19 +6303,13 @@
       "TeamName": "Charlotte Hornets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 11,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 51,
-        "wins": 23,
+        "played": 52,
+        "wins": 24,
         "losses": 28,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "76ers",
-            "score": "130-93",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Grizzlies",
@@ -6339,14 +6333,20 @@
             "opponent": "Pelicans",
             "score": "102-95",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Rockets",
+            "score": "109-99",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
+          "opponent": "Hawks",
           "home": false,
-          "date": "2026-02-06T01:00Z",
-          "time": "2026-02-06T01:00Z",
-          "status": "live"
+          "date": "2026-02-08T00:30Z",
+          "time": "2026-02-08T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6378,12 +6378,12 @@
       "TeamName": "Chicago Bulls",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 11,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 51,
+        "played": 52,
         "wins": 24,
-        "losses": 27,
+        "losses": 28,
         "last5": [
           {
             "result": "L",
@@ -6537,12 +6537,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Lakers",
-            "score": "110-116",
-            "home": true
-          },
-          {
-            "result": "L",
             "opponent": "Timberwolves",
             "score": "105-118",
             "home": true
@@ -6564,14 +6558,20 @@
             "opponent": "Celtics",
             "score": "100-110",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Spurs",
+            "score": "123-135",
+            "home": true
           }
         ],
         "nextGame": {
           "opponent": "Spurs",
-          "home": true,
-          "date": "2026-02-06T01:30Z",
-          "time": "2026-02-06T01:30Z",
-          "status": "live"
+          "home": false,
+          "date": "2026-02-07T23:00Z",
+          "time": "2026-02-07T23:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6796,7 +6796,7 @@
           "home": false,
           "date": "2026-02-06T03:00Z",
           "time": "2026-02-06T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6831,16 +6831,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 49,
+        "played": 50,
         "wins": 31,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Spurs",
-            "score": "99-111",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Hawks",
@@ -6864,14 +6858,20 @@
             "opponent": "Celtics",
             "score": "93-114",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Hornets",
+            "score": "99-109",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
-          "home": true,
-          "date": "2026-02-06T01:00Z",
-          "time": "2026-02-06T01:00Z",
-          "status": "live"
+          "opponent": "Thunder",
+          "home": false,
+          "date": "2026-02-07T20:30Z",
+          "time": "2026-02-07T20:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7095,7 +7095,7 @@
           "home": true,
           "date": "2026-02-06T03:00Z",
           "time": "2026-02-06T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7202,7 +7202,7 @@
       "TeamName": "Miami Heat",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "East",
         "played": 52,
@@ -7652,11 +7652,11 @@
       "TeamName": "Orlando Magic",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 49,
-        "wins": 25,
+        "played": 50,
+        "wins": 26,
         "losses": 24,
         "last5": [
           {
@@ -7727,7 +7727,7 @@
       "TeamName": "Philadelphia 76ers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "East",
         "played": 50,
@@ -7770,7 +7770,7 @@
           "home": false,
           "date": "2026-02-06T03:00Z",
           "time": "2026-02-06T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7845,7 +7845,7 @@
           "home": true,
           "date": "2026-02-06T03:00Z",
           "time": "2026-02-06T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8035,12 +8035,6 @@
         "losses": 16,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Pelicans",
-            "score": "95-104",
-            "home": true
-          },
-          {
             "result": "W",
             "opponent": "Rockets",
             "score": "111-99",
@@ -8063,14 +8057,20 @@
             "opponent": "Thunder",
             "score": "116-106",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "135-123",
+            "home": false
           }
         ],
         "nextGame": {
           "opponent": "Mavericks",
-          "home": false,
-          "date": "2026-02-06T01:30Z",
-          "time": "2026-02-06T01:30Z",
-          "status": "live"
+          "home": true,
+          "date": "2026-02-07T23:00Z",
+          "time": "2026-02-07T23:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8102,11 +8102,11 @@
       "TeamName": "Toronto Raptors",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 52,
-        "wins": 30,
+        "played": 53,
+        "wins": 31,
         "losses": 22,
         "last5": [
           {
@@ -8180,9 +8180,9 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 51,
+        "played": 52,
         "wins": 16,
-        "losses": 35,
+        "losses": 36,
         "last5": [
           {
             "result": "L",
@@ -11949,28 +11949,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3366.0,
-            "player": "Jacoby Brissett"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 333.0,
-            "player": "Michael Carter"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 1239.0,
-            "player": "Trey McBride"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 4.0,
-            "player": "Bam Knight"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 120.0,
-            "player": "Budda Baker"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 3.0,
-            "player": "Denzel Burke"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -12168,28 +12168,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 2167.0,
+            "player": "Brock Purdy"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 1202.0,
+            "player": "Christian McCaffrey"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 924.0,
+            "player": "Christian McCaffrey"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 10.0,
+            "player": "Christian McCaffrey"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 101.0,
+            "player": "Dee Winters"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 2.0,
+            "player": "Deommodore Lenoir"
           }
         }
       }
@@ -12702,7 +12702,7 @@
           },
           "tackles": {
             "value": 103.0,
-            "player": "Azeez Al-Shaair"
+            "player": ""
           },
           "interceptions": {
             "value": 4.0,
