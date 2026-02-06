@@ -2271,7 +2271,7 @@
         "leaders": {
           "goals": {
             "value": 8,
-            "player": ""
+            "player": "Mikel Oyarzabal"
           },
           "assists": {
             "value": 3,
@@ -6346,7 +6346,7 @@
           "home": false,
           "date": "2026-02-06T01:00Z",
           "time": "2026-02-06T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6571,7 +6571,7 @@
           "home": true,
           "date": "2026-02-06T01:30Z",
           "time": "2026-02-06T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6871,7 +6871,7 @@
           "home": true,
           "date": "2026-02-06T01:00Z",
           "time": "2026-02-06T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8070,7 +8070,7 @@
           "home": false,
           "date": "2026-02-06T01:30Z",
           "time": "2026-02-06T01:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10126,20 +10126,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Gauthier Hein"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Gauthier Hein"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Koffi Kouao"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 2,
-            "player": "Sadibou Sané"
+            "value": 0,
+            "player": ""
           }
         }
       }
