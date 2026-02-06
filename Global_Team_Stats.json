@@ -6444,7 +6444,7 @@
           },
           "steals": {
             "value": 1.3,
-            "player": "Tre Jones"
+            "player": ""
           }
         }
       }
@@ -10273,7 +10273,7 @@
         "leaders": {
           "goals": {
             "value": 3,
-            "player": ""
+            "player": "Issa Soumaré"
           },
           "assists": {
             "value": 3,
