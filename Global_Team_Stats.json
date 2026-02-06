@@ -6307,7 +6307,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.5,
+            "value": 25.0,
             "player": "Michael Porter Jr."
           },
           "assists": {
@@ -6316,7 +6316,7 @@
           },
           "rebounds": {
             "value": 7.3,
-            "player": "Michael Porter Jr."
+            "player": "Nic Claxton"
           },
           "blocks": {
             "value": 1.3,
@@ -6382,7 +6382,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.6,
+            "value": 20.4,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -6536,7 +6536,7 @@
             "player": "Donovan Mitchell"
           },
           "assists": {
-            "value": 5.8,
+            "value": 5.9,
             "player": "Donovan Mitchell"
           },
           "rebounds": {
@@ -6757,7 +6757,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.4,
             "player": "Cade Cunningham"
           },
           "assists": {
@@ -6773,7 +6773,7 @@
             "player": "Isaiah Stewart"
           },
           "steals": {
-            "value": 1.8,
+            "value": 1.9,
             "player": "Ausar Thompson"
           }
         }
@@ -7131,15 +7131,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 33.4,
+            "value": 32.8,
             "player": "Luka Doncic"
           },
           "assists": {
-            "value": 8.7,
+            "value": 8.6,
             "player": "Luka Doncic"
           },
           "rebounds": {
-            "value": 8.5,
+            "value": 8.4,
             "player": "Deandre Ayton"
           },
           "blocks": {
@@ -7735,8 +7735,8 @@
             "player": "Paolo Banchero"
           },
           "assists": {
-            "value": 4.8,
-            "player": "Paolo Banchero"
+            "value": 5.2,
+            "player": "Jalen Suggs"
           },
           "rebounds": {
             "value": 8.6,
@@ -7747,8 +7747,8 @@
             "player": "Goga Bitadze"
           },
           "steals": {
-            "value": 1.3,
-            "player": "Anthony Black"
+            "value": 1.8,
+            "player": "Jalen Suggs"
           }
         }
       }
@@ -7818,7 +7818,7 @@
             "player": "Andre Drummond"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.3,
             "player": "Adem Bona"
           },
           "steals": {
@@ -8181,7 +8181,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.9,
+            "value": 22.2,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8189,7 +8189,7 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.4,
+            "value": 8.3,
             "player": "Scottie Barnes"
           },
           "blocks": {
@@ -8198,7 +8198,7 @@
           },
           "steals": {
             "value": 1.3,
-            "player": "Scottie Barnes"
+            "player": "Immanuel Quickley"
           }
         }
       }
@@ -8343,7 +8343,7 @@
             "player": "Alex Sarr"
           },
           "blocks": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Alex Sarr"
           },
           "steals": {
@@ -8422,7 +8422,7 @@
             "player": "Brook Lopez"
           },
           "steals": {
-            "value": 2.1,
+            "value": 2.0,
             "player": "Kawhi Leonard"
           }
         }
@@ -12786,7 +12786,7 @@
           {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
-            "score": "57-95",
+            "score": "70-114",
             "home": false
           }
         ],
@@ -12825,16 +12825,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 29,
+        "played": 30,
         "wins": 8,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "New Zealand Breakers",
-            "score": "86-104",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
@@ -12858,6 +12852,12 @@
             "opponent": "Sydney Kings",
             "score": "92-106",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "25-26",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -12962,7 +12962,7 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 29,
@@ -13136,7 +13136,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "95-57",
+            "score": "114-70",
             "home": true
           }
         ],
@@ -13242,19 +13242,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 5,
+        "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 29,
-        "wins": 18,
+        "played": 30,
+        "wins": 19,
         "losses": 11,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Illawarra Hawks",
-            "score": "92-87",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Cairns Taipans",
@@ -13278,6 +13272,12 @@
             "opponent": "Illawarra Hawks",
             "score": "106-99",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Cairns Taipans",
+            "score": "26-25",
+            "home": true
           }
         ],
         "nextGame": {}
