@@ -12786,7 +12786,7 @@
           {
             "result": "L",
             "opponent": "Tasmania JackJumpers",
-            "score": "20-37",
+            "score": "57-95",
             "home": false
           }
         ],
@@ -12935,15 +12935,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.9,
+            "value": 19.5,
             "player": "JaVale McGee"
           },
           "assists": {
-            "value": 6.5,
+            "value": 6.7,
             "player": "William Hickey"
           },
           "rebounds": {
-            "value": 9.9,
+            "value": 10.0,
             "player": "JaVale McGee"
           },
           "blocks": {
@@ -13079,7 +13079,7 @@
             "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.3,
+            "value": 7.4,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
@@ -13136,7 +13136,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "37-20",
+            "score": "95-57",
             "home": true
           }
         ],
@@ -13215,7 +13215,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.3,
+            "value": 25.4,
             "player": "Bryce Cotton"
           },
           "assists": {
@@ -13355,19 +13355,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.4,
+            "value": 22.1,
             "player": "Nathan Sobey"
           },
           "assists": {
-            "value": 4.7,
+            "value": 4.8,
             "player": "Nathan Sobey"
           },
           "rebounds": {
-            "value": 6.2,
+            "value": 6.4,
             "player": "John Brown"
           },
           "blocks": {
-            "value": 0.8,
+            "value": 0.7,
             "player": "Akech Aliir"
           },
           "steals": {
