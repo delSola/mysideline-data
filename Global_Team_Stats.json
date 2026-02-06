@@ -1285,7 +1285,7 @@
           },
           "yellowCards": {
             "value": 9,
-            "player": "Yerson Mosquera"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -1418,7 +1418,7 @@
           },
           "assists": {
             "value": 5,
-            "player": "Giuliano Simeone"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -6087,12 +6087,6 @@
         "last5": [
           {
             "result": "W",
-            "opponent": "Pacers",
-            "score": "132-116",
-            "home": true
-          },
-          {
-            "result": "W",
             "opponent": "Celtics",
             "score": "117-106",
             "home": false
@@ -6114,14 +6108,20 @@
             "opponent": "Heat",
             "score": "127-115",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "121-119",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
+          "opponent": "Hornets",
           "home": true,
-          "date": "2026-02-06T00:30Z",
-          "time": "2026-02-06T00:30Z",
-          "status": "live"
+          "date": "2026-02-08T00:30Z",
+          "time": "2026-02-08T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6228,19 +6228,13 @@
       "TeamName": "Brooklyn Nets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "conference": "East",
         "played": 49,
         "wins": 13,
         "losses": 36,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Suns",
-            "score": "102-106",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Nuggets",
@@ -6264,14 +6258,20 @@
             "opponent": "Lakers",
             "score": "109-125",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Magic",
+            "score": "98-118",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
-          "home": false,
-          "date": "2026-02-06T00:00Z",
-          "time": "2026-02-06T00:00Z",
-          "status": "live"
+          "opponent": "Wizards",
+          "home": true,
+          "date": "2026-02-07T20:00Z",
+          "time": "2026-02-07T20:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6387,12 +6387,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Pacers",
-            "score": "110-113",
-            "home": false
-          },
-          {
-            "result": "L",
             "opponent": "Heat",
             "score": "113-116",
             "home": true
@@ -6414,14 +6408,20 @@
             "opponent": "Bucks",
             "score": "115-131",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Raptors",
+            "score": "107-123",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Raptors",
-          "home": false,
-          "date": "2026-02-06T00:30Z",
-          "time": "2026-02-06T00:30Z",
-          "status": "live"
+          "opponent": "Nuggets",
+          "home": true,
+          "date": "2026-02-08T01:00Z",
+          "time": "2026-02-08T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6681,16 +6681,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "East",
-        "played": 49,
+        "played": 50,
         "wins": 37,
-        "losses": 12,
+        "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nuggets",
-            "score": "109-107",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Suns",
@@ -6714,14 +6708,20 @@
             "opponent": "Nuggets",
             "score": "124-121",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Wizards",
+            "score": "117-126",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
+          "opponent": "Knicks",
           "home": true,
-          "date": "2026-02-06T00:00Z",
-          "time": "2026-02-06T00:00Z",
-          "status": "live"
+          "date": "2026-02-07T00:30Z",
+          "time": "2026-02-07T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7660,12 +7660,6 @@
         "losses": 24,
         "last5": [
           {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "98-114",
-            "home": false
-          },
-          {
             "result": "W",
             "opponent": "Heat",
             "score": "133-124",
@@ -7688,14 +7682,20 @@
             "opponent": "Thunder",
             "score": "92-128",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Nets",
+            "score": "118-98",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Nets",
+          "opponent": "Jazz",
           "home": true,
-          "date": "2026-02-06T00:00Z",
-          "time": "2026-02-06T00:00Z",
-          "status": "live"
+          "date": "2026-02-08T00:00Z",
+          "time": "2026-02-08T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8110,12 +8110,6 @@
         "losses": 22,
         "last5": [
           {
-            "result": "W",
-            "opponent": "Thunder",
-            "score": "103-101",
-            "home": false
-          },
-          {
             "result": "L",
             "opponent": "Knicks",
             "score": "92-119",
@@ -8138,14 +8132,20 @@
             "opponent": "Timberwolves",
             "score": "126-128",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Bulls",
+            "score": "123-107",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Bulls",
+          "opponent": "Pacers",
           "home": true,
-          "date": "2026-02-06T00:30Z",
-          "time": "2026-02-06T00:30Z",
-          "status": "live"
+          "date": "2026-02-08T20:00Z",
+          "time": "2026-02-08T20:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8186,12 +8186,6 @@
         "last5": [
           {
             "result": "L",
-            "opponent": "Clippers",
-            "score": "103-115",
-            "home": true
-          },
-          {
-            "result": "L",
             "opponent": "Warriors",
             "score": "124-140",
             "home": true
@@ -8213,14 +8207,20 @@
             "opponent": "Pacers",
             "score": "131-122",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Hawks",
+            "score": "119-121",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hawks",
+          "opponent": "Magic",
           "home": false,
-          "date": "2026-02-06T00:30Z",
-          "time": "2026-02-06T00:30Z",
-          "status": "live"
+          "date": "2026-02-08T00:00Z",
+          "time": "2026-02-08T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8252,19 +8252,13 @@
       "TeamName": "Washington Wizards",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 14,
+        "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 49,
-        "wins": 13,
+        "played": 50,
+        "wins": 14,
         "losses": 36,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Trail Blazers",
-            "score": "115-111",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -8288,14 +8282,20 @@
             "opponent": "Knicks",
             "score": "101-132",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Pistons",
+            "score": "126-117",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Pistons",
+          "opponent": "Nets",
           "home": false,
-          "date": "2026-02-06T00:00Z",
-          "time": "2026-02-06T00:00Z",
-          "status": "live"
+          "date": "2026-02-07T20:00Z",
+          "time": "2026-02-07T20:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -10126,20 +10126,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Gauthier Hein"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Gauthier Hein"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Koffi Kouao"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Sadibou Sané"
           }
         }
       }
@@ -12168,28 +12168,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 2167.0,
-            "player": "Brock Purdy"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 1202.0,
-            "player": "Christian McCaffrey"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 924.0,
-            "player": "Christian McCaffrey"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 10.0,
-            "player": "Christian McCaffrey"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 101.0,
-            "player": "Dee Winters"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 2.0,
-            "player": "Deommodore Lenoir"
+            "value": 0,
+            "player": ""
           }
         }
       }
