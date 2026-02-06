@@ -3492,7 +3492,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Udinese",
+          "home": true,
+          "date": "2026-02-08T14:00Z",
+          "time": "2026-02-08T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
