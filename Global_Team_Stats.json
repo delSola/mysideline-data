@@ -3492,13 +3492,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Udinese",
-          "home": true,
-          "date": "2026-02-08T14:00Z",
-          "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12856,7 +12850,7 @@
           {
             "result": "L",
             "opponent": "Perth Wildcats",
-            "score": "69-81",
+            "score": "84-98",
             "home": false
           }
         ],
@@ -13276,7 +13270,7 @@
           {
             "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "81-69",
+            "score": "98-84",
             "home": true
           }
         ],
