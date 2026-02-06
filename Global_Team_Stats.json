@@ -1019,6 +1019,12 @@
         "points": 26,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Leeds",
+            "score": "1-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "C Palace",
             "score": "1-1",
@@ -1040,12 +1046,6 @@
             "result": "W",
             "opponent": "West Ham",
             "score": "2-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Aston Villa",
-            "score": "1-3",
             "home": false
           }
         ],
@@ -1516,6 +1516,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Osasuna",
+            "score": "1-2",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Getafe",
             "score": "0-0",
@@ -1538,12 +1544,6 @@
             "opponent": "Sevilla",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Valencia",
-            "score": "4-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1941,6 +1941,12 @@
         "points": 29,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Celta Vigo",
+            "score": "2-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Villarreal",
             "score": "2-2",
@@ -1963,12 +1969,6 @@
             "opponent": "Girona",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Athletic",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3157,6 +3157,12 @@
         "points": 15,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Pisa",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Cagliari",
             "score": "0-4",
@@ -3178,12 +3184,6 @@
             "result": "L",
             "opponent": "Bologna",
             "score": "2-3",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Lazio",
-            "score": "0-1",
             "home": true
           }
         ],
@@ -4157,6 +4157,12 @@
         "points": 28,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Union Berlin",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Leverkusen",
             "score": "1-3",
@@ -4179,12 +4185,6 @@
             "opponent": "Stuttgart",
             "score": "2-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Dortmund",
-            "score": "3-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4582,6 +4582,12 @@
         "points": 25,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Frankfurt",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Hoffenheim",
             "score": "1-3",
@@ -4604,12 +4610,6 @@
             "opponent": "Augsburg",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Mainz",
-            "score": "2-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5292,6 +5292,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Metz",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Lyon",
             "score": "0-1",
@@ -5314,12 +5320,6 @@
             "opponent": "Rennes",
             "score": "0-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Auxerre",
-            "score": "4-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -8473,6 +8473,12 @@
         "points": 29,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Nottm Forest",
+            "score": "3-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Arsenal",
             "score": "0-4",
@@ -8495,12 +8501,6 @@
             "opponent": "Newcastle",
             "score": "3-4",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Man United",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9635,6 +9635,12 @@
         "points": 15,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Verona",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "L",
             "opponent": "Sassuolo",
             "score": "1-3",
@@ -9657,12 +9663,6 @@
             "opponent": "Udinese",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Como",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10067,6 +10067,12 @@
         "points": 13,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Lille",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Angers",
             "score": "0-1",
@@ -10089,12 +10095,6 @@
             "opponent": "Lorient",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "PSG",
-            "score": "2-3",
-            "home": true
           }
         ],
         "nextGame": {}
