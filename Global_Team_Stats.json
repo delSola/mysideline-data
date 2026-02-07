@@ -2151,6 +2151,12 @@
         "points": 31,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Elche",
+            "score": "3-1",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Athletic",
             "score": "1-1",
@@ -2173,12 +2179,6 @@
             "opponent": "Getafe",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Atlético",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -2929,6 +2929,12 @@
         "points": 18,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Torino",
+            "score": "2-2",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Napoli",
             "score": "1-2",
@@ -2951,12 +2957,6 @@
             "opponent": "Milan",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Lazio",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3629,6 +3629,12 @@
         "points": 27,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Fiorentina",
+            "score": "2-2",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Lecce",
             "score": "1-0",
@@ -3651,12 +3657,6 @@
             "opponent": "Atalanta",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Udinese",
-            "score": "1-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5007,8 +5007,8 @@
       "TeamName": "Marseille",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 4,
+        "positionSuffix": "th",
         "played": 20,
         "wins": 12,
         "draws": 3,
@@ -5079,13 +5079,13 @@
       "TeamName": "Lyon",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
-        "positionSuffix": "th",
-        "played": 20,
-        "wins": 12,
+        "position": 3,
+        "positionSuffix": "rd",
+        "played": 21,
+        "wins": 13,
         "draws": 3,
         "losses": 5,
-        "points": 39,
+        "points": 42,
         "last5": [
           {
             "result": "W",
@@ -5118,13 +5118,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Nantes",
-          "home": false,
-          "date": "2026-02-07T20:05Z",
-          "time": "2026-02-07T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5506,10 +5500,10 @@
       "TeamStats": {
         "position": 16,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 3,
         "draws": 5,
-        "losses": 12,
+        "losses": 13,
         "points": 14,
         "last5": [
           {
@@ -5543,13 +5537,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lyon",
-          "home": true,
-          "date": "2026-02-07T20:05Z",
-          "time": "2026-02-07T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -6078,19 +6066,13 @@
       "TeamName": "Brooklyn Nets",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 14,
+        "position": 13,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
-        "wins": 13,
+        "played": 51,
+        "wins": 14,
         "losses": 37,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Nuggets",
-            "score": "103-107",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -6114,14 +6096,20 @@
             "opponent": "Magic",
             "score": "98-118",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "127-113",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
+          "opponent": "Bulls",
           "home": true,
-          "date": "2026-02-07T20:00Z",
-          "time": "2026-02-07T20:00Z",
-          "status": "live"
+          "date": "2026-02-10T00:30Z",
+          "time": "2026-02-10T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8102,19 +8090,13 @@
       "TeamName": "Washington Wizards",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 13,
+        "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
+        "played": 51,
         "wins": 14,
-        "losses": 36,
+        "losses": 37,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bucks",
-            "score": "109-99",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Lakers",
@@ -8138,14 +8120,20 @@
             "opponent": "Pistons",
             "score": "126-117",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Nets",
+            "score": "113-127",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Nets",
-          "home": false,
-          "date": "2026-02-07T20:00Z",
-          "time": "2026-02-07T20:00Z",
-          "status": "live"
+          "opponent": "Heat",
+          "home": true,
+          "date": "2026-02-08T19:00Z",
+          "time": "2026-02-08T19:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8823,6 +8811,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Real Sociedad",
+            "score": "1-3",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Barcelona",
             "score": "1-3",
             "home": true
@@ -8844,12 +8838,6 @@
             "opponent": "Valencia",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Villarreal",
-            "score": "1-3",
-            "home": true
           }
         ],
         "nextGame": {}
