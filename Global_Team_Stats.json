@@ -4235,7 +4235,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Ellyes Skhiri"
+            "player": "Oscar Højlund"
           }
         }
       }
@@ -4662,7 +4662,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Christopher Trimmel"
+            "player": "Janik Haberer"
           },
           "redCards": {
             "value": 1,
@@ -5382,7 +5382,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Nathan Ngoy"
+            "player": "Ayyoub Bouaddi"
           }
         }
       }
@@ -10170,7 +10170,7 @@
             "player": "Gauthier Hein"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Koffi Kouao"
           },
           "redCards": {
@@ -12926,7 +12926,7 @@
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
-            "score": "25-36",
+            "score": "82-84",
             "home": false
           }
         ],
@@ -13066,7 +13066,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "36-25",
+            "score": "84-82",
             "home": true
           }
         ],
