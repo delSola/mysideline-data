@@ -6757,11 +6757,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.4,
+            "value": 25.1,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.8,
+            "value": 9.7,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -6982,7 +6982,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.8,
+            "value": 23.7,
             "player": "Pascal Siakam"
           },
           "assists": {
@@ -7293,7 +7293,7 @@
             "player": "Bam Adebayo"
           },
           "blocks": {
-            "value": 1.1,
+            "value": 1.0,
             "player": "Kel'el Ware"
           },
           "steals": {
@@ -7581,7 +7581,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.4,
+            "value": 27.1,
             "player": "Jalen Brunson"
           },
           "assists": {
@@ -7964,7 +7964,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 11.2,
+            "value": 11.3,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -8031,11 +8031,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.5,
+            "value": 19.2,
             "player": "Zach LaVine"
           },
           "assists": {
-            "value": 6.7,
+            "value": 6.6,
             "player": "Russell Westbrook"
           },
           "rebounds": {
@@ -8406,7 +8406,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.6,
+            "value": 27.7,
             "player": "Kawhi Leonard"
           },
           "assists": {
@@ -12996,7 +12996,7 @@
           {
             "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "39-41",
+            "score": "76-87",
             "home": true
           }
         ],
@@ -13206,7 +13206,7 @@
           {
             "result": "W",
             "opponent": "Melbourne United",
-            "score": "41-39",
+            "score": "87-76",
             "home": false
           }
         ],
