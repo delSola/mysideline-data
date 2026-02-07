@@ -414,11 +414,11 @@
         "leaders": {
           "goals": {
             "value": 9,
-            "player": "João Pedro"
+            "player": "João Pedro "
           },
           "assists": {
             "value": 4,
-            "player": "João Pedro"
+            "player": "João Pedro "
           },
           "yellowCards": {
             "value": 7,
@@ -925,11 +925,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Casemiro "
+            "player": "Casemiro"
           },
           "redCards": {
             "value": 1,
-            "player": "Casemiro "
+            "player": "Casemiro"
           }
         }
       }
@@ -9790,7 +9790,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Cristian Volpato"
           },
           "yellowCards": {
             "value": 6,
