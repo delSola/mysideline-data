@@ -910,7 +910,7 @@
           "home": true,
           "date": "2026-02-07T12:30Z",
           "time": "2026-02-07T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1126,7 +1126,7 @@
           "home": false,
           "date": "2026-02-07T12:30Z",
           "time": "2026-02-07T12:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2928,7 +2928,7 @@
           },
           "assists": {
             "value": 6,
-            "player": ""
+            "player": "Nico Paz"
           },
           "yellowCards": {
             "value": 7,
@@ -3414,7 +3414,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Juventus",
+          "home": false,
+          "date": "2026-02-08T19:45Z",
+          "time": "2026-02-08T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9784,7 +9790,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Cristian Volpato"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
