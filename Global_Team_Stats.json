@@ -48,7 +48,7 @@
           "home": true,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -120,7 +120,7 @@
           "home": false,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -407,18 +407,18 @@
           "home": false,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
         "leaders": {
           "goals": {
             "value": 9,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "yellowCards": {
             "value": 7,
@@ -551,7 +551,7 @@
           "home": false,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -623,7 +623,7 @@
           "home": true,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -868,12 +868,18 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 24,
-        "wins": 11,
+        "played": 25,
+        "wins": 12,
         "draws": 8,
         "losses": 5,
-        "points": 41,
+        "points": 44,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Spurs",
+            "score": "2-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Fulham",
@@ -897,21 +903,9 @@
             "opponent": "Burnley",
             "score": "2-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Leeds",
-            "score": "1-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Spurs",
-          "home": true,
-          "date": "2026-02-07T12:30Z",
-          "time": "2026-02-07T12:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1084,12 +1078,18 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 24,
+        "played": 25,
         "wins": 7,
         "draws": 8,
-        "losses": 9,
+        "losses": 10,
         "points": 29,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Man United",
+            "score": "0-2",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Man City",
@@ -1113,21 +1113,9 @@
             "opponent": "Bournemouth",
             "score": "2-3",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Sunderland",
-            "score": "1-1",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Man United",
-          "home": false,
-          "date": "2026-02-07T12:30Z",
-          "time": "2026-02-07T12:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1198,7 +1186,7 @@
           "home": false,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1270,7 +1258,7 @@
           "home": true,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3994,7 +3982,7 @@
           "home": false,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4282,7 +4270,7 @@
           "home": false,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4497,7 +4485,7 @@
           "home": true,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4569,7 +4557,7 @@
           "home": false,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -4713,7 +4701,7 @@
           "home": false,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8471,7 +8459,7 @@
           "home": true,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8617,7 +8605,7 @@
           "home": false,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8690,7 +8678,7 @@
           "home": true,
           "date": "2026-02-07T15:00Z",
           "time": "2026-02-07T15:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9195,7 +9183,7 @@
           "home": false,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9268,7 +9256,7 @@
           "home": true,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9341,7 +9329,7 @@
           "home": true,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9414,7 +9402,7 @@
           "home": true,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9487,7 +9475,7 @@
           "home": true,
           "date": "2026-02-07T14:30Z",
           "time": "2026-02-07T14:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
