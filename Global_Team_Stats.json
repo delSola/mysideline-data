@@ -7907,7 +7907,7 @@
       "TeamName": "Portland Trail Blazers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "West",
         "played": 52,
@@ -7985,9 +7985,9 @@
         "position": 15,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 12,
-        "losses": 40,
+        "losses": 41,
         "last5": [
           {
             "result": "L",
@@ -8357,11 +8357,11 @@
       "TeamName": "LA Clippers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
-        "wins": 23,
+        "played": 51,
+        "wins": 24,
         "losses": 27,
         "last5": [
           {
@@ -12892,19 +12892,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 29,
+        "played": 30,
         "wins": 11,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "101-91",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
@@ -12928,6 +12922,12 @@
             "opponent": "Adelaide 36ers",
             "score": "100-99",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "New Zealand Breakers",
+            "score": "25-36",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13032,19 +13032,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 30,
-        "wins": 11,
+        "played": 31,
+        "wins": 12,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "116-123",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Adelaide 36ers",
@@ -13067,6 +13061,12 @@
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
             "score": "83-114",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "36-25",
             "home": true
           }
         ],
