@@ -1473,7 +1473,7 @@
           "home": true,
           "date": "2026-02-07T15:15Z",
           "time": "2026-02-07T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1827,13 +1827,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sevilla",
-          "home": false,
-          "date": "2026-02-07T17:30Z",
-          "time": "2026-02-07T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1904,7 +1898,7 @@
           "home": false,
           "date": "2026-02-07T15:15Z",
           "time": "2026-02-07T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2396,13 +2390,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Girona",
-          "home": true,
-          "date": "2026-02-07T17:30Z",
-          "time": "2026-02-07T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5489,7 +5477,7 @@
           "home": true,
           "date": "2026-02-07T16:00Z",
           "time": "2026-02-07T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9913,7 +9901,7 @@
           "home": false,
           "date": "2026-02-07T16:00Z",
           "time": "2026-02-07T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
