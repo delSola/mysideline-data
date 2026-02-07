@@ -925,11 +925,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Casemiro"
+            "player": "Casemiro "
           },
           "redCards": {
             "value": 1,
-            "player": "Casemiro"
+            "player": "Casemiro "
           }
         }
       }
@@ -2055,13 +2055,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Real Oviedo",
-          "home": true,
-          "date": "2026-02-07T13:00Z",
-          "time": "2026-02-07T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2934,7 +2928,7 @@
           },
           "assists": {
             "value": 6,
-            "player": "Nico Paz"
+            "player": ""
           },
           "yellowCards": {
             "value": 7,
@@ -3420,13 +3414,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": false,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -6236,11 +6224,11 @@
             "player": "Jaylen Brown"
           },
           "assists": {
-            "value": 5.6,
+            "value": 5.5,
             "player": "Derrick White"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.4,
             "player": "Neemias Queta"
           },
           "blocks": {
@@ -6769,7 +6757,7 @@
             "player": "Jalen Duren"
           },
           "blocks": {
-            "value": 1.8,
+            "value": 1.7,
             "player": "Isaiah Stewart"
           },
           "steals": {
@@ -7285,11 +7273,11 @@
             "player": "Norman Powell"
           },
           "assists": {
-            "value": 7.3,
+            "value": 7.2,
             "player": "Davion Mitchell"
           },
           "rebounds": {
-            "value": 9.9,
+            "value": 9.8,
             "player": "Bam Adebayo"
           },
           "blocks": {
@@ -7431,7 +7419,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 29.7,
+            "value": 29.8,
             "player": "Anthony Edwards"
           },
           "assists": {
@@ -7439,7 +7427,7 @@
             "player": "Julius Randle"
           },
           "rebounds": {
-            "value": 11.3,
+            "value": 11.4,
             "player": "Rudy Gobert"
           },
           "blocks": {
@@ -7506,7 +7494,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.1,
+            "value": 22.2,
             "player": "Trey Murphy III"
           },
           "assists": {
@@ -7522,7 +7510,7 @@
             "player": "Yves Missi"
           },
           "steals": {
-            "value": 1.6,
+            "value": 1.5,
             "player": "Trey Murphy III"
           }
         }
@@ -8764,13 +8752,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rayo",
-          "home": false,
-          "date": "2026-02-07T13:00Z",
-          "time": "2026-02-07T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
