@@ -1064,8 +1064,8 @@
             "player": "Morgan Gibbs-White"
           },
           "assists": {
-            "value": 2,
-            "player": "Elliot Anderson"
+            "value": 3,
+            "player": "Omari Hutchinson"
           },
           "yellowCards": {
             "value": 5,
@@ -1284,8 +1284,8 @@
             "player": "David Møller Wolfe"
           },
           "yellowCards": {
-            "value": 9,
-            "player": "Yerson Mosquera"
+            "value": 8,
+            "player": "João Gomes"
           },
           "redCards": {
             "value": 1,
@@ -1563,7 +1563,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Borja Iglesias"
           },
           "assists": {
@@ -1994,7 +1994,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 10,
+            "value": 11,
             "player": "Ante Budimir"
           },
           "assists": {
@@ -8556,7 +8556,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "Dominic Calvert-Lewin"
           },
           "assists": {
@@ -12926,7 +12926,7 @@
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
-            "score": "82-84",
+            "score": "95-106",
             "home": false
           }
         ],
@@ -13066,7 +13066,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "84-82",
+            "score": "106-95",
             "home": true
           }
         ],
