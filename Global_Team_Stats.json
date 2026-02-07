@@ -5322,7 +5322,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brest",
+          "home": true,
+          "date": "2026-02-14T18:00Z",
+          "time": "2026-02-14T18:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10097,7 +10103,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": true,
+          "date": "2026-02-15T16:15Z",
+          "time": "2026-02-15T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
