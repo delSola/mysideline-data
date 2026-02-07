@@ -12865,11 +12865,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.8,
+            "value": 21.7,
             "player": "Jack McVeigh"
           },
           "assists": {
-            "value": 7.6,
+            "value": 7.5,
             "player": "Andrew Andrews"
           },
           "rebounds": {
@@ -12877,8 +12877,8 @@
             "player": "Jack McVeigh"
           },
           "blocks": {
-            "value": 1.1,
-            "player": "Marcus Lee"
+            "value": 1.0,
+            "player": "Kyrin Galloway"
           },
           "steals": {
             "value": 0.0,
@@ -12935,19 +12935,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 19.5,
+            "value": 19.1,
             "player": "JaVale McGee"
           },
           "assists": {
-            "value": 6.7,
+            "value": 6.5,
             "player": "William Hickey"
           },
           "rebounds": {
-            "value": 10.0,
+            "value": 9.8,
             "player": "JaVale McGee"
           },
           "blocks": {
-            "value": 1.9,
+            "value": 1.8,
             "player": "JaVale McGee"
           },
           "steals": {
@@ -12965,16 +12965,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 29,
+        "played": 30,
         "wins": 18,
-        "losses": 11,
+        "losses": 12,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "94-97",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
@@ -12998,6 +12992,12 @@
             "opponent": "New Zealand Breakers",
             "score": "95-97",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Adelaide 36ers",
+            "score": "39-41",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -13079,7 +13079,7 @@
             "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.4,
+            "value": 7.3,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
@@ -13172,19 +13172,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
-        "played": 30,
-        "wins": 21,
+        "played": 31,
+        "wins": 22,
         "losses": 9,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "New Zealand Breakers",
-            "score": "112-110",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Sydney Kings",
@@ -13207,6 +13201,12 @@
             "result": "L",
             "opponent": "Illawarra Hawks",
             "score": "99-100",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "41-39",
             "home": false
           }
         ],
@@ -13285,7 +13285,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 16.9,
+            "value": 17.2,
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
@@ -13312,8 +13312,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 30,
         "wins": 21,
