@@ -1041,7 +1041,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Omari Hutchinson"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -2114,11 +2114,11 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 22,
-        "wins": 17,
+        "played": 23,
+        "wins": 18,
         "draws": 3,
         "losses": 2,
-        "points": 54,
+        "points": 57,
         "last5": [
           {
             "result": "W",
@@ -2151,13 +2151,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Valencia",
-          "home": false,
-          "date": "2026-02-08T20:00Z",
-          "time": "2026-02-08T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2395,10 +2389,10 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 22,
+        "played": 23,
         "wins": 5,
         "draws": 8,
-        "losses": 9,
+        "losses": 10,
         "points": 23,
         "last5": [
           {
@@ -2432,13 +2426,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": true,
-          "date": "2026-02-08T20:00Z",
-          "time": "2026-02-08T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3251,11 +3239,11 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 13,
-        "draws": 6,
+        "draws": 7,
         "losses": 4,
-        "points": 45,
+        "points": 46,
         "last5": [
           {
             "result": "W",
@@ -3288,13 +3276,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": true,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3323,11 +3305,11 @@
       "TeamStats": {
         "position": 8,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 8,
-        "draws": 8,
+        "draws": 9,
         "losses": 7,
-        "points": 32,
+        "points": 33,
         "last5": [
           {
             "result": "W",
@@ -3360,13 +3342,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": false,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3518,7 +3494,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Juan Jesus"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4141,7 +4117,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": "Arthur Theate"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4936,13 +4912,13 @@
       "TeamName": "Paris Saint-Germain",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
-        "played": 20,
-        "wins": 15,
+        "position": 1,
+        "positionSuffix": "st",
+        "played": 21,
+        "wins": 16,
         "draws": 3,
         "losses": 2,
-        "points": 48,
+        "points": 51,
         "last5": [
           {
             "result": "W",
@@ -4975,13 +4951,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Marseille",
-          "home": true,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5081,10 +5051,10 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 20,
+        "played": 21,
         "wins": 12,
         "draws": 3,
-        "losses": 5,
+        "losses": 6,
         "points": 39,
         "last5": [
           {
@@ -5118,13 +5088,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "PSG",
-          "home": false,
-          "date": "2026-02-08T19:45Z",
-          "time": "2026-02-08T19:45Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5361,8 +5325,8 @@
       "TeamName": "Lens",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "played": 21,
         "wins": 16,
         "draws": 1,
@@ -7115,16 +7079,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 53,
-        "wins": 27,
+        "played": 54,
+        "wins": 28,
         "losses": 26,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Bulls",
-            "score": "116-113",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Bulls",
@@ -7148,14 +7106,20 @@
             "opponent": "Celtics",
             "score": "96-98",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Wizards",
+            "score": "132-101",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Wizards",
-          "home": false,
-          "date": "2026-02-08T19:00Z",
-          "time": "2026-02-08T19:00Z",
-          "status": "live"
+          "opponent": "Jazz",
+          "home": true,
+          "date": "2026-02-10T00:30Z",
+          "time": "2026-02-10T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8165,16 +8129,10 @@
         "position": 14,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 51,
+        "played": 52,
         "wins": 14,
-        "losses": 37,
+        "losses": 38,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Lakers",
-            "score": "111-142",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Kings",
@@ -8198,14 +8156,20 @@
             "opponent": "Nets",
             "score": "113-127",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Heat",
+            "score": "101-132",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Heat",
-          "home": true,
-          "date": "2026-02-08T19:00Z",
-          "time": "2026-02-08T19:00Z",
-          "status": "live"
+          "opponent": "Cavaliers",
+          "home": false,
+          "date": "2026-02-12T00:00Z",
+          "time": "2026-02-12T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
