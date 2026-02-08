@@ -4779,20 +4779,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 8,
+            "player": "Andrej Kramaric"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Wouter Burger"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Albian Hajdari"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Wouter Burger"
           }
         }
       }
@@ -9032,13 +9032,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Osasuna",
-          "home": true,
-          "date": "2026-02-13T20:00Z",
-          "time": "2026-02-13T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -12762,7 +12756,7 @@
           {
             "result": "L",
             "opponent": "Cairns Taipans",
-            "score": "13-22",
+            "score": "57-61",
             "home": true
           }
         ],
@@ -12832,7 +12826,7 @@
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
-            "score": "22-13",
+            "score": "61-57",
             "home": false
           }
         ],
