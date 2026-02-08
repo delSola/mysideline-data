@@ -1772,7 +1772,7 @@
           "home": false,
           "date": "2026-02-08T13:00Z",
           "time": "2026-02-08T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8915,7 +8915,7 @@
           "home": true,
           "date": "2026-02-08T13:00Z",
           "time": "2026-02-08T13:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
