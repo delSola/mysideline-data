@@ -869,7 +869,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "West Ham",
+          "home": false,
+          "date": "2026-02-10T20:15Z",
+          "time": "2026-02-10T20:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1353,20 +1359,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Julián Álvarez"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Giuliano Simeone"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Koke"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Alexander Sørloth"
           }
         }
       }
@@ -4282,7 +4288,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Frankfurt",
+          "home": false,
+          "date": "2026-02-14T14:30Z",
+          "time": "2026-02-14T14:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -6594,16 +6606,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 28,
-        "losses": 24,
+        "losses": 25,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Timberwolves",
-            "score": "83-108",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Jazz",
@@ -6627,14 +6633,20 @@
             "opponent": "Suns",
             "score": "101-97",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Lakers",
+            "score": "99-105",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
-          "home": false,
-          "date": "2026-02-08T01:30Z",
-          "time": "2026-02-08T01:30Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": true,
+          "date": "2026-02-10T03:00Z",
+          "time": "2026-02-10T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6893,16 +6905,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
-        "wins": 31,
+        "played": 51,
+        "wins": 32,
         "losses": 19,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Cavaliers",
-            "score": "99-129",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Wizards",
@@ -6926,14 +6932,20 @@
             "opponent": "76ers",
             "score": "119-115",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Warriors",
+            "score": "105-99",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Warriors",
+          "opponent": "Thunder",
           "home": true,
-          "date": "2026-02-08T01:30Z",
-          "time": "2026-02-08T01:30Z",
-          "status": "live"
+          "date": "2026-02-10T03:00Z",
+          "time": "2026-02-10T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7568,16 +7580,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 51,
-        "wins": 29,
+        "played": 52,
+        "wins": 30,
         "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "113-111",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Pelicans",
@@ -7601,14 +7607,20 @@
             "opponent": "Lakers",
             "score": "115-119",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Suns",
+            "score": "109-103",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
+          "opponent": "Trail Blazers",
           "home": false,
-          "date": "2026-02-08T02:00Z",
-          "time": "2026-02-08T02:00Z",
-          "status": "live"
+          "date": "2026-02-10T03:00Z",
+          "time": "2026-02-10T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7643,16 +7655,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 31,
-        "losses": 21,
+        "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pistons",
-            "score": "114-96",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Cavaliers",
@@ -7676,14 +7682,20 @@
             "opponent": "Warriors",
             "score": "97-101",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "76ers",
+            "score": "103-109",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "76ers",
+          "opponent": "Mavericks",
           "home": true,
-          "date": "2026-02-08T02:00Z",
-          "time": "2026-02-08T02:00Z",
-          "status": "live"
+          "date": "2026-02-11T02:00Z",
+          "time": "2026-02-11T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -13082,7 +13094,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "36-41",
+            "score": "77-89",
             "home": true
           }
         ],
@@ -13152,7 +13164,7 @@
           {
             "result": "W",
             "opponent": "SE Melbourne Phoenix",
-            "score": "41-36",
+            "score": "89-77",
             "home": false
           }
         ],
