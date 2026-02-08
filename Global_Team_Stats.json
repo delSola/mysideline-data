@@ -5089,6 +5089,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Nantes",
+            "score": "1-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Lille",
             "score": "1-0",
             "home": true
@@ -5110,12 +5116,6 @@
             "opponent": "Monaco",
             "score": "3-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Le Havre AC",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5508,6 +5508,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Lyon",
+            "score": "0-1",
+            "home": true
+          },
+          {
+            "result": "L",
             "opponent": "Lorient",
             "score": "1-2",
             "home": false
@@ -5528,12 +5534,6 @@
             "result": "W",
             "opponent": "Marseille",
             "score": "2-0",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Angers",
-            "score": "1-4",
             "home": false
           }
         ],
@@ -6409,7 +6409,7 @@
           "home": false,
           "date": "2026-02-07T23:00Z",
           "time": "2026-02-07T23:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6669,16 +6669,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 50,
-        "wins": 31,
+        "played": 51,
+        "wins": 32,
         "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Hawks",
-            "score": "104-86",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Mavericks",
@@ -6702,14 +6696,20 @@
             "opponent": "Hornets",
             "score": "99-109",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Thunder",
+            "score": "112-106",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Thunder",
-          "home": false,
-          "date": "2026-02-07T20:30Z",
-          "time": "2026-02-07T20:30Z",
-          "status": "live"
+          "opponent": "Clippers",
+          "home": true,
+          "date": "2026-02-11T01:00Z",
+          "time": "2026-02-11T01:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7418,16 +7418,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 40,
-        "losses": 12,
+        "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pelicans",
-            "score": "104-95",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Timberwolves",
@@ -7451,14 +7445,20 @@
             "opponent": "Spurs",
             "score": "106-116",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Rockets",
+            "score": "106-112",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Rockets",
-          "home": true,
-          "date": "2026-02-07T20:30Z",
-          "time": "2026-02-07T20:30Z",
-          "status": "live"
+          "opponent": "Lakers",
+          "home": false,
+          "date": "2026-02-10T03:00Z",
+          "time": "2026-02-10T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7908,7 +7908,7 @@
           "home": true,
           "date": "2026-02-07T23:00Z",
           "time": "2026-02-07T23:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
