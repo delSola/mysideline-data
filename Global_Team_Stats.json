@@ -1354,6 +1354,12 @@
         "points": 45,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Betis",
+            "score": "0-1",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Levante",
             "score": "0-0",
@@ -1375,12 +1381,6 @@
             "result": "D",
             "opponent": "Real Sociedad",
             "score": "1-1",
-            "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Girona",
-            "score": "3-0",
             "home": false
           }
         ],
@@ -2056,6 +2056,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Atlético",
+            "score": "1-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Valencia",
             "score": "2-1",
             "home": true
@@ -2076,12 +2082,6 @@
             "result": "D",
             "opponent": "Real Oviedo",
             "score": "1-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Real Madrid",
-            "score": "1-5",
             "home": false
           }
         ],
@@ -6063,19 +6063,13 @@
       "TeamName": "Boston Celtics",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 3,
+        "positionSuffix": "rd",
         "conference": "East",
-        "played": 52,
+        "played": 53,
         "wins": 34,
-        "losses": 18,
+        "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Kings",
-            "score": "112-93",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Bucks",
@@ -6099,14 +6093,20 @@
             "opponent": "Heat",
             "score": "98-96",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Knicks",
+            "score": "89-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Knicks",
+          "opponent": "Bulls",
           "home": true,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "live"
+          "date": "2026-02-12T00:30Z",
+          "time": "2026-02-12T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6856,7 +6856,7 @@
           "home": false,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7305,7 +7305,7 @@
           "home": true,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7412,19 +7412,13 @@
       "TeamName": "New York Knicks",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 3,
-        "positionSuffix": "rd",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "East",
-        "played": 52,
-        "wins": 33,
+        "played": 53,
+        "wins": 34,
         "losses": 19,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Trail Blazers",
-            "score": "127-97",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Lakers",
@@ -7448,14 +7442,20 @@
             "opponent": "Pistons",
             "score": "80-118",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Celtics",
+            "score": "111-89",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Celtics",
-          "home": false,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "live"
+          "opponent": "Pacers",
+          "home": true,
+          "date": "2026-02-11T00:30Z",
+          "time": "2026-02-11T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8055,7 +8055,7 @@
           "home": true,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8280,7 +8280,7 @@
           "home": false,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
