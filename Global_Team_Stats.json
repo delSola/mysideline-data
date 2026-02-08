@@ -719,6 +719,12 @@
         "points": 39,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Man City",
+            "score": "1-2",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Newcastle",
             "score": "4-1",
@@ -740,12 +746,6 @@
             "result": "D",
             "opponent": "Arsenal",
             "score": "0-0",
-            "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Fulham",
-            "score": "2-2",
             "home": false
           }
         ],
@@ -785,6 +785,12 @@
         "points": 50,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Liverpool",
+            "score": "2-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Spurs",
             "score": "2-2",
@@ -805,12 +811,6 @@
           {
             "result": "D",
             "opponent": "Brighton",
-            "score": "1-1",
-            "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Chelsea",
             "score": "1-1",
             "home": true
           }
@@ -1347,10 +1347,10 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 22,
+        "played": 23,
         "wins": 13,
         "draws": 6,
-        "losses": 3,
+        "losses": 4,
         "points": 45,
         "last5": [
           {
@@ -1384,13 +1384,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Betis",
-          "home": true,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2054,11 +2048,11 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 22,
-        "wins": 9,
+        "played": 23,
+        "wins": 10,
         "draws": 8,
         "losses": 5,
-        "points": 35,
+        "points": 38,
         "last5": [
           {
             "result": "W",
@@ -2091,13 +2085,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atlético",
-          "home": false,
-          "date": "2026-02-08T17:30Z",
-          "time": "2026-02-08T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2168,7 +2156,7 @@
           "home": false,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2449,7 +2437,7 @@
           "home": true,
           "date": "2026-02-08T20:00Z",
           "time": "2026-02-08T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3305,7 +3293,7 @@
           "home": true,
           "date": "2026-02-08T19:45Z",
           "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3377,7 +3365,7 @@
           "home": false,
           "date": "2026-02-08T19:45Z",
           "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3827,6 +3815,12 @@
         "points": 54,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Hoffenheim",
+            "score": "5-1",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Hamburg",
             "score": "2-2",
@@ -3849,12 +3843,6 @@
             "opponent": "Cologne",
             "score": "3-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Wolfsburg",
-            "score": "8-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -4678,6 +4666,12 @@
         "points": 42,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Bayern",
+            "score": "1-5",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Union Berlin",
             "score": "3-1",
@@ -4699,12 +4693,6 @@
             "result": "W",
             "opponent": "Leverkusen",
             "score": "1-0",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Gladbach",
-            "score": "5-1",
             "home": true
           }
         ],
@@ -4992,7 +4980,7 @@
           "home": true,
           "date": "2026-02-08T19:45Z",
           "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5135,7 +5123,7 @@
           "home": false,
           "date": "2026-02-08T19:45Z",
           "time": "2026-02-08T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5526,6 +5514,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Le Havre AC",
+            "score": "1-2",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "PSG",
             "score": "1-2",
             "home": true
@@ -5547,12 +5541,6 @@
             "opponent": "Nice",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Lorient",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5663,6 +5651,12 @@
         "points": 30,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Angers",
+            "score": "0-1",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Auxerre",
             "score": "0-0",
@@ -5685,12 +5679,6 @@
             "opponent": "Lens",
             "score": "0-3",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Paris FC",
-            "score": "3-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5873,6 +5861,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Toulouse",
+            "score": "1-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Metz",
             "score": "1-0",
             "home": true
@@ -5894,12 +5888,6 @@
             "opponent": "Le Havre AC",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Nantes",
-            "score": "4-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -7167,7 +7155,7 @@
           "home": false,
           "date": "2026-02-08T19:00Z",
           "time": "2026-02-08T19:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8217,7 +8205,7 @@
           "home": true,
           "date": "2026-02-08T19:00Z",
           "time": "2026-02-08T19:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9479,6 +9467,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Sassuolo",
+            "score": "5-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Cremonese",
             "score": "2-0",
             "home": false
@@ -9499,12 +9493,6 @@
             "result": "W",
             "opponent": "Lecce",
             "score": "1-0",
-            "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Napoli",
-            "score": "2-2",
             "home": true
           }
         ],
@@ -9618,6 +9606,12 @@
         "points": 29,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Inter Milan",
+            "score": "0-5",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Pisa",
             "score": "3-1",
@@ -9640,12 +9634,6 @@
             "opponent": "AS Roma",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Juventus",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9832,6 +9820,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Paris FC",
+            "score": "0-0",
+            "home": true
+          },
+          {
+            "result": "D",
             "opponent": "Toulouse",
             "score": "0-0",
             "home": false
@@ -9853,12 +9847,6 @@
             "opponent": "Brest",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Lille",
-            "score": "3-4",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10111,6 +10099,12 @@
         "points": 23,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Strasbourg",
+            "score": "2-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Lens",
             "score": "0-1",
@@ -10133,12 +10127,6 @@
             "opponent": "Angers",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Lyon",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -10179,6 +10167,12 @@
         "last5": [
           {
             "result": "D",
+            "opponent": "Auxerre",
+            "score": "0-0",
+            "home": false
+          },
+          {
+            "result": "D",
             "opponent": "Marseille",
             "score": "2-2",
             "home": true
@@ -10200,12 +10194,6 @@
             "opponent": "PSG",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Toulouse",
-            "score": "0-3",
-            "home": true
           }
         ],
         "nextGame": {}
