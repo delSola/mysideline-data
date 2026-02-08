@@ -7493,16 +7493,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 50,
-        "wins": 26,
+        "played": 51,
+        "wins": 27,
         "losses": 24,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Heat",
-            "score": "133-124",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Raptors",
@@ -7526,14 +7520,20 @@
             "opponent": "Nets",
             "score": "118-98",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "120-117",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
+          "opponent": "Bucks",
           "home": true,
-          "date": "2026-02-08T00:00Z",
-          "time": "2026-02-08T00:00Z",
-          "status": "live"
+          "date": "2026-02-10T00:30Z",
+          "time": "2026-02-10T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7608,7 +7608,7 @@
           "home": false,
           "date": "2026-02-08T02:00Z",
           "time": "2026-02-08T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7683,7 +7683,7 @@
           "home": true,
           "date": "2026-02-08T02:00Z",
           "time": "2026-02-08T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8018,16 +8018,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 16,
-        "losses": 36,
+        "losses": 37,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Warriors",
-            "score": "124-140",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Nets",
@@ -8051,14 +8045,20 @@
             "opponent": "Hawks",
             "score": "119-121",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Magic",
+            "score": "117-120",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Magic",
+          "opponent": "Heat",
           "home": false,
-          "date": "2026-02-08T00:00Z",
-          "time": "2026-02-08T00:00Z",
-          "status": "live"
+          "date": "2026-02-10T00:30Z",
+          "time": "2026-02-10T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
