@@ -479,7 +479,7 @@
           "home": false,
           "date": "2026-02-08T14:00Z",
           "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2737,10 +2737,10 @@
       "TeamStats": {
         "position": 10,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 8,
         "draws": 6,
-        "losses": 9,
+        "losses": 10,
         "points": 30,
         "last5": [
           {
@@ -2774,13 +2774,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Parma",
-          "home": true,
-          "date": "2026-02-08T11:30Z",
-          "time": "2026-02-08T11:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3597,13 +3591,13 @@
       "TeamName": "Parma",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 14,
         "positionSuffix": "th",
-        "played": 23,
-        "wins": 5,
+        "played": 24,
+        "wins": 6,
         "draws": 8,
         "losses": 10,
-        "points": 23,
+        "points": 26,
         "last5": [
           {
             "result": "L",
@@ -3636,13 +3630,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bologna",
-          "home": false,
-          "date": "2026-02-08T11:30Z",
-          "time": "2026-02-08T11:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3856,7 +3844,7 @@
           "home": false,
           "date": "2026-02-08T14:00Z",
           "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5435,7 +5423,7 @@
           "home": true,
           "date": "2026-02-08T14:00Z",
           "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9820,7 +9808,7 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 14,
+        "position": 15,
         "positionSuffix": "th",
         "played": 23,
         "wins": 5,
@@ -10083,7 +10071,7 @@
           "home": false,
           "date": "2026-02-08T14:00Z",
           "time": "2026-02-08T14:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
