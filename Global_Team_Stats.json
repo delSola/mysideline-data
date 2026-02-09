@@ -3144,20 +3144,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Lorenzo Colombo"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Aarón Martín"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 8,
+            "player": "Ruslan Malinovskyi"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Brooke Norton-Cuffy"
           }
         }
       }
@@ -6982,15 +6982,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 23.7,
+            "value": 23.6,
             "player": "Pascal Siakam"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.4,
             "player": "Andrew Nembhard"
           },
           "rebounds": {
-            "value": 6.8,
+            "value": 6.7,
             "player": "Pascal Siakam"
           },
           "blocks": {
@@ -8181,7 +8181,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 22.2,
+            "value": 22.0,
             "player": "Brandon Ingram"
           },
           "assists": {
@@ -8189,16 +8189,16 @@
             "player": "Immanuel Quickley"
           },
           "rebounds": {
-            "value": 8.3,
+            "value": 8.4,
             "player": "Scottie Barnes"
           },
           "blocks": {
-            "value": 1.5,
+            "value": 1.6,
             "player": "Scottie Barnes"
           },
           "steals": {
             "value": 1.3,
-            "player": "Immanuel Quickley"
+            "player": "Scottie Barnes"
           }
         }
       }
@@ -8339,7 +8339,7 @@
             "player": "Kyshawn George"
           },
           "rebounds": {
-            "value": 7.7,
+            "value": 7.8,
             "player": "Alex Sarr"
           },
           "blocks": {
@@ -8406,7 +8406,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.7,
+            "value": 28.0,
             "player": "Kawhi Leonard"
           },
           "assists": {
@@ -8422,7 +8422,7 @@
             "player": "Brook Lopez"
           },
           "steals": {
-            "value": 2.0,
+            "value": 2.1,
             "player": "Kawhi Leonard"
           }
         }
