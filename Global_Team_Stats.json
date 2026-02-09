@@ -1821,7 +1821,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Vitor Reis "
+            "player": "Vitor Reis"
           }
         }
       }
@@ -2516,7 +2516,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Santi Comesaña"
+            "player": ""
           }
         }
       }
@@ -4961,7 +4961,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha "
+            "player": "Vitinha"
           },
           "yellowCards": {
             "value": 3,
@@ -5384,7 +5384,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": ""
+            "player": "Adrien Thomasson"
           },
           "redCards": {
             "value": 1,
@@ -6527,7 +6527,7 @@
         "leaders": {
           "points": {
             "value": 28.9,
-            "player": ""
+            "player": "Nikola Jokic"
           },
           "assists": {
             "value": 10.7,
