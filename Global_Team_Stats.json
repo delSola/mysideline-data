@@ -1398,7 +1398,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Koke "
+            "player": "Koke"
           },
           "redCards": {
             "value": 1,
@@ -2099,11 +2099,11 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Natan "
+            "player": "Natan"
           },
           "redCards": {
             "value": 1,
-            "player": "Antony "
+            "player": "Antony"
           }
         }
       }
@@ -3009,7 +3009,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": ""
+            "player": "Marin Pongracic"
           },
           "redCards": {
             "value": 1,
@@ -3699,7 +3699,7 @@
           },
           "assists": {
             "value": 3,
-            "player": ""
+            "player": "Nikola Vlasic"
           },
           "yellowCards": {
             "value": 5,
@@ -5384,7 +5384,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": "Adrien Thomasson"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -6527,7 +6527,7 @@
         "leaders": {
           "points": {
             "value": 28.9,
-            "player": "Nikola Jokic"
+            "player": ""
           },
           "assists": {
             "value": 10.7,
