@@ -2665,12 +2665,18 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 23,
-        "wins": 9,
+        "played": 24,
+        "wins": 10,
         "draws": 9,
         "losses": 5,
-        "points": 36,
+        "points": 39,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Cremonese",
+            "score": "2-1",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Como",
@@ -2694,21 +2700,9 @@
             "opponent": "Torino",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Bologna",
-            "score": "2-0",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Cremonese",
-          "home": true,
-          "date": "2026-02-09T17:30Z",
-          "time": "2026-02-09T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2851,7 +2845,7 @@
           "home": false,
           "date": "2026-02-09T19:45Z",
           "time": "2026-02-09T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3094,7 +3088,7 @@
       "TeamName": "Genoa",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 16,
+        "position": 15,
         "positionSuffix": "th",
         "played": 24,
         "wins": 5,
@@ -9572,7 +9566,7 @@
           "home": true,
           "date": "2026-02-09T19:45Z",
           "time": "2026-02-09T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9820,14 +9814,20 @@
       "Sport": "Soccer",
       "League": "serie_a",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 5,
         "draws": 8,
-        "losses": 10,
+        "losses": 11,
         "points": 23,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Atalanta",
+            "score": "1-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Inter Milan",
@@ -9851,21 +9851,9 @@
             "opponent": "Juventus",
             "score": "0-5",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Cagliari",
-            "score": "2-2",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": false,
-          "date": "2026-02-09T17:30Z",
-          "time": "2026-02-09T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
