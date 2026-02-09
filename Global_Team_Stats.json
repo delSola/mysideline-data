@@ -5071,7 +5071,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rennes",
+          "home": false,
+          "date": "2026-02-13T18:00Z",
+          "time": "2026-02-13T18:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
