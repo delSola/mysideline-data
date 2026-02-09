@@ -3335,20 +3335,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
-            "player": "Kenan Yildiz"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Kenan Yildiz"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Teun Koopmeiners"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Andrea Cambiaso"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -3843,7 +3843,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Keinan Davis"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -4562,7 +4562,7 @@
           },
           "assists": {
             "value": 5,
-            "player": "Romano Schmid"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
