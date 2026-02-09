@@ -3436,7 +3436,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Valentín Castellanos"
+            "player": "Danilo Cataldi"
           },
           "yellowCards": {
             "value": 6,
@@ -3503,8 +3503,8 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 2,
-            "player": "Nikola Stulic"
+            "value": 3,
+            "player": "Lameck Banda"
           },
           "assists": {
             "value": 3,
@@ -3659,8 +3659,8 @@
             "player": "Enrico Del Prato"
           },
           "redCards": {
-            "value": 1,
-            "player": "Christian Ordoñez"
+            "value": 2,
+            "player": "Mariano Troilo"
           }
         }
       }
@@ -4078,15 +4078,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Yan Diomande"
+            "value": 8,
+            "player": "Christoph Baumgartner"
           },
           "assists": {
             "value": 6,
             "player": "Christoph Baumgartner"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Christoph Baumgartner"
           },
           "redCards": {
@@ -4797,7 +4797,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Andrej Kramaric"
           },
           "assists": {
@@ -5234,7 +5234,7 @@
           },
           "yellowCards": {
             "value": 4,
-            "player": "Michael Murillo"
+            "player": "Leonardo Balerdi"
           },
           "redCards": {
             "value": 1,
@@ -5668,8 +5668,8 @@
             "player": "Diego Moreira"
           },
           "redCards": {
-            "value": 1,
-            "player": "Valentín Barco"
+            "value": 2,
+            "player": "Ismael Doukoure"
           }
         }
       }
@@ -5813,7 +5813,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Alexis Vossah"
+            "player": "Emersonn"
           }
         }
       }
@@ -9651,11 +9651,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 13,
+            "value": 14,
             "player": "Lautaro Martínez"
           },
           "assists": {
-            "value": 8,
+            "value": 11,
             "player": "Federico Dimarco"
           },
           "yellowCards": {
@@ -9810,7 +9810,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Ismaël Koné"
+            "player": "Nemanja Matic"
           }
         }
       }
@@ -10308,7 +10308,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 3,
+            "value": 4,
             "player": "Issa Soumaré"
           },
           "assists": {
@@ -10389,7 +10389,7 @@
             "player": "Ilan Kebbal"
           },
           "yellowCards": {
-            "value": 8,
+            "value": 9,
             "player": "Maxime López"
           },
           "redCards": {
