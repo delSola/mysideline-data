@@ -3144,20 +3144,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Lorenzo Colombo"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Aarón Martín"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 8,
-            "player": "Ruslan Malinovskyi"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Brooke Norton-Cuffy"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -12853,7 +12853,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.4,
+            "value": 21.7,
             "player": "Jack McVeigh"
           },
           "assists": {
@@ -12861,7 +12861,7 @@
             "player": "Andrew Andrews"
           },
           "rebounds": {
-            "value": 6.1,
+            "value": 6.2,
             "player": "Jack McVeigh"
           },
           "blocks": {
