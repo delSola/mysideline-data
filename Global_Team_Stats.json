@@ -2122,6 +2122,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Valencia",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Rayo",
             "score": "2-1",
             "home": true
@@ -2142,12 +2148,6 @@
             "result": "W",
             "opponent": "Betis",
             "score": "5-1",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Sevilla",
-            "score": "2-0",
             "home": true
           }
         ],
@@ -2237,7 +2237,7 @@
           },
           "yellowCards": {
             "value": 7,
-            "player": ""
+            "player": "Jon Aramburu"
           },
           "redCards": {
             "value": 1,
@@ -2660,7 +2660,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": ""
+            "player": "Marten de Roon"
           }
         }
       }
@@ -3009,7 +3009,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": "Marin Pongracic"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -3290,7 +3290,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Teun Koopmeiners"
           },
           "redCards": {
             "value": 1,
@@ -3699,7 +3699,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Nikola Vlasic"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -11398,7 +11398,7 @@
           "home": true,
           "date": "2026-02-08T23:30Z",
           "time": "2026-02-08T23:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11628,7 +11628,7 @@
           },
           "rushingYards": {
             "value": 1065.0,
-            "player": ""
+            "player": "Breece Hall"
           },
           "receivingYards": {
             "value": 395.0,
@@ -12061,7 +12061,7 @@
           "home": false,
           "date": "2026-02-08T23:30Z",
           "time": "2026-02-08T23:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
