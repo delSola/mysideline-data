@@ -784,8 +784,8 @@
             "player": "Dominik Szoboszlai"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Dominik Szoboszlai"
           }
         }
       }
@@ -844,7 +844,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 20,
+            "value": 21,
             "player": "Erling Haaland"
           },
           "assists": {
@@ -852,7 +852,7 @@
             "player": "Rayan Cherki"
           },
           "yellowCards": {
-            "value": 5,
+            "value": 6,
             "player": "Bernardo Silva"
           },
           "redCards": {
@@ -1779,14 +1779,14 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Borja Mayoral"
+            "player": "Mauro Arambarri"
           },
           "assists": {
-            "value": 7,
+            "value": 8,
             "player": "Luis Milla"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Mario Martín"
           },
           "redCards": {
@@ -2210,7 +2210,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 22,
+            "value": 23,
             "player": "Kylian Mbappé"
           },
           "assists": {
@@ -2434,7 +2434,7 @@
           },
           "yellowCards": {
             "value": 9,
-            "player": "Lucien Agoumé"
+            "player": "José Ángel Carmona"
           },
           "redCards": {
             "value": 1,
@@ -3934,16 +3934,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 22,
+            "value": 24,
             "player": "Harry Kane"
           },
           "assists": {
-            "value": 15,
+            "value": 16,
             "player": "Michael Olise"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Luis Díaz"
+            "player": "Michael Olise"
           },
           "redCards": {
             "value": 0,
@@ -8848,8 +8848,8 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 4,
-            "player": "Nico Williams"
+            "value": 5,
+            "player": "Robert Navarro"
           },
           "assists": {
             "value": 2,
@@ -9003,7 +9003,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Manu Sánchez"
+            "player": "Jeremy Toljan"
           },
           "redCards": {
             "value": 1,
