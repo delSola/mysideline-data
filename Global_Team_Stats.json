@@ -2768,7 +2768,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Riccardo Orsolini"
           },
           "assists": {
             "value": 4,
@@ -6312,16 +6312,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 53,
+        "played": 54,
         "wins": 25,
-        "losses": 28,
+        "losses": 29,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Mavericks",
-            "score": "123-121",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Spurs",
@@ -6345,14 +6339,20 @@
             "opponent": "Hawks",
             "score": "126-119",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Pistons",
+            "score": "104-110",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Pistons",
+          "opponent": "Hawks",
           "home": true,
-          "date": "2026-02-10T00:00Z",
-          "time": "2026-02-10T00:00Z",
-          "status": "live"
+          "date": "2026-02-12T00:00Z",
+          "time": "2026-02-12T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -6502,7 +6502,7 @@
           "home": false,
           "date": "2026-02-10T02:00Z",
           "time": "2026-02-10T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6652,7 +6652,7 @@
           "home": true,
           "date": "2026-02-10T02:00Z",
           "time": "2026-02-10T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6687,16 +6687,10 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "East",
-        "played": 51,
-        "wins": 38,
+        "played": 52,
+        "wins": 39,
         "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Warriors",
-            "score": "131-124",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Nets",
@@ -6720,14 +6714,20 @@
             "opponent": "Knicks",
             "score": "118-80",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Hornets",
+            "score": "110-104",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Hornets",
+          "opponent": "Raptors",
           "home": false,
-          "date": "2026-02-10T00:00Z",
-          "time": "2026-02-10T00:00Z",
-          "status": "live"
+          "date": "2026-02-12T00:30Z",
+          "time": "2026-02-12T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
