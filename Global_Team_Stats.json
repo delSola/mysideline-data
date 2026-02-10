@@ -6297,7 +6297,7 @@
             "player": "Nic Claxton"
           },
           "rebounds": {
-            "value": 7.2,
+            "value": 7.3,
             "player": "Nic Claxton"
           },
           "blocks": {
@@ -6305,7 +6305,7 @@
             "player": "Nic Claxton"
           },
           "steals": {
-            "value": 1.1,
+            "value": 1.2,
             "player": "Ziaire Williams"
           }
         }
@@ -6364,7 +6364,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.2,
+            "value": 20.4,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -6514,7 +6514,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.9,
+            "value": 29.0,
             "player": "Donovan Mitchell"
           },
           "assists": {
@@ -6739,11 +6739,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.1,
+            "value": 25.3,
             "player": "Cade Cunningham"
           },
           "assists": {
-            "value": 9.7,
+            "value": 9.6,
             "player": "Cade Cunningham"
           },
           "rebounds": {
@@ -7717,7 +7717,7 @@
             "player": "Paolo Banchero"
           },
           "assists": {
-            "value": 5.2,
+            "value": 5.4,
             "player": "Jalen Suggs"
           },
           "rebounds": {
@@ -7729,7 +7729,7 @@
             "player": "Goga Bitadze"
           },
           "steals": {
-            "value": 1.8,
+            "value": 1.9,
             "player": "Jalen Suggs"
           }
         }
@@ -7946,7 +7946,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 11.5,
+            "value": 11.4,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -8017,7 +8017,7 @@
             "player": "Zach LaVine"
           },
           "assists": {
-            "value": 6.7,
+            "value": 6.6,
             "player": "Russell Westbrook"
           },
           "rebounds": {
