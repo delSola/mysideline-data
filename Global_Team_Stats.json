@@ -365,12 +365,18 @@
       "TeamStats": {
         "position": 5,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 12,
-        "draws": 7,
+        "draws": 8,
         "losses": 6,
-        "points": 43,
+        "points": 44,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Leeds",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Wolves",
@@ -394,12 +400,6 @@
             "opponent": "Brentford",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Fulham",
-            "score": "1-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -503,12 +503,18 @@
       "TeamStats": {
         "position": 8,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 7,
-        "losses": 8,
+        "losses": 9,
         "points": 37,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Bournemouth",
+            "score": "1-2",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Fulham",
@@ -532,12 +538,6 @@
             "opponent": "Aston Villa",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Wolves",
-            "score": "1-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -567,7 +567,7 @@
       "TeamName": "Fulham",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 10,
+        "position": 12,
         "positionSuffix": "th",
         "played": 25,
         "wins": 10,
@@ -856,11 +856,11 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 12,
-        "draws": 8,
+        "draws": 9,
         "losses": 5,
-        "points": 44,
+        "points": 45,
         "last5": [
           {
             "result": "W",
@@ -893,13 +893,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "West Ham",
-          "home": false,
-          "date": "2026-02-10T20:15Z",
-          "time": "2026-02-10T20:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -926,14 +920,20 @@
       "TeamName": "Newcastle United",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 10,
         "positionSuffix": "th",
-        "played": 25,
-        "wins": 9,
+        "played": 26,
+        "wins": 10,
         "draws": 6,
         "losses": 10,
-        "points": 33,
+        "points": 36,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Spurs",
+            "score": "2-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Brentford",
@@ -957,12 +957,6 @@
             "opponent": "Wolves",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Leeds",
-            "score": "4-3",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -1064,14 +1058,20 @@
       "TeamName": "Tottenham Hotspur",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 15,
+        "position": 16,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 7,
         "draws": 8,
-        "losses": 10,
+        "losses": 11,
         "points": 29,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Newcastle",
+            "score": "1-2",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Man United",
@@ -1095,12 +1095,6 @@
             "opponent": "West Ham",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Bournemouth",
-            "score": "2-3",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -1132,12 +1126,18 @@
       "TeamStats": {
         "position": 18,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 6,
-        "draws": 5,
+        "draws": 6,
         "losses": 14,
-        "points": 23,
+        "points": 24,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Man United",
+            "score": "1-1",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Burnley",
@@ -1161,21 +1161,9 @@
             "opponent": "Spurs",
             "score": "2-1",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Nottm Forest",
-            "score": "1-2",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Man United",
-          "home": true,
-          "date": "2026-02-10T20:15Z",
-          "time": "2026-02-10T20:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8391,14 +8379,20 @@
       "Sport": "Soccer",
       "League": "premier_league",
       "TeamStats": {
-        "position": 11,
+        "position": 9,
         "positionSuffix": "th",
-        "played": 25,
-        "wins": 8,
+        "played": 26,
+        "wins": 9,
         "draws": 10,
         "losses": 7,
-        "points": 34,
+        "points": 37,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Everton",
+            "score": "2-1",
+            "home": false
+          },
           {
             "result": "D",
             "opponent": "Aston Villa",
@@ -8422,12 +8416,6 @@
             "opponent": "Brighton",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Spurs",
-            "score": "3-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -8458,14 +8446,20 @@
       "Sport": "Soccer",
       "League": "premier_league",
       "TeamStats": {
-        "position": 16,
+        "position": 15,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 7,
-        "draws": 8,
+        "draws": 9,
         "losses": 10,
-        "points": 29,
+        "points": 30,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Chelsea",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "W",
             "opponent": "Nottm Forest",
@@ -8489,12 +8483,6 @@
             "opponent": "Fulham",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Newcastle",
-            "score": "3-4",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -8525,7 +8513,7 @@
       "Sport": "Soccer",
       "League": "premier_league",
       "TeamStats": {
-        "position": 9,
+        "position": 11,
         "positionSuffix": "th",
         "played": 25,
         "wins": 9,
@@ -9460,7 +9448,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Benedikt Gimber"
+            "player": ""
           },
           "redCards": {
             "value": 1,
