@@ -6368,11 +6368,11 @@
             "player": "Brandon Miller"
           },
           "assists": {
-            "value": 7.5,
+            "value": 7.4,
             "player": "LaMelo Ball"
           },
           "rebounds": {
-            "value": 8.7,
+            "value": 8.6,
             "player": "Moussa Diabate"
           },
           "blocks": {
@@ -6451,7 +6451,7 @@
             "player": "Nikola Vucevic"
           },
           "blocks": {
-            "value": 1.4,
+            "value": 1.5,
             "player": "Matas Buzelis"
           },
           "steals": {
@@ -6664,7 +6664,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.9,
+            "value": 28.8,
             "player": "Nikola Jokic"
           },
           "assists": {
@@ -6747,7 +6747,7 @@
             "player": "Cade Cunningham"
           },
           "rebounds": {
-            "value": 10.5,
+            "value": 10.4,
             "player": "Jalen Duren"
           },
           "blocks": {
@@ -7338,19 +7338,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 28.0,
-            "player": "Giannis Antetokounmpo"
+            "value": 16.9,
+            "player": "Ryan Rollins"
           },
           "assists": {
-            "value": 5.6,
-            "player": "Giannis Antetokounmpo"
+            "value": 5.5,
+            "player": "Ryan Rollins"
           },
           "rebounds": {
-            "value": 10.0,
-            "player": "Giannis Antetokounmpo"
+            "value": 6.6,
+            "player": "Bobby Portis"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.7,
             "player": "Myles Turner"
           },
           "steals": {
@@ -7417,15 +7417,15 @@
             "player": "Anthony Edwards"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Julius Randle"
           },
           "rebounds": {
-            "value": 11.3,
+            "value": 11.2,
             "player": "Rudy Gobert"
           },
           "blocks": {
-            "value": 1.7,
+            "value": 1.6,
             "player": "Rudy Gobert"
           },
           "steals": {
@@ -7492,7 +7492,7 @@
             "player": "Trey Murphy III"
           },
           "assists": {
-            "value": 4.3,
+            "value": 4.2,
             "player": "Derik Queen"
           },
           "rebounds": {
@@ -7713,7 +7713,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.7,
+            "value": 21.4,
             "player": "Paolo Banchero"
           },
           "assists": {
@@ -7792,11 +7792,11 @@
             "player": "Tyrese Maxey"
           },
           "assists": {
-            "value": 6.9,
+            "value": 6.8,
             "player": "Tyrese Maxey"
           },
           "rebounds": {
-            "value": 8.8,
+            "value": 8.7,
             "player": "Andre Drummond"
           },
           "blocks": {
@@ -8021,7 +8021,7 @@
             "player": "Russell Westbrook"
           },
           "rebounds": {
-            "value": 6.4,
+            "value": 6.7,
             "player": "Maxime Raynaud"
           },
           "blocks": {
@@ -8238,7 +8238,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.1,
+            "value": 26.9,
             "player": "Lauri Markkanen"
           },
           "assists": {
@@ -8246,11 +8246,11 @@
             "player": "Isaiah Collier"
           },
           "rebounds": {
-            "value": 10.3,
+            "value": 10.4,
             "player": "Jusuf Nurkic"
           },
           "blocks": {
-            "value": 0.5,
+            "value": 0.6,
             "player": "Jusuf Nurkic"
           },
           "steals": {
