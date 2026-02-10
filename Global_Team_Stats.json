@@ -772,20 +772,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 10,
+            "player": "Hugo Ekitike"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Mohamed Salah"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Dominik Szoboszlai"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Dominik Szoboszlai"
           }
         }
       }
@@ -2768,7 +2768,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "Riccardo Orsolini"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -6127,7 +6127,7 @@
           "home": false,
           "date": "2026-02-10T01:00Z",
           "time": "2026-02-10T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7401,7 +7401,7 @@
           "home": true,
           "date": "2026-02-10T01:00Z",
           "time": "2026-02-10T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7476,7 +7476,7 @@
           "home": true,
           "date": "2026-02-10T01:00Z",
           "time": "2026-02-10T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7783,7 +7783,7 @@
         "leaders": {
           "points": {
             "value": 28.8,
-            "player": ""
+            "player": "Tyrese Maxey"
           },
           "assists": {
             "value": 6.9,
@@ -8001,7 +8001,7 @@
           "home": false,
           "date": "2026-02-10T01:00Z",
           "time": "2026-02-10T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10115,7 +10115,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": true,
+          "date": "2026-02-15T16:15Z",
+          "time": "2026-02-15T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
