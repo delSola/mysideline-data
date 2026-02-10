@@ -6607,24 +6607,24 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 0,
-            "player": ""
+            "value": 20.2,
+            "player": "Cooper Flagg"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4.9,
+            "player": "Ryan Nembhard"
           },
           "rebounds": {
-            "value": 0,
-            "player": ""
+            "value": 7.1,
+            "player": "P.J. Washington"
           },
           "blocks": {
-            "value": 0,
-            "player": ""
+            "value": 1.4,
+            "player": "P.J. Washington"
           },
           "steals": {
-            "value": 0,
-            "player": ""
+            "value": 1.2,
+            "player": "Cooper Flagg"
           }
         }
       }
