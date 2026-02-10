@@ -402,13 +402,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Leeds",
-          "home": true,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -546,13 +540,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Bournemouth",
-          "home": true,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -977,13 +965,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Spurs",
-          "home": false,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1121,13 +1103,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Newcastle",
-          "home": true,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8454,13 +8430,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Everton",
-          "home": false,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8527,13 +8497,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Chelsea",
-          "home": false,
-          "date": "2026-02-10T19:30Z",
-          "time": "2026-02-10T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
