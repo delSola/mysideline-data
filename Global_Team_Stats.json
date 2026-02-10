@@ -407,7 +407,7 @@
           "home": true,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -551,7 +551,7 @@
           "home": true,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -925,11 +925,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Casemiro"
+            "player": "Casemiro "
           },
           "redCards": {
             "value": 1,
-            "player": "Casemiro"
+            "player": "Casemiro "
           }
         }
       }
@@ -982,7 +982,7 @@
           "home": false,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -1126,7 +1126,7 @@
           "home": true,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3215,7 +3215,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane"
+            "player": "Giovane "
           },
           "yellowCards": {
             "value": 6,
@@ -8459,7 +8459,7 @@
           "home": false,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8532,7 +8532,7 @@
           "home": false,
           "date": "2026-02-10T19:30Z",
           "time": "2026-02-10T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
