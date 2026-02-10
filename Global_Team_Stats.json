@@ -7067,9 +7067,9 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 51,
+        "played": 52,
         "wins": 32,
-        "losses": 19,
+        "losses": 20,
         "last5": [
           {
             "result": "L",
@@ -7592,8 +7592,8 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 53,
-        "wins": 40,
+        "played": 54,
+        "wins": 41,
         "losses": 13,
         "last5": [
           {
