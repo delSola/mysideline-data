@@ -2569,15 +2569,15 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 8,
+            "value": 9,
             "player": "Alberto Moleiro"
           },
           "assists": {
-            "value": 3,
+            "value": 4,
             "player": "Alberto Moleiro"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Tajon Buchanan"
           },
           "redCards": {
@@ -2918,13 +2918,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Fiorentina",
-          "home": true,
-          "date": "2026-02-14T14:00Z",
-          "time": "2026-02-14T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3564,13 +3558,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "AS Roma",
-          "home": true,
-          "date": "2026-02-15T19:45Z",
-          "time": "2026-02-15T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4498,13 +4486,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Hoffenheim",
-          "home": false,
-          "date": "2026-02-14T14:30Z",
-          "time": "2026-02-14T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
