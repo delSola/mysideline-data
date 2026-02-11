@@ -766,7 +766,7 @@
           "home": false,
           "date": "2026-02-11T20:15Z",
           "time": "2026-02-11T20:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3772,16 +3772,16 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Nikola Vlasic"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 3,
+            "player": "Nikola Vlasic"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Nikola Vlasic"
           },
           "redCards": {
             "value": 0,
@@ -4253,13 +4253,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Cologne",
-          "home": true,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5200,7 +5194,7 @@
           },
           "assists": {
             "value": 5,
-            "player": "Pierre-Emerick Aubameyang"
+            "player": ""
           },
           "yellowCards": {
             "value": 4,
@@ -8593,7 +8587,7 @@
           "home": true,
           "date": "2026-02-11T20:15Z",
           "time": "2026-02-11T20:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12317,7 +12311,7 @@
           },
           "receivingYards": {
             "value": 938.0,
-            "player": "Emeka Egbuka"
+            "player": ""
           },
           "touchdowns": {
             "value": 7.0,
