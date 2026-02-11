@@ -1041,7 +1041,7 @@
           },
           "assists": {
             "value": 3,
-            "player": "Omari Hutchinson"
+            "player": ""
           },
           "yellowCards": {
             "value": 5,
@@ -3895,7 +3895,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Michael Olise"
+            "player": ""
           },
           "redCards": {
             "value": 0,
@@ -6547,7 +6547,7 @@
           "home": false,
           "date": "2026-02-11T02:00Z",
           "time": "2026-02-11T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7821,7 +7821,7 @@
           "home": true,
           "date": "2026-02-11T02:00Z",
           "time": "2026-02-11T02:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
