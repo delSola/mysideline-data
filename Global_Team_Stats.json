@@ -2716,7 +2716,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Marten de Roon"
+            "player": ""
           },
           "redCards": {
             "value": 1,
@@ -4205,7 +4205,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Oscar Højlund"
+            "player": ""
           }
         }
       }
@@ -10131,7 +10131,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Gauthier Hein"
+            "player": ""
           },
           "yellowCards": {
             "value": 7,
