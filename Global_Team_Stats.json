@@ -4067,13 +4067,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Wolfsburg",
-          "home": true,
-          "date": "2026-02-15T16:30Z",
-          "time": "2026-02-15T16:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9129,13 +9123,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Stuttgart",
-          "home": false,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
