@@ -863,6 +863,12 @@
         "points": 45,
         "last5": [
           {
+            "result": "D",
+            "opponent": "West Ham",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Spurs",
             "score": "2-0",
@@ -885,12 +891,6 @@
             "opponent": "Man City",
             "score": "2-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Burnley",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9448,7 +9448,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": ""
+            "player": "Benedikt Gimber"
           },
           "redCards": {
             "value": 1,
