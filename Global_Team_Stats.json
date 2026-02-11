@@ -413,7 +413,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "João Pedro"
           },
           "assists": {
@@ -421,7 +421,7 @@
             "player": "João Pedro"
           },
           "yellowCards": {
-            "value": 7,
+            "value": 8,
             "player": "Moisés Caicedo"
           },
           "redCards": {
@@ -570,7 +570,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Michael Keane"
+            "player": "Jake O'Brien"
           }
         }
       }
@@ -634,7 +634,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Harry Wilson"
+            "player": ""
           },
           "yellowCards": {
             "value": 6,
@@ -2271,13 +2271,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Real Madrid",
-          "home": false,
-          "date": "2026-02-14T20:00Z",
-          "time": "2026-02-14T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2774,13 +2768,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Torino",
-          "home": false,
-          "date": "2026-02-15T17:00Z",
-          "time": "2026-02-15T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3420,13 +3408,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": true,
-          "date": "2026-02-14T17:00Z",
-          "time": "2026-02-14T17:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -3923,13 +3905,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bremen",
-          "home": false,
-          "date": "2026-02-14T14:30Z",
-          "time": "2026-02-14T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8485,8 +8461,8 @@
             "player": "Marcos Senesi"
           },
           "yellowCards": {
-            "value": 7,
-            "player": "Marcos Senesi"
+            "value": 8,
+            "player": "Álex Jiménez"
           },
           "redCards": {
             "value": 1,
@@ -8612,13 +8588,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Liverpool",
-          "home": true,
-          "date": "2026-02-11T20:15Z",
-          "time": "2026-02-11T20:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8831,13 +8801,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Real Oviedo",
-          "home": false,
-          "date": "2026-02-15T13:00Z",
-          "time": "2026-02-15T13:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9123,7 +9087,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Stuttgart",
+          "home": false,
+          "date": "2026-02-14T17:30Z",
+          "time": "2026-02-14T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
