@@ -408,11 +408,11 @@
         "leaders": {
           "goals": {
             "value": 9,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "yellowCards": {
             "value": 7,
@@ -907,11 +907,11 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Casemiro "
+            "player": "Casemiro"
           },
           "redCards": {
             "value": 1,
-            "player": "Casemiro "
+            "player": "Casemiro"
           }
         }
       }
@@ -6847,7 +6847,7 @@
           "home": true,
           "date": "2026-02-11T01:00Z",
           "time": "2026-02-11T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8346,7 +8346,7 @@
           "home": false,
           "date": "2026-02-11T01:00Z",
           "time": "2026-02-11T01:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10243,7 +10243,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": ""
+            "player": "Issa Soumaré"
           },
           "assists": {
             "value": 3,
