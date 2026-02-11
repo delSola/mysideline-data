@@ -6507,16 +6507,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 52,
+        "played": 53,
         "wins": 19,
-        "losses": 33,
+        "losses": 34,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Hornets",
-            "score": "121-123",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Rockets",
@@ -6540,14 +6534,20 @@
             "opponent": "Spurs",
             "score": "125-138",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Suns",
+            "score": "111-120",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Suns",
+          "opponent": "Lakers",
           "home": false,
-          "date": "2026-02-11T02:00Z",
-          "time": "2026-02-11T02:00Z",
-          "status": "live"
+          "date": "2026-02-13T03:00Z",
+          "time": "2026-02-13T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7781,16 +7781,10 @@
         "position": 7,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 53,
-        "wins": 31,
+        "played": 54,
+        "wins": 32,
         "losses": 22,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cavaliers",
-            "score": "126-113",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Clippers",
@@ -7814,14 +7808,20 @@
             "opponent": "76ers",
             "score": "103-109",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "120-111",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Mavericks",
+          "opponent": "Thunder",
           "home": true,
-          "date": "2026-02-11T02:00Z",
-          "time": "2026-02-11T02:00Z",
-          "status": "live"
+          "date": "2026-02-12T02:00Z",
+          "time": "2026-02-12T02:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
