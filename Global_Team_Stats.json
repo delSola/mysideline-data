@@ -6922,7 +6922,7 @@
           "home": false,
           "date": "2026-02-11T00:30Z",
           "time": "2026-02-11T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7521,7 +7521,7 @@
           "home": true,
           "date": "2026-02-11T00:30Z",
           "time": "2026-02-11T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -10243,7 +10243,7 @@
         "leaders": {
           "goals": {
             "value": 4,
-            "player": "Issa Soumaré"
+            "player": ""
           },
           "assists": {
             "value": 3,
