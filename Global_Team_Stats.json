@@ -477,8 +477,8 @@
         "nextGame": {
           "opponent": "Burnley",
           "home": true,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
+          "date": "2026-02-11T19:40Z",
+          "time": "2026-02-11T19:40Z",
           "status": "scheduled"
         }
       },
@@ -5065,7 +5065,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Achraf Hakimi"
+            "player": ""
           }
         }
       }
@@ -8664,8 +8664,8 @@
         "nextGame": {
           "opponent": "C Palace",
           "home": false,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
+          "date": "2026-02-11T19:40Z",
+          "time": "2026-02-11T19:40Z",
           "status": "scheduled"
         }
       },
