@@ -634,7 +634,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Harry Wilson"
           },
           "yellowCards": {
             "value": 6,
@@ -1137,7 +1137,7 @@
           },
           "assists": {
             "value": 5,
-            "player": "Mohammed Kudus"
+            "player": ""
           },
           "yellowCards": {
             "value": 8,
@@ -1994,20 +1994,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 11,
-            "player": "Ante Budimir"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 5,
-            "player": "Rubén García"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 8,
-            "player": "Alejandro Catena"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Alejandro Catena"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -2648,7 +2648,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Pervis Estupiñán"
+            "player": ""
           }
         }
       }
@@ -2708,7 +2708,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "Nikola Krstovic"
+            "player": ""
           },
           "assists": {
             "value": 4,
@@ -2773,20 +2773,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Riccardo Orsolini"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Nicolò Cambiaghi"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Juan Miranda"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Torbjorn Heggem"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -8588,7 +8588,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Liverpool",
+          "home": true,
+          "date": "2026-02-11T20:15Z",
+          "time": "2026-02-11T20:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9536,20 +9542,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 6,
-            "player": "Matìas Soulè"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Matìas Soulè"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 8,
-            "player": "Gianluca Mancini"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Zeki Çelik"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -11508,7 +11514,7 @@
           },
           "receivingYards": {
             "value": 1048.0,
-            "player": "Justin Jefferson"
+            "player": ""
           },
           "touchdowns": {
             "value": 6.0,
@@ -12104,7 +12110,7 @@
           },
           "interceptions": {
             "value": 4.0,
-            "player": "Tony Jefferson"
+            "player": ""
           }
         }
       }
