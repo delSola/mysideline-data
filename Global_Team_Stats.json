@@ -78,12 +78,18 @@
       "TeamStats": {
         "position": 3,
         "positionSuffix": "rd",
-        "played": 25,
-        "wins": 14,
+        "played": 26,
+        "wins": 15,
         "draws": 5,
         "losses": 6,
-        "points": 47,
+        "points": 50,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Brighton",
+            "score": "1-0",
+            "home": true
+          },
           {
             "result": "D",
             "opponent": "Bournemouth",
@@ -107,21 +113,9 @@
             "opponent": "Everton",
             "score": "0-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "C Palace",
-            "score": "0-0",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Brighton",
-          "home": true,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -293,12 +287,18 @@
       "TeamStats": {
         "position": 14,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 7,
         "draws": 10,
-        "losses": 8,
+        "losses": 9,
         "points": 31,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Aston Villa",
+            "score": "0-1",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "C Palace",
@@ -322,21 +322,9 @@
             "opponent": "Bournemouth",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Man City",
-            "score": "1-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Aston Villa",
-          "home": false,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -437,12 +425,18 @@
       "TeamStats": {
         "position": 13,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 8,
         "draws": 8,
-        "losses": 9,
+        "losses": 10,
         "points": 32,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Burnley",
+            "score": "2-3",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Brighton",
@@ -466,21 +460,9 @@
             "opponent": "Sunderland",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Aston Villa",
-            "score": "0-0",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Burnley",
-          "home": true,
-          "date": "2026-02-11T19:40Z",
-          "time": "2026-02-11T19:40Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -581,12 +563,18 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 4,
-        "losses": 11,
+        "losses": 12,
         "points": 34,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Man City",
+            "score": "0-3",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Everton",
@@ -610,21 +598,9 @@
             "opponent": "Leeds",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Chelsea",
-            "score": "2-1",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Man City",
-          "home": false,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -724,12 +700,18 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 25,
-        "wins": 11,
+        "played": 26,
+        "wins": 12,
         "draws": 6,
         "losses": 8,
-        "points": 39,
+        "points": 42,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Sunderland",
+            "score": "1-0",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Man City",
@@ -753,21 +735,9 @@
             "opponent": "Burnley",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Arsenal",
-            "score": "0-0",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sunderland",
-          "home": false,
-          "date": "2026-02-11T20:15Z",
-          "time": "2026-02-11T20:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -796,12 +766,18 @@
       "TeamStats": {
         "position": 2,
         "positionSuffix": "nd",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "draws": 5,
         "losses": 5,
-        "points": 50,
+        "points": 53,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "Fulham",
+            "score": "3-0",
+            "home": true
+          },
           {
             "result": "W",
             "opponent": "Liverpool",
@@ -825,21 +801,9 @@
             "opponent": "Man United",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Brighton",
-            "score": "1-1",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Fulham",
-          "home": true,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1012,12 +976,18 @@
       "TeamStats": {
         "position": 17,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 13,
-        "points": 26,
+        "points": 27,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Wolves",
+            "score": "0-0",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Leeds",
@@ -1041,21 +1011,9 @@
             "opponent": "Arsenal",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "West Ham",
-            "score": "2-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Wolves",
-          "home": true,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1228,12 +1186,18 @@
       "TeamStats": {
         "position": 20,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 1,
-        "draws": 5,
+        "draws": 6,
         "losses": 19,
-        "points": 8,
+        "points": 9,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Nottm Forest",
+            "score": "0-0",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Chelsea",
@@ -1257,21 +1221,9 @@
             "opponent": "Newcastle",
             "score": "0-0",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Everton",
-            "score": "1-1",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Nottm Forest",
-          "home": false,
-          "date": "2026-02-11T19:30Z",
-          "time": "2026-02-11T19:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4253,7 +4205,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cologne",
+          "home": true,
+          "date": "2026-02-14T17:30Z",
+          "time": "2026-02-14T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5194,7 +5152,7 @@
           },
           "assists": {
             "value": 5,
-            "player": ""
+            "player": "Pierre-Emerick Aubameyang"
           },
           "yellowCards": {
             "value": 4,
@@ -8545,12 +8503,18 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 9,
-        "losses": 7,
+        "losses": 8,
         "points": 36,
         "last5": [
+          {
+            "result": "L",
+            "opponent": "Liverpool",
+            "score": "0-1",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "Arsenal",
@@ -8574,21 +8538,9 @@
             "opponent": "C Palace",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Brentford",
-            "score": "0-3",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Liverpool",
-          "home": true,
-          "date": "2026-02-11T20:15Z",
-          "time": "2026-02-11T20:15Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8618,12 +8570,18 @@
       "TeamStats": {
         "position": 19,
         "positionSuffix": "th",
-        "played": 25,
-        "wins": 3,
+        "played": 26,
+        "wins": 4,
         "draws": 6,
         "losses": 16,
-        "points": 15,
+        "points": 18,
         "last5": [
+          {
+            "result": "W",
+            "opponent": "C Palace",
+            "score": "3-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "West Ham",
@@ -8647,21 +8605,9 @@
             "opponent": "Liverpool",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Man United",
-            "score": "2-2",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "C Palace",
-          "home": false,
-          "date": "2026-02-11T19:40Z",
-          "time": "2026-02-11T19:40Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9610,7 +9556,7 @@
         "leaders": {
           "goals": {
             "value": 14,
-            "player": "Lautaro Martínez"
+            "player": ""
           },
           "assists": {
             "value": 11,
@@ -12311,7 +12257,7 @@
           },
           "receivingYards": {
             "value": 938.0,
-            "player": ""
+            "player": "Emeka Egbuka"
           },
           "touchdowns": {
             "value": 7.0,
