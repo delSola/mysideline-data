@@ -2162,20 +2162,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 23,
-            "player": "Kylian Mbappé"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 7,
-            "player": "Arda Güler"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Vinícius Júnior"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Álvaro Carreras"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -3161,7 +3161,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Giovane "
+            "player": "Giovane"
           },
           "yellowCards": {
             "value": 6,
@@ -6073,7 +6073,7 @@
           "home": false,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6148,7 +6148,7 @@
           "home": true,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6223,7 +6223,7 @@
           "home": true,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6298,7 +6298,7 @@
           "home": true,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6373,7 +6373,7 @@
           "home": false,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6448,7 +6448,7 @@
           "home": true,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6673,7 +6673,7 @@
           "home": false,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -6898,7 +6898,7 @@
           "home": false,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7272,7 +7272,7 @@
           "home": false,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7497,7 +7497,7 @@
           "home": false,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7647,7 +7647,7 @@
           "home": true,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7722,7 +7722,7 @@
           "home": true,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8097,7 +8097,7 @@
           "home": true,
           "date": "2026-02-12T00:30Z",
           "time": "2026-02-12T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -8247,7 +8247,7 @@
           "home": false,
           "date": "2026-02-12T00:00Z",
           "time": "2026-02-12T00:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -12622,7 +12622,7 @@
           },
           "receivingYards": {
             "value": 1117.0,
-            "player": "Nico Collins"
+            "player": ""
           },
           "touchdowns": {
             "value": 3.0,
