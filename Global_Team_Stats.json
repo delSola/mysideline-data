@@ -48,7 +48,7 @@
           "home": false,
           "date": "2026-02-12T20:00Z",
           "time": "2026-02-12T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -263,7 +263,7 @@
           "home": true,
           "date": "2026-02-12T20:00Z",
           "time": "2026-02-12T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9201,20 +9201,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Rayan Philippe"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 4,
-            "player": "Miro Muheim"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 7,
-            "player": "Nicolai Remberg"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 2,
-            "player": "Fabio Vieira"
+            "value": 0,
+            "player": ""
           }
         }
       }
