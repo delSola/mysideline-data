@@ -11237,28 +11237,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 0,
-            "player": ""
+            "value": 3587.0,
+            "player": "Patrick Mahomes"
           },
           "rushingYards": {
-            "value": 0,
-            "player": ""
+            "value": 611.0,
+            "player": "Kareem Hunt"
           },
           "receivingYards": {
-            "value": 0,
-            "player": ""
+            "value": 851.0,
+            "player": "Travis Kelce"
           },
           "touchdowns": {
-            "value": 0,
-            "player": ""
+            "value": 8.0,
+            "player": "Kareem Hunt"
           },
           "tackles": {
-            "value": 0,
-            "player": ""
+            "value": 154.0,
+            "player": "Nick Bolton"
           },
           "interceptions": {
-            "value": 0,
-            "player": ""
+            "value": 2.0,
+            "player": "Jaylen Watson"
           }
         }
       }
@@ -12802,8 +12802,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 32,
-        "wins": 9,
-        "losses": 23,
+        "wins": 10,
+        "losses": 22,
         "last5": [
           {
             "result": "W",
@@ -12832,7 +12832,7 @@
           {
             "result": "W",
             "opponent": "Melbourne United",
-            "score": "28-22",
+            "score": "68-67",
             "home": true
           }
         ],
@@ -12942,8 +12942,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 31,
-        "wins": 19,
-        "losses": 12,
+        "wins": 18,
+        "losses": 13,
         "last5": [
           {
             "result": "W",
@@ -12972,7 +12972,7 @@
           {
             "result": "L",
             "opponent": "Cairns Taipans",
-            "score": "22-28",
+            "score": "67-68",
             "home": false
           }
         ],
