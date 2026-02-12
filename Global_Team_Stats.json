@@ -135,7 +135,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Matty Cash"
+            "player": "Morgan Rogers"
           },
           "redCards": {
             "value": 1,
@@ -489,12 +489,12 @@
             "player": "Jean-Philippe Mateta"
           },
           "assists": {
-            "value": 2,
-            "player": "Maxence Lacroix"
+            "value": 3,
+            "player": "Adam Wharton"
           },
           "yellowCards": {
-            "value": 5,
-            "player": "Tyrick Mitchell"
+            "value": 6,
+            "player": "Jefferson Lerma"
           },
           "redCards": {
             "value": 1,
@@ -638,7 +638,7 @@
           },
           "yellowCards": {
             "value": 6,
-            "player": "Harry Wilson"
+            "player": "Joachim Andersen"
           },
           "redCards": {
             "value": 0,
@@ -776,12 +776,12 @@
             "player": "Hugo Ekitike"
           },
           "assists": {
-            "value": 5,
+            "value": 6,
             "player": "Mohamed Salah"
           },
           "yellowCards": {
             "value": 5,
-            "player": "Dominik Szoboszlai"
+            "player": "Ibrahima Konaté"
           },
           "redCards": {
             "value": 1,
@@ -844,7 +844,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 21,
+            "value": 22,
             "player": "Erling Haaland"
           },
           "assists": {
@@ -852,7 +852,7 @@
             "player": "Rayan Cherki"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Bernardo Silva"
           },
           "redCards": {
@@ -1408,13 +1408,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Rayo",
-          "home": false,
-          "date": "2026-02-15T15:15Z",
-          "time": "2026-02-15T15:15Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1480,13 +1474,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Girona",
-          "home": false,
-          "date": "2026-02-16T20:00Z",
-          "time": "2026-02-16T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8702,7 +8690,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
+            "value": 6,
             "player": "Jaidon Anthony"
           },
           "assists": {
@@ -11249,28 +11237,28 @@
       "PlayerStats": {
         "leaders": {
           "passingYards": {
-            "value": 3587.0,
-            "player": "Patrick Mahomes"
+            "value": 0,
+            "player": ""
           },
           "rushingYards": {
-            "value": 611.0,
-            "player": "Kareem Hunt"
+            "value": 0,
+            "player": ""
           },
           "receivingYards": {
-            "value": 851.0,
-            "player": "Travis Kelce"
+            "value": 0,
+            "player": ""
           },
           "touchdowns": {
-            "value": 8.0,
-            "player": "Kareem Hunt"
+            "value": 0,
+            "player": ""
           },
           "tackles": {
-            "value": 154.0,
-            "player": "Nick Bolton"
+            "value": 0,
+            "player": ""
           },
           "interceptions": {
-            "value": 2.0,
-            "player": "Jaylen Watson"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -12813,16 +12801,10 @@
         "position": 9,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 31,
+        "played": 32,
         "wins": 9,
-        "losses": 22,
+        "losses": 23,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "SE Melbourne Phoenix",
-            "score": "91-118",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
@@ -12846,6 +12828,12 @@
             "opponent": "Brisbane Bullets",
             "score": "81-72",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "28-22",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -12953,16 +12941,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 30,
-        "wins": 18,
+        "played": 31,
+        "wins": 19,
         "losses": 12,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "79-77",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Brisbane Bullets",
@@ -12986,6 +12968,12 @@
             "opponent": "Adelaide 36ers",
             "score": "76-87",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Cairns Taipans",
+            "score": "22-28",
+            "home": false
           }
         ],
         "nextGame": {}
