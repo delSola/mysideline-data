@@ -4630,13 +4630,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Hamburg",
-          "home": false,
-          "date": "2026-02-14T14:30Z",
-          "time": "2026-02-14T14:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5729,7 +5723,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Junior Mwanga"
+            "player": ""
           }
         }
       }
@@ -8332,7 +8326,7 @@
           },
           "blocks": {
             "value": 2.0,
-            "player": ""
+            "player": "Alex Sarr"
           },
           "steals": {
             "value": 1.4,
