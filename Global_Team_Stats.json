@@ -9201,20 +9201,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Rayan Philippe"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Miro Muheim"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Nicolai Remberg"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 2,
+            "player": "Fabio Vieira"
           }
         }
       }
@@ -9628,13 +9628,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Juventus",
-          "home": true,
-          "date": "2026-02-14T19:45Z",
-          "time": "2026-02-14T19:45Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
