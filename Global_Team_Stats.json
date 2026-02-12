@@ -13,6 +13,12 @@
         "points": 57,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Brentford",
+            "score": "1-1",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Sunderland",
             "score": "3-0",
@@ -35,12 +41,6 @@
             "opponent": "Nottm Forest",
             "score": "0-0",
             "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Liverpool",
-            "score": "0-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -222,6 +222,12 @@
         "points": 40,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Arsenal",
+            "score": "1-1",
+            "home": true
+          },
+          {
             "result": "W",
             "opponent": "Newcastle",
             "score": "3-2",
@@ -244,12 +250,6 @@
             "opponent": "Chelsea",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Sunderland",
-            "score": "3-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5693,13 +5693,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Monaco",
-          "home": false,
-          "date": "2026-02-13T20:05Z",
-          "time": "2026-02-13T20:05Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -11672,7 +11666,7 @@
           },
           "receivingYards": {
             "value": 1163.0,
-            "player": "Chris Olave"
+            "player": ""
           },
           "touchdowns": {
             "value": 3.0,
