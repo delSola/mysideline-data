@@ -6,11 +6,11 @@
       "TeamStats": {
         "position": 1,
         "positionSuffix": "st",
-        "played": 25,
+        "played": 26,
         "wins": 17,
-        "draws": 5,
+        "draws": 6,
         "losses": 3,
-        "points": 56,
+        "points": 57,
         "last5": [
           {
             "result": "W",
@@ -43,13 +43,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Brentford",
-          "home": false,
-          "date": "2026-02-12T20:00Z",
-          "time": "2026-02-12T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -221,11 +215,11 @@
       "TeamStats": {
         "position": 7,
         "positionSuffix": "th",
-        "played": 25,
+        "played": 26,
         "wins": 12,
-        "draws": 3,
+        "draws": 4,
         "losses": 10,
-        "points": 39,
+        "points": 40,
         "last5": [
           {
             "result": "W",
@@ -258,13 +252,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Arsenal",
-          "home": true,
-          "date": "2026-02-12T20:00Z",
-          "time": "2026-02-12T20:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9628,7 +9616,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Juventus",
+          "home": true,
+          "date": "2026-02-14T19:45Z",
+          "time": "2026-02-14T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
