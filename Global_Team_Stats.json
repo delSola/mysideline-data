@@ -6161,7 +6161,7 @@
             "player": "Onyeka Okongwu"
           },
           "steals": {
-            "value": 1.9,
+            "value": 1.8,
             "player": "Dyson Daniels"
           }
         }
@@ -6370,7 +6370,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 20.4,
+            "value": 20.6,
             "player": "Brandon Miller"
           },
           "assists": {
@@ -7569,7 +7569,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 27.4,
+            "value": 27.0,
             "player": "Jalen Brunson"
           },
           "assists": {
@@ -7581,7 +7581,7 @@
             "player": "Karl-Anthony Towns"
           },
           "blocks": {
-            "value": 1.1,
+            "value": 1.2,
             "player": "Mitchell Robinson"
           },
           "steals": {
@@ -7723,7 +7723,7 @@
             "player": "Paolo Banchero"
           },
           "assists": {
-            "value": 5.4,
+            "value": 5.5,
             "player": "Jalen Suggs"
           },
           "rebounds": {
@@ -7735,7 +7735,7 @@
             "player": "Goga Bitadze"
           },
           "steals": {
-            "value": 1.9,
+            "value": 2.0,
             "player": "Jalen Suggs"
           }
         }
@@ -7877,11 +7877,11 @@
             "player": "Devin Booker"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.1,
             "player": "Mark Williams"
           },
           "blocks": {
-            "value": 1.0,
+            "value": 0.9,
             "player": "Mark Williams"
           },
           "steals": {
@@ -8410,7 +8410,7 @@
             "player": "Brook Lopez"
           },
           "steals": {
-            "value": 2.0,
+            "value": 2.1,
             "player": "Kawhi Leonard"
           }
         }
@@ -12802,8 +12802,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 32,
-        "wins": 10,
-        "losses": 22,
+        "wins": 9,
+        "losses": 23,
         "last5": [
           {
             "result": "W",
@@ -12830,9 +12830,9 @@
             "home": false
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Melbourne United",
-            "score": "68-67",
+            "score": "85-89",
             "home": true
           }
         ],
@@ -12942,8 +12942,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 31,
-        "wins": 18,
-        "losses": 13,
+        "wins": 19,
+        "losses": 12,
         "last5": [
           {
             "result": "W",
@@ -12970,9 +12970,9 @@
             "home": true
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "Cairns Taipans",
-            "score": "67-68",
+            "score": "89-85",
             "home": false
           }
         ],
