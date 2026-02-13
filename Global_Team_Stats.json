@@ -258,7 +258,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Brighton",
+          "home": true,
+          "date": "2026-02-21T15:00Z",
+          "time": "2026-02-21T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1135,7 +1141,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": "Cristian Romero"
+            "player": ""
           },
           "redCards": {
             "value": 2,
@@ -1402,7 +1408,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Rayo",
+          "home": false,
+          "date": "2026-02-15T15:15Z",
+          "time": "2026-02-15T15:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -4641,20 +4653,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 5,
-            "player": "Ilyas Ansah"
+            "value": 0,
+            "player": ""
           },
           "assists": {
-            "value": 7,
-            "player": "Andrej Ilic"
+            "value": 0,
+            "player": ""
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Janik Haberer"
+            "value": 0,
+            "player": ""
           },
           "redCards": {
-            "value": 1,
-            "player": "Derrick Köhn"
+            "value": 0,
+            "player": ""
           }
         }
       }
@@ -6549,16 +6561,10 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 53,
+        "played": 54,
         "wins": 19,
-        "losses": 34,
+        "losses": 35,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Rockets",
-            "score": "107-111",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Celtics",
@@ -6582,14 +6588,20 @@
             "opponent": "Suns",
             "score": "111-120",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Lakers",
+            "score": "104-124",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Lakers",
+          "opponent": "Timberwolves",
           "home": false,
-          "date": "2026-02-13T03:00Z",
-          "time": "2026-02-13T03:00Z",
-          "status": "live"
+          "date": "2026-02-21T00:30Z",
+          "time": "2026-02-21T00:30Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7070,19 +7082,13 @@
       "TeamName": "Los Angeles Lakers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 53,
-        "wins": 32,
+        "played": 54,
+        "wins": 33,
         "losses": 21,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Nets",
-            "score": "125-109",
-            "home": false
-          },
           {
             "result": "W",
             "opponent": "76ers",
@@ -7106,14 +7112,20 @@
             "opponent": "Spurs",
             "score": "108-136",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Mavericks",
+            "score": "124-104",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Mavericks",
+          "opponent": "Clippers",
           "home": true,
-          "date": "2026-02-13T03:00Z",
-          "time": "2026-02-13T03:00Z",
-          "status": "live"
+          "date": "2026-02-21T03:00Z",
+          "time": "2026-02-21T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -7370,7 +7382,7 @@
       "TeamName": "Minnesota Timberwolves",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "conference": "West",
         "played": 56,
@@ -9129,7 +9141,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": ""
+            "player": "Said El Mala"
           },
           "assists": {
             "value": 3,
