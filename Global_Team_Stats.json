@@ -3624,7 +3624,7 @@
         "leaders": {
           "goals": {
             "value": 6,
-            "player": "Mateo Pellegrino"
+            "player": ""
           },
           "assists": {
             "value": 2,
@@ -7262,7 +7262,7 @@
           },
           "assists": {
             "value": 7.0,
-            "player": "Davion Mitchell"
+            "player": ""
           },
           "rebounds": {
             "value": 9.9,
@@ -7326,7 +7326,7 @@
           "home": false,
           "date": "2026-02-13T00:30Z",
           "time": "2026-02-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7626,7 +7626,7 @@
           "home": true,
           "date": "2026-02-13T00:30Z",
           "time": "2026-02-13T00:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
