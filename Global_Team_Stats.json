@@ -5035,6 +5035,12 @@
         "points": 51,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Rennes",
+            "score": "1-3",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Marseille",
             "score": "5-0",
@@ -5057,21 +5063,9 @@
             "opponent": "Lille",
             "score": "3-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Paris FC",
-            "score": "2-1",
-            "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Rennes",
-          "home": false,
-          "date": "2026-02-13T18:00Z",
-          "time": "2026-02-13T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5716,7 +5710,7 @@
           "home": false,
           "date": "2026-02-13T20:05Z",
           "time": "2026-02-13T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9896,6 +9890,12 @@
         "points": 34,
         "last5": [
           {
+            "result": "W",
+            "opponent": "PSG",
+            "score": "3-1",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Lens",
             "score": "1-3",
@@ -9918,21 +9918,9 @@
             "opponent": "Le Havre AC",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Lille",
-            "score": "2-0",
-            "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "PSG",
-          "home": true,
-          "date": "2026-02-13T18:00Z",
-          "time": "2026-02-13T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
