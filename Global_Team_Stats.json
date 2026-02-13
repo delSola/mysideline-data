@@ -474,7 +474,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Wolves",
+          "home": true,
+          "date": "2026-02-22T14:00Z",
+          "time": "2026-02-22T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2277,7 +2283,7 @@
         "leaders": {
           "goals": {
             "value": 9,
-            "player": "Mikel Oyarzabal"
+            "player": ""
           },
           "assists": {
             "value": 3,
@@ -2424,7 +2430,7 @@
           },
           "assists": {
             "value": 4,
-            "player": ""
+            "player": "Rubén Vargas"
           },
           "yellowCards": {
             "value": 9,
@@ -11406,7 +11412,7 @@
           },
           "tackles": {
             "value": 132.0,
-            "player": ""
+            "player": "Nate Landman"
           },
           "interceptions": {
             "value": 3.0,
