@@ -408,11 +408,11 @@
         "leaders": {
           "goals": {
             "value": 10,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "assists": {
             "value": 4,
-            "player": "João Pedro "
+            "player": "João Pedro"
           },
           "yellowCards": {
             "value": 8,
@@ -1982,7 +1982,7 @@
           "home": false,
           "date": "2026-02-13T20:00Z",
           "time": "2026-02-13T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2629,7 +2629,7 @@
           "home": false,
           "date": "2026-02-13T19:45Z",
           "time": "2026-02-13T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3994,7 +3994,7 @@
           "home": true,
           "date": "2026-02-13T19:30Z",
           "time": "2026-02-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5028,10 +5028,10 @@
       "TeamStats": {
         "position": 1,
         "positionSuffix": "st",
-        "played": 21,
+        "played": 22,
         "wins": 16,
         "draws": 3,
-        "losses": 2,
+        "losses": 3,
         "points": 51,
         "last5": [
           {
@@ -5313,7 +5313,7 @@
       "TeamName": "Lille",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 21,
         "wins": 10,
@@ -9055,7 +9055,7 @@
           "home": true,
           "date": "2026-02-13T20:00Z",
           "time": "2026-02-13T20:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9420,7 +9420,7 @@
           "home": false,
           "date": "2026-02-13T19:30Z",
           "time": "2026-02-13T19:30Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9712,7 +9712,7 @@
           "home": true,
           "date": "2026-02-13T19:45Z",
           "time": "2026-02-13T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9887,13 +9887,13 @@
       "Sport": "Soccer",
       "League": "ligue_1",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 8,
+        "played": 22,
+        "wins": 9,
         "draws": 7,
         "losses": 6,
-        "points": 31,
+        "points": 34,
         "last5": [
           {
             "result": "L",
@@ -10077,7 +10077,7 @@
           "home": true,
           "date": "2026-02-13T20:05Z",
           "time": "2026-02-13T20:05Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
