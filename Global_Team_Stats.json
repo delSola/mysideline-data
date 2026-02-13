@@ -5693,7 +5693,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Monaco",
+          "home": false,
+          "date": "2026-02-13T20:05Z",
+          "time": "2026-02-13T20:05Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -11666,7 +11672,7 @@
           },
           "receivingYards": {
             "value": 1163.0,
-            "player": ""
+            "player": "Chris Olave"
           },
           "touchdowns": {
             "value": 3.0,
