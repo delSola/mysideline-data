@@ -2589,6 +2589,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Pisa",
+            "score": "2-1",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Bologna",
             "score": "3-0",
             "home": false
@@ -2609,12 +2615,6 @@
             "result": "W",
             "opponent": "Como",
             "score": "3-1",
-            "home": false
-          },
-          {
-            "result": "D",
-            "opponent": "Fiorentina",
-            "score": "1-1",
             "home": false
           }
         ],
@@ -3948,6 +3948,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Mainz",
+            "score": "4-0",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Wolfsburg",
             "score": "2-1",
             "home": false
@@ -3968,12 +3974,6 @@
             "result": "W",
             "opponent": "St. Pauli",
             "score": "3-2",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Bremen",
-            "score": "3-0",
             "home": true
           }
         ],
@@ -5687,13 +5687,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Monaco",
-          "home": false,
-          "date": "2026-02-13T20:05Z",
-          "time": "2026-02-13T20:05Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8996,6 +8990,12 @@
         "points": 25,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Osasuna",
+            "score": "0-0",
+            "home": true
+          },
+          {
             "result": "L",
             "opponent": "Real Sociedad",
             "score": "1-3",
@@ -9018,12 +9018,6 @@
             "opponent": "Sevilla",
             "score": "2-2",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Valencia",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9355,6 +9349,12 @@
         "points": 21,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Dortmund",
+            "score": "0-4",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Augsburg",
             "score": "2-0",
@@ -9377,12 +9377,6 @@
             "opponent": "Cologne",
             "score": "1-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Heidenheim",
-            "score": "2-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -9641,6 +9635,12 @@
         "points": 15,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Milan",
+            "score": "1-2",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Verona",
             "score": "0-0",
@@ -9663,12 +9663,6 @@
             "opponent": "Atalanta",
             "score": "1-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Udinese",
-            "score": "2-2",
-            "home": false
           }
         ],
         "nextGame": {}
