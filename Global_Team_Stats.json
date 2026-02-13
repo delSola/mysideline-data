@@ -277,8 +277,8 @@
             "player": "Vitaly Janelt"
           },
           "yellowCards": {
-            "value": 6,
-            "player": "Michael Kayode"
+            "value": 7,
+            "player": "Vitaly Janelt"
           },
           "redCards": {
             "value": 1,
@@ -402,13 +402,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Burnley",
-          "home": true,
-          "date": "2026-02-21T15:00Z",
-          "time": "2026-02-21T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2283,7 +2277,7 @@
         "leaders": {
           "goals": {
             "value": 9,
-            "player": ""
+            "player": "Mikel Oyarzabal"
           },
           "assists": {
             "value": 3,
@@ -12883,16 +12877,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 30,
+        "played": 31,
         "wins": 11,
-        "losses": 19,
+        "losses": 20,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "113-75",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Sydney Kings",
@@ -12916,6 +12904,12 @@
             "opponent": "New Zealand Breakers",
             "score": "95-106",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Sydney Kings",
+            "score": "21-37",
+            "home": true
           }
         ],
         "nextGame": {}
@@ -13160,8 +13154,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 31,
         "wins": 22,
@@ -13370,19 +13364,13 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
-        "played": 30,
-        "wins": 21,
+        "played": 31,
+        "wins": 22,
         "losses": 9,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Tasmania JackJumpers",
-            "score": "105-94",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Adelaide 36ers",
@@ -13405,6 +13393,12 @@
             "result": "W",
             "opponent": "SE Melbourne Phoenix",
             "score": "114-88",
+            "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Illawarra Hawks",
+            "score": "37-21",
             "home": false
           }
         ],
