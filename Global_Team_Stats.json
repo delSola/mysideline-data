@@ -12847,7 +12847,7 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 21.7,
+            "value": 21.8,
             "player": "Jack McVeigh"
           },
           "assists": {
@@ -12855,12 +12855,12 @@
             "player": "Andrew Andrews"
           },
           "rebounds": {
-            "value": 6.2,
+            "value": 6.3,
             "player": "Jack McVeigh"
           },
           "blocks": {
-            "value": 1.0,
-            "player": "Kyrin Galloway"
+            "value": 1.1,
+            "player": "Marcus Lee"
           },
           "steals": {
             "value": 0.0,
@@ -12908,7 +12908,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "21-37",
+            "score": "69-89",
             "home": true
           }
         ],
@@ -12987,19 +12987,19 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 15.4,
+            "value": 15.7,
             "player": "Milton Doyle"
           },
           "assists": {
-            "value": 4.6,
+            "value": 4.5,
             "player": "Tyson Walker"
           },
           "rebounds": {
-            "value": 8.2,
+            "value": 8.4,
             "player": "Jesse Edwards"
           },
           "blocks": {
-            "value": 1.3,
+            "value": 1.2,
             "player": "Fabijan Krslovic"
           },
           "steals": {
@@ -13398,7 +13398,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "37-21",
+            "score": "89-69",
             "home": false
           }
         ],
