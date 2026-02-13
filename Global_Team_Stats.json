@@ -5070,7 +5070,7 @@
           "home": false,
           "date": "2026-02-13T18:00Z",
           "time": "2026-02-13T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5081,7 +5081,7 @@
           },
           "assists": {
             "value": 7,
-            "player": "Vitinha"
+            "player": "Vitinha "
           },
           "yellowCards": {
             "value": 3,
@@ -9931,7 +9931,7 @@
           "home": true,
           "date": "2026-02-13T18:00Z",
           "time": "2026-02-13T18:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -11025,7 +11025,7 @@
         "leaders": {
           "passingYards": {
             "value": 3381.0,
-            "player": "Jordan Love"
+            "player": ""
           },
           "rushingYards": {
             "value": 929.0,
