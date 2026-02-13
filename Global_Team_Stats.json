@@ -43,7 +43,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Wolves",
+          "home": false,
+          "date": "2026-02-18T20:00Z",
+          "time": "2026-02-18T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1462,7 +1468,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Girona",
+          "home": false,
+          "date": "2026-02-16T20:00Z",
+          "time": "2026-02-16T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7883,19 +7895,13 @@
       "TeamName": "Portland Trail Blazers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 10,
+        "position": 9,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 55,
-        "wins": 26,
+        "played": 56,
+        "wins": 27,
         "losses": 29,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Suns",
-            "score": "125-130",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Grizzlies",
@@ -7919,14 +7925,20 @@
             "opponent": "Timberwolves",
             "score": "109-133",
             "home": false
+          },
+          {
+            "result": "W",
+            "opponent": "Jazz",
+            "score": "135-119",
+            "home": false
           }
         ],
         "nextGame": {
-          "opponent": "Jazz",
-          "home": false,
-          "date": "2026-02-13T02:00Z",
-          "time": "2026-02-13T02:00Z",
-          "status": "live"
+          "opponent": "Nuggets",
+          "home": true,
+          "date": "2026-02-21T03:00Z",
+          "time": "2026-02-21T03:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8186,16 +8198,10 @@
         "position": 13,
         "positionSuffix": "th",
         "conference": "West",
-        "played": 55,
+        "played": 56,
         "wins": 18,
-        "losses": 37,
+        "losses": 38,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Pacers",
-            "score": "131-122",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Hawks",
@@ -8219,14 +8225,20 @@
             "opponent": "Kings",
             "score": "121-93",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Trail Blazers",
+            "score": "119-135",
+            "home": true
           }
         ],
         "nextGame": {
-          "opponent": "Trail Blazers",
-          "home": true,
-          "date": "2026-02-13T02:00Z",
-          "time": "2026-02-13T02:00Z",
-          "status": "live"
+          "opponent": "Grizzlies",
+          "home": false,
+          "date": "2026-02-21T00:00Z",
+          "time": "2026-02-21T00:00Z",
+          "status": "scheduled"
         }
       },
       "PlayerStats": {
@@ -8333,7 +8345,7 @@
       "TeamName": "LA Clippers",
       "Sport": "Basketball",
       "TeamStats": {
-        "position": 9,
+        "position": 10,
         "positionSuffix": "th",
         "conference": "West",
         "played": 54,
@@ -9117,7 +9129,7 @@
         "leaders": {
           "goals": {
             "value": 7,
-            "player": "Said El Mala"
+            "player": ""
           },
           "assists": {
             "value": 3,
