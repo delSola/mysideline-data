@@ -474,13 +474,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Wolves",
-          "home": true,
-          "date": "2026-02-22T14:00Z",
-          "time": "2026-02-22T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1141,7 +1135,7 @@
           },
           "yellowCards": {
             "value": 8,
-            "player": ""
+            "player": "Cristian Romero"
           },
           "redCards": {
             "value": 2,
@@ -2430,7 +2424,7 @@
           },
           "assists": {
             "value": 4,
-            "player": "Rubén Vargas"
+            "player": ""
           },
           "yellowCards": {
             "value": 9,
@@ -4653,20 +4647,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 5,
+            "player": "Ilyas Ansah"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Andrej Ilic"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Janik Haberer"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Derrick Köhn"
           }
         }
       }
@@ -11412,7 +11406,7 @@
           },
           "tackles": {
             "value": 132.0,
-            "player": "Nate Landman"
+            "player": ""
           },
           "interceptions": {
             "value": 3.0,
