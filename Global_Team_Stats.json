@@ -6609,7 +6609,7 @@
             "player": "Ryan Nembhard"
           },
           "rebounds": {
-            "value": 7.1,
+            "value": 7.0,
             "player": "P.J. Washington"
           },
           "blocks": {
@@ -7358,7 +7358,7 @@
             "player": "Ryan Rollins"
           },
           "rebounds": {
-            "value": 6.5,
+            "value": 6.6,
             "player": "Bobby Portis"
           },
           "blocks": {
@@ -7958,7 +7958,7 @@
             "player": "Deni Avdija"
           },
           "rebounds": {
-            "value": 11.4,
+            "value": 11.5,
             "player": "Donovan Clingan"
           },
           "blocks": {
@@ -12737,16 +12737,10 @@
         "position": 10,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 31,
+        "played": 32,
         "wins": 6,
-        "losses": 25,
+        "losses": 26,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Melbourne United",
-            "score": "66-98",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
@@ -12770,6 +12764,12 @@
             "opponent": "Cairns Taipans",
             "score": "72-81",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "Perth Wildcats",
+            "score": "23-31",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -12908,7 +12908,7 @@
           {
             "result": "L",
             "opponent": "Sydney Kings",
-            "score": "69-89",
+            "score": "94-120",
             "home": true
           }
         ],
@@ -13227,16 +13227,10 @@
         "position": 4,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 30,
-        "wins": 19,
+        "played": 31,
+        "wins": 20,
         "losses": 11,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "106-69",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Melbourne United",
@@ -13259,6 +13253,12 @@
             "result": "W",
             "opponent": "Cairns Taipans",
             "score": "98-84",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Brisbane Bullets",
+            "score": "31-23",
             "home": true
           }
         ],
@@ -13398,7 +13398,7 @@
           {
             "result": "W",
             "opponent": "Illawarra Hawks",
-            "score": "89-69",
+            "score": "120-94",
             "home": false
           }
         ],
