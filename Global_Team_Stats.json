@@ -5417,20 +5417,20 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 0,
-            "player": ""
+            "value": 7,
+            "player": "Sofiane Diop"
           },
           "assists": {
-            "value": 0,
-            "player": ""
+            "value": 4,
+            "player": "Jonathan Clauss"
           },
           "yellowCards": {
-            "value": 0,
-            "player": ""
+            "value": 6,
+            "player": "Charles Vanhoutte"
           },
           "redCards": {
-            "value": 0,
-            "player": ""
+            "value": 1,
+            "player": "Tom Louchet"
           }
         }
       }
@@ -6577,7 +6577,7 @@
           "home": false,
           "date": "2026-02-13T03:00Z",
           "time": "2026-02-13T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7101,7 +7101,7 @@
           "home": true,
           "date": "2026-02-13T03:00Z",
           "time": "2026-02-13T03:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -7286,8 +7286,8 @@
         "position": 12,
         "positionSuffix": "th",
         "conference": "East",
-        "played": 52,
-        "wins": 22,
+        "played": 53,
+        "wins": 23,
         "losses": 30,
         "last5": [
           {
@@ -7586,9 +7586,9 @@
         "position": 1,
         "positionSuffix": "st",
         "conference": "West",
-        "played": 55,
+        "played": 56,
         "wins": 42,
-        "losses": 13,
+        "losses": 14,
         "last5": [
           {
             "result": "L",
@@ -10289,7 +10289,7 @@
           },
           "assists": {
             "value": 3,
-            "player": ""
+            "player": "Rassoul Ndiaye"
           },
           "yellowCards": {
             "value": 4,
