@@ -2116,6 +2116,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Real Sociedad",
+            "score": "4-1",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Valencia",
             "score": "2-0",
             "home": false
@@ -2136,12 +2142,6 @@
             "result": "W",
             "opponent": "Levante",
             "score": "2-0",
-            "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Betis",
-            "score": "5-1",
             "home": true
           }
         ],
@@ -2181,6 +2181,12 @@
         "points": 31,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Real Madrid",
+            "score": "1-4",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Elche",
             "score": "3-1",
@@ -2203,12 +2209,6 @@
             "opponent": "Barcelona",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Getafe",
-            "score": "2-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3222,6 +3222,12 @@
         "points": 46,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Inter Milan",
+            "score": "2-3",
+            "home": false
+          },
+          {
             "result": "D",
             "opponent": "Lazio",
             "score": "2-2",
@@ -3244,12 +3250,6 @@
             "opponent": "Cagliari",
             "score": "0-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Cremonese",
-            "score": "5-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5299,6 +5299,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Paris FC",
+            "score": "5-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Rennes",
             "score": "3-1",
             "home": true
@@ -5320,12 +5326,6 @@
             "opponent": "Auxerre",
             "score": "1-0",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Toulouse",
-            "score": "3-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9389,6 +9389,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Juventus",
+            "score": "3-2",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Sassuolo",
             "score": "5-0",
             "home": false
@@ -9410,12 +9416,6 @@
             "opponent": "Udinese",
             "score": "1-0",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Lecce",
-            "score": "1-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -10112,6 +10112,12 @@
         "points": 22,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Lens",
+            "score": "0-5",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Auxerre",
             "score": "0-0",
@@ -10133,12 +10139,6 @@
             "result": "W",
             "opponent": "Nantes",
             "score": "2-1",
-            "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "PSG",
-            "score": "1-2",
             "home": false
           }
         ],
