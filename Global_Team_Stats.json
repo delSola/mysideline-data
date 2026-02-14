@@ -5633,7 +5633,7 @@
           },
           "redCards": {
             "value": 2,
-            "player": ""
+            "player": "Ismael Doukoure"
           }
         }
       }
@@ -13082,7 +13082,7 @@
           {
             "result": "L",
             "opponent": "SE Melbourne Phoenix",
-            "score": "56-67",
+            "score": "104-120",
             "home": false
           }
         ],
@@ -13292,7 +13292,7 @@
           {
             "result": "W",
             "opponent": "Tasmania JackJumpers",
-            "score": "67-56",
+            "score": "120-104",
             "home": true
           }
         ],
