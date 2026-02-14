@@ -402,7 +402,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Burnley",
+          "home": true,
+          "date": "2026-02-21T15:00Z",
+          "time": "2026-02-21T15:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -1977,7 +1983,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Real Madrid",
+          "home": true,
+          "date": "2026-02-21T17:30Z",
+          "time": "2026-02-21T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2618,7 +2630,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Como",
+          "home": true,
+          "date": "2026-02-18T19:45Z",
+          "time": "2026-02-18T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3977,7 +3995,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "RB Leipzig",
+          "home": false,
+          "date": "2026-02-21T17:30Z",
+          "time": "2026-02-21T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5047,7 +5071,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Metz",
+          "home": true,
+          "date": "2026-02-21T20:05Z",
+          "time": "2026-02-21T20:05Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -5687,7 +5717,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Le Havre AC",
+          "home": true,
+          "date": "2026-02-22T16:15Z",
+          "time": "2026-02-22T16:15Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9020,7 +9056,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Athletic",
+          "home": false,
+          "date": "2026-02-20T20:00Z",
+          "time": "2026-02-20T20:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9379,7 +9421,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Hamburg",
+          "home": true,
+          "date": "2026-02-20T19:30Z",
+          "time": "2026-02-20T19:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9665,7 +9713,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Fiorentina",
+          "home": false,
+          "date": "2026-02-23T17:30Z",
+          "time": "2026-02-23T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -9878,7 +9932,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Auxerre",
+          "home": false,
+          "date": "2026-02-22T14:00Z",
+          "time": "2026-02-22T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -10018,7 +10078,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lens",
+          "home": false,
+          "date": "2026-02-21T16:00Z",
+          "time": "2026-02-21T16:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
