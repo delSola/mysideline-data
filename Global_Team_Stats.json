@@ -1690,6 +1690,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Villarreal",
+            "score": "2-1",
+            "home": true
+          },
+          {
+            "result": "W",
             "opponent": "Alavés",
             "score": "2-0",
             "home": false
@@ -1710,12 +1716,6 @@
             "result": "L",
             "opponent": "Valencia",
             "score": "0-1",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Real Sociedad",
-            "score": "1-2",
             "home": true
           }
         ],
@@ -2165,7 +2165,7 @@
           },
           "yellowCards": {
             "value": 5,
-            "player": "Vinícius Júnior"
+            "player": "Vinícius Júnior "
           },
           "redCards": {
             "value": 1,
@@ -2474,6 +2474,12 @@
         "points": 45,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Getafe",
+            "score": "1-2",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Espanyol",
             "score": "4-1",
@@ -2496,12 +2502,6 @@
             "opponent": "Betis",
             "score": "0-2",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Alavés",
-            "score": "3-1",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -2603,13 +2603,13 @@
       "TeamName": "Atalanta",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 7,
+        "position": 6,
         "positionSuffix": "th",
-        "played": 24,
-        "wins": 10,
+        "played": 25,
+        "wins": 11,
         "draws": 9,
         "losses": 5,
-        "points": 39,
+        "points": 42,
         "last5": [
           {
             "result": "W",
@@ -2642,13 +2642,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lazio",
-          "home": false,
-          "date": "2026-02-14T17:00Z",
-          "time": "2026-02-14T17:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2819,7 +2813,7 @@
       "TeamName": "Como",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 7,
         "positionSuffix": "th",
         "played": 24,
         "wins": 11,
@@ -3311,10 +3305,10 @@
       "TeamStats": {
         "position": 8,
         "positionSuffix": "th",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 9,
-        "losses": 7,
+        "losses": 8,
         "points": 33,
         "last5": [
           {
@@ -3348,13 +3342,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Atalanta",
-          "home": true,
-          "date": "2026-02-14T17:00Z",
-          "time": "2026-02-14T17:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -10244,7 +10232,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Otavio"
+            "player": "Otavio "
           }
         }
       }
