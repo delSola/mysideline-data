@@ -1746,7 +1746,7 @@
       "TeamName": "Girona",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 12,
+        "position": 14,
         "positionSuffix": "th",
         "played": 23,
         "wins": 6,
@@ -2321,13 +2321,13 @@
       "TeamName": "Sevilla",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 14,
+        "position": 12,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 7,
-        "draws": 4,
+        "draws": 5,
         "losses": 12,
-        "points": 25,
+        "points": 26,
         "last5": [
           {
             "result": "D",
@@ -2360,13 +2360,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Alavés",
-          "home": true,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2613,6 +2607,12 @@
         "last5": [
           {
             "result": "W",
+            "opponent": "Lazio",
+            "score": "2-0",
+            "home": false
+          },
+          {
+            "result": "W",
             "opponent": "Cremonese",
             "score": "2-1",
             "home": true
@@ -2634,12 +2634,6 @@
             "opponent": "Pisa",
             "score": "1-1",
             "home": false
-          },
-          {
-            "result": "W",
-            "opponent": "Torino",
-            "score": "2-0",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -3275,7 +3269,7 @@
           "home": false,
           "date": "2026-02-14T19:45Z",
           "time": "2026-02-14T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -3312,6 +3306,12 @@
         "points": 33,
         "last5": [
           {
+            "result": "L",
+            "opponent": "Atalanta",
+            "score": "0-2",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Juventus",
             "score": "2-2",
@@ -3334,12 +3334,6 @@
             "opponent": "Como",
             "score": "0-3",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Verona",
-            "score": "1-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -3938,7 +3932,7 @@
       "TeamName": "RB Leipzig",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 21,
         "wins": 12,
@@ -4010,7 +4004,7 @@
       "TeamName": "Bayer Leverkusen",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 4,
+        "position": 5,
         "positionSuffix": "th",
         "played": 21,
         "wins": 12,
@@ -4142,13 +4136,13 @@
       "TeamName": "VfB Stuttgart",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 4,
         "positionSuffix": "th",
-        "played": 21,
-        "wins": 12,
+        "played": 22,
+        "wins": 13,
         "draws": 3,
         "losses": 6,
-        "points": 39,
+        "points": 42,
         "last5": [
           {
             "result": "L",
@@ -4181,13 +4175,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Cologne",
-          "home": true,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5045,12 +5033,18 @@
       "TeamStats": {
         "position": 4,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 12,
-        "draws": 3,
+        "draws": 4,
         "losses": 6,
-        "points": 39,
+        "points": 40,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Strasbourg",
+            "score": "2-2",
+            "home": true
+          },
           {
             "result": "L",
             "opponent": "PSG",
@@ -5074,12 +5068,6 @@
             "opponent": "Angers",
             "score": "5-2",
             "home": false
-          },
-          {
-            "result": "L",
-            "opponent": "Nantes",
-            "score": "0-2",
-            "home": true
           }
         ],
         "nextGame": {}
@@ -5181,13 +5169,13 @@
       "TeamName": "Lille",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 6,
+        "position": 5,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 10,
-        "draws": 3,
+        "draws": 4,
         "losses": 8,
-        "points": 33,
+        "points": 34,
         "last5": [
           {
             "result": "D",
@@ -5220,13 +5208,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Brest",
-          "home": true,
-          "date": "2026-02-14T18:00Z",
-          "time": "2026-02-14T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5468,14 +5450,20 @@
       "TeamName": "Strasbourg",
       "Sport": "Soccer",
       "TeamStats": {
-        "position": 8,
+        "position": 7,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 9,
-        "draws": 3,
+        "draws": 4,
         "losses": 9,
-        "points": 30,
+        "points": 31,
         "last5": [
+          {
+            "result": "D",
+            "opponent": "Marseille",
+            "score": "2-2",
+            "home": false
+          },
           {
             "result": "L",
             "opponent": "Le Havre AC",
@@ -5499,12 +5487,6 @@
             "opponent": "Metz",
             "score": "2-1",
             "home": true
-          },
-          {
-            "result": "D",
-            "opponent": "Nice",
-            "score": "1-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5680,11 +5662,11 @@
       "TeamStats": {
         "position": 12,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 7,
-        "draws": 5,
+        "draws": 6,
         "losses": 9,
-        "points": 26,
+        "points": 27,
         "last5": [
           {
             "result": "W",
@@ -5717,13 +5699,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Lille",
-          "home": false,
-          "date": "2026-02-14T18:00Z",
-          "time": "2026-02-14T18:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8721,13 +8697,13 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 15,
+        "position": 13,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 7,
-        "draws": 4,
+        "draws": 5,
         "losses": 12,
-        "points": 25,
+        "points": 26,
         "last5": [
           {
             "result": "L",
@@ -8760,13 +8736,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Sevilla",
-          "home": false,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -8867,7 +8837,7 @@
       "Sport": "Soccer",
       "League": "la_liga",
       "TeamStats": {
-        "position": 13,
+        "position": 15,
         "positionSuffix": "th",
         "played": 24,
         "wins": 5,
@@ -8942,10 +8912,10 @@
       "TeamStats": {
         "position": 11,
         "positionSuffix": "th",
-        "played": 21,
+        "played": 22,
         "wins": 6,
         "draws": 5,
-        "losses": 10,
+        "losses": 11,
         "points": 23,
         "last5": [
           {
@@ -8979,13 +8949,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Stuttgart",
-          "home": false,
-          "date": "2026-02-14T17:30Z",
-          "time": "2026-02-14T17:30Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -9483,7 +9447,7 @@
           "home": true,
           "date": "2026-02-14T19:45Z",
           "time": "2026-02-14T19:45Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -9731,7 +9695,7 @@
       "Sport": "Soccer",
       "League": "ligue_1",
       "TeamStats": {
-        "position": 5,
+        "position": 6,
         "positionSuffix": "th",
         "played": 22,
         "wins": 9,
@@ -9877,7 +9841,7 @@
       "Sport": "Soccer",
       "League": "ligue_1",
       "TeamStats": {
-        "position": 7,
+        "position": 8,
         "positionSuffix": "th",
         "played": 22,
         "wins": 9,
@@ -10232,7 +10196,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Otavio "
+            "player": "Otavio"
           }
         }
       }
