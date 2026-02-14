@@ -1947,6 +1947,12 @@
         "points": 30,
         "last5": [
           {
+            "result": "D",
+            "opponent": "Elche",
+            "score": "0-0",
+            "home": false
+          },
+          {
             "result": "W",
             "opponent": "Celta Vigo",
             "score": "2-1",
@@ -1969,12 +1975,6 @@
             "opponent": "Real Oviedo",
             "score": "3-2",
             "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Girona",
-            "score": "0-1",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -5658,6 +5658,12 @@
         "last5": [
           {
             "result": "L",
+            "opponent": "Monaco",
+            "score": "1-3",
+            "home": false
+          },
+          {
+            "result": "L",
             "opponent": "Lyon",
             "score": "0-1",
             "home": true
@@ -5679,12 +5685,6 @@
             "opponent": "Paris FC",
             "score": "1-2",
             "home": true
-          },
-          {
-            "result": "W",
-            "opponent": "Marseille",
-            "score": "2-0",
-            "home": false
           }
         ],
         "nextGame": {}
@@ -9988,6 +9988,12 @@
         "points": 31,
         "last5": [
           {
+            "result": "W",
+            "opponent": "Nantes",
+            "score": "3-1",
+            "home": true
+          },
+          {
             "result": "D",
             "opponent": "Nice",
             "score": "0-0",
@@ -10008,12 +10014,6 @@
           {
             "result": "L",
             "opponent": "Lorient",
-            "score": "1-3",
-            "home": true
-          },
-          {
-            "result": "L",
-            "opponent": "Lyon",
             "score": "1-3",
             "home": true
           }
