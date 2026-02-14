@@ -115,13 +115,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Leeds",
-          "home": true,
-          "date": "2026-02-21T15:00Z",
-          "time": "2026-02-21T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2654,7 +2648,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Pervis Estupiñán"
+            "player": "Adrien Rabiot"
           }
         }
       }
@@ -5082,8 +5076,8 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 7,
-            "player": "Bradley Barcola"
+            "value": 8,
+            "player": "Ousmane Dembélé"
           },
           "assists": {
             "value": 7,
@@ -5736,7 +5730,7 @@
             "player": "Matthis Abline"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Chidozie Awaziem"
           },
           "redCards": {
@@ -9943,7 +9937,7 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 10,
             "player": "Esteban Lepaul"
           },
           "assists": {
@@ -9956,7 +9950,7 @@
           },
           "redCards": {
             "value": 1,
-            "player": "Jérémy Jacquet"
+            "player": "Mahdi Camara"
           }
         }
       }
@@ -10093,11 +10087,11 @@
             "player": "Ansu Fati"
           },
           "assists": {
-            "value": 3,
-            "player": "Folarin Balogun"
+            "value": 4,
+            "player": "Aleksandr Golovin"
           },
           "yellowCards": {
-            "value": 6,
+            "value": 7,
             "player": "Jordan Teze"
           },
           "redCards": {
@@ -13054,7 +13048,7 @@
           {
             "result": "W",
             "opponent": "Adelaide 36ers",
-            "score": "32-19",
+            "score": "75-66",
             "home": false
           }
         ],
@@ -13194,7 +13188,7 @@
           {
             "result": "L",
             "opponent": "New Zealand Breakers",
-            "score": "19-32",
+            "score": "66-75",
             "home": true
           }
         ],
