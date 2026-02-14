@@ -324,13 +324,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Brentford",
-          "home": false,
-          "date": "2026-02-21T15:00Z",
-          "time": "2026-02-21T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -755,13 +749,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Nottm Forest",
-          "home": false,
-          "date": "2026-02-22T14:00Z",
-          "time": "2026-02-22T14:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -827,13 +815,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Newcastle",
-          "home": true,
-          "date": "2026-02-21T20:00Z",
-          "time": "2026-02-21T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -971,13 +953,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Man City",
-          "home": false,
-          "date": "2026-02-21T20:00Z",
-          "time": "2026-02-21T20:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -1187,13 +1163,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Bournemouth",
-          "home": true,
-          "date": "2026-02-21T17:30Z",
-          "time": "2026-02-21T17:30Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -4000,11 +3970,11 @@
       "PlayerStats": {
         "leaders": {
           "goals": {
-            "value": 9,
+            "value": 11,
             "player": "Serhou Guirassy"
           },
           "assists": {
-            "value": 7,
+            "value": 11,
             "player": "Julian Ryerson"
           },
           "yellowCards": {
@@ -8685,13 +8655,7 @@
             "home": false
           }
         ],
-        "nextGame": {
-          "opponent": "Chelsea",
-          "home": false,
-          "date": "2026-02-21T15:00Z",
-          "time": "2026-02-21T15:00Z",
-          "status": "scheduled"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -13018,8 +12982,8 @@
         "positionSuffix": "th",
         "conference": "NBL",
         "played": 32,
-        "wins": 13,
-        "losses": 19,
+        "wins": 12,
+        "losses": 20,
         "last5": [
           {
             "result": "W",
@@ -13046,9 +13010,9 @@
             "home": true
           },
           {
-            "result": "W",
+            "result": "L",
             "opponent": "Adelaide 36ers",
-            "score": "75-66",
+            "score": "89-92",
             "home": false
           }
         ],
@@ -13154,12 +13118,12 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 2,
-        "positionSuffix": "nd",
+        "position": 1,
+        "positionSuffix": "st",
         "conference": "NBL",
         "played": 32,
-        "wins": 22,
-        "losses": 10,
+        "wins": 23,
+        "losses": 9,
         "last5": [
           {
             "result": "W",
@@ -13186,9 +13150,9 @@
             "home": false
           },
           {
-            "result": "L",
+            "result": "W",
             "opponent": "New Zealand Breakers",
-            "score": "66-75",
+            "score": "92-89",
             "home": true
           }
         ],
@@ -13364,8 +13328,8 @@
       "Sport": "Basketball",
       "League": "NBL",
       "TeamStats": {
-        "position": 1,
-        "positionSuffix": "st",
+        "position": 2,
+        "positionSuffix": "nd",
         "conference": "NBL",
         "played": 31,
         "wins": 22,
