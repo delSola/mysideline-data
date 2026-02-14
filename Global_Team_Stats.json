@@ -1724,7 +1724,7 @@
           "home": true,
           "date": "2026-02-14T15:15Z",
           "time": "2026-02-14T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2515,7 +2515,7 @@
           "home": false,
           "date": "2026-02-14T15:15Z",
           "time": "2026-02-14T15:15Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -2833,10 +2833,10 @@
       "TeamStats": {
         "position": 6,
         "positionSuffix": "th",
-        "played": 23,
+        "played": 24,
         "wins": 11,
         "draws": 8,
-        "losses": 4,
+        "losses": 5,
         "points": 41,
         "last5": [
           {
@@ -2870,13 +2870,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Fiorentina",
-          "home": true,
-          "date": "2026-02-14T14:00Z",
-          "time": "2026-02-14T14:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -2976,11 +2970,11 @@
       "TeamStats": {
         "position": 18,
         "positionSuffix": "th",
-        "played": 24,
-        "wins": 3,
+        "played": 25,
+        "wins": 4,
         "draws": 9,
         "losses": 12,
-        "points": 18,
+        "points": 21,
         "last5": [
           {
             "result": "D",
@@ -3013,13 +3007,7 @@
             "home": true
           }
         ],
-        "nextGame": {
-          "opponent": "Como",
-          "home": false,
-          "date": "2026-02-14T14:00Z",
-          "time": "2026-02-14T14:00Z",
-          "status": "live"
-        }
+        "nextGame": {}
       },
       "PlayerStats": {
         "leaders": {
@@ -5171,7 +5159,7 @@
           "home": true,
           "date": "2026-02-14T16:00Z",
           "time": "2026-02-14T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
@@ -5602,7 +5590,7 @@
           "home": false,
           "date": "2026-02-14T16:00Z",
           "time": "2026-02-14T16:00Z",
-          "status": "scheduled"
+          "status": "live"
         }
       },
       "PlayerStats": {
