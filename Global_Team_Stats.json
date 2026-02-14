@@ -5633,7 +5633,7 @@
           },
           "redCards": {
             "value": 2,
-            "player": "Ismael Doukoure"
+            "player": ""
           }
         }
       }
@@ -12749,7 +12749,7 @@
             "player": "Hunter Maldonado"
           },
           "rebounds": {
-            "value": 9.3,
+            "value": 9.1,
             "player": "Tyrell Harrison"
           },
           "blocks": {
@@ -12885,7 +12885,7 @@
             "player": "JaVale McGee"
           },
           "assists": {
-            "value": 6.8,
+            "value": 6.5,
             "player": "William Hickey"
           },
           "rebounds": {
@@ -13021,11 +13021,11 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 17.4,
-            "player": "Parker Jackson-Cartwright"
+            "value": 17.2,
+            "player": "Sam Mennenga"
           },
           "assists": {
-            "value": 7.4,
+            "value": 7.3,
             "player": "Parker Jackson-Cartwright"
           },
           "rebounds": {
@@ -13051,16 +13051,10 @@
         "position": 6,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 31,
+        "played": 32,
         "wins": 14,
-        "losses": 17,
+        "losses": 18,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "94-105",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
@@ -13084,6 +13078,12 @@
             "opponent": "Brisbane Bullets",
             "score": "114-70",
             "home": true
+          },
+          {
+            "result": "L",
+            "opponent": "SE Melbourne Phoenix",
+            "score": "56-67",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -13161,15 +13161,15 @@
       "PlayerStats": {
         "leaders": {
           "points": {
-            "value": 25.1,
+            "value": 24.7,
             "player": "Bryce Cotton"
           },
           "assists": {
-            "value": 7.7,
+            "value": 7.5,
             "player": "Bryce Cotton"
           },
           "rebounds": {
-            "value": 10.1,
+            "value": 9.9,
             "player": "Zylan Cheatham"
           },
           "blocks": {
@@ -13235,7 +13235,7 @@
             "player": "Jo Lual-Acuil Jr"
           },
           "assists": {
-            "value": 3.4,
+            "value": 3.5,
             "player": "Kristian Doolittle"
           },
           "rebounds": {
@@ -13261,16 +13261,10 @@
         "position": 3,
         "positionSuffix": "rd",
         "conference": "NBL",
-        "played": 31,
-        "wins": 21,
+        "played": 32,
+        "wins": 22,
         "losses": 10,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Cairns Taipans",
-            "score": "118-91",
-            "home": true
-          },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
@@ -13293,6 +13287,12 @@
             "result": "L",
             "opponent": "Sydney Kings",
             "score": "88-114",
+            "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Tasmania JackJumpers",
+            "score": "67-56",
             "home": true
           }
         ],
@@ -13375,7 +13375,7 @@
             "player": "Kendric Davis"
           },
           "assists": {
-            "value": 6.5,
+            "value": 6.6,
             "player": "Kendric Davis"
           },
           "rebounds": {
@@ -13383,7 +13383,7 @@
             "player": "Xavier Cooks"
           },
           "blocks": {
-            "value": 1.6,
+            "value": 1.7,
             "player": "Torrey Craig"
           },
           "steals": {
