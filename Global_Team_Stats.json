@@ -2624,7 +2624,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Napoli",
+          "home": true,
+          "date": "2026-02-22T14:00Z",
+          "time": "2026-02-22T14:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2834,7 +2840,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Milan",
+          "home": false,
+          "date": "2026-02-18T19:45Z",
+          "time": "2026-02-18T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -2971,7 +2983,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Pisa",
+          "home": true,
+          "date": "2026-02-23T17:30Z",
+          "time": "2026-02-23T17:30Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -3318,7 +3336,13 @@
             "home": true
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Cagliari",
+          "home": false,
+          "date": "2026-02-21T19:45Z",
+          "time": "2026-02-21T19:45Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -7923,7 +7947,7 @@
           },
           "rebounds": {
             "value": 11.1,
-            "player": ""
+            "player": "Victor Wembanyama"
           },
           "blocks": {
             "value": 2.7,
@@ -9418,7 +9442,13 @@
             "home": false
           }
         ],
-        "nextGame": {}
+        "nextGame": {
+          "opponent": "Lecce",
+          "home": false,
+          "date": "2026-02-21T17:00Z",
+          "time": "2026-02-21T17:00Z",
+          "status": "scheduled"
+        }
       },
       "PlayerStats": {
         "leaders": {
@@ -12680,7 +12710,7 @@
           {
             "result": "W",
             "opponent": "Melbourne United",
-            "score": "31-26",
+            "score": "77-63",
             "home": false
           }
         ],
@@ -12750,7 +12780,7 @@
           {
             "result": "L",
             "opponent": "Illawarra Hawks",
-            "score": "26-31",
+            "score": "63-77",
             "home": true
           }
         ],
