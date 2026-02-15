@@ -7923,7 +7923,7 @@
           },
           "rebounds": {
             "value": 11.1,
-            "player": "Victor Wembanyama"
+            "player": ""
           },
           "blocks": {
             "value": 2.7,
@@ -12649,16 +12649,10 @@
         "position": 8,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 31,
-        "wins": 11,
+        "played": 32,
+        "wins": 12,
         "losses": 20,
         "last5": [
-          {
-            "result": "L",
-            "opponent": "Sydney Kings",
-            "score": "104-122",
-            "home": false
-          },
           {
             "result": "L",
             "opponent": "Perth Wildcats",
@@ -12682,6 +12676,12 @@
             "opponent": "Sydney Kings",
             "score": "94-120",
             "home": true
+          },
+          {
+            "result": "W",
+            "opponent": "Melbourne United",
+            "score": "31-26",
+            "home": false
           }
         ],
         "nextGame": {}
@@ -12719,16 +12719,10 @@
         "position": 5,
         "positionSuffix": "th",
         "conference": "NBL",
-        "played": 31,
+        "played": 32,
         "wins": 19,
-        "losses": 12,
+        "losses": 13,
         "last5": [
-          {
-            "result": "W",
-            "opponent": "Brisbane Bullets",
-            "score": "98-66",
-            "home": true
-          },
           {
             "result": "W",
             "opponent": "Perth Wildcats",
@@ -12752,6 +12746,12 @@
             "opponent": "Cairns Taipans",
             "score": "89-85",
             "home": false
+          },
+          {
+            "result": "L",
+            "opponent": "Illawarra Hawks",
+            "score": "26-31",
+            "home": true
           }
         ],
         "nextGame": {}
